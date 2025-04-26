@@ -1,0 +1,107 @@
+PrimeSpecPCR - Primer Specificity Test Module
+============================================
+Using email: adamkuzdralinski@gmail.com
+Using API key: a5d69...1bb08
+
+Specificity Evaluation Against Target Taxonomy
+============================================
+Waiting for input: Enter NCBI Taxonomy ID(s) to evaluate primer specificity against (comma-separated): 
+Using target taxonomy IDs: 337
+Loaded settings from primer_specificity_settings.txt
+
+Current Primer Specificity Test Settings:
+=======================================
+Maximum BLAST hits: 2000
+Minimum identity (%): 60.0
+Maximum E-value: 5000.0
+Word size: 5
+Fetch limit: 1000
+
+Primer Specificity Stringency:
+Maximum total mismatches for specificity: 3
+Maximum 3' end mismatches: 2
+3' end region size (bp): 5
+Maximum probe mismatches: 3
+
+Directories:
+Cache directory: 4_cache
+Output directory: 4_
+=======================================
+Waiting for input: Do you want to modify specificity test settings? (yes/no): 
+Waiting for input: Do you want to clear the cache and force new BLAST searches? (yes/no): 
+Clearing cache directory: 4_cache
+Cache cleared successfully
+Found 2 primer files
+
+Available primer files:
+1: CONSENSUS_0_primers.csv
+2: CONSENSUS_1_primers.csv
+Waiting for input: Enter file numbers to analyze (comma-separated, or 'all'): 
+
+Processing file 1 of 2: CONSENSUS_0_primers.csv
+Read 5 primer pairs from 3_/CONSENSUS_0_primers.csv
+Processing primer pair 1 (1 of 5)
+Found 1 matching sequences.
+Fetching taxonomy information for 1 matches, please wait..
+Success
+Progress: 20.0%
+Processing primer pair 2 (2 of 5)
+Found 481 matching sequences.
+Fetching taxonomy information for 481 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 3 (3 of 5)
+Found 1 matching sequences.
+Fetching taxonomy information for 1 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 4 (4 of 5)
+Using cached results for left primer: AGTGCATTTCATGGCCGATC
+Found 480 matching sequences.
+Fetching taxonomy information for 480 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 5 (5 of 5)
+Found 487 matching sequences.
+Fetching taxonomy information for 487 matches, please wait..
+Success
+Progress: 100.0%
+Created HTML report at 4_/specificity_report_CONSENSUS_0_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_0_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_0_primers.html
+You can open an HTML file in the  web browser.
+
+Processing file 2 of 2: CONSENSUS_1_primers.csv
+Read 5 primer pairs from 3_/CONSENSUS_1_primers.csv
+Processing primer pair 1 (1 of 5)
+Found 14 matching sequences.
+Fetching taxonomy information for 14 matches, please wait..
+Success
+Progress: 20.0%
+Processing primer pair 2 (2 of 5)
+Using cached results for left primer: GTGAGGAGTCGCGCAAATAC
+Found 14 matching sequences.
+Fetching taxonomy information for 14 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 3 (3 of 5)
+Found 10 matching sequences.
+Fetching taxonomy information for 10 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 4 (4 of 5)
+Found 10 matching sequences.
+Fetching taxonomy information for 10 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 5 (5 of 5)
+Found 10 matching sequences.
+Fetching taxonomy information for 10 matches, please wait..
+Success
+Progress: 100.0%
+Created HTML report at 4_/specificity_report_CONSENSUS_1_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_1_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_1_primers.html
+You can open an HTML file in the  web browser.

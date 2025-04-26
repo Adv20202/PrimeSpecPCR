@@ -1,0 +1,370 @@
+PrimeSpecPCR - Primer Specificity Test Module
+============================================
+Using email: adamkuzdralinski@gmail.com
+Using API key: a5d69...1bb08
+
+Specificity Evaluation Against Target Taxonomy
+============================================
+Waiting for input: Enter NCBI Taxonomy ID(s) to evaluate primer specificity against (comma-separated): 
+Using target taxonomy IDs: 52227
+Loaded settings from primer_specificity_settings.txt
+
+Current Primer Specificity Test Settings:
+=======================================
+Maximum BLAST hits: 2000
+Minimum identity (%): 60.0
+Maximum E-value: 5000.0
+Word size: 5
+Fetch limit: 1000
+
+Primer Specificity Stringency:
+Maximum total mismatches for specificity: 3
+Maximum 3' end mismatches: 2
+3' end region size (bp): 5
+Maximum probe mismatches: 3
+
+Directories:
+Cache directory: 4_cache
+Output directory: 4_
+=======================================
+Waiting for input: Do you want to modify specificity test settings? (yes/no): 
+Waiting for input: Do you want to clear the cache and force new BLAST searches? (yes/no): 
+Clearing cache directory: 4_cache
+Cache cleared successfully
+Found 6 primer files
+
+Available primer files:
+1: CONSENSUS_0_primers.csv
+2: CONSENSUS_1_primers.csv
+3: CONSENSUS_2_primers.csv
+4: CONSENSUS_3_primers.csv
+5: CONSENSUS_4_primers.csv
+6: CONSENSUS_5_primers.csv
+Waiting for input: Enter file numbers to analyze (comma-separated, or 'all'): 
+
+Processing file 1 of 6: CONSENSUS_0_primers.csv
+Read 10 primer pairs from 3_/CONSENSUS_0_primers.csv
+Processing primer pair 1 (1 of 10)
+Error performing BLAST search: HTTPSConnectionPool(host='blast.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /Blast.cgi?CMD=Get&FORMAT_TYPE=XML&RID=0PBK2FDJ016 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102e9ed50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Found 228 matching sequences.
+Fetching taxonomy information for 228 matches, please wait..
+Success
+Progress: 10.0%
+Processing primer pair 2 (2 of 10)
+Found 0 matching sequences.
+Progress: 20.0%
+Processing primer pair 3 (3 of 10)
+Using cached results for left primer: GGGGTTCTGAGAGGAAGGTC
+Found 0 matching sequences.
+Progress: 30.0%
+Processing primer pair 4 (4 of 10)
+Using cached results for left primer: TGCGTCCGATTAGCTTGTTG
+Found 270 matching sequences.
+Fetching taxonomy information for 270 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 5 (5 of 10)
+Using cached results for left primer: TGCGTCCGATTAGCTTGTTG
+Found 219 matching sequences.
+Fetching taxonomy information for 219 matches, please wait..
+Success
+Progress: 50.0%
+Processing primer pair 6 (6 of 10)
+Found 749 matching sequences.
+Fetching taxonomy information for 749 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 7 (7 of 10)
+Found 619 matching sequences.
+Fetching taxonomy information for 619 matches, please wait..
+Success
+Progress: 70.0%
+Processing primer pair 8 (8 of 10)
+Found 61 matching sequences.
+Fetching taxonomy information for 61 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 9 (9 of 10)
+No hits found for primer even with permissive settings: GTAAGCCTGAACCAGCCAAG
+No sequences found for left primer: GTAAGCCTGAACCAGCCAAG
+Processing primer pair 10 (10 of 10)
+No hits found for primer even with permissive settings: GACACGGTCCAGACTCCTAC
+No sequences found for left primer: GACACGGTCCAGACTCCTAC
+Created HTML report at 4_/specificity_report_CONSENSUS_0_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_0_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_0_primers.html
+You can open an HTML file in the  web browser.
+
+Processing file 2 of 6: CONSENSUS_1_primers.csv
+Read 10 primer pairs from 3_/CONSENSUS_1_primers.csv
+Processing primer pair 1 (1 of 10)
+No hits found for primer even with permissive settings: TCGAAATCAACATTCCCGCC
+No sequences found for left primer: TCGAAATCAACATTCCCGCC
+Processing primer pair 2 (2 of 10)
+Found 5 matching sequences.
+Fetching taxonomy information for 5 matches, please wait..
+Success
+Progress: 20.0%
+Processing primer pair 3 (3 of 10)
+Found 5 matching sequences.
+Fetching taxonomy information for 5 matches, please wait..
+Success
+Progress: 30.0%
+Processing primer pair 4 (4 of 10)
+Using cached results for left primer: TTTTCTCCATGTTCGGCGAC
+Found 5 matching sequences.
+Fetching taxonomy information for 5 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 5 (5 of 10)
+Using cached results for left primer: TTTTCTCCATGTTCGGCGAC
+Found 5 matching sequences.
+Fetching taxonomy information for 5 matches, please wait..
+Success
+Progress: 50.0%
+Processing primer pair 6 (6 of 10)
+Using cached results for left primer: GGCACCGTCATCAAGAACAA
+Found 5 matching sequences.
+Fetching taxonomy information for 5 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 7 (7 of 10)
+Using cached results for left primer: TCGAAATCAACATTCCCGCC
+No sequences found for left primer: TCGAAATCAACATTCCCGCC
+Processing primer pair 8 (8 of 10)
+Using cached results for left primer: TCGAAATCAACATTCCCGCC
+No sequences found for left primer: TCGAAATCAACATTCCCGCC
+Processing primer pair 9 (9 of 10)
+Using cached results for left primer: TCGAAATCAACATTCCCGCC
+No sequences found for left primer: TCGAAATCAACATTCCCGCC
+Processing primer pair 10 (10 of 10)
+Using cached results for left primer: TTTTCTCCATGTTCGGCGAC
+Found 5 matching sequences.
+Fetching taxonomy information for 5 matches, please wait..
+Success
+Progress: 100.0%
+Created HTML report at 4_/specificity_report_CONSENSUS_1_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_1_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_1_primers.html
+You can open an HTML file in the  web browser.
+
+Processing file 3 of 6: CONSENSUS_2_primers.csv
+Read 10 primer pairs from 3_/CONSENSUS_2_primers.csv
+Processing primer pair 1 (1 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 10.0%
+Processing primer pair 2 (2 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 20.0%
+Processing primer pair 3 (3 of 10)
+Using cached results for left primer: CAAGGAATTCGTGCGCTACA
+Found 8 matching sequences.
+Fetching taxonomy information for 8 matches, please wait..
+Success
+Progress: 30.0%
+Processing primer pair 4 (4 of 10)
+No hits found for primer even with permissive settings: TCAAGGAATTCGTGCGCTAC
+No sequences found for left primer: TCAAGGAATTCGTGCGCTAC
+Processing primer pair 5 (5 of 10)
+Using cached results for left primer: CAAGGAATTCGTGCGCTACA
+Found 8 matching sequences.
+Fetching taxonomy information for 8 matches, please wait..
+Success
+Progress: 50.0%
+Processing primer pair 6 (6 of 10)
+No hits found for primer even with permissive settings: CTGAAGACCGAAAAGCAGGG
+No sequences found for left primer: CTGAAGACCGAAAAGCAGGG
+Processing primer pair 7 (7 of 10)
+Found 6 matching sequences.
+Fetching taxonomy information for 6 matches, please wait..
+Success
+Progress: 70.0%
+Processing primer pair 8 (8 of 10)
+Using cached results for left primer: GGACTCAAGGAATTCGTGCG
+Found 6 matching sequences.
+Fetching taxonomy information for 6 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 9 (9 of 10)
+Found 6 matching sequences.
+Fetching taxonomy information for 6 matches, please wait..
+Success
+Progress: 90.0%
+Processing primer pair 10 (10 of 10)
+Using cached results for left primer: TCAAGGAATTCGTGCGCTAC
+No sequences found for left primer: TCAAGGAATTCGTGCGCTAC
+Created HTML report at 4_/specificity_report_CONSENSUS_2_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_2_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_2_primers.html
+You can open an HTML file in the  web browser.
+
+Processing file 4 of 6: CONSENSUS_3_primers.csv
+Read 10 primer pairs from 3_/CONSENSUS_3_primers.csv
+Processing primer pair 1 (1 of 10)
+Found 228 matching sequences.
+Fetching taxonomy information for 228 matches, please wait..
+Success
+Progress: 10.0%
+Processing primer pair 2 (2 of 10)
+Found 0 matching sequences.
+Progress: 20.0%
+Processing primer pair 3 (3 of 10)
+Using cached results for left primer: GGGGTTCTGAGAGGAAGGTC
+Found 0 matching sequences.
+Progress: 30.0%
+Processing primer pair 4 (4 of 10)
+Using cached results for left primer: TGCGTCCGATTAGCTTGTTG
+Found 270 matching sequences.
+Fetching taxonomy information for 270 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 5 (5 of 10)
+Using cached results for left primer: TGCGTCCGATTAGCTTGTTG
+Found 219 matching sequences.
+Fetching taxonomy information for 219 matches, please wait..
+Success
+Progress: 50.0%
+Processing primer pair 6 (6 of 10)
+Found 749 matching sequences.
+Fetching taxonomy information for 749 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 7 (7 of 10)
+Found 619 matching sequences.
+Fetching taxonomy information for 619 matches, please wait..
+Success
+Progress: 70.0%
+Processing primer pair 8 (8 of 10)
+Found 61 matching sequences.
+Fetching taxonomy information for 61 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 9 (9 of 10)
+Found 153 matching sequences.
+Fetching taxonomy information for 153 matches, please wait..
+Success
+Progress: 90.0%
+Processing primer pair 10 (10 of 10)
+Found 14 matching sequences.
+Fetching taxonomy information for 14 matches, please wait..
+Success
+Progress: 100.0%
+Created HTML report at 4_/specificity_report_CONSENSUS_3_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_3_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_3_primers.html
+You can open an HTML file in the  web browser.
+
+Processing file 5 of 6: CONSENSUS_4_primers.csv
+Read 10 primer pairs from 3_/CONSENSUS_4_primers.csv
+Processing primer pair 1 (1 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 10.0%
+Processing primer pair 2 (2 of 10)
+Using cached results for left primer: ACGATTGCCAAGACCAACAC
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 20.0%
+Processing primer pair 3 (3 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 30.0%
+Processing primer pair 4 (4 of 10)
+Using cached results for left primer: CAACACCTGCTGCATCTTCA
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 5 (5 of 10)
+Using cached results for left primer: ACGATTGCCAAGACCAACAC
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 50.0%
+Processing primer pair 6 (6 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 7 (7 of 10)
+Using cached results for left primer: AGTTCTATGCAAGCGTTCGC
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 70.0%
+Processing primer pair 8 (8 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 9 (9 of 10)
+Using cached results for left primer: ATTGCCAAGACCAACACCTG
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 90.0%
+Processing primer pair 10 (10 of 10)
+No hits found for primer even with permissive settings: ACGCCCTGAAGTTCTATGCA
+No sequences found for left primer: ACGCCCTGAAGTTCTATGCA
+Created HTML report at 4_/specificity_report_CONSENSUS_4_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_4_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_4_primers.html
+You can open an HTML file in the  web browser.
+
+Processing file 6 of 6: CONSENSUS_5_primers.csv
+Read 10 primer pairs from 3_/CONSENSUS_5_primers.csv
+Processing primer pair 1 (1 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 10.0%
+Processing primer pair 2 (2 of 10)
+No hits found for primer even with permissive settings: GGCTTCATCGAGACCCCATA
+No sequences found for left primer: GGCTTCATCGAGACCCCATA
+Processing primer pair 3 (3 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 30.0%
+Processing primer pair 4 (4 of 10)
+Found 0 matching sequences.
+Progress: 40.0%
+Processing primer pair 5 (5 of 10)
+Found 0 matching sequences.
+Progress: 50.0%
+Processing primer pair 6 (6 of 10)
+Found 0 matching sequences.
+Progress: 60.0%
+Processing primer pair 7 (7 of 10)
+Found 1 matching sequences.
+Fetching taxonomy information for 1 matches, please wait..
+Success
+Progress: 70.0%
+Processing primer pair 8 (8 of 10)
+Found 0 matching sequences.
+Progress: 80.0%
+Processing primer pair 9 (9 of 10)
+Found 0 matching sequences.
+Progress: 90.0%
+Processing primer pair 10 (10 of 10)
+Found 7 matching sequences.
+Fetching taxonomy information for 7 matches, please wait..
+Success
+Progress: 100.0%
+Created HTML report at 4_/specificity_report_CONSENSUS_5_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_5_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_5_primers.html
+You can open an HTML file in the  web browser.

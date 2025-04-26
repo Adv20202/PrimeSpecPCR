@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_8293569</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>675</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_8293569</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>675</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|577153087|gb|KF271974.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm037 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271974</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1218.56</Hsp_bit-score>
+      <Hsp_score>1350</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>675</Hsp_identity>
+      <Hsp_positive>675</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|577153105|gb|KF271980.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm050 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271980</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1187</Hsp_bit-score>
+      <Hsp_score>1315</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>668</Hsp_identity>
+      <Hsp_positive>668</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTAGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTTGCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||| | |||||||   ||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|577153123|gb|KF271986.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm066 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271986</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1182.49</Hsp_bit-score>
+      <Hsp_score>1310</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>667</Hsp_identity>
+      <Hsp_positive>667</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCTTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCACGCTCTAGCTTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTTACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||  |||||| |||| ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|577153054|gb|KF271963.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm005 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271963</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1182.49</Hsp_bit-score>
+      <Hsp_score>1310</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>667</Hsp_identity>
+      <Hsp_positive>667</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTAGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTTGCTGGTGTCTTTAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||| | |||||||   |||||||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|577153111|gb|KF271982.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm059 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271982</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1132</Hsp_bit-score>
+      <Hsp_score>1254</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>654</Hsp_identity>
+      <Hsp_positive>654</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>672</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGGACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTAGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTTGCTGGTGTCTTTAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||| | |||||||   |||||||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|577153066|gb|KF271967.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm018 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271967</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1055.36</Hsp_bit-score>
+      <Hsp_score>1169</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>641</Hsp_identity>
+      <Hsp_positive>641</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTACTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | | |||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|577153172|gb|KF272001.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm119 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF272001</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1032.81</Hsp_bit-score>
+      <Hsp_score>1144</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCGGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|577153146|gb|KF271993.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm100 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271993</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1022.89</Hsp_bit-score>
+      <Hsp_score>1133</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>632</Hsp_identity>
+      <Hsp_positive>632</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACAATGGCAGCTTTTGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTATTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| ||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | |||||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|577153129|gb|KF271988.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm070 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271988</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1018.39</Hsp_bit-score>
+      <Hsp_score>1128</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>631</Hsp_identity>
+      <Hsp_positive>631</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACAATGGCAGCTTTTGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTACTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| ||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | | |||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|577153081|gb|KF271972.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm033 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271972</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1014.78</Hsp_bit-score>
+      <Hsp_score>1124</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>632</Hsp_identity>
+      <Hsp_positive>632</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATCAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTATTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| |||||||||||||||| || |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | |||||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|577153060|gb|KF271965.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm013 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271965</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1010.27</Hsp_bit-score>
+      <Hsp_score>1119</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>672</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACAATGGCAGCTTTTGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTATTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACACTTTTCAGGGATATTATTCTCAGTAACTGCAGTCATTTTCTTGTTCACAGATGTTACATGTTTGGCCCTTATGGTCTGGGCCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTTACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| ||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | |||||||| |||  |||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||  || |||||||||| |||||||||| ||||||||||| |   ||||| |||| ||  ||||||||||| ||||||||| ||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|577153063|gb|KF271966.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm014 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271966</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1006.66</Hsp_bit-score>
+      <Hsp_score>1115</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>628</Hsp_identity>
+      <Hsp_positive>628</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGCTTGGTTCTTTGTTCCAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATATCTCTAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATTTTATGGTAAATATCCCAATTGCAAGGTATGTAACTGGCCCAATGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACACTTTTCAGGGATATTATTCTCAGTAACTGCAGTCATTTTCTTGTTCACAGATGTTACATGTTTGGCCCTTATGGTCTGGGCCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTTACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| |||||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||| || |||||||||| ||||||||||||||||||||||||||| ||||||| |||||||||||||||||| || | ||||||||||||||||||||  || |||||||||| |||||||||| ||||||||||| |   ||||| |||| ||  ||||||||||| ||||||||| ||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|577153133|gb|KF271989.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm089 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271989</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1003.96</Hsp_bit-score>
+      <Hsp_score>1112</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>630</Hsp_identity>
+      <Hsp_positive>630</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>676</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCA-CAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTTCTCTAAAGGGGTCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTGAATATCTATATTGCAAGATATATAACTGGCCCAGTGAATAGCAAAAACCTGAGTATGGAAAAGATGTATAGATACTGTTCCTCACCCACTT-CAGGGAGATTGTTATTCTCAGTAATTGCAGTCATTTACACCTTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCGCAACAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCACTGGCTGAGGAACATCTCTCTCCTGGTGTCCTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||| |||||||||||||||| |||||    |||||||| ||| ||||||||||||||||||| |||||| ||||||||||| | || |||||||||||||||||| | |||| ||||||   | || |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| ||||||| || |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||| |||||||| | |||||||| ||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|577153102|gb|KF271979.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm049 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271979</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1002.16</Hsp_bit-score>
+      <Hsp_score>1110</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGCTTGGTTCTTTGTTCCAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATATCTCTAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATTTTATGGTAAATATCCCAATTGCAAGGTATGTAACTGGCCCAATGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACACTTTTCAGGGATATTATTCTCAGTAACTGCAGTCATTTTCTTGTTCACAGATGTTACATGTTTGGCCCTTATGGTCTGGGCCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCGCACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTTACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| |||||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||| || |||||||||| ||||||||||||||||||||||||||| ||||||| |||||||||||||||||| || | ||||||||||||||||||||  || |||||||||| |||||||||| ||||||||||| |   ||||| |||| ||  ||||||||||| ||||||||| ||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|577153155|gb|KF271996.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm107 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271996</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1000.35</Hsp_bit-score>
+      <Hsp_score>1108</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACAATGGCAGCTTTTGGATTGACATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| ||||||||||||| ||||||||||| || ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|577153169|gb|KF272000.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm118 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF272000</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1000.35</Hsp_bit-score>
+      <Hsp_score>1108</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACAATGGCAGCTTTTGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTATTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAATATCTCCTTCCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| ||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | |||||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||   |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|577153149|gb|KF271994.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm101 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271994</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1000.35</Hsp_bit-score>
+      <Hsp_score>1108</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|577153096|gb|KF271977.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm042 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271977</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>997.648</Hsp_bit-score>
+      <Hsp_score>1105</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>626</Hsp_identity>
+      <Hsp_positive>626</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGCTTGGTTCTTTGTTCCAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATATCTCTAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATTTTATGGTAAATATCCCAATTGCAAGGTATGTAACTGGCCCAATGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACACTTTTCAGGGATATTATTCTCAGTAACTGCAGTCATTTTCTTGTTCACAGATGTTACATGTTTGGCCCTTATGGTCTGGGCCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGGACTTCTCCTAAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTTACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| |||||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||| || |||||||||| ||||||||||||||||||||||||||| ||||||| |||||||||||||||||| || | ||||||||||||||||||||  || |||||||||| |||||||||| ||||||||||| |   ||||| |||| ||  ||||||||||| ||||||||| ||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|577153069|gb|KF271968.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm024 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271968</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>996.746</Hsp_bit-score>
+      <Hsp_score>1104</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>628</Hsp_identity>
+      <Hsp_positive>628</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|577153117|gb|KF271984.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm061 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271984</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>992.237</Hsp_bit-score>
+      <Hsp_score>1099</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCGTTGGCTGAGGAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|577153093|gb|KF271976.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm041 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271976</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>992.237</Hsp_bit-score>
+      <Hsp_score>1099</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCATGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|577153048|gb|KF271961.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm003 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271961</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>992.237</Hsp_bit-score>
+      <Hsp_score>1099</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTCGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|577153175|gb|KF272002.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm120 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF272002</Hit_accession>
+  <Hit_len>675</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>988.631</Hsp_bit-score>
+      <Hsp_score>1095</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>675</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>624</Hsp_identity>
+      <Hsp_positive>624</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGCAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGATCTTGCATTTTATGGTAAATATCCCAATTGCAAGGTATGTAACTGGCCCAATGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACACTTTTCAGGGATATTATTCTCAGTAACTGCAGTCATTTTCTTGTTCACAGATGTTACATGTTTGGCCCTTATGGTCTGGGCCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCCTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTTACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||| ||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| ||||||||||||||||||||||||||||||| || |||||||||| ||||||||||||||||||||||||||| ||||||| |||||||||||||||||| || | ||||||||||||||||||||  || |||||||||| |||||||||| ||||||||||| |   ||||| |||| ||  ||||||||||| ||||||||| ||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   |||||| |||| ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|577153057|gb|KF271964.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm007 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271964</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>986.827</Hsp_bit-score>
+      <Hsp_score>1093</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>624</Hsp_identity>
+      <Hsp_positive>624</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|577153166|gb|KF271999.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm117 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271999</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>985.926</Hsp_bit-score>
+      <Hsp_score>1092</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>626</Hsp_identity>
+      <Hsp_positive>626</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>676</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCA-CAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTTCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTGAATATCTATATTGCAAGATATATAACTGGCCCAGTGAATAGCAAAAACCTGAGTATGGAAAAGATGTATAGATACTGTTCCTCACCCACTT-CAGGGAGATTGTTATTCTCAGTAATTGCAGTCATTTACACCTTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCGCAACAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCACTGGCTGAGGAACATCTCTCTCCTGGTGTCCTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| ||||||||||||||||||||||||||| |||||||||||||||| |||||    |||||||| ||| ||||||||||||||||||| |||||| ||||||||||| | || |||||||||||||||||| | |||| ||||||   | || |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| ||||||| || |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||| |||||||| | |||||||| ||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|577153075|gb|KF271970.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm027 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271970</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>983.221</Hsp_bit-score>
+      <Hsp_score>1089</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>625</Hsp_identity>
+      <Hsp_positive>625</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTTGCTGGTGTCTTTAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | |||||||   |||||||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|577153136|gb|KF271990.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm093 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271990</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>983.221</Hsp_bit-score>
+      <Hsp_score>1089</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>625</Hsp_identity>
+      <Hsp_positive>625</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATATTTTT---CTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGCTTGGTTCTTTGTTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTGAACATCTATATTGCAATGTATATAACTGGCCCACTGAATAGCAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| || ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||||||||||||||||||||||| || ||    ||||||| |||| ||||||||||| ||||||| |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| | ||| ||   |||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|577153072|gb|KF271969.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm025 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271969</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>982.319</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGCCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|577153114|gb|KF271983.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm060 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271983</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>982.319</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGCCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| |||||||||| |||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|577153045|gb|KF271960.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm002 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271960</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>982.319</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATGGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||| | |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|577153163|gb|KF271998.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm110 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271998</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>982.319</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCACTATTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCACTGGCTGAGGAACATCTCTCTCCTGGTGTCCTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||||||||||||||||| |||||| |||| ||||||||||||||||||||||||||||||||||||||||||||||||||  | |||||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||| |||||||| | |||||||| ||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|577153078|gb|KF271971.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm031 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271971</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>982.319</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACGTCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|577153152|gb|KF271995.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm106 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271995</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>982.319</Hsp_bit-score>
+      <Hsp_score>1088</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTACGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| ||||||| |||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|577153084|gb|KF271973.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm034 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271973</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>978.712</Hsp_bit-score>
+      <Hsp_score>1084</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>624</Hsp_identity>
+      <Hsp_positive>624</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGTTTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAGTATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCCACATTGCAAAGTATGTAACTGGCCCGGTGAATAACAAAAACCTGAGTATGGAAAAAATGTATAGATATTGTTCTTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTTCTTCTTCATGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCGTCCTGCATAGGCACAAGCAGAGAGTTCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||| |||||| | |||| ||| |||||||| | ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| |||||||||||||||||||||| |  ||||||| ||||||||||||||| |||||||  |||||| ||||||||||| |||| |||||||| ||||| ||||   ||||||| |   | || |||||||||| ||||||||||| |  |||||  ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|577153120|gb|KF271985.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm065 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271985</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>977.811</Hsp_bit-score>
+      <Hsp_score>1083</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>622</Hsp_identity>
+      <Hsp_positive>622</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCCTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCGTGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||| ||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | || ||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|577153126|gb|KF271987.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm069 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271987</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>976.007</Hsp_bit-score>
+      <Hsp_score>1081</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>674</Hsp_align-len>
+      <Hsp_qseq>TGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATATTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATCTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGTGGATGGACCTTCAAATTAGGTCCTCGAAGTGCATTGCTTTCTGCTGTTTCCTCTGCTGGGTCTTGCATCTTGTGGTAAATATCACTATTGCAAGTTATACAACTGGCCCAGTGAATAGCAAAAACATGAGTATGGAAAAAGTGTATAGATACTGTTCCTCACCCATTCTAGGGAGGTTGTTATTCTCAGTAATGGCAGTCATTTTCTTGCTCACGGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTACCTGGTGTCTTCAGGCTTCCTGACA</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||||||||| |||||| | |||| ||| |||||||||| ||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| ||| |  |||| |||| |||||||||||||||||||||| ||||||||||||||||||||||  | |||||||| |||  |||||||||||||||||| |||||||||||||||||| || | |||||||||||||||||||   ||| |||||   | || ||||||||||| |||||||||| |    |||| |||||||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| | ||||||| ||||||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|577153143|gb|KF271992.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm096 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271992</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>973.302</Hsp_bit-score>
+      <Hsp_score>1078</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATA---TTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTTCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTGAACATCTATATTGCAATGTATATAACTGGCCCACTGAATAGCAAAAACCTGAGTATGGAAAAAATGTATAGATACTGTTCCTCACCCACTCCAGAAATATTGTTATTCTCAGTAATTGCAGTCATTTACTTCTTCACAGATGTTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTAGTATTTTATCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGGAACATCTCTTTGCTGGTGTCTTTAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||||||||||||||||||||||| || ||    ||||||| |||| ||||||||||| ||||||| |||||| ||||||||||| |||| |||||||||||||||||||    |||||  |||   || ||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||| | |||||||   |||||||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|577153051|gb|KF271962.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm004 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271962</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>964.285</Hsp_bit-score>
+      <Hsp_score>1068</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>619</Hsp_identity>
+      <Hsp_positive>619</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATA---TTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTTCTCTAAAGGGGTCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTGAACATCTATATTGCAATGTATATAACTGGCCCACTGAATAGCAAAAACCTGAGTATGGAAAAAATGTATAGATACTGTTCCTCACCCACTCCAGAAATATTGTTATTCTCAGTAATTGCAGTCATTTACTTCTTCACAGATGTTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGGCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACGCAGATGCAGAACTCAAGCCATTGGTTGAGAAATATCTCCTTCCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||||||||||||||||||||||| || ||    ||||||| |||| ||||||||||| ||||||| |||||| ||||||||||| |||| |||||||||||||||||||    |||||  |||   || ||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||| |||||||||||| ||||||||||| ||||||  |||||   |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|577153108|gb|KF271981.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm055 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271981</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>959.777</Hsp_bit-score>
+      <Hsp_score>1063</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>618</Hsp_identity>
+      <Hsp_positive>618</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACGTCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCGCAACAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCACTGGCTGAGGAACATCTCTCTCCTGGTGTCCTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| |||||||  ||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||| || |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||| |||||||| | |||||||| ||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|577153099|gb|KF271978.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm046 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271978</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>955.268</Hsp_bit-score>
+      <Hsp_score>1058</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>617</Hsp_identity>
+      <Hsp_positive>617</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATA---TTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTTCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTGAACATCTATATTGCAATGTATATAACTGGCCCACTGAATAGCAAAAACCTGAGTATGGAAAAAATGTATAGATACTGTTCCTCACCCACTCCCGAAATATTGTTATTCTCAGTAATTGCAGTCATTTACTTCTTCACAGATGTTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGGCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACCCAGATGCAGAACCCAAGCCACTGGCTGAGGAACATCTCTCTCCTGGTGTCCTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||||||||||||||||||||||| || ||    ||||||| |||| ||||||||||| ||||||| |||||| ||||||||||| |||| |||||||||||||||||||    ||| |  |||   || ||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| |||||||||||||||||||||||||||||| |||||||| | |||||||| ||||||||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|577153090|gb|KF271975.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm040 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271975</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>950.76</Hsp_bit-score>
+      <Hsp_score>1053</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>616</Hsp_identity>
+      <Hsp_positive>616</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGA---TATTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTGCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGACATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCCAGGTGGATGGACCTTCAAATTAGATCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATCCACATTGCAAAGCATGTAACTGGCCCATCAAATAGCAAAAACATGAATATGGAGAAAGTGTATAGATACTGTTCCTCACCCATTCCAGGTAGATTGTTATTCTCAGTAACTGCAGTCATTTACTTTTTCACGGATGGTATGTGTTTGGTCTTCATGGTCTGGACCAGCGGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAGCACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGGCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACGCAGATGCAGAACTCAAGCCATTGGTTGAGAAATATCTCCTTCCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||| |||||| | |||| ||| ||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| |  ||||||| | ||||||||||||||   ||||| |||||||||| ||||||  || | |||||||||||||||||||   ||||||| |   | || |||||||||| |||||||||||||   ||||| |||||||||||||||| | |||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||| |||||||||||| ||||||||||| ||||||  |||||   |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|577153140|gb|KF271991.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm094 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271991</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>946.252</Hsp_bit-score>
+      <Hsp_score>1048</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>615</Hsp_identity>
+      <Hsp_positive>615</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>675</Hsp_align-len>
+      <Hsp_qseq>TTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATA---TTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>TTGGTTCTTTTCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTGAACATCTATATTGCAATGTATATAACTGGCCCACTGAATAGCAAAAACCTGAGTATGGAAAAAATGTATAGATACTGTTCCTCACCCACTCCAGAAATATTGTTATTCTCAGTAATTGCAGTCATTTACTTCTTCACAGATGTTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGGCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACGCAGATGCAGAACTCAAGCCATTGGTTGAGAAATATCTCCTTCCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||| ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||||||||||||||||||||||| || ||    ||||||| |||| ||||||||||| ||||||| |||||| ||||||||||| |||| |||||||||||||||||||    |||||  |||   || ||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||| |||||||||||| ||||||||||| ||||||  |||||   |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|577153158|gb|KF271997.1|</Hit_id>
+  <Hit_def>Daubentonia madagascariensis voucher DLC6262 clone Dm109 vomeronasal 1 receptor (V1R) gene, partial cds</Hit_def>
+  <Hit_accession>KF271997</Hit_accession>
+  <Hit_len>678</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>942.645</Hsp_bit-score>
+      <Hsp_score>1044</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>675</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>678</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>616</Hsp_identity>
+      <Hsp_positive>616</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>678</Hsp_align-len>
+      <Hsp_qseq>AGTTTGGTTCTTTGCTCCAAAGGGATCCCACAGACAATGGCAGTTTTTGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTTCTACGTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAGTATCTCTAGGCGGATGGACCTTCAAATTAGATCCCCAGAGTGTATTGTTTTCTGCTGTTTCCTCTGCTGGATCTTGCATCTTGTGGTAAATATACCAATTGCAAGGTATGTAACTGGCCCAGTGAATAGTAAAAACATGAGTATGGAACAAATATATAGATACTGTTCCTCACAACTTCCAGGGATA---TTTTTCTCAGTAATTGCAGTCATTTACACCTTCACTGATGGTATGTGTTTGGCCCTCATGGTCTGGACCAGTGGCTCCATGGTCCTCATCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCGTGAAACTAGAGCCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTGGTATTTTGTCATATTGGATAACCCAGATGCAGAACCCAAGCCATTGGCTGAGAAGCATCTCTCACCTGGTGTCTTCAGGCTTCCCGACA</Hsp_qseq>
+      <Hsp_hseq>AGCTTGGTTCTTTTCTCTAAAGGGATCCCTCAGACACTTGCAGCTTTCGGATTGAAATCTTTCCTGGATGAGGCTGGATGTAAACTTGTCTACTATTTACACAGAGTGGCCAGAGGGGTTTCCCTCAGCACCACCTGCCTCCTCAGTGGCTTTCAGGCCATTAAGCTTTGCCCCAATTTCTCTAGGTGGATGGACCTTCAAATTAGGTCCCCAAAGTGCATTGTTTTCTGCTGTTTCCTCTGCCGGATCTTGCATCTTGTGGTGAACATCTATATTGCAATGTATATAACTGGCCCACTGAATAGCAAAAACCTGAGTATGGAAAAAATGTATAGATACTGTTCCTCACCCACTCCAGAAATATTGTTATTCTCAGTAATTGCAGTCATTTACTTCTTCACAGATGTTATGTGTTTGGCCCTCATGGTCTGGACCAGCAGCTCCATGGTCCTCGTCCTGCACAGGCACAAGCAGAGAGTCCAACACATCCACAGCAGCAGCCTCTCCCCCAGAACTTCTCCTGAAACTAGAGGCACACACACCATCCTCATCCTGGTGAGCATGTTTGTCTCCTTTCATGCTCTAGCTTCTATTTTATCATTTTGGATAACGCAGATGCAGAACTCAAGCCATTGGTTGAGAAATATCTCCTTCCTGGTGTCTTCAGGCTTCCCGACA</Hsp_hseq>
+      <Hsp_midline>|| |||||||||| ||| ||||||||||| |||||| | |||| ||| ||||||||||||||||||||||||||||||||||||||||||| |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||| ||||||||||||||||||| |||||| |||| |||||||||||||||||||||||| ||||||||||||||||||| || ||    ||||||| |||| ||||||||||| ||||||| |||||| ||||||||||| |||| |||||||||||||||||||    |||||  |||   || ||||||||||||||||||||||||  |||||| |||| ||||||||||||||||||||||||||||||  |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||| |||| ||||||||| |||||||||||| ||||||||||| ||||||  |||||   |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>386</Statistics_db-num>
+      <Statistics_db-len>563651</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

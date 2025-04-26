@@ -1,0 +1,57 @@
+Organism: Prevotella dentalis
+TaxID: 52227
+Total sequences analyzed: 1000
+Total unique genes found: 50
+Feature types found: CDS, gene, misc_binding, ncRNA, rRNA, regulatory, repeat_region, sig_peptide, source, tRNA, tmRNA
+
+Gene counts:
+1. RECA	20
+2. DNAJ	20
+3. RPOB	17
+4. GYRB	17
+5. HSP60	12
+6. RECQ	12
+7. MIAA	12
+8. 16S_RIBOSOMAL_RNA	10
+9. DNAG	10
+10. LPXA	10
+11. TRXA	10
+12. DNAK	10
+13. UVRB	9
+14. RECF	9
+15. GREA	9
+16. RECN	9
+17. TYRS	8
+18. MAP	8
+19. CLS	8
+20. UVRA	8
+21. RECG	8
+22. GUAA	7
+23. FABD	7
+24. LIGA	7
+25. TRMD	7
+26. THRA	7
+27. RPMG	7
+28. PYK	7
+29. CARB	7
+30. CARA	7
+31. UXAC	7
+32. HTPG	7
+33. NTH	7
+34. METG	7
+35. RPLS	7
+36. RHAD	7
+37. DNAN	7
+38. MURI	7
+39. RBFA	7
+40. RPLI	6
+41. RPSR	6
+42. RPSF	6
+43. RPMB	6
+44. RIBH	6
+45. GRPE	6
+46. LEPB	5
+47. THRC	5
+48. RRF	5
+49. RHAB	5
+50. TNPB	4

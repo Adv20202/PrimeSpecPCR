@@ -1,0 +1,57 @@
+Organism: Burkholderia glumae
+TaxID: 337
+Total sequences analyzed: 12575
+Total unique genes found: 50
+Feature types found: CDS, assembly_gap, gene, misc_RNA, misc_binding, misc_feature, mobile_element, ncRNA, rRNA, regulatory, repeat_region, source, tRNA, tmRNA
+
+Gene counts:
+1. GYRB	327
+2. ISTA	311
+3. ISTB	307
+4. TNPB	304
+5. RPOD	287
+6. TNPC	281
+7. GSPI	272
+8. TRXA	248
+9. 16S_RIBOSOMAL_RNA	245
+10. BAME	236
+11. TSSK	209
+12. TNPA	207
+13. TSSF	205
+14. CYSC	203
+15. PURU	202
+16. CYDB	201
+17. TSSE	200
+18. TSSG	199
+19. LPDA	198
+20. TSSA	197
+21. TSSJ	196
+22. LEPB	195
+23. TSSC	192
+24. RIBD	191
+25. ARGC	191
+26. ZWF	187
+27. RRF	183
+28. OTSA	183
+29. TSSB	183
+30. IMUA	179
+31. FLIL	176
+32. BIOB	159
+33. RECA	151
+34. MOBF	127
+35. MERR	122
+36. TRFA	121
+37. TRAC	115
+38. TRBC	114
+39. TRAW	113
+40. TRAV	113
+41. TRAL	112
+42. TSSI	110
+43. TRAU	97
+44. MSUE	94
+45. SFNG	92
+46. TOXA	76
+47. MERC	75
+48. ARSS	64
+49. UGPC	61
+50. MERA	61

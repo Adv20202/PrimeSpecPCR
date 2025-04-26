@@ -1,0 +1,412 @@
+Cleaning up previous run files in 3_...
+Removed directory: 3_
+Using output directory: 3_
+
+Primer design settings are stored in PCR_primer_settings.txt
+You can modify the settings by editing this file.
+Waiting for input: Do you want to modify primer design settings? (yes/no): 
+Found 6 consensus files to process
+
+============================================================
+Processing file 1 of 6: 2_/CONSENSUS_0.fasta
+Processing file: 2_/CONSENSUS_0.fasta
+>Puccinia_recondita_16S ribosomal RNA_16S rRNA_consensus_group_0
+Waiting for input: Enter amplicon length range (e.g., 100-250): 
+Waiting for input: Enter maximum number of primer sets to generate: 
+
+Current Primer Design Settings:
+===============================
+
+Primer Size:
+  PRIMER_MIN_SIZE = 18
+  PRIMER_OPT_SIZE = 20
+  PRIMER_MAX_SIZE = 23
+
+Melting Temperature:
+  PRIMER_MIN_TM = 57.0
+  PRIMER_OPT_TM = 59.0
+  PRIMER_MAX_TM = 62.0
+  PRIMER_MAX_DIFF_TM = 5.0
+
+GC Content:
+  PRIMER_MIN_GC = 30.0
+  PRIMER_OPT_GC_PERCENT = 50.0
+  PRIMER_MAX_GC = 70.0
+
+Probe Parameters:
+  PRIMER_INTERNAL_MIN_SIZE = 18
+  PRIMER_INTERNAL_OPT_SIZE = 20
+  PRIMER_INTERNAL_MAX_SIZE = 27
+  PRIMER_INTERNAL_MIN_TM = 57.0
+  PRIMER_INTERNAL_OPT_TM = 60.0
+  PRIMER_INTERNAL_MAX_TM = 63.0
+  PRIMER_INTERNAL_MIN_GC = 20.0
+  PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+  PRIMER_INTERNAL_MAX_GC = 80.0
+
+Structural Constraints:
+  PRIMER_MAX_POLY_X = 4
+  PRIMER_MAX_SELF_ANY_TH = 45.0
+  PRIMER_MAX_SELF_END_TH = 35.0
+  PRIMER_MAX_HAIRPIN_TH = 24.0
+  PRIMER_INTERNAL_MAX_POLY_X = 5
+  PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+  PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+  PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+Chemical Parameters:
+  PRIMER_SALT_MONOVALENT = 50.0
+  PRIMER_SALT_DIVALENT = 1.5
+  PRIMER_DNA_CONC = 50.0
+
+For a complete list of all settings, please see PCR_primer_settings.txt
+Read sequence of length 1444 bp
+Sequence starts with: CCCCGGGCTGGCTTACCATG
+Sequence ends with: NCCTAGGGAGAACCTTGGGC
+Sequence hash: 349d0d5e743606bc0f71c976db437564
+Designing up to 10 primer sets for 16S ribosomal RNA...
+Starting primer design on sequence of length 1444 bp
+Primer3 args: SEQUENCE_INCLUDED_REGION=[0, 1444], excluded regions count: 0
+Trying primer3.design_primers...
+Primer design completed in 0.02 seconds, found 10 primer pairs
+Results saved to: 3_/CONSENSUS_0_primers.csv
+Saved 10 primer sets
+Successfully designed 10 primer sets for 16S ribosomal RNA
+Saved 10 primer sets to 3_/CONSENSUS_0_primers.csv
+
+============================================================
+Processing file 2 of 6: 2_/CONSENSUS_1.fasta
+Processing file: 2_/CONSENSUS_1.fasta
+>Puccinia_recondita_consensus_consensus_group_1
+Waiting for input: Enter amplicon length range (e.g., 100-250): 
+Waiting for input: Enter maximum number of primer sets to generate: 
+
+Current Primer Design Settings:
+===============================
+
+Primer Size:
+  PRIMER_MIN_SIZE = 18
+  PRIMER_OPT_SIZE = 20
+  PRIMER_MAX_SIZE = 23
+
+Melting Temperature:
+  PRIMER_MIN_TM = 57.0
+  PRIMER_OPT_TM = 59.0
+  PRIMER_MAX_TM = 62.0
+  PRIMER_MAX_DIFF_TM = 5.0
+
+GC Content:
+  PRIMER_MIN_GC = 30.0
+  PRIMER_OPT_GC_PERCENT = 50.0
+  PRIMER_MAX_GC = 70.0
+
+Probe Parameters:
+  PRIMER_INTERNAL_MIN_SIZE = 18
+  PRIMER_INTERNAL_OPT_SIZE = 20
+  PRIMER_INTERNAL_MAX_SIZE = 27
+  PRIMER_INTERNAL_MIN_TM = 57.0
+  PRIMER_INTERNAL_OPT_TM = 60.0
+  PRIMER_INTERNAL_MAX_TM = 63.0
+  PRIMER_INTERNAL_MIN_GC = 20.0
+  PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+  PRIMER_INTERNAL_MAX_GC = 80.0
+
+Structural Constraints:
+  PRIMER_MAX_POLY_X = 4
+  PRIMER_MAX_SELF_ANY_TH = 45.0
+  PRIMER_MAX_SELF_END_TH = 35.0
+  PRIMER_MAX_HAIRPIN_TH = 24.0
+  PRIMER_INTERNAL_MAX_POLY_X = 5
+  PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+  PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+  PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+Chemical Parameters:
+  PRIMER_SALT_MONOVALENT = 50.0
+  PRIMER_SALT_DIVALENT = 1.5
+  PRIMER_DNA_CONC = 50.0
+
+For a complete list of all settings, please see PCR_primer_settings.txt
+Read sequence of length 755 bp
+Sequence starts with: AGGANGCCGCCGAGGCTTAC
+Sequence ends with: GCGGCGAAGTGGACGTGCCC
+Sequence hash: 73910e92fe3defcd80b4a7983c0194b3
+Designing up to 10 primer sets for recondita...
+Starting primer design on sequence of length 755 bp
+Primer3 args: SEQUENCE_INCLUDED_REGION=[0, 755], excluded regions count: 0
+Trying primer3.design_primers...
+Primer design completed in 0.01 seconds, found 10 primer pairs
+Results saved to: 3_/CONSENSUS_1_primers.csv
+Saved 10 primer sets
+Successfully designed 10 primer sets for recondita
+Saved 10 primer sets to 3_/CONSENSUS_1_primers.csv
+
+============================================================
+Processing file 3 of 6: 2_/CONSENSUS_2.fasta
+Processing file: 2_/CONSENSUS_2.fasta
+>Puccinia_recondita_consensus_consensus_group_2
+Waiting for input: Enter amplicon length range (e.g., 100-250): 
+Waiting for input: Enter maximum number of primer sets to generate: 
+
+Current Primer Design Settings:
+===============================
+
+Primer Size:
+  PRIMER_MIN_SIZE = 18
+  PRIMER_OPT_SIZE = 20
+  PRIMER_MAX_SIZE = 23
+
+Melting Temperature:
+  PRIMER_MIN_TM = 57.0
+  PRIMER_OPT_TM = 59.0
+  PRIMER_MAX_TM = 62.0
+  PRIMER_MAX_DIFF_TM = 5.0
+
+GC Content:
+  PRIMER_MIN_GC = 30.0
+  PRIMER_OPT_GC_PERCENT = 50.0
+  PRIMER_MAX_GC = 70.0
+
+Probe Parameters:
+  PRIMER_INTERNAL_MIN_SIZE = 18
+  PRIMER_INTERNAL_OPT_SIZE = 20
+  PRIMER_INTERNAL_MAX_SIZE = 27
+  PRIMER_INTERNAL_MIN_TM = 57.0
+  PRIMER_INTERNAL_OPT_TM = 60.0
+  PRIMER_INTERNAL_MAX_TM = 63.0
+  PRIMER_INTERNAL_MIN_GC = 20.0
+  PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+  PRIMER_INTERNAL_MAX_GC = 80.0
+
+Structural Constraints:
+  PRIMER_MAX_POLY_X = 4
+  PRIMER_MAX_SELF_ANY_TH = 45.0
+  PRIMER_MAX_SELF_END_TH = 35.0
+  PRIMER_MAX_HAIRPIN_TH = 24.0
+  PRIMER_INTERNAL_MAX_POLY_X = 5
+  PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+  PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+  PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+Chemical Parameters:
+  PRIMER_SALT_MONOVALENT = 50.0
+  PRIMER_SALT_DIVALENT = 1.5
+  PRIMER_DNA_CONC = 50.0
+
+For a complete list of all settings, please see PCR_primer_settings.txt
+Read sequence of length 1107 bp
+Sequence starts with: AACGCTCTGTCCAGCCACAT
+Sequence ends with: GCTTCGGCGTGGAAGGAGAG
+Sequence hash: 05d05f40d9c0f24d2bbb6c17e7e5b8c8
+Designing up to 10 primer sets for recondita...
+Starting primer design on sequence of length 1107 bp
+Primer3 args: SEQUENCE_INCLUDED_REGION=[0, 1107], excluded regions count: 0
+Trying primer3.design_primers...
+Primer design completed in 0.02 seconds, found 10 primer pairs
+Results saved to: 3_/CONSENSUS_2_primers.csv
+Saved 10 primer sets
+Successfully designed 10 primer sets for recondita
+Saved 10 primer sets to 3_/CONSENSUS_2_primers.csv
+
+============================================================
+Processing file 4 of 6: 2_/CONSENSUS_3.fasta
+Processing file: 2_/CONSENSUS_3.fasta
+>Puccinia_recondita_16S ribosomal RNA_16S rRNA_consensus_group_3
+Waiting for input: Enter amplicon length range (e.g., 100-250): 
+Waiting for input: Enter maximum number of primer sets to generate: 
+
+Current Primer Design Settings:
+===============================
+
+Primer Size:
+  PRIMER_MIN_SIZE = 18
+  PRIMER_OPT_SIZE = 20
+  PRIMER_MAX_SIZE = 23
+
+Melting Temperature:
+  PRIMER_MIN_TM = 57.0
+  PRIMER_OPT_TM = 59.0
+  PRIMER_MAX_TM = 62.0
+  PRIMER_MAX_DIFF_TM = 5.0
+
+GC Content:
+  PRIMER_MIN_GC = 30.0
+  PRIMER_OPT_GC_PERCENT = 50.0
+  PRIMER_MAX_GC = 70.0
+
+Probe Parameters:
+  PRIMER_INTERNAL_MIN_SIZE = 18
+  PRIMER_INTERNAL_OPT_SIZE = 20
+  PRIMER_INTERNAL_MAX_SIZE = 27
+  PRIMER_INTERNAL_MIN_TM = 57.0
+  PRIMER_INTERNAL_OPT_TM = 60.0
+  PRIMER_INTERNAL_MAX_TM = 63.0
+  PRIMER_INTERNAL_MIN_GC = 20.0
+  PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+  PRIMER_INTERNAL_MAX_GC = 80.0
+
+Structural Constraints:
+  PRIMER_MAX_POLY_X = 4
+  PRIMER_MAX_SELF_ANY_TH = 45.0
+  PRIMER_MAX_SELF_END_TH = 35.0
+  PRIMER_MAX_HAIRPIN_TH = 24.0
+  PRIMER_INTERNAL_MAX_POLY_X = 5
+  PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+  PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+  PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+Chemical Parameters:
+  PRIMER_SALT_MONOVALENT = 50.0
+  PRIMER_SALT_DIVALENT = 1.5
+  PRIMER_DNA_CONC = 50.0
+
+For a complete list of all settings, please see PCR_primer_settings.txt
+Read sequence of length 1489 bp
+Sequence starts with: TGGCTCAGGATGAACGCTGN
+Sequence ends with: TAAGTCGTAACAAGGTANCC
+Sequence hash: f4fb6c29b55b38f1847edf7d835eb211
+Designing up to 10 primer sets for 16S ribosomal RNA...
+Starting primer design on sequence of length 1489 bp
+Primer3 args: SEQUENCE_INCLUDED_REGION=[0, 1489], excluded regions count: 0
+Trying primer3.design_primers...
+Primer design completed in 0.02 seconds, found 10 primer pairs
+Results saved to: 3_/CONSENSUS_3_primers.csv
+Saved 10 primer sets
+Successfully designed 10 primer sets for 16S ribosomal RNA
+Saved 10 primer sets to 3_/CONSENSUS_3_primers.csv
+
+============================================================
+Processing file 5 of 6: 2_/CONSENSUS_4.fasta
+Processing file: 2_/CONSENSUS_4.fasta
+>Puccinia_recondita_consensus_consensus_group_4
+Waiting for input: Enter amplicon length range (e.g., 100-250): 
+Waiting for input: Enter maximum number of primer sets to generate: 
+
+Current Primer Design Settings:
+===============================
+
+Primer Size:
+  PRIMER_MIN_SIZE = 18
+  PRIMER_OPT_SIZE = 20
+  PRIMER_MAX_SIZE = 23
+
+Melting Temperature:
+  PRIMER_MIN_TM = 57.0
+  PRIMER_OPT_TM = 59.0
+  PRIMER_MAX_TM = 62.0
+  PRIMER_MAX_DIFF_TM = 5.0
+
+GC Content:
+  PRIMER_MIN_GC = 30.0
+  PRIMER_OPT_GC_PERCENT = 50.0
+  PRIMER_MAX_GC = 70.0
+
+Probe Parameters:
+  PRIMER_INTERNAL_MIN_SIZE = 18
+  PRIMER_INTERNAL_OPT_SIZE = 20
+  PRIMER_INTERNAL_MAX_SIZE = 27
+  PRIMER_INTERNAL_MIN_TM = 57.0
+  PRIMER_INTERNAL_OPT_TM = 60.0
+  PRIMER_INTERNAL_MAX_TM = 63.0
+  PRIMER_INTERNAL_MIN_GC = 20.0
+  PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+  PRIMER_INTERNAL_MAX_GC = 80.0
+
+Structural Constraints:
+  PRIMER_MAX_POLY_X = 4
+  PRIMER_MAX_SELF_ANY_TH = 45.0
+  PRIMER_MAX_SELF_END_TH = 35.0
+  PRIMER_MAX_HAIRPIN_TH = 24.0
+  PRIMER_INTERNAL_MAX_POLY_X = 5
+  PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+  PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+  PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+Chemical Parameters:
+  PRIMER_SALT_MONOVALENT = 50.0
+  PRIMER_SALT_DIVALENT = 1.5
+  PRIMER_DNA_CONC = 50.0
+
+For a complete list of all settings, please see PCR_primer_settings.txt
+Read sequence of length 600 bp
+Sequence starts with: GCTCTCGACGTGGCTCTGGG
+Sequence ends with: GCAATCACGTGAAAGTTAAG
+Sequence hash: d8c83d46b27b41204b1243abff56b453
+Designing up to 10 primer sets for recondita...
+Starting primer design on sequence of length 600 bp
+Primer3 args: SEQUENCE_INCLUDED_REGION=[0, 600], excluded regions count: 0
+Trying primer3.design_primers...
+Primer design completed in 0.01 seconds, found 10 primer pairs
+Results saved to: 3_/CONSENSUS_4_primers.csv
+Saved 10 primer sets
+Successfully designed 10 primer sets for recondita
+Saved 10 primer sets to 3_/CONSENSUS_4_primers.csv
+
+============================================================
+Processing file 6 of 6: 2_/CONSENSUS_5.fasta
+Processing file: 2_/CONSENSUS_5.fasta
+>Puccinia_recondita_consensus_consensus_group_5
+Waiting for input: Enter amplicon length range (e.g., 100-250): 
+Waiting for input: Enter maximum number of primer sets to generate: 
+
+Current Primer Design Settings:
+===============================
+
+Primer Size:
+  PRIMER_MIN_SIZE = 18
+  PRIMER_OPT_SIZE = 20
+  PRIMER_MAX_SIZE = 23
+
+Melting Temperature:
+  PRIMER_MIN_TM = 57.0
+  PRIMER_OPT_TM = 59.0
+  PRIMER_MAX_TM = 62.0
+  PRIMER_MAX_DIFF_TM = 5.0
+
+GC Content:
+  PRIMER_MIN_GC = 30.0
+  PRIMER_OPT_GC_PERCENT = 50.0
+  PRIMER_MAX_GC = 70.0
+
+Probe Parameters:
+  PRIMER_INTERNAL_MIN_SIZE = 18
+  PRIMER_INTERNAL_OPT_SIZE = 20
+  PRIMER_INTERNAL_MAX_SIZE = 27
+  PRIMER_INTERNAL_MIN_TM = 57.0
+  PRIMER_INTERNAL_OPT_TM = 60.0
+  PRIMER_INTERNAL_MAX_TM = 63.0
+  PRIMER_INTERNAL_MIN_GC = 20.0
+  PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+  PRIMER_INTERNAL_MAX_GC = 80.0
+
+Structural Constraints:
+  PRIMER_MAX_POLY_X = 4
+  PRIMER_MAX_SELF_ANY_TH = 45.0
+  PRIMER_MAX_SELF_END_TH = 35.0
+  PRIMER_MAX_HAIRPIN_TH = 24.0
+  PRIMER_INTERNAL_MAX_POLY_X = 5
+  PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+  PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+  PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+Chemical Parameters:
+  PRIMER_SALT_MONOVALENT = 50.0
+  PRIMER_SALT_DIVALENT = 1.5
+  PRIMER_DNA_CONC = 50.0
+
+For a complete list of all settings, please see PCR_primer_settings.txt
+Read sequence of length 2031 bp
+Sequence starts with: GAGCGTGCCGGCTTCGAGGT
+Sequence ends with: ACAAGATGCACGCGCGTTCC
+Sequence hash: 892738e3839a1e96ad1871f10017452c
+Designing up to 10 primer sets for recondita...
+Starting primer design on sequence of length 2031 bp
+Primer3 args: SEQUENCE_INCLUDED_REGION=[0, 2031], excluded regions count: 0
+Trying primer3.design_primers...
+Primer design completed in 0.03 seconds, found 10 primer pairs
+Results saved to: 3_/CONSENSUS_5_primers.csv
+Saved 10 primer sets
+Successfully designed 10 primer sets for recondita
+Saved 10 primer sets to 3_/CONSENSUS_5_primers.csv
+
+Primer design successfully completed for 6 out of 6 files.

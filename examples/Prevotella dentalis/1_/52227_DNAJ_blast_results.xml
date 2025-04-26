@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_8287733</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>755</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_8287733</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>755</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|537361572|gb|KF110834.1|</Hit_id>
+  <Hit_def>Prevotella dentalis strain HJM021 chaperone protein DnaJ (dnaJ) gene, partial cds &gt;gi|537361574|gb|KF110835.1| Prevotella dentalis strain HJM019 chaperone protein DnaJ (dnaJ) gene, partial cds</Hit_def>
+  <Hit_accession>KF110834</Hit_accession>
+  <Hit_len>755</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>755</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>755</Hsp_identity>
+      <Hsp_positive>755</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_qseq>
+      <Hsp_hseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>0.00116051</Hsp_evalue>
+      <Hsp_query-from>74</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>161</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGG---CGGCGGT</Hsp_qseq>
+      <Hsp_hseq>CGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGT</Hsp_hseq>
+      <Hsp_midline>||||  ||| ||| ||||||||||||| |||||   |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|537361858|gb|KF110977.1|</Hit_id>
+  <Hit_def>Prevotella dentalis strain HJM035 chaperone protein DnaJ (dnaJ) gene, partial cds</Hit_def>
+  <Hit_accession>KF110977</Hit_accession>
+  <Hit_len>755</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1335.78</Hsp_bit-score>
+      <Hsp_score>1480</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>755</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>749</Hsp_identity>
+      <Hsp_positive>749</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_qseq>
+      <Hsp_hseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTGCCGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCTGCACCCGAGACCTGTCCCACCTGCCACGGAACGGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  | ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>0.00116051</Hsp_evalue>
+      <Hsp_query-from>74</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>161</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGG---CGGCGGT</Hsp_qseq>
+      <Hsp_hseq>CGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGT</Hsp_hseq>
+      <Hsp_midline>||||  ||| ||| ||||||||||||| |||||   |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|537361532|gb|KF110814.1|</Hit_id>
+  <Hit_def>Prevotella dentalis strain HJX054 chaperone protein DnaJ (dnaJ) gene, partial cds &gt;gi|537361556|gb|KF110826.1| Prevotella dentalis strain HJX055 chaperone protein DnaJ (dnaJ) gene, partial cds &gt;gi|537361576|gb|KF110836.1| Prevotella dentalis strain HJH26 chaperone protein DnaJ (dnaJ) gene, partial cds</Hit_def>
+  <Hit_accession>KF110814</Hit_accession>
+  <Hit_len>755</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1326.76</Hsp_bit-score>
+      <Hsp_score>1470</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>755</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>747</Hsp_identity>
+      <Hsp_positive>747</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_qseq>
+      <Hsp_hseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTGCCGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGTCACGGGTCGGGCGCCGAGGGCGGCGCTGCACCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACTTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||  | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>0.00116051</Hsp_evalue>
+      <Hsp_query-from>74</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>161</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGG---CGGCGGT</Hsp_qseq>
+      <Hsp_hseq>CGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGT</Hsp_hseq>
+      <Hsp_midline>||||  ||| ||| ||||||||||||| |||||   |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|433303004|gb|CP003369.1|</Hit_id>
+  <Hit_def>Prevotella dentalis DSM 3688 chromosome 2, complete sequence</Hit_def>
+  <Hit_accession>CP003369</Hit_accession>
+  <Hit_len>1450390</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1326.76</Hsp_bit-score>
+      <Hsp_score>1470</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>755</Hsp_query-to>
+      <Hsp_hit-from>282374</Hsp_hit-from>
+      <Hsp_hit-to>283128</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>747</Hsp_identity>
+      <Hsp_positive>747</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_qseq>
+      <Hsp_hseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTGCCGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGCCACGGCGGCGGGTTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCTGCGCCCGAGACCTGTCCCACCTGCCACGGAACGGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|537361536|gb|KF110816.1|</Hit_id>
+  <Hit_def>Prevotella dentalis strain HJM036 chaperone protein DnaJ (dnaJ) gene, partial cds &gt;gi|537361554|gb|KF110825.1| Prevotella dentalis strain HJX061 chaperone protein DnaJ (dnaJ) gene, partial cds</Hit_def>
+  <Hit_accession>KF110816</Hit_accession>
+  <Hit_len>755</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1322.25</Hsp_bit-score>
+      <Hsp_score>1465</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>755</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>746</Hsp_identity>
+      <Hsp_positive>746</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_qseq>
+      <Hsp_hseq>AGGAAGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTGCCGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCACGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGTCACGGGTCGGGCGCCGAGGGCGGCGCTGCGCCCGAGACCTGTCCCACCTGCCACGGAACGGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||  ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>0.00116051</Hsp_evalue>
+      <Hsp_query-from>74</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>161</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGG---CGGCGGT</Hsp_qseq>
+      <Hsp_hseq>CGGCGGGCACGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGT</Hsp_hseq>
+      <Hsp_midline>||||  ||| ||| ||||||||||||| |||||   |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|537361534|gb|KF110815.1|</Hit_id>
+  <Hit_def>Prevotella dentalis strain HJX023 chaperone protein DnaJ (dnaJ) gene, partial cds</Hit_def>
+  <Hit_accession>KF110815</Hit_accession>
+  <Hit_len>755</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1313.24</Hsp_bit-score>
+      <Hsp_score>1455</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>755</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>744</Hsp_identity>
+      <Hsp_positive>744</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>755</Hsp_align-len>
+      <Hsp_qseq>AGGAGGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTACTGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCATGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGCCACGGCTCGGGCGCCGAGGGCGGCGCCTCGCCCGAGACCTGTCCCACCTGCCACGGAACAGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAAGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCCCTCGGCGGCGAAGTGGACGTGCCC</Hsp_qseq>
+      <Hsp_hseq>AGGAAGCCGCCGAGGCTTACGAGGTGCTGCACGACGCCCAGAAGCGTCAGCAGTACGACCAGTTCGGCTTCAACGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGGCGGCGGTGCCGGCATGAACATGGACGACATTTTCTCCATGTTCGGCGACATCTTCGGCGGGCACGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGTGGCGGCGGCGATCAGCAGCGCGTCTACCGCGGCAGCGACCTGCGGCTCAAGGTGAAACTGTCGCTTCAGGACGTGGCCAGCGGCGTCACCAAGAAGTTCAAGGTGCGCAAGGACGTGGCGTGCAGCCACTGTCACGGGTCGGGCGCCGAGGGCGGCGCTGCGCCCGAGACCTGTCCCACCTGCCACGGAACGGGCATTGTGAGCCGCACGGTGCGCTCCATGTTCGGCATGATGACCACCCAGGCCGAGTGTCCCACCTGCCACGGCGAGGGCACCGTCATCAAGAACAAGTGCAAGGAGTGCAGCGGCACGGGCACCGTCAAGGGCGAAGAAGTGGTCGAAATCAACATTCCCGCCGGCGTGGAAGAGGGCATGGTGCTCAACGTGCACGGCAAAGGCAACGCCGGCGCCCACAACGGCATCAACGGCGACATACAGGTGCTGGTGGAGGAAGAGAAGAACGACACCTTCATCCGCGACAAGCAGGACGTGCTCTACAACCTGCTGCTCGACTTCCCCACGGCTGCACTCGGCGGCGAAGTGGACGTGCCC</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||  ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.9604</Hsp_bit-score>
+      <Hsp_score>44</Hsp_score>
+      <Hsp_evalue>0.00116051</Hsp_evalue>
+      <Hsp_query-from>74</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>161</Hsp_hit-from>
+      <Hsp_hit-to>203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CGGCCCGCAAGGCAGCGGATTCGGCGGGTTCGG---CGGCGGT</Hsp_qseq>
+      <Hsp_hseq>CGGCGGGCACGGCGGCGGATTCGGCGGATTCGGGTTCGGCGGT</Hsp_hseq>
+      <Hsp_midline>||||  ||| ||| ||||||||||||| |||||   |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|433301591|gb|CP003368.1|</Hit_id>
+  <Hit_def>Prevotella dentalis DSM 3688 chromosome 1, complete sequence</Hit_def>
+  <Hit_accession>CP003368</Hit_accession>
+  <Hit_len>1890695</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>35.5503</Hsp_bit-score>
+      <Hsp_score>38</Hsp_score>
+      <Hsp_evalue>0.0493462</Hsp_evalue>
+      <Hsp_query-from>703</Hsp_query-from>
+      <Hsp_query-to>726</Hsp_query-to>
+      <Hsp_hit-from>1105851</Hsp_hit-from>
+      <Hsp_hit-to>1105828</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>ACCTGCTGCTCGACTTCCCCACGG</Hsp_qseq>
+      <Hsp_hseq>ACCTGCTGCTCGACTTCCGCATGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>49</Statistics_db-num>
+      <Statistics_db-len>3396786</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

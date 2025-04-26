@@ -1,0 +1,57 @@
+Organism: Welwitschia mirabilis
+TaxID: 3377
+Total sequences analyzed: 10246
+Total unique genes found: 50
+Feature types found: 3'UTR, 5'UTR, CDS, exon, gap, gene, intron, mRNA, misc_RNA, misc_feature, prim_transcript, rRNA, regulatory, repeat_region, source, tRNA
+
+Gene counts:
+1. TRNA	15
+2. RBCL	11
+3. RPS3	9
+4. RPS12	8
+5. RPS4	8
+6. RRN5	7
+7. MATK	7
+8. ATPB	7
+9. RPL16	6
+10. TRNH	6
+11. PSBA	6
+12. PSAA	6
+13. PSBB	6
+14. TRNI	5
+15. NAD1	5
+16. TRNL	5
+17. NAD5	5
+18. TRNS	5
+19. TRNG	5
+20. TRNT	5
+21. RPS7	5
+22. TRNF	5
+23. PSBD	5
+24. PSBC	5
+25. PSBZ	5
+26. RPOC2	5
+27. PSBL	5
+28. PSBF	5
+29. PSBE	5
+30. PSBT	5
+31. TRNR	4
+32. TRNV	4
+33. YCF3	4
+34. NAD2	4
+35. COX2	4
+36. TRNK	4
+37. RPOC1	4
+38. ATPF	4
+39. PETB	4
+40. RPL2	4
+41. YCF2	4
+42. RRN16	4
+43. RRN23	4
+44. RRN4.5	4
+45. TRNN	4
+46. RPL32	4
+47. TRNFM	4
+48. TRNP	4
+49. NAD7	3
+50. NAD4	3

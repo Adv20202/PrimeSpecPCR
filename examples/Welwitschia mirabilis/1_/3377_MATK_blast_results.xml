@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_6777227</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>826</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_6777227</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>826</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|33332472|gb|AF542562.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>AF542562</Hit_accession>
+  <Hit_len>826</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1490.87</Hsp_bit-score>
+      <Hsp_score>1652</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>826</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>826</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>826</Hsp_identity>
+      <Hsp_positive>826</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>826</Hsp_align-len>
+      <Hsp_qseq>GTATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_qseq>
+      <Hsp_hseq>GTATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>4.87729e-07</Hsp_evalue>
+      <Hsp_query-from>306</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>349</Hsp_hit-from>
+      <Hsp_hit-to>306</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>AAAATCATAGAACTTTTTT-TCGGATAAAAATGTTCTATGATTTT</Hsp_qseq>
+      <Hsp_hseq>AAAATCATAGAACATTTTTATCCGAAAAAAA-GTTCTATGATTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| || || ||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|187763084|ref|NC_010654.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis chloroplast, complete genome &gt;gi|163311614|gb|EU342371.1| Welwitschia mirabilis chloroplast, complete genome</Hit_def>
+  <Hit_accession>NC_010654</Hit_accession>
+  <Hit_len>119726</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1484.56</Hsp_bit-score>
+      <Hsp_score>1645</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>826</Hsp_query-to>
+      <Hsp_hit-from>2300</Hsp_hit-from>
+      <Hsp_hit-to>1476</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>824</Hsp_identity>
+      <Hsp_positive>824</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>825</Hsp_align-len>
+      <Hsp_qseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_qseq>
+      <Hsp_hseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATAAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>4.87729e-07</Hsp_evalue>
+      <Hsp_query-from>306</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1953</Hsp_hit-from>
+      <Hsp_hit-to>1996</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>AAAATCATAGAAC-TTTTTTTCGGATAAAAATGTTCTATGATTTT</Hsp_qseq>
+      <Hsp_hseq>AAAATCATAGAACATTTTTATCCGA-AAAAAAGTTCTATGATTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| || || ||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|977902776|gb|KT347148.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis plastid, complete genome</Hit_def>
+  <Hit_accession>KT347148</Hit_accession>
+  <Hit_len>119458</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1484.56</Hsp_bit-score>
+      <Hsp_score>1645</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>826</Hsp_query-to>
+      <Hsp_hit-from>2300</Hsp_hit-from>
+      <Hsp_hit-to>1476</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>824</Hsp_identity>
+      <Hsp_positive>824</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>825</Hsp_align-len>
+      <Hsp_qseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_qseq>
+      <Hsp_hseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATAAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>4.87729e-07</Hsp_evalue>
+      <Hsp_query-from>306</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1953</Hsp_hit-from>
+      <Hsp_hit-to>1996</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>AAAATCATAGAAC-TTTTTTTCGGATAAAAATGTTCTATGATTTT</Hsp_qseq>
+      <Hsp_hseq>AAAATCATAGAACATTTTTATCCGA-AAAAAAGTTCTATGATTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| || || ||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|220983401|dbj|AP009568.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis chloroplast DNA, complete genome</Hit_def>
+  <Hit_accession>AP009568</Hit_accession>
+  <Hit_len>118919</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1480.05</Hsp_bit-score>
+      <Hsp_score>1640</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>826</Hsp_query-to>
+      <Hsp_hit-from>7476</Hsp_hit-from>
+      <Hsp_hit-to>8300</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>823</Hsp_identity>
+      <Hsp_positive>823</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>825</Hsp_align-len>
+      <Hsp_qseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_qseq>
+      <Hsp_hseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATAAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTCTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>4.87729e-07</Hsp_evalue>
+      <Hsp_query-from>306</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>7823</Hsp_hit-from>
+      <Hsp_hit-to>7780</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>AAAATCATAGAACTTTTTT-TCGGATAAAAATGTTCTATGATTTT</Hsp_qseq>
+      <Hsp_hseq>AAAATCATAGAACATTTTTATCCGAAAAAAA-GTTCTATGATTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| || || ||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|14579066|gb|AF280996.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis maturase K (matK) gene, complete cds; chloroplast gene for chloroplast product</Hit_def>
+  <Hit_accession>AF280996</Hit_accession>
+  <Hit_len>1575</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1476.44</Hsp_bit-score>
+      <Hsp_score>1636</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>826</Hsp_query-to>
+      <Hsp_hit-from>667</Hsp_hit-from>
+      <Hsp_hit-to>1491</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>822</Hsp_identity>
+      <Hsp_positive>822</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>825</Hsp_align-len>
+      <Hsp_qseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGAACGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_qseq>
+      <Hsp_hseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATAAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTCTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGATCGATTTTGGAAAATTTTATACTATTATTACTGTGGAGCAAAAAATAAAGCATATTTAGATCGTATTAAGTATATACTTTTACTTTCATGTTTTAAAACCATAGCTTTTAAACATAAAAGTACTATACGTGTAGTTCGGAAAGAGTTCGATTTTGAACTTCGTAAAAAATTCTTTCCAAAGGAAATCGAATTCGAAAGAGATTTTCTTTGTTCGCGGTTTGCCCAAAAATTCAAGAAGTGGCTATTGAAGATCAACTTAGCTACAGANCGTTTTTGGCTTTTAAATATTTTAAAAGTTCATTTTCTCACGAAGTCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>4.87729e-07</Hsp_evalue>
+      <Hsp_query-from>306</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1014</Hsp_hit-from>
+      <Hsp_hit-to>971</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>AAAATCATAGAACTTTTTT-TCGGATAAAAATGTTCTATGATTTT</Hsp_qseq>
+      <Hsp_hseq>AAAATCATAGAACATTTTTATCCGAAAAAAA-GTTCTATGATTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| || || ||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|45685210|gb|AY492030.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>AY492030</Hit_accession>
+  <Hit_len>1176</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>916.496</Hsp_bit-score>
+      <Hsp_score>1015</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>511</Hsp_query-to>
+      <Hsp_hit-from>667</Hsp_hit-from>
+      <Hsp_hit-to>1176</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>509</Hsp_identity>
+      <Hsp_positive>509</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>510</Hsp_align-len>
+      <Hsp_qseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATGAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGAT</Hsp_qseq>
+      <Hsp_hseq>TATCGTGCAAAATTCAAATCTTTTGGATCTTTTGCTGAACAAACTCATTTTCATCGAAAGATGAAACTCAAAAACCCTAAAATAAAAGCACACGAAAAGTTTTCTGAGGTTTTTTTTTTTAGTCACTATTCTCGATTTGGAGAAAAATCAGTTTTAATTGGAACTCCGATCCTGATAAAAAAGTATAGATATTTTTTTTGTCACTTCTGGCAAACTTCTTTTTTTTTCTCCGAGACTTATGGACTTTTTGTTCATGAATTCTCTAGAAAAAATATTTCTCTTATAGGTTATTCCTTTTATTTTCAAAATCATAGAACTTTTTTTCGGATAAAAATGTTCTATGATTTTTTCTTTACAGAGTTGGTTAACAACGAATTTCATCCAAAATTTGGAATTATTTCAATAATGAAATTCTTGTCAATAGAAGGGTTCTGTGATATTATGGGAAGACCCATTAGTAAGTTGTCTTGGACTTGTTTTACAGATGATGATATCTTTGATAAATGTGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>4.87729e-07</Hsp_evalue>
+      <Hsp_query-from>306</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>1014</Hsp_hit-from>
+      <Hsp_hit-to>971</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>AAAATCATAGAACTTTTTT-TCGGATAAAAATGTTCTATGATTTT</Hsp_qseq>
+      <Hsp_hseq>AAAATCATAGAACATTTTTATCCGAAAAAAA-GTTCTATGATTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| || || ||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>93</Statistics_db-num>
+      <Statistics_db-len>2352632</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_6565845</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>293</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_6565845</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>293</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|188038636|gb|EU516370.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis ribosomal protein S3 (rps3) gene, exons 2, 3 and partial cds; mitochondrial</Hit_def>
+  <Hit_accession>EU516370</Hit_accession>
+  <Hit_len>293</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.673</Hsp_bit-score>
+      <Hsp_score>586</Hsp_score>
+      <Hsp_evalue>2.27475e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>293</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>293</Hsp_align-len>
+      <Hsp_qseq>GGTGTATTCTGAATCATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_qseq>
+      <Hsp_hseq>GGTGTATTCTGAATCATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|985761555|ref|NC_029130.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis mitochondrion, complete genome &gt;gi|977902746|gb|KT313400.1| Welwitschia mirabilis mitochondrion, complete genome</Hit_def>
+  <Hit_accession>NC_029130</Hit_accession>
+  <Hit_len>978846</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.673</Hsp_bit-score>
+      <Hsp_score>586</Hsp_score>
+      <Hsp_evalue>2.27475e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>108518</Hsp_hit-from>
+      <Hsp_hit-to>108226</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>293</Hsp_align-len>
+      <Hsp_qseq>GGTGTATTCTGAATCATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_qseq>
+      <Hsp_hseq>GGTGTATTCTGAATCATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>36.452</Hsp_bit-score>
+      <Hsp_score>39</Hsp_score>
+      <Hsp_evalue>0.0126705</Hsp_evalue>
+      <Hsp_query-from>248</Hsp_query-from>
+      <Hsp_query-to>274</Hsp_query-to>
+      <Hsp_hit-from>379980</Hsp_hit-from>
+      <Hsp_hit-to>380006</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CGGGCTACACGCAGGGGAAGAGCTACG</Hsp_qseq>
+      <Hsp_hseq>CGGGCTACACGCGGGGAACGAGCTACG</Hsp_hseq>
+      <Hsp_midline>|||||||||||| ||| | ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2059416263|gb|MW354477.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis NADH dehydrogenase subunit 5 (nad5) gene, exon 1 and partial cds; cytochrome c biogenesis FN (ccmFN), cytochrome c biogenesis B (ccmB), ATP synthase subunit 9 (atp9), NADH dehydrogenase subunit 4L (nad4L), ribosomal protein S4 (rps4), succinate dehydrogenase cytochrome subunit 4 (sdh4), cytochrome c oxidase subunit 3 (cox3), Sec-independent protein translocase protein (mttB), cytochrome c biogenesis C (ccmC), ribosomal protein L10 (rpl10), ribosomal protein S12 (rps12), NADH dehydrogenase subunit 3 (nad3), ribosomal protein S3 (rps3), and NADH dehydrogenase subunit 4 (nad4) genes, complete cds; and tRNA-Glu (trnE-UUC) gene, complete sequence; mitochondrial</Hit_def>
+  <Hit_accession>MW354477</Hit_accession>
+  <Hit_len>254854</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.673</Hsp_bit-score>
+      <Hsp_score>586</Hsp_score>
+      <Hsp_evalue>2.27475e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>144087</Hsp_hit-from>
+      <Hsp_hit-to>143795</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>293</Hsp_align-len>
+      <Hsp_qseq>GGTGTATTCTGAATCATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_qseq>
+      <Hsp_hseq>GGTGTATTCTGAATCATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|272716660|gb|FJ843649.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis ribosomal protein S3 (rps3) gene, partial cds; and truncated ribosomal protein L16 (rpl16) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>FJ843649</Hit_accession>
+  <Hit_len>2360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>502.623</Hsp_bit-score>
+      <Hsp_score>556</Hsp_score>
+      <Hsp_evalue>3.16195e-143</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>278</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>278</Hsp_identity>
+      <Hsp_positive>278</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>278</Hsp_align-len>
+      <Hsp_qseq>ATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_qseq>
+      <Hsp_hseq>ATTCTCATACACGGACATTCATTCATCTATTTATTCCCCGTCGACCACTGAAACGACGACTTATTAGACGCGTGAGATCAGGACCGGGCCGGTGGTGGGCATTTGGGTTCGTAAGATTGATCGGGCCCGGTGTAGGGGAAGACCGAAACGAAGTGAGAGGGGCGCGCTCAGAGGGCAGGATAAAGCGAGCGAATATGACCGGAGTTAGGGCAGGAGAAACTGTCAAGTCGACCGGGCTACACGCAGGGGAAGAGCTACGCTTTGTAAGGATCTGGCCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2059416285|gb|MW354480.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis NADH dehydrogenase subunit 9 (nad9), apocytochrome b (cob), and ATP synthase subunit 4 (atp4) genes, complete cds; NADH dehydrogenase subunit 2 (nad2) gene, exon 1 and partial cds; NADH dehydrogenase subunit 5 (nad5) gene, exon 2 and partial cds; cytochrome c oxidase subunit 2 (cox2) gene, exon 1 and partial cds; cytochrome c oxidase subunit 1 (cox1) and NADH dehydrogenase subunit 7 (nad7) genes, complete cds; tRNA-Gln (trnQ-UUG) gene, complete sequence; NADH dehydrogenase subunit 1 (nad1) gene, exon 3 and partial cds; tRNA-Ile (trnI-CAU) and tRNA-Trp (trnW-CCA) genes, complete sequence; and ATP synthase subunit 1 (atp1) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>MW354480</Hit_accession>
+  <Hit_len>334748</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>36.452</Hsp_bit-score>
+      <Hsp_score>39</Hsp_score>
+      <Hsp_evalue>0.0126705</Hsp_evalue>
+      <Hsp_query-from>248</Hsp_query-from>
+      <Hsp_query-to>274</Hsp_query-to>
+      <Hsp_hit-from>263621</Hsp_hit-from>
+      <Hsp_hit-to>263595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CGGGCTACACGCAGGGGAAGAGCTACG</Hsp_qseq>
+      <Hsp_hseq>CGGGCTACACGCGGGGAACGAGCTACG</Hsp_hseq>
+      <Hsp_midline>|||||||||||| ||| | ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>93</Statistics_db-num>
+      <Statistics_db-len>2352632</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

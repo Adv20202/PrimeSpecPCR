@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_7753297</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>1130</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_7753297</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>1130</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|8517670|emb|AJ235645.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis chloroplast atpB gene</Hit_def>
+  <Hit_accession>AJ235645</Hit_accession>
+  <Hit_len>1130</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1978.68</Hsp_bit-score>
+      <Hsp_score>2193</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>1130</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>1130</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>1130</Hsp_identity>
+      <Hsp_positive>1130</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>1130</Hsp_align-len>
+      <Hsp_qseq>ATCATTGGYCCRGTACTGGATGTATCCTTTCTCCCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTGTDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_qseq>
+      <Hsp_hseq>ATCATTGGYCCRGTACTGGATGTATCCTTTCTCCCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTGTDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|187763084|ref|NC_010654.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis chloroplast, complete genome &gt;gi|163311614|gb|EU342371.1| Welwitschia mirabilis chloroplast, complete genome</Hit_def>
+  <Hit_accession>NC_010654</Hit_accession>
+  <Hit_len>119726</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1898.43</Hsp_bit-score>
+      <Hsp_score>2104</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>1130</Hsp_query-to>
+      <Hsp_hit-from>42389</Hsp_hit-from>
+      <Hsp_hit-to>41263</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>1100</Hsp_identity>
+      <Hsp_positive>1100</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>1132</Hsp_align-len>
+      <Hsp_qseq>ATCATTGGYCCRGTACTGGATGTATCCTTT-CTCCCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTGTDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATT-GGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_qseq>
+      <Hsp_hseq>ATAATAGGTCCCGTACTGGATGTATCCTTTTCTCCCGGT-AATCTCCCTAATATTTACAATTCTTTGATAGTGAAAGGTCAA-ATAGA--TGGTAGAGAAATTTCTGTTACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTTAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCT-ACCGCCGTGGAGGAAAAATAGGTCTCTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGACCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCAGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACAAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCACAAGGAGTGAAACAAACTTTGCAACGTTACAAAGAACTTCA</Hsp_hseq>
+      <Hsp_midline>|| || || || |||||||||||||||||| |||||||| ||| ||||||||||| |||     | |||||||||||||| | |||||  |||||||  |||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|977902776|gb|KT347148.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis plastid, complete genome</Hit_def>
+  <Hit_accession>KT347148</Hit_accession>
+  <Hit_len>119458</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1898.43</Hsp_bit-score>
+      <Hsp_score>2104</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>1130</Hsp_query-to>
+      <Hsp_hit-from>42387</Hsp_hit-from>
+      <Hsp_hit-to>41261</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>1100</Hsp_identity>
+      <Hsp_positive>1100</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>1132</Hsp_align-len>
+      <Hsp_qseq>ATCATTGGYCCRGTACTGGATGTATCCTTT-CTCCCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTGTDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATT-GGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_qseq>
+      <Hsp_hseq>ATAATAGGTCCCGTACTGGATGTATCCTTTTCTCCCGGT-AATCTCCCTAATATTTACAATTCTTTGATAGTGAAAGGTCAA-ATAGA--TGGTAGAGAAATTTCTGTTACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTTAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCT-ACCGCCGTGGAGGAAAAATAGGTCTCTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGACCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCAGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACAAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCACAAGGAGTGAAACAAACTTTGCAACGTTACAAAGAACTTCA</Hsp_hseq>
+      <Hsp_midline>|| || || || |||||||||||||||||| |||||||| ||| ||||||||||| |||     | |||||||||||||| | |||||  |||||||  |||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|27435913|gb|AF239795.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis ATP synthase beta subunit (atpB) gene, partial cds; chloroplast gene for chloroplast product</Hit_def>
+  <Hit_accession>AF239795</Hit_accession>
+  <Hit_len>1432</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1898.43</Hsp_bit-score>
+      <Hsp_score>2104</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>1130</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>1130</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>1100</Hsp_identity>
+      <Hsp_positive>1100</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>1132</Hsp_align-len>
+      <Hsp_qseq>ATCATTGGYCCRGTACTGGATGTATCCTTT-CTCCCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTGTDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATT-GGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_qseq>
+      <Hsp_hseq>ATAATAGGTCCCGTACTGGATGTATCCTTTTCTCCCGGT-AATCTCCCTAATATTTACAATTCTTTGATAGTGAAAGGTCAA-ATAGA--TGGTAGAGAAATTTCTGTTACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTTAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCT-ACCGCCGTGGAGGAAAAATAGGTCTCTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGACCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCAGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACAAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCACAAGGAGTGAAACAAACTTTGCAACGTTACAAAGAACTTCA</Hsp_hseq>
+      <Hsp_midline>|| || || || |||||||||||||||||| |||||||| ||| ||||||||||| |||     | |||||||||||||| | |||||  |||||||  |||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|220983401|dbj|AP009568.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis chloroplast DNA, complete genome</Hit_def>
+  <Hit_accession>AP009568</Hit_accession>
+  <Hit_len>118919</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1898.43</Hsp_bit-score>
+      <Hsp_score>2104</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>1130</Hsp_query-to>
+      <Hsp_hit-from>86318</Hsp_hit-from>
+      <Hsp_hit-to>87444</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>1100</Hsp_identity>
+      <Hsp_positive>1100</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>1132</Hsp_align-len>
+      <Hsp_qseq>ATCATTGGYCCRGTACTGGATGTATCCTTT-CTCCCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTGTDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATT-GGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_qseq>
+      <Hsp_hseq>ATAATAGGTCCCGTACTGGATGTATCCTTTTCTCCCGGT-AATCTCCCTAATATTTACAATTCTTTGATAGTGAAAGGTCAA-ATAGA--TGGTAGAGAAATTTCTGTTACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTTAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCT-ACCGCCGTGGAGGAAAAATAGGTCTCTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGACCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCAGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACAAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCACAAGGAGTGAAACAAACTTTGCAACGTTACAAAGAACTTCA</Hsp_hseq>
+      <Hsp_midline>|| || || || |||||||||||||||||| |||||||| ||| ||||||||||| |||     | |||||||||||||| | |||||  |||||||  |||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|55056887|emb|AJ621922.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis chloroplast partial atpB gene for ATP synthase beta subunit</Hit_def>
+  <Hit_accession>AJ621922</Hit_accession>
+  <Hit_len>1349</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1876.79</Hsp_bit-score>
+      <Hsp_score>2080</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>1130</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>1122</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>1092</Hsp_identity>
+      <Hsp_positive>1092</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>1126</Hsp_align-len>
+      <Hsp_qseq>CCRGTACTGGATGTATCCTTTCTC-CCGGTNAATNTCCCTAATATTAACACDCTNTNGATAGTGAAAGGTCNANATAGANTTGGTAGASMAATTNCTG---TDACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTAAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATT-GGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCTTACCGCCGTGGAGGAAAAATAGGTCTTTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGAYCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCGGGAGCTCGTATGCGAGTTGGTTTTACTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACMAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCNCAANGAGTGAAACAAACTTTGCAACGTTWCAAAGAACTTCA</Hsp_qseq>
+      <Hsp_hseq>CCGGTACTGGATGTATCCTTTTTCTCCGGT-AATCTCCCTAATATTTACAATTCTTTGATAGTGAAAGGTCAA-ATAGA--TGGTAGAGAAATTTCTGNNNTTACTTGTGAGGTACAACAATTATTAGGAAATAATACTGTTAGAGCTGTAGCTATGAGTGCTACAGATGGTTTAAAGAGAGGAATGAAAGTTATTGACACGGGAGCTCCTCTTAGTGTTCCCGTAGGAAAAGCTACTCTGGGACGAATTTTCAATGTTCTTGGAGAACCTGTTGATAATTTAGGTCCTGTAGAAACAGACAAAACATCTCCTATTCATCGGTCCGCTCCTACCTTTCCAGAGTTGGATACCAATTTGGCTATTTTTGAAACAGGTATAAAAGTAGTGGATCTTTTAGCACCCT-ACCGCCGTGGAGGAAAAATAGGTCTCTTCGGGGGAGCCGGAGTGGGTAAAACAGTACTAATTATGGAGTTAATAAACAATATTGCTAAAGCTCACGGAGGTGTATCCGTTTTTGGTGGAGTAGGAGAACGTACCCGTGAAGGAAATGACCTTTACATGGAAATGAAACAATCCGGAGTAATTAATGAAAAAAATATAACGGAATCCAAGGTAGCTCTGGTTTATGGTCAGATGAATGAACCACCAGGAGCTCGTATGCGAGTTGGTTTTTCTGCCCTAGCTATGGCGGAATATTTCCGAGATGTCAATAAACAAGACGTCCTTTTATTTATAGATAACATATTCCGATTTGTTCAAGCAGGATCTGAAATTTCCGCTTTGTTAGGAAGAATGCCGTCTGCTGTAGGGTATCAACCCACCCTTAGCACAGAAATGGGTTCTTTGCAAGAGCGAATCACCTCTACAAAAAAAGGATCCATAACCTCGGTTCAAGCAGTTTATGTACCTGCAGATGACTTAACTGACCCGGCTCCTGCTACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAAGGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGCTACAACCTGGTATCGTGGGTGAAGAACATTATGAAACTGCACAAGGAGTGAAACAAACTTTGCAACGTTACAAAGAACTTCA</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||||||||| || ||||| ||| ||||||||||| |||     | |||||||||||||| | |||||  |||||||  |||| |||   | |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| |||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|985761555|ref|NC_029130.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis mitochondrion, complete genome &gt;gi|977902746|gb|KT313400.1| Welwitschia mirabilis mitochondrion, complete genome</Hit_def>
+  <Hit_accession>NC_029130</Hit_accession>
+  <Hit_len>978846</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.491</Hsp_bit-score>
+      <Hsp_score>181</Hsp_score>
+      <Hsp_evalue>1.47886e-40</Hsp_evalue>
+      <Hsp_query-from>910</Hsp_query-from>
+      <Hsp_query-to>1102</Hsp_query-to>
+      <Hsp_hit-from>381161</Hsp_hit-from>
+      <Hsp_hit-to>381356</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>158</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>GTACCTGCAGATGACTTAACTGACCCGGCTCCTGC-TACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAA-GGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGC-TACAACCTGGTATCGTGGGTGAAGAACATTAT-GAAACTGCNCAANGAGTGAAAC</Hsp_qseq>
+      <Hsp_hseq>GTACCCGCGGATGACTTGACTGATCCGGCTCCTGCGTACGTCAAA-GCACACAACGATGCGTATACCGTACTATCAAGAGGAAACGCTGCCTCCCGGGATCTACCCAGCAGTCGATCCGAAGGATTCCACATCGTCTATGCGTATAACTGCGTATCGTGGGTGAAGAACATGATCGAAATTGCACAAGGAGTGAAAC</Hsp_hseq>
+      <Hsp_midline>||||| || |||||||| ||||| ||||||||||| |||  ||   ||||||   |||||   |||||||||||||||||||   |||||     |||||||||||||||||||||||   ||||||||||||  |||||| || |||   |||||||||||||||||||| || |||| ||| ||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2059416285|gb|MW354480.1|</Hit_id>
+  <Hit_def>Welwitschia mirabilis NADH dehydrogenase subunit 9 (nad9), apocytochrome b (cob), and ATP synthase subunit 4 (atp4) genes, complete cds; NADH dehydrogenase subunit 2 (nad2) gene, exon 1 and partial cds; NADH dehydrogenase subunit 5 (nad5) gene, exon 2 and partial cds; cytochrome c oxidase subunit 2 (cox2) gene, exon 1 and partial cds; cytochrome c oxidase subunit 1 (cox1) and NADH dehydrogenase subunit 7 (nad7) genes, complete cds; tRNA-Gln (trnQ-UUG) gene, complete sequence; NADH dehydrogenase subunit 1 (nad1) gene, exon 3 and partial cds; tRNA-Ile (trnI-CAU) and tRNA-Trp (trnW-CCA) genes, complete sequence; and ATP synthase subunit 1 (atp1) gene, complete cds; mitochondrial</Hit_def>
+  <Hit_accession>MW354480</Hit_accession>
+  <Hit_len>334748</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.491</Hsp_bit-score>
+      <Hsp_score>181</Hsp_score>
+      <Hsp_evalue>1.47886e-40</Hsp_evalue>
+      <Hsp_query-from>910</Hsp_query-from>
+      <Hsp_query-to>1102</Hsp_query-to>
+      <Hsp_hit-from>262440</Hsp_hit-from>
+      <Hsp_hit-to>262245</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>158</Hsp_identity>
+      <Hsp_positive>158</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>197</Hsp_align-len>
+      <Hsp_qseq>GTACCTGCAGATGACTTAACTGACCCGGCTCCTGC-TACAACATTTGCACACTTAGATGCTACTACCGTACTATCAAGAGGATTAGCTGCAAAA-GGGATCTACCCAGCAGTCGATCCTTTGGATTCCACATCTACTATGC-TACAACCTGGTATCGTGGGTGAAGAACATTAT-GAAACTGCNCAANGAGTGAAAC</Hsp_qseq>
+      <Hsp_hseq>GTACCCGCGGATGACTTGACTGATCCGGCTCCTGCGTACGTCAAA-GCACACAACGATGCGTATACCGTACTATCAAGAGGAAACGCTGCCTCCCGGGATCTACCCAGCAGTCGATCCGAAGGATTCCACATCGTCTATGCGTATAACTGCGTATCGTGGGTGAAGAACATGATCGAAATTGCACAAGGAGTGAAAC</Hsp_hseq>
+      <Hsp_midline>||||| || |||||||| ||||| ||||||||||| |||  ||   ||||||   |||||   |||||||||||||||||||   |||||     |||||||||||||||||||||||   ||||||||||||  |||||| || |||   |||||||||||||||||||| || |||| ||| ||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>93</Statistics_db-num>
+      <Statistics_db-len>2352632</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

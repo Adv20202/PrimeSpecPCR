@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_6679945</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>492</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_6679945</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>492</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|525330401|gb|JX533497.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR 25281 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533497</Hit_accession>
+  <Hit_len>492</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>888.544</Hsp_bit-score>
+      <Hsp_score>984</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>492</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>492</Hsp_identity>
+      <Hsp_positive>492</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|525330399|gb|JX533496.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR 25280 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533496</Hit_accession>
+  <Hit_len>495</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>888.544</Hsp_bit-score>
+      <Hsp_score>984</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>492</Hsp_identity>
+      <Hsp_positive>492</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|525330320|gb|JX533456.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher HSZ0764 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533456</Hit_accession>
+  <Hit_len>497</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>691.075</Hsp_bit-score>
+      <Hsp_score>765</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>449</Hsp_identity>
+      <Hsp_positive>449</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCCCCTAAACTCC-ACTCCGCGCACTAATCACTCATCTATTAATTCCCTCAGTGGCAAATCGACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACAATTGAAAAGTTCGAGAAGGAGGCTGCTGAGTTGGGTAAAGGATCCTTCAAGTAAGTTGCTTAACATCACCCGTACCTCCTTGTCTCACTACTAATACTTCATAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATTGCTGTAAGTCGCTCGTGAGATTTCTCAGAGTTGTGGCACAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATCGACGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCCCAAGCCGATTGTGCCATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||| || ||||| |  ||||| || |||||||| |||||| | || |||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||| ||||   ||  |||||| |||||  ||||||  ||| |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||||||||| ||| |||||||| || |||||||||||  |||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|525330351|gb|JX533472.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN870610 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533472</Hit_accession>
+  <Hit_len>490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>689.272</Hsp_bit-score>
+      <Hsp_score>763</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>489</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>446</Hsp_identity>
+      <Hsp_positive>446</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>489</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCCCCTAAACTCC-ACTCCGCGCACTAATCACTCATCTATYAATTCCCTCAGTGGCAAATCGACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACAATTGAAAAGTTCGAGAAGGAGGCTGCTGAGTTGGGTAAAGGATCCTTCAAGTAAGTTGCTTAACATCACCCGTACCTCCTTGTCTCACTACTAATACTTCATAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATTGCTGTAAGTCGCTCGTGAGATTTCTCAGAGTTGTGGCACAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATCGACGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACYTCCCAAGCCGATTGTGCTATCCTCATCATTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||| || ||||| |  ||||| || |||||||| |||||| | || |||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||| ||||   ||  |||||| |||||  ||||||  ||| |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||||||||| ||| |||||||| || |||||||||||  |||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||| || ||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|525330344|gb|JX533468.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN512787 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533468</Hit_accession>
+  <Hit_len>493</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>683.861</Hsp_bit-score>
+      <Hsp_score>757</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCCCCTAAACTCC-ACTCCGCGCACTAATCACTCATCTATTAATTCCCTCAGTGGCAAATCGACCACCACCGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACAATTGAAAAGTTCGAGAAGGAGGCTGCTGAGTTGGGTAAAGGATCCTTCAAGTAAGTTGCTTAACATCACCCGTACCTCCTTGTCTCACTACTAATACTTCATAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATTGCTGTAAGTCGCTCGTGAGATTTCTCAGAGTTGTGGCACAGCAYTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATCGACGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||| || ||||| |  ||||| || |||||||| |||||| | || |||||||| |||||||| |||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||| ||||   ||  |||||| |||||  ||||||  ||| |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||||||||| ||| |||||||| || |||||||||||  |||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|525330346|gb|JX533469.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN513209 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533469</Hit_accession>
+  <Hit_len>515</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>670.336</Hsp_bit-score>
+      <Hsp_score>742</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>509</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>447</Hsp_identity>
+      <Hsp_positive>447</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATT----CCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCCCCTAAACTCC-ACTCCGCGCACTAATCACTCATCTATTAATTAATTCCCTCAGTGGCAAATCGACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACAATTGAAAAGTTCGAGAAGGAGGCTGCTGAGTTGGGTAAAGGATCCTTCAAGTAAGTTGCTTAACATCAGCCGTACCTCCTTGTCTCACTACTAATACTTCATAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATTGCTGTAAGTCGCTCGTGAGATTTCTCAGAGTTGTGGCGCAGCGCTGATCACTATCAGTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATCGACGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||| || ||||| |  ||||| || |||||||| ||||    || | || |||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||| |||    ||  |||||| |||||  ||||||  ||| |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||||||||| ||| |||||||| || |||||||||||| ||| ||||||||| |||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|525330348|gb|JX533470.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN870591 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533470</Hit_accession>
+  <Hit_len>494</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>666.729</Hsp_bit-score>
+      <Hsp_score>738</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>489</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>444</Hsp_identity>
+      <Hsp_positive>444</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>493</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATT----CCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCATTCCCCTAAACTCC-ACTCCGCGCACTAATCACTCATCTATTAATTAATTCCCTCAGTGGCAAATCGACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACAATTGAAAAGTTCGAGAAGGAGGCTGCTGAGTTGGGTAAAGGATCCTTCAAGTAAGTTGCTTAAYATCAGCCGTACCTCCTTGTCTCACTACTAATACTTCATAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATTGCTGTAAGTCGCTCGTGAGATTTCTCAGAGTTGTGGCGCAGCACTGATCACTATCAGTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATCGACGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| ||||||| || ||||| |  ||||| || |||||||| ||||    || | || |||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||  |||    ||  |||||| |||||  ||||||  ||| |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||| ||||||||| ||| |||||||| || |||||||||||| ||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||| || ||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|525330393|gb|JX533493.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR 59448 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533493</Hit_accession>
+  <Hit_len>496</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>609.022</Hsp_bit-score>
+      <Hsp_score>674</Hsp_score>
+      <Hsp_evalue>1.77855e-176</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>495</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>430</Hsp_identity>
+      <Hsp_positive>430</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTGCCTTCCATCGCTCAAACACCTACTCCCCACACTAATCATTCATCCAACAACTTGCTCAGTGGCAAGTCCACCACCACCGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACTATCGAAAAGTTTGAGAAGGAGGCCGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTAGCTTACAGTTACTAACATTCACTCGTCTCAGTACTAATATCTCACCATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATCGCAGTAAGTTGCTTGTAAAATTTGTCAGATATGCAGCACATCACTGATGACTTTCACTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATCGATGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACTGGTACCTCCCAAGCTGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||  || |  |||| ||||||||||| ||||| |||||||| | ||| |   | || ||||| || |||||||| |||||||||||||||||||||||||||||||| ||||||||||| |||||||| ||||||||||| |||||||||||||||||||||||||||||||| |||||  || ||||| |    || | ||||   |||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||||||||| ||||||||||||| | |||  | |||  ||  ||  | ||||||| ||||||| |||||||||||||||||||||| ||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||| ||||| || ||||| |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|525330397|gb|JX533495.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR N1443 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533495</Hit_accession>
+  <Hit_len>477</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>586.479</Hsp_bit-score>
+      <Hsp_score>649</Hsp_score>
+      <Hsp_evalue>2.02933e-169</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>477</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>416</Hsp_identity>
+      <Hsp_positive>416</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>AGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>AGTCGTGCCTTCCATCGCCCAAACATCTACTCCCCACACTAATCACTCATCCTTCAACTTGCTCAGTGGCAAATCCACCACCACCGGTCACTTGATTTACAAGTGCGGTGGTATTGATAAGCGAACTATCGAAAAGTTTGAGAAGGAGGCCGCCGAGTTGGGAAAAGGATCCTTCAAGTAAGTAGCTTACAGTTACTAACATTCCATCGTCTCAGTACTAATATCTCACCATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAACGTGAGCGTGGTATCACCATCGATATCGCCGTAAGTTCCTTGTAAAATTTGTCAGAGTTGTAGCACATCACTGATCACTTTCACTACAGCTGTGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATTGATGCCCCCGGACATCGTGATTTCATCAAGAACATGATTACCGGTACCTCCCAAGCTGATTGTGCTATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>||||||||||||  || || ||||  |||||||||| ||||| || |||||  |||| |   | || |||||||| |||||||| ||||||||||| |||||||||||||||||||| ||||||||||| |||||||| ||||||||||| ||||||||||| |||||||||||||||||||| |||||  || ||||| |   | | | ||||   |||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||||||||| ||||||| ||||| | |||  | |||||||| ||  | ||||||||||||||| ||||||| |||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||| || ||||| |||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|525330371|gb|JX533482.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR77081 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533482</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>504.426</Hsp_bit-score>
+      <Hsp_score>558</Hsp_score>
+      <Hsp_evalue>5.45026e-145</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>507</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>413</Hsp_identity>
+      <Hsp_positive>413</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>498</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCATCTTCACACCCAAACGTATCCTTCTTCC---ACTAACCATCCATCAATCAATCCCCTTAGCGGAAAATCTACAACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCTCGTATCACCCCACTCTCGTTTCATCAC---TAACATCCCATCACAGATACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACATGTAAGCATCTCCAGGCAGATGTAACCTCGCACTGATCACCCTCACGACAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| || || |  |||| ||||    ||| || ||   ||||||||| |||| |||||| || ||||||| ||||| || |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |    ||||       || || | ||||   ||| ||| ||  | || |||||||||||||||||||| ||||||||||||||||||||||| |||||||| || ||||||||||||| | ||| ||  |    ||  || |||  | | |||||||||||  |||  ||||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|525330353|gb|JX533473.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR7784 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533473</Hit_accession>
+  <Hit_len>496</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>502.623</Hsp_bit-score>
+      <Hsp_score>556</Hsp_score>
+      <Hsp_evalue>1.90233e-144</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>491</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>496</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>412</Hsp_identity>
+      <Hsp_positive>412</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>497</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCATCTTCACACCCAAACGTATCCTTCTTCC---ACTAACCATCCATCAATCAATCCCCTTAGCGGAAAATCTACAACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCTCGTATCACCCCACTCTCGTTTCATCAC---TAACATCCCATCACAGATACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACATGTAAGCATCTCCAGGCAGATGTAACCTCGCACTGATCACCCTCACGACAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| || || |  |||| ||||    ||| || ||   ||||||||| |||| |||||| || ||||||| ||||| || |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |    ||||       || || | ||||   ||| ||| ||  | || |||||||||||||||||||| ||||||||||||||||||||||| |||||||| || ||||||||||||| | ||| ||  |    ||  || |||  | | |||||||||||  |||  ||||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || ||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|525330375|gb|JX533484.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR99128 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533484</Hit_accession>
+  <Hit_len>490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.508</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>9.8543e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>494</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAG-AT-TGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCATCTTCACACCCAAACGTATCCTTCTTCC---ACTAACCATCCATCAATCAATCCCCTTAGCGGAAAATCTACAACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGTATCACCCCACT-CTCGTTTCATCACTAACATCCCATCACAGATACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACAYGTAAGCATCTCCAGGCAGATGTAACCTCGCACTGATCACCCTCACGACAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| || || |  |||| ||||    ||| || ||   ||||||||| |||| |||||| || ||||||| ||||| || |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  |||  |     | | || |  ||| | |||| ||| ||  | || |||||||||||||||||||| ||||||||||||||||||||||| |||||||| || ||||||||||||| |  || || || | |    || |||  | | |||||||||||  |||  ||||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|525330363|gb|JX533478.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9357 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533478</Hit_accession>
+  <Hit_len>490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>492.704</Hsp_bit-score>
+      <Hsp_score>545</Hsp_score>
+      <Hsp_evalue>3.43949e-141</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>494</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAG-AT-TGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCATCTTCACACCCAAACGTATCCTTCTTCC---ACTAACCATCCATCAATCAATCCCCTTAGCGGAAAATCTACAACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGTATCACCCCACT-CTCGTTTCATCACTAACATCCCATCACAGATACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACACGTAAGCATCTCCAGGCAGATGTAACCTCGCACTGATCACCCTCACGACAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| || || |  |||| ||||    ||| || ||   ||||||||| |||| |||||| || ||||||| ||||| || |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  |||  |     | | || |  ||| | |||| ||| ||  | || |||||||||||||||||||| ||||||||||||||||||||||| |||||||| || ||||||||||||| |  || || || | |    || |||  | | |||||||||||  |||  ||||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|525330369|gb|JX533481.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR77069 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533481</Hit_accession>
+  <Hit_len>490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>490.901</Hsp_bit-score>
+      <Hsp_score>543</Hsp_score>
+      <Hsp_evalue>1.2005e-140</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>411</Hsp_identity>
+      <Hsp_positive>411</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGC---CTTCATTCACCTAAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAG-AT-TGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCGATCTTCA--CACCCAAACGTATCCTTCTTCC---ACTAACCATCCATCAATCAATCCCCTTAGCGGAAAATCTACAACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGTATCACCCCACT-CTCGTTTCATCACTAACATCCCATCACAGATACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACACGTAAGCATCTCCAGGCAGATGTAACCTCGCACTGATCACCCTCACGACAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| |   |||||  |||| ||||    ||| || ||   ||||||||| |||| |||||| || ||||||| ||||| || |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  |||  |     | | || |  ||| | |||| ||| ||  | || |||||||||||||||||||| ||||||||||||||||||||||| |||||||| || ||||||||||||| |  || || || | |    || |||  | | |||||||||||  |||  ||||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|525330355|gb|JX533474.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9003 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533474</Hit_accession>
+  <Hit_len>503</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>480.081</Hsp_bit-score>
+      <Hsp_score>531</Hsp_score>
+      <Hsp_evalue>2.17055e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>497</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>495</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCTCATCTTCACACCCAAACGTATCCTTCTTGCACTAACCATCCATCAATCAACCCCATTAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGT-ATCACCCGATTCTCGTTTCATCACTAACATTCCATCATAGATACGCATGGGTACTGGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACATGTAATCATCTTCAGGCAGATGTAACCTCGCACTGATCACCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCTGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCAATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||  | || |  |||| ||||   | || |    ||||||||| |||| |||||  || ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  ||| |  |     | || |  ||| | |||| ||  ||  |||| |||||||||||||| ||||| || |||||||||||||||||||| |||||||| || ||||||||||||| | ||| |   |  | ||  || |||  | | |||||||||||  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| || ||||||||||| |||||||||||||||||||||||||| || |||||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|525330359|gb|JX533476.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9295 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533476</Hit_accession>
+  <Hit_len>494</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>480.081</Hsp_bit-score>
+      <Hsp_score>531</Hsp_score>
+      <Hsp_evalue>2.17055e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>406</Hsp_identity>
+      <Hsp_positive>406</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>495</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCTCATCTTCACACCCAAACGTATCCTTCTTGCACTAACCATCCATCAATCAACCCCATTAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGT-ATCACCCGATTCTCGTTTCATCACTAACATTCCATCATAGATACGCATGGGTACTGGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACATGTAATCATCTTCAGGCAGATGTAACCTCGCACTGATCACCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCTGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCAATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||  | || |  |||| ||||   | || |    ||||||||| |||| |||||  || ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  ||| |  |     | || |  ||| | |||| ||  ||  |||| |||||||||||||| ||||| || |||||||||||||||||||| |||||||| || ||||||||||||| | ||| |   |  | ||  || |||  | | |||||||||||  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| || ||||||||||| |||||||||||||||||||||||||| || |||||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|525330383|gb|JX533488.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR F15509 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533488</Hit_accession>
+  <Hit_len>511</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.572</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>2.64428e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>505</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCT--AAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAG-TCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCACC-TTCACCCCCAAACGTAACCTCCTTCC---ACTAACCATCCATCAATCAACCCCCTCAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAATGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGATATGGGCAAAGGATCTTTCAAGTGAGTTGCCT--CGT--ATCATCCGATTCTCGTTTCACCACTAACATTCCATCATAGATACGCATGGGTACTTGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATCGACATCGCTGTAAGTCACATCTAAGCATCTTCAGGCAGATGTAACCTCGCACTCATTGCCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||  | ||||||   ||||    ||| || ||   ||||||||| |||| |||||  || | ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||||||||| || |||||  ||||||||||||| ||||||| |||||| |  |||   | ||  | | || |  ||||| |||| ||  ||  |||| |||||||||||||||||||| || |||||||||||||||||||| ||||||||||| ||||||||||||  | | | ||  |  | ||  || |||  | | ||||| ||  |  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|525330405|gb|JX533499.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN931120 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533499</Hit_accession>
+  <Hit_len>494</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.572</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>2.64428e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCT--AAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAG-TCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCACC-TTCACCCCCAAACGTAACCTCCTTCC---ACTAACCATCCATCAATCAACCCCCTCAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAATGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGATATGGGCAAAGGATCTTTCAAGTGAGTTGCCT--CGT--ATCATCCGATTCTCGTTTCACCACTAACATTCCATCATAGATACGCATGGGTACTTGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATCGACATCGCTGTAAGTCACATCTAAGCATCTTCAGGCAGATGTAACCTCGCACTCATTGCCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||  | ||||||   ||||    ||| || ||   ||||||||| |||| |||||  || | ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||||||||| || |||||  ||||||||||||| ||||||| |||||| |  |||   | ||  | | || |  ||||| |||| ||  ||  |||| |||||||||||||||||||| || |||||||||||||||||||| ||||||||||| ||||||||||||  | | | ||  |  | ||  || |||  | | ||||| ||  |  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|525330367|gb|JX533480.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9403 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533480</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.572</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>2.64428e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>496</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCT--AAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAG-TCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCACC-TTCACCCCCAAACGTAACCTCCTTCC---ACTAACCATCCATCAATCAACCCCCTCAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAATGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGATATGGGCAAAGGATCTTTCAAGTGAGTTGCCT--CGT--ATCATCCGATTCTCGTTTCACCACTAACATTCCATCATAGATACGCATGGGTACTTGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATCGACATCGCTGTAAGTCACATCTAAGCATCTTCAGGCAGATGTAACCTCGCACTCATTGCCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||  | ||||||   ||||    ||| || ||   ||||||||| |||| |||||  || | ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||||||||| || |||||  ||||||||||||| ||||||| |||||| |  |||   | ||  | | || |  ||||| |||| ||  ||  |||| |||||||||||||||||||| || |||||||||||||||||||| ||||||||||| ||||||||||||  | | | ||  |  | ||  || |||  | | ||||| ||  |  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|525330407|gb|JX533500.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN931121 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533500</Hit_accession>
+  <Hit_len>507</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.572</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>2.64428e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>507</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>410</Hsp_identity>
+      <Hsp_positive>410</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCT--AAACC---CCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAG-TCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCCCACC-TTCACCCCCAAACGTAACCTCCTTCC---ACTAACCATCCATCAATCAACCCCCTCAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAATGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGATATGGGCAAAGGATCTTTCAAGTGAGTTGCCT--CGT--ATCATCCGATTCTCGTTTCACCACTAACATTCCATCATAGATACGCATGGGTACTTGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATCGACATCGCTGTAAGTCACATCTAAGCATCTTCAGGCAGATGTAACCTCGCACTCATTGCCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||  | ||||||   ||||    ||| || ||   ||||||||| |||| |||||  || | ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||||||||| || |||||  ||||||||||||| ||||||| |||||| |  |||   | ||  | | || |  ||||| |||| ||  ||  |||| |||||||||||||||||||| || |||||||||||||||||||| ||||||||||| ||||||||||||  | | | ||  |  | ||  || |||  | | ||||| ||  |  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|525330365|gb|JX533479.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9382 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533479</Hit_accession>
+  <Hit_len>468</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>473.769</Hsp_bit-score>
+      <Hsp_score>524</Hsp_score>
+      <Hsp_evalue>9.22943e-136</Hsp_evalue>
+      <Hsp_query-from>49</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>468</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>373</Hsp_identity>
+      <Hsp_positive>373</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>442</Hsp_align-len>
+      <Hsp_qseq>ACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAG-AT-TGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>ACTAACCATCCATCAATCAATCCCCTTAGCGGAAAATCTACAACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGTATCACCCCACT-CTCGTTTCATCACTAACATCCCATCACAGATACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACACGTAAGCATCTCCAGGCAGATGTAACCTCGCACTGATCACCCTCACGACAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCCGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCTATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>||||||||| |||| |||||| || ||||||| ||||| || |||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  |||  |     | | || |  ||| | |||| ||| ||  | || |||||||||||||||||||| ||||||||||||||||||||||| |||||||| || ||||||||||||| |  || || || | |    || |||  | | |||||||||||  |||  ||||||||||||||||||||| ||||||||||| ||||| ||||| ||||| |||||||||||||| |||||||||||||||||||||||||| || |||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|525330357|gb|JX533475.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9284 elongation factor 1 alpha (tef1) gene, partial cds &gt;gi|525330373|gb|JX533483.1| Puccinia recondita voucher ISR99018 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533475</Hit_accession>
+  <Hit_len>490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>472.867</Hsp_bit-score>
+      <Hsp_score>523</Hsp_score>
+      <Hsp_evalue>3.22139e-135</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>490</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>402</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>491</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATT-CACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAG--AGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCGTCTCATCTTCACACCCAAACGTATCCTTCTTGCACTAACCATCCATCAATCAACCCCATTAGCGGCAAATCTACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTGAGTTTCCT--CGT-ATCACCCGATTCTCGTTTCATCACTAACATTCCATCATAGATACGCATGGGTACTGGACAAACTAAAAGCTGAGCGTGAGCGTGGTATCACCATTGACATCGCTGTAAGTTACATGTAATCATCTTCAGGCAGATGTAACCTCGCACTGATCACCCTCACGATAGCTATGGAAGTTCGAAACCCCCAAGTACTATGTCACAGTCATCGACGCTCCTGGACATCGTGACTTCATCAAGAACATGATCACCGGTACCTCCCAAGCCGATTGTGCAATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||  | || |  |||| ||||   | || |    ||||||||| |||| |||||  || ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || |||||||||||||||||||| ||||||| |||| | |  ||| |  |     | || |  ||| | |||| ||  ||  |||| |||||||||||||| ||||| || |||||||||||||||||||| |||||||| || ||||||||||||| | ||| |   |  | ||  || |||  | | |||||||||||  |||  | ||||||||||||||||||| ||||||||||| ||||| ||||| ||||| || ||||||||||| |||||||||||||||||||||||||| || |||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|525330391|gb|JX533492.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR 59756 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533492</Hit_accession>
+  <Hit_len>492</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.949</Hsp_bit-score>
+      <Hsp_score>512</Hsp_score>
+      <Hsp_evalue>1.66872e-132</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>492</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>398</Hsp_identity>
+      <Hsp_positive>398</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>491</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCA-CTAATAAGTCCTTGCCT--CACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTGATGTCTGCATCCCACCCAACTTTTGCTCCTCACACTAATCATACAACGATCTATCTCCACAGCGGTAAATCCACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTTCCTCTCTTCAGCCCWTGAGACGCTTCATASTAGTACTGATACTTTATCTTAGGTACGCATGGGTACTTGACAAGCTGAAAGCCGAGCGTGAGCGTGGTATTACCATCGATATCGCTGTGAGTTGGTCCTCACACTATCTGCCYATGCTACAAAGCACTGATCACTCTTATTACAGCTATGGAAGTTCGAAACCCCCAAGTACTACGTTACAGTCATCGATGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCCCAAGCTGATTGTGCTATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||  || || ||| |  |  |||   | |||| || ||||| ||| || | ||| ||  |   ||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || ||||||||||||||||||||||||||||||||| | |  | ||| |   | || |  | | |   |   || |||  | |   ||||||||||||||||||||||||||||||||| |||||||||||||| || ||||||||||||||||| ||||| |  | | | |   |     ||   |  ||||||||||||| | | |||||||||||||||||||||| |||||||||||||| || ||||| || ||||| ||||||||||||||||||||||||||||||||||||||||| ||||| |||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|525330385|gb|JX533489.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR 55732 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533489</Hit_accession>
+  <Hit_len>518</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>455.735</Hsp_bit-score>
+      <Hsp_score>504</Hsp_score>
+      <Hsp_evalue>2.4766e-130</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>514</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>403</Hsp_identity>
+      <Hsp_positive>403</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACC-ATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCC------TTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGT-TGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTGAGTCTTATCT-CATTCTACGAGGCTTCTACTCCTCATTCTTACCCACACATCCCTCTATCCTCACAGCGGTAAATCCACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTTGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGCTCCCTCCCATCATCCACTCGTCCGACACCTTGTCTCAGTACTTTCATTGTACAATAGGTACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATCGATATCGCTGTAAGTCTCCCCCTCACACCTATCGGGCACGCAACGCATTACTGATCGCTATCACTATAGCTGTGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATTGATGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACCTCGCAAGCCGATTGCGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||| |||| |  || |||||  | |  |  ||||||| ||| || ||| |  ||||  || || |    ||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||| |||||||| || ||||||||||||||||||||||||||||||| | | |  | |||   |   ||||      ||| ||||   ||   ||   |||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||||||| | |   | | |    |  |    |   || |  ||||||| || ||| || |||| |||||||||||||| |||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||||||||| || ||||||||||| |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|525330318|gb|JX533455.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher HSZ0694 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533455</Hit_accession>
+  <Hit_len>497</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>454.834</Hsp_bit-score>
+      <Hsp_score>503</Hsp_score>
+      <Hsp_evalue>8.64418e-130</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>497</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>407</Hsp_identity>
+      <Hsp_positive>407</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAG-TCCT-TGCCTCACCGCTAATA---TCTCACAAT-AGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGG--CGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTCAGTTCTTCATCACCCCCAATGATGATTCCTCC-ACTAACCACGCATCAATCAATACACACAGTGGTAAATCCACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGCTACCTCTGATGATCAACTCGATCCTCTTCCTATCTCATCATTCTTTTTCACCTTTAGGTACGCATGGGTACTCGACAAACTGAAAGCCGAGCGTGAACGTGGGATCACCATCGATATTGCTGTGAGTACATCCTGAGACT-CTT-GATTCTTCGAACGTTGCACTGACC--TTTCACTACAGCTATGGAAGTTCGAGACTCCCAAGTACTACGTCACCGTTATCGATGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACCTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||    ||||||   ||  ||     | ||| |  ||||||||  |||| |||||| |    || || ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||| || |||||||||||||| |||||||||||||||||||||||||||||||||| | | |    | |  ||   | |||| | |||  |   | ||    | ||||  | ||||||||||||||||| ||||| |||||||| |||||||| |||||||||||||||||||| ||||| |||   |  ||||| | ||| || |  | |  ||| ||||||| |  ||||| ||||||||||||||||||| ||||||||||||||||||||||| || || |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|525330387|gb|JX533490.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR N76 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533490</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>453.932</Hsp_bit-score>
+      <Hsp_score>502</Hsp_score>
+      <Hsp_evalue>8.64418e-130</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>491</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>402</Hsp_identity>
+      <Hsp_positive>402</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>499</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACC-ATTCATCTATCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCC------TTGCCTCACCGCTAATATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGT-TGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCT</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTGAGTCTTATCT-CATTCTACGAGGCTTCTACTCCTCATTCTTACCCACACATCCCTCTATCCTCACAGCGGTAAATCCACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTTGAGAAGGAAGCCGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGCTCCCTCCCATCATCCACTCGTCCGACACCTTGTCTCAGTACTTTCATTGTACAATAGGTACGCATGGGTACTTGACAAACTGAAAGCTGAGCGTGAGCGTGGTATCACCATCGATATCGCTGTAAGTCTCCCCCTCACACCTATCGGGCACGCAACGCATTACTGATCGCTATCACTATAGCTGTGGAAGTTCGAAACCCCCAAGTACTACGTCACCGTCATTGATGCCCCTGGACATCGTGATTTCATCAAGAACATGATCACCGGTACCTCGCAAGCCGATTGCGCTATCCTCATCATTGCT</Hsp_hseq>
+      <Hsp_midline>|||||||||| |||| |  || |||||  | |  |  ||||||| ||| || ||| |  ||||  || || |    ||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||| |||||||| || ||||||||||||||||||||||||||||||| | | |  | |||   |   ||||      ||| ||||   ||   ||   |||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||||||| | |   | | |    |  |    |   || |  ||||||| || ||| || |||| |||||||||||||| |||||||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||||||||| || ||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|525330403|gb|JX533498.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher MIN931118 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533498</Hit_accession>
+  <Hit_len>494</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>450.325</Hsp_bit-score>
+      <Hsp_score>498</Hsp_score>
+      <Hsp_evalue>1.05308e-128</Hsp_evalue>
+      <Hsp_query-from>76</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>359</Hsp_identity>
+      <Hsp_positive>359</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>AGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCA-CTAAT---AAGTCCTTGCCTCACCGCTAAT---ATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGC-GTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>AGCGGTAAATCCACCACCACTGGCCACTTGATCTATAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCTGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCCTGTTGCCATCTACTCGGACGCCCTCGCATCAGGACTAATCCTATATCC---TAGGTACGCATGGGTACTTGACAAACTGAAAGCCGAGCGTGAGCGTGGTATCACCATTGATATCGCTGTGAGTTCAATCTGAGAT-GCTTCC-GACGTGGATGTAGCACTGATCACCCTCCCTACAGCTGTGGAAGTTCGAAACCCCAAAGTACTACGTTACAGTCATTGATGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACTGGTACCTCCCAAGCTGATTGTGCCATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>||||| ||||| ||||||||||| ||||||||||| ||||||||||||||||||||||||||||| || |||||||||||||| || || |||||||||||||||||||||||||||||||| |   | || ||| |   | | ||| || |||   |||||   || ||    |||||||||||||||||||||||| |||||||| |||||||||||||| |||||||| ||||||||||| ||||   | |||||| ||||   |  ||||  ||||||||||||||  ||  ||||||| |||||||||||||| || ||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||| ||||| || ||||| |||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|525330395|gb|JX533494.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR F16132 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533494</Hit_accession>
+  <Hit_len>484</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.718</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.28291e-127</Hsp_evalue>
+      <Hsp_query-from>76</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>63</Hsp_hit-from>
+      <Hsp_hit-to>484</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>360</Hsp_identity>
+      <Hsp_positive>360</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>432</Hsp_align-len>
+      <Hsp_qseq>AGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTC--CTTGC--CTCACCG---CTAATATCTCA--------CAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>AGTGGTAAATCCACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGATAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTGCCCT-------CTGATAA-TCAACTTGCACCTCTCCCTATCTGATCTCTCTTTTTTCATCTTTAGGTACGCATGGGTACTCGACAAACTGAAAGCCGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTGAGTTCATTCTGAGATTATTCAGACTTCGAACTTTGCACTGACCTCT--CACTACAGCTATGGAAGTTCGAGACTCCCAAGTACTACGTCACCGTTATCGATGCCCCAGGGCATCGTGATTTCATCAAGAACATGATCACTGGTACCTCTCAAGCCGATTGTGCCATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|| || ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||| || |||||||||||||| |||||||||||||||||||||||||||||||||||  | |       || |||| ||  |||||  ||| ||    || || ||||         |  |||||||||||||||||| ||||| |||||||| ||||||||||||||||||||||||||||||||||| ||||  || |||||||  | ||| ||    | | ||||||| | ||  || ||||||||||||||||||| ||||||||||||||||||||||| || || ||||| || ||||||||||||||||||||||||||||| ||||| ||||||||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|525330389|gb|JX533491.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher PUR 59754 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533491</Hit_accession>
+  <Hit_len>501</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>437.702</Hsp_bit-score>
+      <Hsp_score>484</Hsp_score>
+      <Hsp_evalue>6.64564e-125</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>492</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>501</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>405</Hsp_identity>
+      <Hsp_positive>405</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>505</Hsp_align-len>
+      <Hsp_qseq>GTCGATTCGTAAGTCGTGCCTTCATTCACCTAAACCCCTACTCCCCATACTAACCATTCATCTA-TCAATTCCTTTAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCA-----CTAATAAGTC-----CTTGCCTCACCGCTAAT-ATCTCACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTT-AGAGTTGTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATTGCTG</Hsp_qseq>
+      <Hsp_hseq>GTCGATTCGTAAGTTGTATTTTCATCC--CTCA--CTGTACCCCTCACACTACTCACGCATCCAATCGATCTCCACAGCGGTAAATCCACCACGACTGGCCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATCGAGAAGTTCGAGAAGGAAGCCGCTGAGTTGGGCAAAGGATCCTTCAAGTAAGTTCCCTGTTGTCATCTATCTACTCGGACGGCCCCGCGCATCGGCACTAATCATATATCC-TAGGTACGCATGGGTACTTGACAAACTGAAAGCCGAGCGTGAACGTGGTATCACCATTGATATCGCCGTGAGTTCAGCCTGAGA-TGCTTCCGACGTGTGACGTAGCACTGATCACTCCCCCTACAGCTCTGGAAGTTTGAAACCCCAAAGTACTACATCACAGTCATTGATGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACTGGTACCTCGCAAGCCGATTGTGCCATCCTCATCATTGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||   ||||| |  || |  |  ||| || || ||||  ||  |||| | || ||  |   ||||| ||||| ||||| ||||| ||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| || || |||||||||||||||||||||||||||||| | |   ||||     ||| |  | |     |  || ||  | ||||| || |  |  |||||||||||||||||||||||| |||||||| |||||||| ||||| |||||||| |||||||| || ||||     ||||| |||||  ||  |||| ||||||||||||||||  |  ||||||| |||||||| ||||| || ||||||||| |||| |||||||| |||||||||||||||||||||||||||||||||||||| ||||| || |||||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|525330361|gb|JX533477.1|</Hit_id>
+  <Hit_def>Puccinia recondita voucher ISR9350 elongation factor 1 alpha (tef1) gene, partial cds</Hit_def>
+  <Hit_accession>JX533477</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>389.912</Hsp_bit-score>
+      <Hsp_score>431</Hsp_score>
+      <Hsp_evalue>3.01978e-110</Hsp_evalue>
+      <Hsp_query-from>75</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>77</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>344</Hsp_identity>
+      <Hsp_positive>344</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>426</Hsp_align-len>
+      <Hsp_qseq>TAGCGGCAAATCAACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAGCGAACTATTGAAAAGTTCGAGAAGGAGGCTGCCGAGTTGGGCAAAGGATCCTTCAAGTAAGTTGCTTAACGTCACTAATAAGTCCTTG-CCTCACCGCT--AATATCT---CACAATAGGTACGCATGGGTACTTGACAAGCTGAAAGCTGAGCGTGAGCGTGGGATCACCATCGATATCGCTGTAAGTTGCTTGTGAGATTGCTTAGAGTT------GTGGCGTAGCACTGATCACTTTCAGTACAGCTATGGAAGTTCGAAACTCCCAAGTACTACGTCACCGTCATTGACGCCCCCGGACATCGTGATTTCATCAAGAACATGATCACCGGTACTTCTCAAGCCGATTGTGCTATCCTCATCATT</Hsp_qseq>
+      <Hsp_hseq>TAGCGGTAAATCTACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAACGAACCATCGAGAAGTTTGAGAAAGAAGCCGCCGAGTTGGGCAAAGGATCTTTCAAGTAAGAATCATCTCGTCCCTAACC--TCCGTGTCCTCGTTGCGGCACTAACTGTGCATTACAGGTACGCATGGGTACTTGACAAGCTGAAAGCCGAGCGGGAGCGGGGTATCACAATCGACATTGCTGTAAGTTGATCCGCAGGTTGTCTATGCTTACCTCAGCCCCGAAGAACTTATCACTCTCACTACAGCTATGGAAGTTCGAAACCCCCAAGTACTTCGTTACCGTCATCGATGCACCTGGACATCGTGATTTCATTAAGAACATGATCACCGGTACCTCCCAAGCTGATTGTGCCATCCTCATCATT</Hsp_hseq>
+      <Hsp_midline>|||||| ||||| |||||||||||||||||||||||||||||||||||||||||||| ||||| || || ||||| ||||| || || |||||||||||||||||||| ||||||||||   | |  |||| ||||    ||| || ||||   ||   | || ||   ||  | |||||||||||||||||||||||||||||||| ||||| ||||| || ||||| ||||| || ||||||||||| |    || |||  ||   ||      |   || || ||| |||||| ||| |||||||||||||||||||||| |||||||||| ||| |||||||| || || || ||||||||||||||||| |||||||||||||||||||| || ||||| |||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>149</Statistics_db-num>
+      <Statistics_db-len>81661</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

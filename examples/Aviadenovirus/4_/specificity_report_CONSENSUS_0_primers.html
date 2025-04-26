@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primer Specificity Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3, h4 {
+            color: #2c3e50;
+        }
+        .summary {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-left: 5px solid #4caf50;
+        }
+        .stats-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            flex: 1;
+            min-width: 250px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 15px;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #3498db;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 8px 12px;
+            border-bottom: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+        }
+        .sortable {
+            cursor: pointer;
+        }
+        .sortable:after {
+            content: ' ⇵';
+            font-size: 12px;
+            color: #999;
+        }
+        .sequence-alignment {
+            font-family: 'Courier New', Courier, monospace;
+            white-space: pre;
+            margin: 10px 0;
+            font-size: 14px;
+            letter-spacing: 0;
+            line-height: 1.5;
+            tab-size: 4;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .primer-details {
+            display: none;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            margin-top: 10px;
+            border: 1px solid #ddd;
+        }
+        .toggle-details {
+            cursor: pointer;
+            color: #007bff;
+            text-decoration: underline;
+        }
+        .filter-container {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+        .filter-container input, .filter-container select {
+            padding: 8px;
+            margin-right: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .filter-container button {
+            padding: 8px 15px;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .filter-container button:hover {
+            background-color: #45a049;
+        }
+        .sequence-alignment {
+            font-family: 'Courier New', Courier, monospace;
+            white-space: pre;
+            margin: 10px 0;
+            font-size: 14px;
+            letter-spacing: 0;
+        }
+        .product-details {
+            margin-top: 5px;
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        .product-template {
+            margin-bottom: 30px;
+            border-left: 3px solid #4caf50;
+            padding-left: 15px;
+        }
+        .no-matches {
+            color: #856404;
+            background-color: #fff3cd;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .primer-table {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .primer-table th, .primer-table td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .primer-table th {
+            background-color: #f2f2f2;
+        }
+        .settings-info {
+            background-color: #e3f2fd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .settings-info h3 {
+            margin-top: 0;
+            color: #0d47a1;
+        }
+        .settings-table {
+            width: 100%;
+            max-width: 600px;
+        }
+        .settings-table th {
+            width: 60%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Primer Specificity Analysis Report</h1>
+    
+    <div class="summary">
+        <h2>Summary</h2>
+        <p>Analysis of <span id="primerCount">0</span> primer pairs for cross-reactivity with sequences in GenBank.</p>
+        <p>Generated on <span id="reportDate">26.04.2025, 18:56:02</span></p>
+    </div>
+    
+    <div class="settings-info">
+        <h3>Specificity Settings</h3>
+        <table class="settings-table">
+            <tr>
+                <th>Maximum total mismatches allowed</th>
+                <td>3</td>
+            </tr>
+            <tr>
+                <th>Maximum 3' end mismatches allowed</th>
+                <td>2</td>
+            </tr>
+            <tr>
+                <th>3' end region size (bases)</th>
+                <td>5</td>
+            </tr>
+            <tr>
+                <th>Maximum probe mismatches allowed</th>
+                <td>3</td>
+            </tr>
+            <tr>
+                <th>Target NCBI Taxonomy IDs</th>
+                <td>10552</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="stat-card">
+        <h3>Primers Analyzed</h3>
+        <div class="stat-value" id="totalPrimers">0</div>
+    </div>
+    
+    <div class="filter-container">
+        <h3>Filter Primers</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+            <div>
+                <label for="searchInput">Search by ID or sequence:</label>
+                <input type="text" id="searchInput" placeholder="Enter primer ID or sequence">
+            </div>
+            
+    <div>
+        <label for="minAmpliconSize">Amplicon size range:</label>
+        <input type="number" id="minAmpliconSize" placeholder="Min" min="0" style="width: 70px;">
+        <label for="maxAmpliconSize">to</label>
+        <input type="number" id="maxAmpliconSize" placeholder="Max" min="0" style="width: 70px;">
+    </div>
+
+    </div>
+    <div style="margin-top: 10px;">
+        <button onclick="applyFilters()">Apply Filters</button>
+        <button onclick="resetFilters()">Reset</button>
+    </div>
+    </div>  <!-- Closing div.filter-container -->
+        
+    <h2>Primer Sets</h2>
+    <table id="primersTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Forward Primer</th>
+                <th>Reverse Primer</th>
+                <th>Probe</th>
+                <th>Product Size</th>
+                <th class="sortable" onclick="sortTable(5)">Matched NCBI GenBank Records</th>
+                <th class="sortable" onclick="sortTable(6)">Matches to Target Taxa</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody id="primersTableBody">
+            <!-- Table rows will be inserted here by JavaScript -->
+        </tbody>
+    </table>
+
+    <script>
+        // Report data
+        const reportData = [{"primer_id": "1", "left_primer": "CGGGCAAAACAGTACAACCA", "right_primer": "GTCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 78, "left_tm": 58.97418804341396, "right_tm": 60.66657713440145, "probe_tm": 60.38293508194016, "left_gc": 50.0, "right_gc": 60.0, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "AC117382.10", "organism": "Unknown", "description": "Homo sapiens 3 BAC RP11-102M11 (Roswell Park Cancer Institute Human BAC Library) complete sequence", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 238, "left_position": 613, "right_position": 831, "probe_position": 688, "left_mismatches": 5, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 2, "right_3prime_mismatches": 0, "left_alignment": "TT.........A...G..A.", "right_alignment": "TGA.G...AAAGTT......", "probe_alignment": ".T.ATC.T..A.AAAG....", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009820465.1", "organism": "Unknown", "description": "PREDICTED: Colius striatus uncharacterized LOC133627977 (LOC133627977), transcript variant X2, ncRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 39, "left_position": 637, "right_position": 656, "probe_position": 669, "left_mismatches": 5, "right_mismatches": 10, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 3, "left_alignment": ".........T..AT...G.C", "right_alignment": "...A.CAAG..A..G..CTT", "probe_alignment": "A..A.T.AATGA.T.T...A", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009820463.1", "organism": "Unknown", "description": "PREDICTED: Colius striatus uncharacterized LOC133627977 (LOC133627977), transcript variant X1, ncRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 375, "left_position": 612, "right_position": 967, "probe_position": 644, "left_mismatches": 5, "right_mismatches": 9, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 3, "left_alignment": ".........T..AT...G.C", "right_alignment": ".T.A.C...T.TC..C..TG", "probe_alignment": "A..A.T.AATGA.T.T...A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_025337488.1", "organism": "Unknown", "description": "PREDICTED: Melanaphis sacchari uncharacterized LOC112593158 (LOC112593158), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 154, "left_position": 370, "right_position": 504, "probe_position": 399, "left_mismatches": 1, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 2, "left_alignment": "..................A.", "right_alignment": ".....GTAA.GTT.A.C.T.", "probe_alignment": ".A..T..G..T.TT..TTAA", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "2", "left_primer": "GGGCAAAACAGTACAACCACC", "right_primer": "GTCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 77, "left_tm": 59.93202565909263, "right_tm": 60.66657713440145, "probe_tm": 60.38293508194016, "left_gc": 52.38095238095238, "right_gc": 60.0, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "LK831010.1", "organism": "Unknown", "description": "Dicrocoelium dendriticum genome assembly D_dendriticum_Leon_v1_0_4, scaffold DDEL_contig0064836", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 110, "left_position": 105, "right_position": 195, "probe_position": 362, "left_mismatches": 2, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "T..............G.....", "right_alignment": "AC.A...A.ATTT.AA....", "probe_alignment": ".TC....T.TAG.GT...CA", "taxid": "", "is_target_taxid": false}, {"accession": "XM_007692064.1", "organism": "Unknown", "description": "Bipolaris oryzae ATCC 44560 uncharacterized protein (COCMIDRAFT_28289), partial mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 593, "left_position": 169, "right_position": 742, "probe_position": 482, "left_mismatches": 3, "right_mismatches": 8, "probe_mismatches": 8, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "ATC..................", "right_alignment": "G...CAAAC....C...A..", "probe_alignment": "....T.C.CT..GT..T..A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_029983639.4", "organism": "Unknown", "description": "PREDICTED: Ixodes scapularis ankyrin repeat and SAM domain-containing protein 3 (LOC115323245), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 60, "left_position": 897, "right_position": 937, "probe_position": 927, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 2, "left_alignment": "A...........C........", "right_alignment": "...CGGTA.GT....TT...", "probe_alignment": "GA...TCT...A...GT.TG", "taxid": "", "is_target_taxid": false}, {"accession": "XM_053860650.1", "organism": "Unknown", "description": "PREDICTED: Synchiropus splendidus oxysterol-binding protein 1-like (LOC128756272), transcript variant X4, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 26, "left_position": 918, "right_position": 924, "probe_position": 927, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": "T..........C.........", "right_alignment": "A..AGCA.AA...C.TG..A", "probe_alignment": "A.CA.AA.CA..TG.....A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_066834490.1", "organism": "Unknown", "description": "Apiospora marii uncharacterized protein (PG985_014724), partial mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 46, "left_position": 949, "right_position": 975, "probe_position": 968, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 8, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": "C..........C.........", "right_alignment": ".TG...T.C.AGCG.TC..G", "probe_alignment": ".C........GTTTCCC...", "taxid": "", "is_target_taxid": false}, {"accession": "XM_029983634.4", "organism": "Unknown", "description": "PREDICTED: Ixodes scapularis ankyrin repeat and SAM domain-containing protein 3 (LOC115323245), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 60, "left_position": 919, "right_position": 959, "probe_position": 949, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 2, "left_alignment": "A...........C........", "right_alignment": "...CGGTA.GT....TT...", "probe_alignment": "GA...TCT...A...GT.TG", "taxid": "", "is_target_taxid": false}, {"accession": "XM_053860649.1", "organism": "Unknown", "description": "PREDICTED: Synchiropus splendidus oxysterol-binding protein 1-like (LOC128756272), transcript variant X3, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 26, "left_position": 927, "right_position": 933, "probe_position": 936, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": "T..........C.........", "right_alignment": "A..AGCA.AA...C.TG..A", "probe_alignment": "A.CA.AA.CA..TG.....A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_021786630.2", "organism": "Unknown", "description": "PREDICTED: Hevea brasiliensis UBP1-associated protein 2A (LOC110636789), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 37, "left_position": 911, "right_position": 928, "probe_position": 977, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 3, "left_alignment": "................A...A", "right_alignment": "...AA.TGC..GC.GC..TG", "probe_alignment": "ATACAT..A...TG....AG", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "3", "left_primer": "CGGGCAAAACAGTACAACCAC", "right_primer": "GTCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 78, "left_tm": 60.26884508193166, "right_tm": 60.66657713440145, "probe_tm": 60.38293508194016, "left_gc": 52.38095238095238, "right_gc": 60.0, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "XM_025337488.1", "organism": "Unknown", "description": "PREDICTED: Melanaphis sacchari uncharacterized LOC112593158 (LOC112593158), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 154, "left_position": 370, "right_position": 504, "probe_position": 399, "left_mismatches": 2, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 2, "right_3prime_mismatches": 2, "left_alignment": "..................A.T", "right_alignment": ".....GTAA.GTT.A.C.T.", "probe_alignment": ".A..T..G..T.TT..TTAA", "taxid": "", "is_target_taxid": false}, {"accession": "XM_021786630.2", "organism": "Unknown", "description": "PREDICTED: Hevea brasiliensis UBP1-associated protein 2A (LOC110636789), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 910, "right_position": 928, "probe_position": 977, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 11, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "A................A...", "right_alignment": "...AA.TGC..GC.GC..TG", "probe_alignment": "ATACAT..A...TG....AG", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "4", "left_primer": "GGCAAAACAGTACAACCACCA", "right_primer": "GTCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 76, "left_tm": 59.24807582047731, "right_tm": 60.66657713440145, "probe_tm": 60.38293508194016, "left_gc": 47.61904761904762, "right_gc": 60.0, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "LK831010.1", "organism": "Unknown", "description": "Dicrocoelium dendriticum genome assembly D_dendriticum_Leon_v1_0_4, scaffold DDEL_contig0064836", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 109, "left_position": 106, "right_position": 195, "probe_position": 362, "left_mismatches": 1, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "..............G......", "right_alignment": "AC.A...A.ATTT.AA....", "probe_alignment": ".TC....T.TAG.GT...CA", "taxid": "", "is_target_taxid": false}, {"accession": "XM_007692064.1", "organism": "Unknown", "description": "Bipolaris oryzae ATCC 44560 uncharacterized protein (COCMIDRAFT_28289), partial mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 592, "left_position": 170, "right_position": 742, "probe_position": 482, "left_mismatches": 2, "right_mismatches": 8, "probe_mismatches": 8, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "TC...................", "right_alignment": "G...CAAAC....C...A..", "probe_alignment": "....T.C.CT..GT..T..A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_029983639.4", "organism": "Unknown", "description": "PREDICTED: Ixodes scapularis ankyrin repeat and SAM domain-containing protein 3 (LOC115323245), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 59, "left_position": 898, "right_position": 937, "probe_position": 927, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 2, "left_alignment": "...........C........G", "right_alignment": "...CGGTA.GT....TT...", "probe_alignment": "GA...TCT...A...GT.TG", "taxid": "", "is_target_taxid": false}, {"accession": "XM_017296221.2", "organism": "Unknown", "description": "PREDICTED: Drosophila miranda sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1 (LOC108161845), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 25, "left_position": 588, "right_position": 593, "probe_position": 780, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": "T....C...............", "right_alignment": "...AG.A.AA...C.ACC..", "probe_alignment": ".C.G..GTGC.G.T...T..", "taxid": "", "is_target_taxid": false}, {"accession": "XM_017296214.2", "organism": "Unknown", "description": "PREDICTED: Drosophila miranda sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1 (LOC108161845), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 25, "left_position": 732, "right_position": 737, "probe_position": 924, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": "T....C...............", "right_alignment": "...AG.A.AA...C.ACC..", "probe_alignment": ".C.G..GTGC.G.T...T..", "taxid": "", "is_target_taxid": false}, {"accession": "XM_053860650.1", "organism": "Unknown", "description": "PREDICTED: Synchiropus splendidus oxysterol-binding protein 1-like (LOC128756272), transcript variant X4, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 25, "left_position": 919, "right_position": 924, "probe_position": 927, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..........C.........T", "right_alignment": "A..AGCA.AA...C.TG..A", "probe_alignment": "A.CA.AA.CA..TG.....A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_011045335.1", "organism": "Unknown", "description": "PREDICTED: Populus euphratica transcription activator GLK1-like (LOC105139037), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 98, "left_position": 350, "right_position": 428, "probe_position": 428, "left_mismatches": 2, "right_mismatches": 10, "probe_mismatches": 8, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "T........C...........", "right_alignment": ".GGAC.T..G.G.CG.G...", "probe_alignment": "...A.T.....GA..GGGA.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_008534326.2", "organism": "Unknown", "description": "PREDICTED: Equus przewalskii kelch repeat and BTB domain-containing protein 6 (LOC103560290), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 79, "left_position": 410, "right_position": 469, "probe_position": 489, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 0, "right_3prime_mismatches": 2, "left_alignment": "T.............G......", "right_alignment": "..TAG..T.A...TA..AT.", "probe_alignment": ".A.CA...A.A.T.CGT..T", "taxid": "", "is_target_taxid": false}, {"accession": "XM_066834490.1", "organism": "Unknown", "description": "Apiospora marii uncharacterized protein (PG985_014724), partial mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 45, "left_position": 950, "right_position": 975, "probe_position": 968, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 8, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..........C.........G", "right_alignment": ".TG...T.C.AGCG.TC..G", "probe_alignment": ".C........GTTTCCC...", "taxid": "", "is_target_taxid": false}, {"accession": "XM_029983634.4", "organism": "Unknown", "description": "PREDICTED: Ixodes scapularis ankyrin repeat and SAM domain-containing protein 3 (LOC115323245), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 59, "left_position": 920, "right_position": 959, "probe_position": 949, "left_mismatches": 2, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 2, "left_alignment": "...........C........G", "right_alignment": "...CGGTA.GT....TT...", "probe_alignment": "GA...TCT...A...GT.TG", "taxid": "", "is_target_taxid": false}, {"accession": "AC117382.10", "organism": "Unknown", "description": "Homo sapiens 3 BAC RP11-102M11 (Roswell Park Cancer Institute Human BAC Library) complete sequence", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 236, "left_position": 615, "right_position": 831, "probe_position": 688, "left_mismatches": 5, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 3, "right_3prime_mismatches": 0, "left_alignment": ".........A...G..A.AT.", "right_alignment": "TGA.G...AAAGTT......", "probe_alignment": ".T.ATC.T..A.AAAG....", "taxid": "", "is_target_taxid": false}, {"accession": "XM_023602057.2", "organism": "Unknown", "description": "Cercospora beticola uncharacterized protein (RHO25_011068), partial mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 414, "left_position": 264, "right_position": 658, "probe_position": 305, "left_mismatches": 2, "right_mismatches": 8, "probe_mismatches": 8, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "C.........C..........", "right_alignment": "..A.CCAGG.A......A..", "probe_alignment": "A.CG....AT..A...TG..", "taxid": "", "is_target_taxid": false}, {"accession": "XM_053860649.1", "organism": "Unknown", "description": "PREDICTED: Synchiropus splendidus oxysterol-binding protein 1-like (LOC128756272), transcript variant X3, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 25, "left_position": 928, "right_position": 933, "probe_position": 936, "left_mismatches": 2, "right_mismatches": 11, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..........C.........T", "right_alignment": "A..AGCA.AA...C.TG..A", "probe_alignment": "A.CA.AA.CA..TG.....A", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "5", "left_primer": "ACCAACATGGACACCACGC", "right_primer": "GTCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 199, "left_tm": 60.896659679245886, "right_tm": 60.66657713440145, "probe_tm": 60.38293508194016, "left_gc": 57.89473684210526, "right_gc": 60.0, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "CP002886.1", "organism": "Unknown", "description": "Enterobacter ludwigii strain EcWSU1, complete genome", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 55, "left_position": 165, "right_position": 200, "probe_position": 415, "left_mismatches": 5, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": ".GG..G...AG........", "right_alignment": "T...GC.TC..A...A.AG.", "probe_alignment": "T.A..CG.G.T.....TC.G", "taxid": "", "is_target_taxid": false}, {"accession": "XM_057515395.1", "organism": "Unknown", "description": "PREDICTED: Daphnia carinata vitellogenin-like (LOC130692311), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 120, "left_position": 611, "right_position": 711, "probe_position": 873, "left_mismatches": 1, "right_mismatches": 8, "probe_mismatches": 8, "left_3prime_mismatches": 1, "right_3prime_mismatches": 2, "left_alignment": "..................G", "right_alignment": "A...A..AAA..C..T.A..", "probe_alignment": "A..C......A..GTTG.A.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_060562774.1", "organism": "Unknown", "description": "Colletotrichum navitas uncharacterized protein (LY79DRAFT_660584), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 311, "left_position": 456, "right_position": 747, "probe_position": 673, "left_mismatches": 1, "right_mismatches": 8, "probe_mismatches": 9, "left_3prime_mismatches": 0, "right_3prime_mismatches": 1, "left_alignment": "T..................", "right_alignment": "G..CC..TG...G.G.T...", "probe_alignment": ".TAC.A.TC..T..A.C...", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "6", "left_primer": "CACCAACATGGACACCACG", "right_primer": "GTCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 200, "left_tm": 59.051491726789095, "right_tm": 60.66657713440145, "probe_tm": 60.38293508194016, "left_gc": 57.89473684210526, "right_gc": 60.0, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "XM_057515395.1", "organism": "Unknown", "description": "PREDICTED: Daphnia carinata vitellogenin-like (LOC130692311), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 121, "left_position": 610, "right_position": 711, "probe_position": 873, "left_mismatches": 0, "right_mismatches": 8, "probe_mismatches": 8, "left_3prime_mismatches": 0, "right_3prime_mismatches": 2, "left_alignment": "...................", "right_alignment": "A...A..AAA..C..T.A..", "probe_alignment": "A..C......A..GTTG.A.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061901322.1", "organism": "Unknown", "description": "PREDICTED: Nerophis ophidion kinase D-interacting substrate 220b (kidins220b), transcript variant X3, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 179, "right_position": 197, "probe_position": 420, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...A..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_071273922.1", "organism": "Unknown", "description": "PREDICTED: Mytilus edulis chitinase-3-like protein 1 (LOC139488374), transcript variant X3, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 370, "left_position": 525, "right_position": 875, "probe_position": 697, "left_mismatches": 5, "right_mismatches": 8, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "......A....TTG....T", "right_alignment": "G..A.AA.....C..TTT..", "probe_alignment": "A..GAA.T..A.G.CG....", "taxid": "", "is_target_taxid": false}, {"accession": "XM_062045189.1", "organism": "Unknown", "description": "PREDICTED: Entelurus aequoreus kinase D-interacting substrate 220b (kidins220b), transcript variant X4, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 187, "right_position": 205, "probe_position": 428, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_052672716.1", "organism": "Unknown", "description": "PREDICTED: Tympanuchus pallidicinctus mucin-5AC-like (LOC128075722), partial mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 171, "left_position": 521, "right_position": 672, "probe_position": 816, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 1, "left_alignment": "..................C", "right_alignment": "ATA.C.G.CA...C.A....", "probe_alignment": "AACAT.G.....A.C..C.T", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061901320.1", "organism": "Unknown", "description": "PREDICTED: Nerophis ophidion kinase D-interacting substrate 220b (kidins220b), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 179, "right_position": 197, "probe_position": 420, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...A..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_071273920.1", "organism": "Unknown", "description": "PREDICTED: Mytilus edulis chitinase-3-like protein 1 (LOC139488374), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 370, "left_position": 400, "right_position": 750, "probe_position": 572, "left_mismatches": 5, "right_mismatches": 8, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "......A....TTG....T", "right_alignment": "G..A.AA.....C..TTT..", "probe_alignment": "A..GAA.T..A.G.CG....", "taxid": "", "is_target_taxid": false}, {"accession": "XM_062045188.1", "organism": "Unknown", "description": "PREDICTED: Entelurus aequoreus kinase D-interacting substrate 220b (kidins220b), transcript variant X3, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 187, "right_position": 205, "probe_position": 428, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "CP002886.1", "organism": "Unknown", "description": "Enterobacter ludwigii strain EcWSU1, complete genome", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 56, "left_position": 164, "right_position": 200, "probe_position": 415, "left_mismatches": 5, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 0, "right_3prime_mismatches": 3, "left_alignment": "..GG..G...AG.......", "right_alignment": "T...GC.TC..A...A.AG.", "probe_alignment": "T.A..CG.G.T.....TC.G", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061929993.1", "organism": "Unknown", "description": "PREDICTED: Nerophis lumbriciformis kinase D-interacting substrate 220b (kidins220b), transcript variant X3, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 185, "right_position": 203, "probe_position": 426, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_062045190.1", "organism": "Unknown", "description": "PREDICTED: Entelurus aequoreus kinase D-interacting substrate 220b (kidins220b), transcript variant X5, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 187, "right_position": 205, "probe_position": 428, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061929992.1", "organism": "Unknown", "description": "PREDICTED: Nerophis lumbriciformis kinase D-interacting substrate 220b (kidins220b), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 185, "right_position": 203, "probe_position": 426, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_052578655.1", "organism": "Unknown", "description": "PREDICTED: Carassius gibelio CDC42 small effector protein 1 (LOC127974985), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 88, "left_position": 791, "right_position": 859, "probe_position": 799, "left_mismatches": 1, "right_mismatches": 10, "probe_mismatches": 11, "left_3prime_mismatches": 1, "right_3prime_mismatches": 1, "left_alignment": "..................C", "right_alignment": ".C.CCC..C.A.TCTA....", "probe_alignment": "T..A.AC.AC.T.T.C.G.T", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061901323.1", "organism": "Unknown", "description": "PREDICTED: Nerophis ophidion kinase D-interacting substrate 220b (kidins220b), transcript variant X4, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 179, "right_position": 197, "probe_position": 420, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...A..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009806889.1", "organism": "Unknown", "description": "PREDICTED: Nerophis ophidion kinase D-interacting substrate 220b (kidins220b), transcript variant X5, misc_RNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 179, "right_position": 197, "probe_position": 420, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...A..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061901321.1", "organism": "Unknown", "description": "PREDICTED: Nerophis ophidion kinase D-interacting substrate 220b (kidins220b), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 179, "right_position": 197, "probe_position": 420, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...A..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_052578654.1", "organism": "Unknown", "description": "PREDICTED: Carassius gibelio CDC42 small effector protein 1 (LOC127974985), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 220, "left_position": 738, "right_position": 938, "probe_position": 746, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 11, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": "G..TGC....T...A.TT.T", "probe_alignment": "T..A.AC.AC.T.T.C.G.T", "taxid": "", "is_target_taxid": false}, {"accession": "XM_062045187.1", "organism": "Unknown", "description": "PREDICTED: Entelurus aequoreus kinase D-interacting substrate 220b (kidins220b), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 187, "right_position": 205, "probe_position": 428, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_061929991.1", "organism": "Unknown", "description": "PREDICTED: Nerophis lumbriciformis kinase D-interacting substrate 220b (kidins220b), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 185, "right_position": 203, "probe_position": 426, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}, {"accession": "XM_071273921.1", "organism": "Unknown", "description": "PREDICTED: Mytilus edulis chitinase-3-like protein 1 (LOC139488374), transcript variant X2, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 370, "left_position": 399, "right_position": 749, "probe_position": 571, "left_mismatches": 5, "right_mismatches": 8, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "......A....TTG....T", "right_alignment": "G..A.AA.....C..TTT..", "probe_alignment": "A..GAA.T..A.G.CG....", "taxid": "", "is_target_taxid": false}, {"accession": "XM_062045186.1", "organism": "Unknown", "description": "PREDICTED: Entelurus aequoreus kinase D-interacting substrate 220b (kidins220b), transcript variant X1, mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 187, "right_position": 205, "probe_position": 428, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 9, "left_3prime_mismatches": 1, "right_3prime_mismatches": 3, "left_alignment": "..................C", "right_alignment": ".....C.A..AAG.T..CCA", "probe_alignment": "T.C.G...G..A.T..TCT.", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "7", "left_primer": "CGGGCAAAACAGTACAACCA", "right_primer": "TCTCGTTGGGAGGAACGTG", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 77, "left_tm": 58.97418804341396, "right_tm": 59.336260658977096, "probe_tm": 60.38293508194016, "left_gc": 50.0, "right_gc": 57.89473684210526, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "AC117382.10", "organism": "Unknown", "description": "Homo sapiens 3 BAC RP11-102M11 (Roswell Park Cancer Institute Human BAC Library) complete sequence", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 237, "left_position": 613, "right_position": 831, "probe_position": 688, "left_mismatches": 5, "right_mismatches": 10, "probe_mismatches": 10, "left_3prime_mismatches": 2, "right_3prime_mismatches": 0, "left_alignment": "TT.........A...G..A.", "right_alignment": "TGA.G...AAAGTT.....", "probe_alignment": ".T.ATC.T..A.AAAG....", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009820465.1", "organism": "Unknown", "description": "PREDICTED: Colius striatus uncharacterized LOC133627977 (LOC133627977), transcript variant X2, ncRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 38, "left_position": 637, "right_position": 656, "probe_position": 669, "left_mismatches": 5, "right_mismatches": 9, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 3, "left_alignment": ".........T..AT...G.C", "right_alignment": "...A.CAAG..A..G..CT", "probe_alignment": "A..A.T.AATGA.T.T...A", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009820463.1", "organism": "Unknown", "description": "PREDICTED: Colius striatus uncharacterized LOC133627977 (LOC133627977), transcript variant X1, ncRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 374, "left_position": 612, "right_position": 967, "probe_position": 644, "left_mismatches": 5, "right_mismatches": 8, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 2, "left_alignment": ".........T..AT...G.C", "right_alignment": ".T.A.C...T.TC..C..T", "probe_alignment": "A..A.T.AATGA.T.T...A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_025337488.1", "organism": "Unknown", "description": "PREDICTED: Melanaphis sacchari uncharacterized LOC112593158 (LOC112593158), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 402, "left_position": 370, "right_position": 753, "probe_position": 399, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 4, "left_alignment": "..................A.", "right_alignment": ".T...CG.C.T...TC.TC", "probe_alignment": ".A..T..G..T.TT..TTAA", "taxid": "", "is_target_taxid": false}]}, {"primer_id": "8", "left_primer": "CGGGCAAAACAGTACAACCA", "right_primer": "GTCTCGTTGGGAGGAACGT", "probe": "CGGTCGTCTGCCCCGAAAGC", "product_size": 78, "left_tm": 58.97418804341396, "right_tm": 59.33569397981012, "probe_tm": 60.38293508194016, "left_gc": 50.0, "right_gc": 57.89473684210526, "probe_gc": 70.0, "total_matches": 0, "target_taxid_matches": 0, "target_taxids": ["10552"], "detailed_matches": [{"accession": "AC117382.10", "organism": "Unknown", "description": "Homo sapiens 3 BAC RP11-102M11 (Roswell Park Cancer Institute Human BAC Library) complete sequence", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 238, "left_position": 613, "right_position": 832, "probe_position": 688, "left_mismatches": 5, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 2, "right_3prime_mismatches": 0, "left_alignment": "TT.........A...G..A.", "right_alignment": "GA.G...AAAGTT......", "probe_alignment": ".T.ATC.T..A.AAAG....", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009820463.1", "organism": "Unknown", "description": "PREDICTED: Colius striatus uncharacterized LOC133627977 (LOC133627977), transcript variant X1, ncRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 375, "left_position": 612, "right_position": 968, "probe_position": 644, "left_mismatches": 5, "right_mismatches": 9, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 3, "left_alignment": ".........T..AT...G.C", "right_alignment": "T.A.C...T.TC..C..TG", "probe_alignment": "A..A.T.AATGA.T.T...A", "taxid": "", "is_target_taxid": false}, {"accession": "XR_009820465.1", "organism": "Unknown", "description": "PREDICTED: Colius striatus uncharacterized LOC133627977 (LOC133627977), transcript variant X2, ncRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 212, "left_position": 637, "right_position": 830, "probe_position": 669, "left_mismatches": 5, "right_mismatches": 10, "probe_mismatches": 11, "left_3prime_mismatches": 2, "right_3prime_mismatches": 1, "left_alignment": ".........T..AT...G.C", "right_alignment": "CT.AAGAA.TT...A....", "probe_alignment": "A..A.T.AATGA.T.T...A", "taxid": "", "is_target_taxid": false}, {"accession": "XM_025337488.1", "organism": "Unknown", "description": "PREDICTED: Melanaphis sacchari uncharacterized LOC112593158 (LOC112593158), mRNA", "left_match": true, "right_match": false, "probe_match": false, "amplicon_size": 542, "left_position": 370, "right_position": 893, "probe_position": 399, "left_mismatches": 1, "right_mismatches": 9, "probe_mismatches": 10, "left_3prime_mismatches": 1, "right_3prime_mismatches": 2, "left_alignment": "..................A.", "right_alignment": "G.A.GGA..T...TC..T.", "probe_alignment": ".A..T..G..T.TT..TTAA", "taxid": "", "is_target_taxid": false}]}];
+        
+        // Update summary statistics
+        document.getElementById('primerCount').textContent = reportData.length;
+        document.getElementById('totalPrimers').textContent = reportData.length;
+        document.getElementById('reportDate').textContent = "26.04.2025, 18:56:02";
+        
+        // Populate the primers table
+        function populateTable(data) {
+            const tableBody = document.getElementById('primersTableBody');
+            tableBody.innerHTML = '';
+            
+            data.forEach((primer, index) => {
+                const row = document.createElement('tr');
+                
+                // Handle case where no target taxids were specified
+                const targetTaxaCell = primer.target_taxids && primer.target_taxids.length > 0 
+                    ? `<td>${primer.target_taxid_matches} / ${primer.total_matches}</td>`
+                    : `<td>N/A</td>`;
+                
+                row.innerHTML = `
+                    <td>${primer.primer_id}</td>
+                    <td>${primer.left_primer}</td>
+                    <td>${primer.right_primer}</td>
+                    <td>${primer.probe}</td>
+                    <td>${primer.product_size}</td>
+                    <td>${primer.total_matches}</td>
+                    ${targetTaxaCell}
+                    <td><span class="toggle-details" onclick="toggleDetails(${index})">Show Details</span></td>
+                `;
+                
+                tableBody.appendChild(row);
+                
+                // Create details row
+                const detailsRow = document.createElement('tr');
+                detailsRow.id = `details-${index}`;
+                
+                const detailsCell = document.createElement('td');
+                detailsCell.colSpan = 8;
+                detailsCell.innerHTML = `
+                    <div class="primer-details">
+                        <h3>Primer pair ${primer.primer_id}</h3>
+                        
+                        <table class="primer-table">
+                            <thead>
+                                <tr>
+                                    <th>Sequence (5'->3')</th>
+                                    <th>Length</th>
+                                    <th>Tm</th>
+                                    <th>GC%</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Forward primer: ${primer.left_primer}</td>
+                                    <td>${primer.left_primer.length}</td>
+                                    <td>${primer.left_tm.toFixed(2)}</td>
+                                    <td>${primer.left_gc.toFixed(2)}</td>
+                                </tr>
+                                <tr>
+                                    <td>Reverse primer: ${primer.right_primer}</td>
+                                    <td>${primer.right_primer.length}</td>
+                                    <td>${primer.right_tm.toFixed(2)}</td>
+                                    <td>${primer.right_gc.toFixed(2)}</td>
+                                </tr>
+                                <tr>
+                                    <td>Probe: ${primer.probe}</td>
+                                    <td>${primer.probe.length}</td>
+                                    <td>${primer.probe_tm.toFixed(2)}</td>
+                                    <td>${primer.probe_gc.toFixed(2)}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        
+                        <h4>Products on target templates</h4>
+                        ${primer.detailed_matches.length > 0 
+                            ? formatDetailedMatches(primer) 
+                            : '<div class="no-matches">No matching sequences found.</div>'}
+                    </div>
+                `;
+                
+                detailsCell.querySelector('.primer-details').style.display = 'none';
+                detailsRow.appendChild(detailsCell);
+                tableBody.appendChild(detailsRow);
+            });
+        }
+        
+        // Format detailed matches in Primer-BLAST style
+        function formatDetailedMatches(primer) {
+            let matchesHtml = '';
+            
+            // Count valid matches (those where all three components match)
+            const validMatches = primer.detailed_matches.filter(match => 
+                match.left_match && match.right_match && match.probe_match
+            );
+            
+            if (validMatches.length === 0) {
+                return '<div class="no-matches">No sequences meet all specificity criteria.</div>';
+            }
+            
+            // Add CSS for target taxids
+            matchesHtml += `
+                <style>
+                    .target-taxid {
+                        background-color: #e8f5e9;
+                        border-left: 3px solid #2e7d32;
+                    }
+                </style>
+            `;
+            
+            // DNA complement lookup table
+            const complementMap = {
+                'A': 'T', 'T': 'A', 'G': 'C', 'C': 'G',
+                'a': 't', 't': 'a', 'g': 'c', 'c': 'g',
+                '.': '.'  // Keep dots as dots
+            };
+            
+            // Function to complement a DNA sequence
+            const complement = (seq) => {
+                return seq.split('').map(base => complementMap[base] || base).join('');
+            };
+            
+            validMatches.forEach(match => {
+                // Calculate the product
+                const productLength = match.amplicon_size;
+                
+                // Format positions with proper padding
+                const leftPosDisplay = match.left_position !== null ? match.left_position + 1 : '?';
+                const rightPosDisplay = match.right_position !== null ? match.right_position + 1 : '?';
+                const probePosDisplay = match.probe_position !== null ? match.probe_position + 1 : '?';
+                
+                // Calculate end positions
+                const leftEndPos = match.left_position !== null ? match.left_position + primer.left_primer.length : '?';
+                const rightEndPos = match.right_position !== null ? match.right_position + primer.right_primer.length : '?';
+                const probeEndPos = match.probe_position !== null ? match.probe_position + primer.probe.length : '?';
+                
+                // Process the right alignment to make complementary
+                const rightAlignment = match.right_alignment || '.'.repeat(primer.right_primer.length);
+                const complementaryRightAlignment = complement(rightAlignment).split('').reverse().join('');
+                
+                // Add class for target taxids
+                const targetClass = match.is_target_taxid ? 'target-taxid' : '';
+                const taxidInfo = match.taxid ? ` [TaxID: ${match.taxid}]` : '';
+                
+                
+                // Calculate padding for position numbers to handle very large GenBank positions
+                const maxPosLength = Math.max(
+                    leftPosDisplay.toString().length,
+                    leftEndPos.toString().length,
+                    rightPosDisplay.toString().length,
+                    rightEndPos.toString().length,
+                    probePosDisplay.toString().length,
+                    probeEndPos.toString().length
+                );
+
+                // Ensure we have proper monospace alignment by using pre-formatted text with consistent spacing
+                matchesHtml += `
+                    <div class="product-template ${targetClass}">
+                        <div>&gt;${match.accession} ${match.description}${taxidInfo}</div>
+                        <div>product length = ${productLength}</div>
+
+                        <pre class="sequence-alignment">Forward primer  1${' '.repeat(maxPosLength-1)}    ${primer.left_primer}  ${primer.left_primer.length}
+Template        ${leftPosDisplay.toString().padStart(maxPosLength, ' ')}    ${match.left_alignment || '.'.repeat(primer.left_primer.length)}  ${leftEndPos}</pre>
+
+            <pre class="sequence-alignment">Reverse primer  1${' '.repeat(maxPosLength-1)}    ${primer.right_primer}  ${primer.right_primer.length}
+Template        ${rightEndPos.toString().padStart(maxPosLength, ' ')}    ${complementaryRightAlignment}  ${rightPosDisplay}</pre>
+
+            <pre class="sequence-alignment">Probe           1${' '.repeat(maxPosLength-1)}    ${primer.probe}  ${primer.probe.length}
+Template        ${probePosDisplay.toString().padStart(maxPosLength, ' ')}    ${match.probe_alignment || '.'.repeat(primer.probe.length)}  ${probeEndPos}</pre>
+                    </div>
+                `;
+            });
+            
+            return matchesHtml;
+        }
+        
+        // Toggle details visibility
+        function toggleDetails(index) {
+            const detailsRow = document.getElementById(`details-${index}`);
+            const detailsDiv = detailsRow.querySelector('.primer-details');
+            
+            if (detailsDiv.style.display === 'none') {
+                detailsDiv.style.display = 'block';
+            } else {
+                detailsDiv.style.display = 'none';
+            }
+        }
+
+        // Filter functions
+        function applyFilters() {
+            const searchText = document.getElementById('searchInput').value.toLowerCase();
+            const minAmpliconSize = parseInt(document.getElementById('minAmpliconSize').value) || 0;
+            const maxAmpliconSize = parseInt(document.getElementById('maxAmpliconSize').value) || Number.MAX_SAFE_INTEGER;
+            
+            let filteredData = [...reportData];
+            
+            // Apply text search if specified
+            if (searchText) {
+                filteredData = filteredData.filter(primer => 
+                    primer.primer_id.toString().toLowerCase().includes(searchText) ||
+                    primer.left_primer.toLowerCase().includes(searchText) ||
+                    primer.right_primer.toLowerCase().includes(searchText) ||
+                    primer.probe.toLowerCase().includes(searchText)
+                );
+            }
+            
+            // Apply amplicon size filter
+            if (minAmpliconSize > 0 || maxAmpliconSize < Number.MAX_SAFE_INTEGER) {
+                filteredData = filteredData.filter(primer => 
+                    primer.product_size >= minAmpliconSize && 
+                    primer.product_size <= maxAmpliconSize
+                );
+            }
+            
+            populateTable(filteredData);
+        }
+        
+        function resetFilters() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('minAmpliconSize').value = '';
+            document.getElementById('maxAmpliconSize').value = '';
+            populateTable(reportData);
+        }
+        
+        // Table sorting functionality
+        let sortAscending = true;
+        
+        function sortTable(columnIndex) {
+            sortAscending = !sortAscending;
+            
+            // Sort the actual data
+            const sortedData = [...reportData].sort((a, b) => {
+                let aValue, bValue;
+                
+                if (columnIndex === 5) {  // Matched NCBI GenBank Records
+                    aValue = parseInt(a.total_matches) || 0;
+                    bValue = parseInt(b.total_matches) || 0;
+                } 
+                else if (columnIndex === 6) {  // Matches to Target Taxa
+                    aValue = parseInt(a.target_taxid_matches) || 0;
+                    bValue = parseInt(b.target_taxid_matches) || 0;
+                }
+                
+                return sortAscending ? aValue - bValue : bValue - aValue;
+            });
+            
+            // Repopulate the table with sorted data
+            populateTable(sortedData);
+        }
+        
+        // Initialize the page
+        populateTable(reportData);
+    </script>
+</body>
+</html>

@@ -1,0 +1,186 @@
+# PCR Primer Design Settings
+# This file contains settings for PCR primer design using Primer3
+# Modify values as needed, but maintain the format: setting_name = value
+# Lines starting with # are comments and will be ignored by the program
+
+# =====================================================================
+# Primer size parameters
+# =====================================================================
+# PRIMER_OPT_SIZE: Optimal primer length (nucleotides)
+PRIMER_OPT_SIZE = 20
+
+# PRIMER_MIN_SIZE: Minimum acceptable primer length
+PRIMER_MIN_SIZE = 18
+
+# PRIMER_MAX_SIZE: Maximum acceptable primer length
+PRIMER_MAX_SIZE = 23
+
+# =====================================================================
+# Tm parameters (melting temperature)
+# Tm affects primer annealing efficiency - primers with similar Tm work best together
+# =====================================================================
+# PRIMER_MIN_TM: Minimum acceptable primer melting temperature (°C)
+PRIMER_MIN_TM = 57.0
+
+# PRIMER_OPT_TM: Optimal primer melting temperature (°C)
+PRIMER_OPT_TM = 59.0
+
+# PRIMER_MAX_TM: Maximum acceptable primer melting temperature (°C)
+PRIMER_MAX_TM = 62.0
+
+# PRIMER_MAX_DIFF_TM: Maximum acceptable difference between primer melting temperatures (°C)
+# Lower values ensure both primers work efficiently at the same annealing temperature
+PRIMER_MAX_DIFF_TM = 5.0
+
+# =====================================================================
+# GC content parameters 
+# GC content affects primer stability and specificity
+# =====================================================================
+# PRIMER_MIN_GC: Minimum acceptable GC content (percentage)
+PRIMER_MIN_GC = 30.0
+
+# PRIMER_OPT_GC_PERCENT: Optimal GC content (percentage)
+PRIMER_OPT_GC_PERCENT = 50.0
+
+# PRIMER_MAX_GC: Maximum acceptable GC content (percentage)
+PRIMER_MAX_GC = 70.0
+
+# =====================================================================
+# Probe parameters (for TaqMan or similar probe-based assays)
+# These settings control the internal oligo (probe) properties
+# =====================================================================
+# PRIMER_PICK_INTERNAL_OLIGO: Whether to design an internal oligo probe (1=yes, 0=no)
+PRIMER_PICK_INTERNAL_OLIGO = 1
+
+# PRIMER_INTERNAL_MIN_SIZE: Minimum acceptable probe length
+PRIMER_INTERNAL_MIN_SIZE = 18
+
+# PRIMER_INTERNAL_OPT_SIZE: Optimal probe length
+PRIMER_INTERNAL_OPT_SIZE = 20
+
+# PRIMER_INTERNAL_MAX_SIZE: Maximum acceptable probe length
+PRIMER_INTERNAL_MAX_SIZE = 27
+
+# PRIMER_INTERNAL_MIN_TM: Minimum acceptable probe melting temperature (°C)
+# Probes typically have higher Tm than primers
+PRIMER_INTERNAL_MIN_TM = 57.0
+
+# PRIMER_INTERNAL_OPT_TM: Optimal probe melting temperature (°C)
+PRIMER_INTERNAL_OPT_TM = 60.0
+
+# PRIMER_INTERNAL_MAX_TM: Maximum acceptable probe melting temperature (°C)
+PRIMER_INTERNAL_MAX_TM = 63.0
+
+# PRIMER_INTERNAL_MIN_GC: Minimum acceptable probe GC content (percentage)
+PRIMER_INTERNAL_MIN_GC = 20.0
+
+# PRIMER_INTERNAL_OPT_GC_PERCENT: Optimal probe GC content (percentage)
+PRIMER_INTERNAL_OPT_GC_PERCENT = 50.0
+
+# PRIMER_INTERNAL_MAX_GC: Maximum acceptable probe GC content (percentage)
+PRIMER_INTERNAL_MAX_GC = 80.0
+
+# =====================================================================
+# Poly-X parameters (prevent runs of single nucleotides)
+# Long runs of the same base can cause mispriming and reduce specificity
+# =====================================================================
+# PRIMER_MAX_POLY_X: Maximum length of mononucleotide repeat in primers (e.g., AAAAA)
+PRIMER_MAX_POLY_X = 4
+
+# PRIMER_INTERNAL_MAX_POLY_X: Maximum length of mononucleotide repeat in probes
+PRIMER_INTERNAL_MAX_POLY_X = 5
+
+# =====================================================================
+# Salt and DNA concentration parameters
+# These affect Tm calculations and primer binding behavior
+# =====================================================================
+# PRIMER_SALT_MONOVALENT: Concentration of monovalent cations (mM) [Na+]
+PRIMER_SALT_MONOVALENT = 50.0
+
+# PRIMER_SALT_DIVALENT: Concentration of divalent cations (mM) [Mg2+]
+PRIMER_SALT_DIVALENT = 1.5
+
+# PRIMER_DNA_CONC: Concentration of annealing oligos in the PCR (nM)
+PRIMER_DNA_CONC = 50.0
+
+# PRIMER_MAX_NS_ACCEPTED: Maximum number of unknown bases (N) allowed in primers
+PRIMER_MAX_NS_ACCEPTED = 0
+
+# PRIMER_SALT_CORRECTIONS: Salt correction formula (1 = SantaLucia 1998)
+PRIMER_SALT_CORRECTIONS = 1
+
+# =====================================================================
+# Thermodynamic alignment parameters (secondary structure checks)
+# These prevent primers from forming hairpins or dimers
+# =====================================================================
+# PRIMER_THERMODYNAMIC_OLIGO_ALIGNMENT: Use thermodynamic models for alignment (1=yes, 0=no)
+PRIMER_THERMODYNAMIC_OLIGO_ALIGNMENT = 1
+
+# PRIMER_MAX_SELF_ANY_TH: Maximum self-complementarity allowed throughout primer (ΔG, kcal/mol)
+# Lower (more negative) values indicate stronger binding - higher values are more permissive
+PRIMER_MAX_SELF_ANY_TH = 45.0
+
+# PRIMER_MAX_SELF_END_TH: Maximum self-complementarity allowed at primer 3' end (ΔG, kcal/mol)
+# 3' end complementarity is especially problematic for primer-dimer formation
+PRIMER_MAX_SELF_END_TH = 35.0
+
+# PRIMER_PAIR_MAX_COMPL_ANY_TH: Maximum complementarity between primers (ΔG, kcal/mol)
+PRIMER_PAIR_MAX_COMPL_ANY_TH = 45.0
+
+# PRIMER_PAIR_MAX_COMPL_END_TH: Maximum 3' complementarity between primers (ΔG, kcal/mol)
+PRIMER_PAIR_MAX_COMPL_END_TH = 35.0
+
+# PRIMER_MAX_HAIRPIN_TH: Maximum hairpin formation tendency (ΔG, kcal/mol)
+# Hairpins can prevent primers from annealing to the template
+PRIMER_MAX_HAIRPIN_TH = 24.0
+
+# =====================================================================
+# Probe thermodynamic parameters
+# These prevent probe secondary structures
+# =====================================================================
+# PRIMER_INTERNAL_MAX_SELF_ANY_TH: Maximum probe self-complementarity (ΔG, kcal/mol)
+PRIMER_INTERNAL_MAX_SELF_ANY_TH = 47.0
+
+# PRIMER_INTERNAL_MAX_SELF_END_TH: Maximum probe 3' self-complementarity (ΔG, kcal/mol)
+PRIMER_INTERNAL_MAX_SELF_END_TH = 47.0
+
+# PRIMER_INTERNAL_MAX_HAIRPIN_TH: Maximum probe hairpin formation tendency (ΔG, kcal/mol)
+PRIMER_INTERNAL_MAX_HAIRPIN_TH = 47.0
+
+# =====================================================================
+# Template mispriming parameters
+# These help ensure primers don't bind to multiple sites on the template
+# =====================================================================
+# PRIMER_MAX_TEMPLATE_MISPRIMING_TH: Maximum template mispriming score for primers (ΔG, kcal/mol)
+PRIMER_MAX_TEMPLATE_MISPRIMING_TH = 40.0
+
+# PRIMER_PAIR_MAX_TEMPLATE_MISPRIMING_TH: Maximum combined template mispriming score (ΔG, kcal/mol)
+PRIMER_PAIR_MAX_TEMPLATE_MISPRIMING_TH = 70.0
+
+# =====================================================================
+# Additional parameters
+# =====================================================================
+# PRIMER_EXPLAIN_FLAG: Provide detailed explanation of primer picking (1=yes, 0=no)
+PRIMER_EXPLAIN_FLAG = 1
+
+# PRIMER_LIBERAL_BASE: Allow non-ACGT bases (like IUPAC ambiguity codes) in primers (1=yes, 0=no)
+PRIMER_LIBERAL_BASE = 1
+
+# PRIMER_FIRST_BASE_INDEX: Index of the first base in the input sequence (usually 0 or 1)
+PRIMER_FIRST_BASE_INDEX = 1
+
+# PRIMER_MAX_END_STABILITY: Maximum stability for the last 5 bases of a primer (ΔG, kcal/mol)
+# Lower values give more stable 3' ends, which can increase mispriming
+PRIMER_MAX_END_STABILITY = 9.0
+
+# PRIMER_MAX_LIBRARY_MISPRIMING: Maximum library mispriming score for single primer
+PRIMER_MAX_LIBRARY_MISPRIMING = 12.00
+
+# PRIMER_PAIR_MAX_LIBRARY_MISPRIMING: Maximum library mispriming score for primer pair
+PRIMER_PAIR_MAX_LIBRARY_MISPRIMING = 20.00
+
+# PRIMER_INSIDE_PENALTY: Penalty for placing primers in regions marked for internal placement
+PRIMER_INSIDE_PENALTY = -1.0
+
+# PRIMER_OUTSIDE_PENALTY: Penalty for placing primers outside of regions marked for primer selection
+PRIMER_OUTSIDE_PENALTY = 0.0

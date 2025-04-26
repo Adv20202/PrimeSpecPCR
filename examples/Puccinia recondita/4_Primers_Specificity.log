@@ -1,0 +1,157 @@
+PrimeSpecPCR - Primer Specificity Test Module
+============================================
+Using email: adamkuzdralinski@gmail.com
+Using API key: a5d69...1bb08
+
+Specificity Evaluation Against Target Taxonomy
+============================================
+Waiting for input: Enter NCBI Taxonomy ID(s) to evaluate primer specificity against (comma-separated): 
+Using target taxonomy IDs: 27348
+Loaded settings from primer_specificity_settings.txt
+
+Current Primer Specificity Test Settings:
+=======================================
+Maximum BLAST hits: 2000
+Minimum identity (%): 60.0
+Maximum E-value: 5000.0
+Word size: 5
+Fetch limit: 1000
+
+Primer Specificity Stringency:
+Maximum total mismatches for specificity: 3
+Maximum 3' end mismatches: 2
+3' end region size (bp): 5
+Maximum probe mismatches: 3
+
+Directories:
+Cache directory: 4_cache
+Output directory: 4_
+=======================================
+Waiting for input: Do you want to modify specificity test settings? (yes/no): 
+Waiting for input: Do you want to clear the cache and force new BLAST searches? (yes/no): 
+Clearing cache directory: 4_cache
+Cache cleared successfully
+Found 1 primer files
+
+Processing file 1 of 1: CONSENSUS_0_primers.csv
+Read 20 primer pairs from 3_/CONSENSUS_0_primers.csv
+Processing primer pair 1 (1 of 20)
+Found 242 matching sequences.
+Fetching taxonomy information for 242 matches, please wait..
+Success
+Progress: 5.0%
+Processing primer pair 2 (2 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 245 matching sequences.
+Fetching taxonomy information for 245 matches, please wait..
+Success
+Progress: 10.0%
+Processing primer pair 3 (3 of 20)
+Found 209 matching sequences.
+Fetching taxonomy information for 209 matches, please wait..
+Success
+Progress: 15.0%
+Processing primer pair 4 (4 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 540 matching sequences.
+Fetching taxonomy information for 540 matches, please wait..
+Success
+Progress: 20.0%
+Processing primer pair 5 (5 of 20)
+Using cached results for left primer: AGCTATGGAAGTTCGAAACCC
+Found 216 matching sequences.
+Fetching taxonomy information for 216 matches, please wait..
+Success
+Progress: 25.0%
+Processing primer pair 6 (6 of 20)
+Found 224 matching sequences.
+Fetching taxonomy information for 224 matches, please wait..
+Success
+Progress: 30.0%
+Processing primer pair 7 (7 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 210 matching sequences.
+Fetching taxonomy information for 210 matches, please wait..
+Success
+Progress: 35.0%
+Processing primer pair 8 (8 of 20)
+Found 211 matching sequences.
+Fetching taxonomy information for 211 matches, please wait..
+Success
+Progress: 40.0%
+Processing primer pair 9 (9 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 241 matching sequences.
+Fetching taxonomy information for 241 matches, please wait..
+Success
+Progress: 45.0%
+Processing primer pair 10 (10 of 20)
+Using cached results for left primer: CAGCTATGGAAGTTCGAAACCC
+Found 230 matching sequences.
+Fetching taxonomy information for 230 matches, please wait..
+Success
+Progress: 50.0%
+Processing primer pair 11 (11 of 20)
+Using cached results for left primer: ACAGCTATGGAAGTTCGAAACC
+Found 218 matching sequences.
+Fetching taxonomy information for 218 matches, please wait..
+Success
+Progress: 55.0%
+Processing primer pair 12 (12 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 245 matching sequences.
+Fetching taxonomy information for 245 matches, please wait..
+Success
+Progress: 60.0%
+Processing primer pair 13 (13 of 20)
+Found 58 matching sequences.
+Fetching taxonomy information for 58 matches, please wait..
+Success
+Progress: 65.0%
+Processing primer pair 14 (14 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 257 matching sequences.
+Fetching taxonomy information for 257 matches, please wait..
+Success
+Progress: 70.0%
+Processing primer pair 15 (15 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 209 matching sequences.
+Fetching taxonomy information for 209 matches, please wait..
+Success
+Progress: 75.0%
+Processing primer pair 16 (16 of 20)
+Using cached results for left primer: AGCTATGGAAGTTCGAAACCC
+Found 571 matching sequences.
+Fetching taxonomy information for 571 matches, please wait..
+Success
+Progress: 80.0%
+Processing primer pair 17 (17 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 175 matching sequences.
+Fetching taxonomy information for 175 matches, please wait..
+Success
+Progress: 85.0%
+Processing primer pair 18 (18 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 190 matching sequences.
+Fetching taxonomy information for 190 matches, please wait..
+Success
+Progress: 90.0%
+Processing primer pair 19 (19 of 20)
+Using cached results for left primer: GCTATGGAAGTTCGAAACCCC
+Found 200 matching sequences.
+Fetching taxonomy information for 200 matches, please wait..
+Success
+Progress: 95.0%
+Processing primer pair 20 (20 of 20)
+Using cached results for left primer: AGCTATGGAAGTTCGAAACCC
+Found 128 matching sequences.
+Fetching taxonomy information for 128 matches, please wait..
+Success
+Progress: 100.0%
+Created HTML report at 4_/specificity_report_CONSENSUS_0_primers.html
+Opening report in default browser: /Users/adamkuzdralinski/Desktop/PJATK/SoftwareX/PrimeSpecPCR-main/4_/specificity_report_CONSENSUS_0_primers.html
+
+Specificity analysis complete! Report saved to 4_/specificity_report_CONSENSUS_0_primers.html
+You can open an HTML file in the  web browser.

@@ -1,0 +1,48 @@
+# Primer Specificity Test Settings
+# Modify values as needed, but maintain the format: SETTING_NAME = value
+# Lines starting with # are comments and will be ignored by the program
+
+# =====================================================================
+# Search parameters
+# =====================================================================
+
+# MAX_HITS: Maximum number of BLAST hits to retrieve per primer
+MAX_HITS = 2000
+
+# MIN_IDENTITY: Minimum percent identity for a valid match (%)
+MIN_IDENTITY = 60.0
+
+# MAX_E_VALUE: Maximum E-value for BLAST searches
+MAX_E_VALUE = 5000
+
+# WORD_SIZE: Word size for BLAST searches
+WORD_SIZE = 5
+
+# FETCH_LIMIT: Maximum number of sequences to fetch from GenBank
+FETCH_LIMIT = 1000
+
+# =====================================================================
+# Primer specificity stringency parameters
+# =====================================================================
+
+# MAX_TOTAL_MISMATCHES: Maximum number of total mismatches for a primer to be specific
+MAX_TOTAL_MISMATCHES = 3
+
+# MAX_3PRIME_MISMATCHES: Maximum number of mismatches within the last X base pairs at the 3' end
+MAX_3PRIME_MISMATCHES = 2
+
+# BASES_FROM_3PRIME: Number of base pairs from the 3' end to check for mismatches
+BASES_FROM_3PRIME = 5
+
+# MAX_MISMATCHES_PROBE: Maximum number of mismatches within the probe sequence
+MAX_MISMATCHES_PROBE = 3
+
+# =====================================================================
+# Directories
+# =====================================================================
+
+# CACHE_DIR: Directory to store cached GenBank sequences
+CACHE_DIR = 4_cache
+
+# OUTPUT_DIR: Directory to store output files
+OUTPUT_DIR = 4_

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1847925</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>623</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1847925</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>623</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|30266948|gb|AY217065.1|</Hit_id>
+  <Hit_def>Erwinia psidii recombinase A (recA) gene, partial cds</Hit_def>
+  <Hit_accession>AY217065</Hit_accession>
+  <Hit_len>623</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1124.79</Hsp_bit-score>
+      <Hsp_score>1246</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>623</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>623</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>623</Hsp_identity>
+      <Hsp_positive>623</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>623</Hsp_align-len>
+      <Hsp_qseq>ACTGGCTCTCTGTCCCTGGATATTGCGCTTGGTGCCGGTGGCCTCCCAATGGGGCGTATTGTTGAAATTTACGGCCCTGAATCTTCCGGTAAAACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATGCCCTGAAGTTTTACGCCTCTGTCCGTCTTGATATTCGCCGTATTGGCCCCATTAAAAAAGGTGATGAAGTCGTCGGTAGCGAAACCCGGGTCAAAGTGGTGAAAAA</Hsp_qseq>
+      <Hsp_hseq>ACTGGCTCTCTGTCCCTGGATATTGCGCTTGGTGCCGGTGGCCTCCCAATGGGGCGTATTGTTGAAATTTACGGCCCTGAATCTTCCGGTAAAACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATGCCCTGAAGTTTTACGCCTCTGTCCGTCTTGATATTCGCCGTATTGGCCCCATTAAAAAAGGTGATGAAGTCGTCGGTAGCGAAACCCGGGTCAAAGTGGTGAAAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|112791539|gb|DQ859878.1|</Hit_id>
+  <Hit_def>Erwinia psidii strain ICMP 8426 recombinase A (recA) gene, partial cds</Hit_def>
+  <Hit_accession>DQ859878</Hit_accession>
+  <Hit_len>590</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>933.628</Hsp_bit-score>
+      <Hsp_score>1034</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>623</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>532</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>526</Hsp_identity>
+      <Hsp_positive>526</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>532</Hsp_align-len>
+      <Hsp_qseq>AAACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATGCCCTGAAGTTTTACGCCTCTGTCCGTCTTGATATTCGCCGTATTGGCCCCATTAAAAAAGGTGATGAAGTCGTCGGTAGCGAAACCCGGGTCAAAGTGGTGAAAAA</Hsp_qseq>
+      <Hsp_hseq>AAACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATGCCCTGAAGTTTTACGCCTCTGTCCGTCTTGATATCCGTCGTATTGGCGCGATTAAAGAAGGTGATGAAGTCGTCGGTAGCGAAACCCGGGTAAAAGTGGTGAAAAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||| | |||||| |||||||||||||||||||||||||||||||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|459257765|gb|KC201324.1|</Hit_id>
+  <Hit_def>Erwinia psidii strain IBSBF 435 RecA (recA) gene, partial cds</Hit_def>
+  <Hit_accession>KC201324</Hit_accession>
+  <Hit_len>424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>765.915</Hsp_bit-score>
+      <Hsp_score>848</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>517</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>424</Hsp_identity>
+      <Hsp_positive>424</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>424</Hsp_align-len>
+      <Hsp_qseq>ACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATG</Hsp_qseq>
+      <Hsp_hseq>ACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|459257780|gb|KC201325.1|</Hit_id>
+  <Hit_def>Erwinia psidii strain A2 RecA (recA) gene, partial cds &gt;gi|459257783|gb|KC201326.1| Erwinia psidii strain A6 RecA (recA) gene, partial cds &gt;gi|459257785|gb|KC201327.1| Erwinia psidii strain A16 RecA (recA) gene, partial cds &gt;gi|459257787|gb|KC201328.1| Erwinia psidii strain C7 RecA (recA) gene, partial cds &gt;gi|459257789|gb|KC201329.1| Erwinia psidii strain C8 RecA (recA) gene, partial cds &gt;gi|459257791|gb|KC201330.1| Erwinia psidii strain C10 RecA (recA) gene, partial cds &gt;gi|459257793|gb|KC201331.1| Erwinia psidii strain C11 RecA (recA) gene, partial cds &gt;gi|459257800|gb|KC201332.1| Erwinia psidii strain C12 RecA (recA) gene, partial cds &gt;gi|459257811|gb|KC201333.1| Erwinia psidii strain G4 RecA (recA) gene, partial cds &gt;gi|459257813|gb|KC201334.1| Erwinia psidii strain G6 RecA (recA) gene, partial cds &gt;gi|459257815|gb|KC201335.1| Erwinia psidii strain LW5 RecA (recA) gene, partial cds &gt;gi|459257817|gb|KC201336.1| Erwinia psidii strain M24 RecA (recA) gene, partial cds &gt;gi|459257819|gb|KC201337.1| Erwinia psidii strain M26 RecA (recA) gene, partial cds</Hit_def>
+  <Hit_accession>KC201325</Hit_accession>
+  <Hit_len>424</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>761.406</Hsp_bit-score>
+      <Hsp_score>843</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>94</Hsp_query-from>
+      <Hsp_query-to>517</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>423</Hsp_identity>
+      <Hsp_positive>423</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>424</Hsp_align-len>
+      <Hsp_qseq>ACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATG</Hsp_qseq>
+      <Hsp_hseq>ACCACGCTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGCGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|553007182|gb|KF413804.1|</Hit_id>
+  <Hit_def>Erwinia psidii strain LPF#0525 recombinase A (recA) gene, partial cds &gt;gi|553007185|gb|KF413805.1| Erwinia psidii strain LPF#0526 recombinase A (recA) gene, partial cds &gt;gi|553007187|gb|KF413806.1| Erwinia psidii strain LPF#0527 recombinase A (recA) gene, partial cds &gt;gi|553007189|gb|KF413807.1| Erwinia psidii strain LPF#0528 recombinase A (recA) gene, partial cds &gt;gi|553007192|gb|KF413808.1| Erwinia psidii strain LPF#0529 recombinase A (recA) gene, partial cds &gt;gi|553007195|gb|KF413809.1| Erwinia psidii strain LPF#0530 recombinase A (recA) gene, partial cds &gt;gi|553007198|gb|KF413810.1| Erwinia psidii strain LPF#0531 recombinase A (recA) gene, partial cds &gt;gi|553007200|gb|KF413811.1| Erwinia psidii strain LPF#0532 recombinase A (recA) gene, partial cds &gt;gi|553007202|gb|KF413812.1| Erwinia psidii strain LPF#0533 recombinase A (recA) gene, partial cds &gt;gi|553007204|gb|KF413813.1| Erwinia psidii strain LPF#0534 recombinase A (recA) gene, partial cds &gt;gi|553007206|gb|KF413814.1| Erwinia psidii strain LPF#0535 recombinase A (recA) gene, partial cds &gt;gi|553007209|gb|KF413815.1| Erwinia psidii strain LPF#0536 recombinase A (recA) gene, partial cds &gt;gi|553007211|gb|KF413816.1| Erwinia psidii strain LPF#0537 recombinase A (recA) gene, partial cds &gt;gi|553007213|gb|KF413817.1| Erwinia psidii strain LPF#0538 recombinase A (recA) gene, partial cds &gt;gi|553007215|gb|KF413818.1| Erwinia psidii strain LPF#0539 recombinase A (recA) gene, partial cds &gt;gi|553007217|gb|KF413819.1| Erwinia psidii strain LPF#0540 recombinase A (recA) gene, partial cds &gt;gi|553007219|gb|KF413820.1| Erwinia psidii strain LPF#0541 recombinase A (recA) gene, partial cds &gt;gi|553007221|gb|KF413821.1| Erwinia psidii strain LPF#0542 recombinase A (recA) gene, partial cds &gt;gi|553007223|gb|KF413822.1| Erwinia psidii strain LPF#0543 recombinase A (recA) gene, partial cds &gt;gi|553007225|gb|KF413823.1| Erwinia psidii strain LPF#0544 recombinase A (recA) gene, partial cds &gt;gi|553007227|gb|KF413824.1| Erwinia psidii strain LPF#0545 recombinase A (recA) gene, partial cds &gt;gi|553007229|gb|KF413825.1| Erwinia psidii strain LPF#0546 recombinase A (recA) gene, partial cds &gt;gi|553007231|gb|KF413826.1| Erwinia psidii strain LPF#0547 recombinase A (recA) gene, partial cds &gt;gi|553007234|gb|KF413827.1| Erwinia psidii strain LPF#0548 recombinase A (recA) gene, partial cds &gt;gi|553007236|gb|KF413828.1| Erwinia psidii strain LPF#0549 recombinase A (recA) gene, partial cds &gt;gi|553007238|gb|KF413829.1| Erwinia psidii strain LPF#0550 recombinase A (recA) gene, partial cds &gt;gi|553007241|gb|KF413830.1| Erwinia psidii strain LPF#0551 recombinase A (recA) gene, partial cds &gt;gi|553007245|gb|KF413831.1| Erwinia psidii strain LPF#0552 recombinase A (recA) gene, partial cds &gt;gi|553007247|gb|KF413832.1| Erwinia psidii strain LPF#0553 recombinase A (recA) gene, partial cds &gt;gi|553007251|gb|KF413833.1| Erwinia psidii strain LPF#0554 recombinase A (recA) gene, partial cds &gt;gi|553007253|gb|KF413834.1| Erwinia psidii strain LPF#0555 recombinase A (recA) gene, partial cds &gt;gi|553007256|gb|KF413835.1| Erwinia psidii strain LPF#0556 recombinase A (recA) gene, partial cds &gt;gi|553007258|gb|KF413836.1| Erwinia psidii strain LPF#0557 recombinase A (recA) gene, partial cds &gt;gi|553007261|gb|KF413837.1| Erwinia psidii strain LPF#0558 recombinase A (recA) gene, partial cds</Hit_def>
+  <Hit_accession>KF413804</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>750.586</Hsp_bit-score>
+      <Hsp_score>831</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>100</Hsp_query-from>
+      <Hsp_query-to>517</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>418</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>417</Hsp_identity>
+      <Hsp_positive>417</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>418</Hsp_align-len>
+      <Hsp_qseq>CTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGTGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATG</Hsp_qseq>
+      <Hsp_hseq>CTGACTTTACAGGTTATTGCAGCCGCTCAGCGTAAAGGTAAAACCTGTGCCTTTATTGATGCGGAGCACGCGCTTGACCCTGTCTATGCCAAAAAGCTTGGTGTGGATATCGACAATCTGCTGTGTTCACAGCCCGATACGGGCGAGCAGGCGTTGGAAATCTGTGACGCACTGGCGCGTTCCGGTGCCGTTGACGTGATTATTGTCGACTCCGTGGCCGCTCTGACACCAAAAGCAGAAATTGAAGGGGAAATTGGTGACTCGCACATGGGCCTTGCGGCACGCATGATGAGCCAGGCGATGCGTAAGCTGGCGGGTAACCTGAAGCAGTCCAATACCCTGCTGATTTTTATTAACCAAATTCGTATGAAAATCGGTGTGATGTTTGGTAACCCGGAAACCACCACCGGGGGGAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>86</Statistics_db-num>
+      <Statistics_db-len>101157</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

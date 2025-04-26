@@ -1,0 +1,57 @@
+Organism: Erwinia psidii
+TaxID: 69224
+Total sequences analyzed: 485
+Total unique genes found: 50
+Feature types found: CDS, assembly_gap, gene, misc_feature, ncRNA, rRNA, regulatory, repeat_region, source, tRNA, tmRNA
+
+Gene counts:
+1. RPOB	69
+2. RECA	65
+3. GAPA	54
+4. TNPA	35
+5. TSSK	27
+6. TSSF	25
+7. TSSG	25
+8. TSSJ	25
+9. TSSB	24
+10. TSSC	22
+11. 16S_RIBOSOMAL_RNA	22
+12. RRF	21
+13. GYRB	21
+14. TSSE	20
+15. TSSA	19
+16. TSSM	19
+17. OMPC	19
+18. ATPD	19
+19. TSSH	19
+20. OMPA	19
+21. TSSL	18
+22. XERC	16
+23. TRAD	14
+24. MQO	14
+25. UMUC	14
+26. UXUA	14
+27. TAGH	14
+28. TAGF	14
+29. WBAP	14
+30. GSPE	14
+31. GLNQ	14
+32. GLNP	14
+33. GLNH	14
+34. RFBC	14
+35. ARCA	14
+36. TAL	14
+37. FLID	14
+38. BIOD	13
+39. GGT	13
+40. ASD	13
+41. LEUA	13
+42. TREC	13
+43. CSPE	13
+44. MRDA	13
+45. SCTS	12
+46. SCTJ	12
+47. TKT	12
+48. KDUD	11
+49. INFB	10
+50. ARGF	9

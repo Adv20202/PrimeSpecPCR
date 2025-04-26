@@ -1,0 +1,57 @@
+Organism: Treponema denticola
+TaxID: 158
+Total sequences analyzed: 5632
+Total unique genes found: 50
+Feature types found: CDS, gap, gene, mat_peptide, misc_RNA, misc_feature, ncRNA, rRNA, regulatory, repeat_region, sig_peptide, source, tRNA, tmRNA
+
+Gene counts:
+1. PYRH	634
+2. 16S_RIBOSOMAL_RNA	284
+3. GAP	222
+4. RECA	98
+5. RADC	86
+6. ERA	86
+7. FLIG	79
+8. MSP	78
+9. FLIF	69
+10. FLGB	68
+11. FLIE	68
+12. FLGC	68
+13. FLIJ	67
+14. RODA	67
+15. MRED	67
+16. MREC	67
+17. RECN	67
+18. MIAB	66
+19. LEPB	58
+20. MIAA	57
+21. FUSA	57
+22. DNAN	57
+23. LNT	55
+24. NIFJ	55
+25. YIDC	55
+26. PRTP	55
+27. RRF	54
+28. FLIH	54
+29. CBID	54
+30. RSGA	53
+31. PRCA	53
+32. FLII	53
+33. MAP	51
+34. GUAA	51
+35. RPLU	51
+36. GALE	51
+37. ASPS	51
+38. GLGA	51
+39. LIPA	51
+40. UVRB	51
+41. RNPB	51
+42. DNAG	51
+43. TILS	51
+44. ISPE	51
+45. TKT	51
+46. SSB	48
+47. PRCB	48
+48. FLAA	45
+49. TMRNA_TREPO_DENTI_35405	16
+50. THRC	13

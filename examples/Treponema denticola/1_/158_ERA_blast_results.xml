@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_7687635</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>885</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_7687635</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>885</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|379647884|gb|JF700348.1|</Hit_id>
+  <Hit_def>Treponema denticola strain ATCC 700768 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700348</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1597.27</Hsp_bit-score>
+      <Hsp_score>1770</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>885</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>885</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>885</Hsp_identity>
+      <Hsp_positive>885</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>885</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTACTGA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2277007739|gb|CP038800.1|</Hit_id>
+  <Hit_def>Treponema denticola strain ATCC 700768 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP038800</Hit_accession>
+  <Hit_len>2920478</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1538.66</Hsp_bit-score>
+      <Hsp_score>1705</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>885</Hsp_query-to>
+      <Hsp_hit-from>1296416</Hsp_hit-from>
+      <Hsp_hit-to>1295532</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>872</Hsp_identity>
+      <Hsp_positive>872</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>885</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTACTGA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCAGTAATTAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATAAAAACTGGCGGCAAAAAGATAGGATTATACAAAAAATATCGTACTGA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |    |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||  ||||||||||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1824578</Hsp_hit-from>
+      <Hsp_hit-to>1824601</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|379647878|gb|JF700345.1|</Hit_id>
+  <Hit_def>Treponema denticola ATCC 33521 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700345</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1378.16</Hsp_bit-score>
+      <Hsp_score>1527</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>834</Hsp_identity>
+      <Hsp_positive>834</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACACGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGGGAAGAAGAAAAAAACATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACAGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGACTCTTGCCCGATATTCCACAAGAAAGAATATTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTTCTTCCCGAAGGAGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGAAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||| ||||||||||| ||| ||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| |||||| |||||||||||| |    |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|41821838|gb|AE017226.1|</Hit_id>
+  <Hit_def>Treponema denticola ATCC 35405, complete genome</Hit_def>
+  <Hit_accession>AE017226</Hit_accession>
+  <Hit_len>2843201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1373.65</Hsp_bit-score>
+      <Hsp_score>1522</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1915103</Hsp_hit-from>
+      <Hsp_hit-to>1915983</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>833</Hsp_identity>
+      <Hsp_positive>833</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCATAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCAGTAATTAAGAGTATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGTCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| || || ||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| || |||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||| ||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1639741</Hsp_hit-from>
+      <Hsp_hit-to>1639764</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2265190365|gb|CP054477.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 823 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP054477</Hit_accession>
+  <Hit_len>2759770</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1364.63</Hsp_bit-score>
+      <Hsp_score>1512</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1264665</Hsp_hit-from>
+      <Hsp_hit-to>1265545</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>831</Hsp_identity>
+      <Hsp_positive>831</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAATGCAATAAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGAGACGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAAGCTGAACTTGTAAAAAAAGAGCTTTTAAGTCTCTTGCCAGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAATGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTACCCTGAGGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCATGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATAATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||| ||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||| || |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| ||||| || |||||||||||| ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||| || |||||||| |||||||| ||||| || ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||| |||||||||||| |    |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1027952</Hsp_hit-from>
+      <Hsp_hit-to>1027975</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2265174965|gb|CP051523.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 852 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051523</Hit_accession>
+  <Hit_len>2882651</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1355.62</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>978145</Hsp_hit-from>
+      <Hsp_hit-to>977265</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>829</Hsp_identity>
+      <Hsp_positive>829</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACACGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTGAACCTAAAACTTCAAGAAATTGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACAGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCAAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCAGTAATTAAGAGTATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATAATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||| || || ||| |||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| || |||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1239449</Hsp_hit-from>
+      <Hsp_hit-to>1239426</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2265193197|gb|CP058347.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OKA3 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP058347</Hit_accession>
+  <Hit_len>2853053</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1355.62</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1017032</Hsp_hit-from>
+      <Hsp_hit-to>1016152</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>829</Hsp_identity>
+      <Hsp_positive>829</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCACAAACTACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAGGAAGGGGATGCTGTCTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCCCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATTATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||| || |||||||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  ||||||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1248610</Hsp_hit-from>
+      <Hsp_hit-to>1248587</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|449040570|gb|KC415226.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ852-3 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>KC415226</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1355.62</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>829</Hsp_identity>
+      <Hsp_positive>829</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACACGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTGAACCTAAAACTTCAAGAAATTGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACAGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCAAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCAGTAATTAAGAGTATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| ||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||| || || ||| |||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| || |||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|2265168914|gb|CP051304.1|</Hit_id>
+  <Hit_def>Treponema denticola strain CD-1 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051304</Hit_accession>
+  <Hit_len>2892458</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1355.62</Hsp_bit-score>
+      <Hsp_score>1502</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>960679</Hsp_hit-from>
+      <Hsp_hit-to>959799</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>829</Hsp_identity>
+      <Hsp_positive>829</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATTATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||| || || |||||||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  ||||||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1209020</Hsp_hit-from>
+      <Hsp_hit-to>1208997</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|379647902|gb|JF700357.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OKA3 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700357</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1351.11</Hsp_bit-score>
+      <Hsp_score>1497</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>828</Hsp_identity>
+      <Hsp_positive>828</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCACAAACTACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAGGAAGGGGATGCTGTCTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCCCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||| || |||||||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|2265166044|gb|CP051303.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OT2B chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051303</Hit_accession>
+  <Hit_len>2841718</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1351.11</Hsp_bit-score>
+      <Hsp_score>1497</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>973196</Hsp_hit-from>
+      <Hsp_hit-to>972316</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>828</Hsp_identity>
+      <Hsp_positive>828</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCACAAACTACCAGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTTCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAGCTCTGGGTTCGGGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATAAAGAGCATAAGGATAAAATCCATGACCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATAATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||| ||| |||| ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||| || |||||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1212943</Hsp_hit-from>
+      <Hsp_hit-to>1212920</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>64</Hsp_query-to>
+      <Hsp_hit-from>1934406</Hsp_hit-from>
+      <Hsp_hit-to>1934381</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>26</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAATA</Hsp_qseq>
+      <Hsp_hseq>AGGCGGAAAGTCTACAATTTTAAATA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|379647876|gb|JF700344.1|</Hit_id>
+  <Hit_def>Treponema denticola ATCC 35404 GTP-binding protein (era) gene, complete cds &gt;gi|379647886|gb|JF700349.1| Treponema denticola strain CD1 GTP-binding protein (era) gene, complete cds &gt;gi|379647890|gb|JF700351.1| Treponema denticola strain NY535 GTP-binding protein (era) gene, complete cds &gt;gi|379647892|gb|JF700352.1| Treponema denticola strain NY545 GTP-binding protein (era) gene, complete cds &gt;gi|449040566|gb|KC415224.1| Treponema denticola strain NY531-3 GTP-binding protein (era) gene, complete cds &gt;gi|449040568|gb|KC415225.1| Treponema denticola strain NY553-3 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700344</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1351.11</Hsp_bit-score>
+      <Hsp_score>1497</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>828</Hsp_identity>
+      <Hsp_positive>828</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||| || || |||||||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|379647896|gb|JF700354.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OT2B GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700354</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1351.11</Hsp_bit-score>
+      <Hsp_score>1497</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>828</Hsp_identity>
+      <Hsp_positive>828</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCACAAACTACCAGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTTCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAGCTCTGGGTTCGGGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATAAAGAGCATAAGGATAAAATCCATGACCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||| ||| |||| ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||| || |||||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|2265199313|gb|CP058624.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 854 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP058624</Hit_accession>
+  <Hit_len>2782312</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1346.6</Hsp_bit-score>
+      <Hsp_score>1492</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>888569</Hsp_hit-from>
+      <Hsp_hit-to>887689</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>827</Hsp_identity>
+      <Hsp_positive>827</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCAACCTTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAACGCAATTAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCTGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGATTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAAGCTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCAATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAAGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCGAAGGAGAAGCCCTCTACCCCGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATTCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGTAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCAGTAATTAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGTCAAAAAGATAATATCATAAAAAAAATCTCATA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| | |||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||| ||| |||||||||||||||||||||||||||| ||||| || || |||||||| |||||||| ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||| |||| |||||| |||||||||||| |    |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||| ||||  ||||  || |||  |||||| || ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1159181</Hsp_hit-from>
+      <Hsp_hit-to>1159158</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>64</Hsp_query-to>
+      <Hsp_hit-from>1880870</Hsp_hit-from>
+      <Hsp_hit-to>1880845</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>26</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAATA</Hsp_qseq>
+      <Hsp_hseq>AGGCGGAAAGTCTACAATTTTAAATA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|2265178430|gb|CP051633.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 898 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051633</Hit_accession>
+  <Hit_len>2817074</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1346.6</Hsp_bit-score>
+      <Hsp_score>1492</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>922179</Hsp_hit-from>
+      <Hsp_hit-to>921299</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>827</Hsp_identity>
+      <Hsp_positive>827</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCACAAACTACCAGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||| ||| |||| ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||| || || ||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1143233</Hsp_hit-from>
+      <Hsp_hit-to>1143210</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|2265181513|gb|CP051634.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 850 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051634</Hit_accession>
+  <Hit_len>2747952</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1346.6</Hsp_bit-score>
+      <Hsp_score>1492</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>932519</Hsp_hit-from>
+      <Hsp_hit-to>931639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>827</Hsp_identity>
+      <Hsp_positive>827</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCCATACTTCACACAAGGGAAGAAATCCCTCACGCACTCTATGCAGGCGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGGGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATTATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||| ||||| ||||| || || ||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  ||||||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1180144</Hsp_hit-from>
+      <Hsp_hit-to>1180121</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>64</Hsp_query-to>
+      <Hsp_hit-from>1890885</Hsp_hit-from>
+      <Hsp_hit-to>1890860</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>26</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAATA</Hsp_qseq>
+      <Hsp_hseq>AGGCGGAAAGTCTACAATTTTAAATA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2708471279|gb|CP076748.1|</Hit_id>
+  <Hit_def>Treponema denticola ASLM chromosome</Hit_def>
+  <Hit_accession>CP076748</Hit_accession>
+  <Hit_len>2773962</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1342.09</Hsp_bit-score>
+      <Hsp_score>1487</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>868181</Hsp_hit-from>
+      <Hsp_hit-to>867301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>826</Hsp_identity>
+      <Hsp_positive>826</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||| ||||| ||||| || || ||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1129942</Hsp_hit-from>
+      <Hsp_hit-to>1129919</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2323013626|gb|CP109619.1|</Hit_id>
+  <Hit_def>Treponema denticola strain KCOM 3500 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP109619</Hit_accession>
+  <Hit_len>2778422</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1337.58</Hsp_bit-score>
+      <Hsp_score>1482</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1118464</Hsp_hit-from>
+      <Hsp_hit-to>1117584</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>825</Hsp_identity>
+      <Hsp_positive>825</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCAGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATCGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCTAAAACCCGCTTAGAAGAAGGGGACGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAAGCAGAATTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCTGAAATGCGTAAAAACGGCAAAGAGCTTTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGTCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| ||||| |||||||||||||||||||||||||||||||| |||||||||||| |||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||| || |||||||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| |||||||||||||||||||| |||||| |||| ||||||| |    ||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1373117</Hsp_hit-from>
+      <Hsp_hit-to>1373094</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|379647898|gb|JF700355.1|</Hit_id>
+  <Hit_def>Treponema denticola strain ST10 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700355</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1333.07</Hsp_bit-score>
+      <Hsp_score>1477</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>824</Hsp_identity>
+      <Hsp_positive>824</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACACGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCCTCGAAAGCAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGGGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATAAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| || |||||||||||||||||| |||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||| ||||| ||||| || || ||||||||||||||||| ||||| |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|2277010253|gb|CP038801.1|</Hit_id>
+  <Hit_def>Treponema denticola strain ATCC 700771 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP038801</Hit_accession>
+  <Hit_len>2666044</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1328.57</Hsp_bit-score>
+      <Hsp_score>1472</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1174342</Hsp_hit-from>
+      <Hsp_hit-to>1175222</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>823</Hsp_identity>
+      <Hsp_positive>823</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATAGGCCTAAACAAAGCCGACCTTGCATCCGCAAAGACTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCACAAAAAAGAATCTTTGAAATTTCCGCCCTAAGGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAGCTCTGGGTTCGGGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| || |||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||| ||||| ||||||||||||||||||||||||||   |||  ||||  | |||||||||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||| ||||| || || ||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||| |||||||||||| |    |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>930452</Hsp_hit-from>
+      <Hsp_hit-to>930475</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|2265172126|gb|CP051522.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 910 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051522</Hit_accession>
+  <Hit_len>2728386</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1328.57</Hsp_bit-score>
+      <Hsp_score>1472</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1502635</Hsp_hit-from>
+      <Hsp_hit-to>1501755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>823</Hsp_identity>
+      <Hsp_positive>823</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGACCCTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACTACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGAGACGCTGTTTTATATCTGATAGACATTTCACGGGAATTCGGAGAAGAAGAAAAAAACATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACAGTAATAGGCCTAAACAAAGCCGACCTCAAATCCGCAAAGACAGAACTTGTAAAAAAAGAGCTTTTAAGTCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTACCCTGAGGACATCTACACGGATCAGGATGTAGTCTTTAGAATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACGAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGTAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATAATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||| || ||||||||||||||||||||  ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||  ||||  |||||||||||||||||||||||||||| ||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||| || |||||||| |||||||| ||||| || |||||||||||||||||||||||||||||||| ||||| |||||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1707011</Hsp_hit-from>
+      <Hsp_hit-to>1706988</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>64</Hsp_query-to>
+      <Hsp_hit-from>947289</Hsp_hit-from>
+      <Hsp_hit-to>947314</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>26</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAATA</Hsp_qseq>
+      <Hsp_hseq>AGGCGGAAAGTCTACAATTTTAAATA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|2265184719|gb|CP051635.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 905 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051635</Hit_accession>
+  <Hit_len>2728291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1328.57</Hsp_bit-score>
+      <Hsp_score>1472</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1227141</Hsp_hit-from>
+      <Hsp_hit-to>1228021</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>823</Hsp_identity>
+      <Hsp_positive>823</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGACCCTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACTACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGAGACGCTGTTTTATATCTGATAGACATTTCACGGGAATTCGGAGAAGAAGAAAAAAACATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACAGTAATAGGCCTAAACAAAGCCGACCTCAAATCCGCAAAGACAGAACTTGTAAAAAAAGAGCTTTTAAGTCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTACCCTGAGGACATCTACACGGATCAGGATGTAGTCTTTAGAATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACGAGGGAAGAAATTCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGTAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATAATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||| || ||||||||||||||||||||  ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||  ||||  |||||||||||||||||||||||||||| ||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||| || |||||||| |||||||| ||||| || |||||||||||||||||||||||||||||||| ||||| |||||||||||||||||||| ||||||||||| ||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>1022765</Hsp_hit-from>
+      <Hsp_hit-to>1022788</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>64</Hsp_query-to>
+      <Hsp_hit-from>1782492</Hsp_hit-from>
+      <Hsp_hit-to>1782467</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>26</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAATA</Hsp_qseq>
+      <Hsp_hseq>AGGCGGAAAGTCTACAATTTTAAATA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|379647882|gb|JF700347.1|</Hit_id>
+  <Hit_def>Treponema denticola strain ATCC 700771 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700347</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1328.57</Hsp_bit-score>
+      <Hsp_score>1472</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>823</Hsp_identity>
+      <Hsp_positive>823</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAGAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATAGGCCTAAACAAAGCCGACCTTGCATCCGCAAAGACTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCACAAAAAAGAATCTTTGAAATTTCCGCCCTAAGGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTACCCCGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAGCTCTGGGTTCGGGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| || |||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||| ||||| ||||||||||||||||||||||||||   |||  ||||  | |||||||||||||||||||||||||||||||| ||||||||||| ||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||| ||||| || || ||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||| |||||||||||| |    |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|379647880|gb|JF700346.1|</Hit_id>
+  <Hit_def>Treponema denticola ATCC 33520 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700346</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1310.53</Hsp_bit-score>
+      <Hsp_score>1452</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>819</Hsp_identity>
+      <Hsp_positive>819</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCACAAACTACCAGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGGGAAGAAGAAAAAAACATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTGATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAGACAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCAGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAATGAAATTCTTTCACTCCTCATAGAGCTCCTCCCCGAAGGGGAAGCCCTCTATCCCGAGGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCACTCTATGCAGGCGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||| ||||| ||| |||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||| ||||| ||||||||||| ||||||||||| |||||||| ||||||||||||||||||||||||||||| |||||  |||| ||||||||||||||||||||||||||||| || |||||||||||| ||||||||||||||||||||||||||||||||||||||||||| ||||||||||| ||||| ||||| || || ||||||||||||||||| || || || ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|379647894|gb|JF700353.1|</Hit_id>
+  <Hit_def>Treponema denticola OTK GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700353</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1301.52</Hsp_bit-score>
+      <Hsp_score>1442</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>817</Hsp_identity>
+      <Hsp_positive>817</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACACCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAGGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATAGGCCTAAACAAAACCGACCTTGCATCCGCAAAGACTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCGAAGGGGTCGCTCTCTACCCTGAGGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATTCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTGAGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATCGGCAAGGGAGCAGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||| ||||||||||| ||||||||||| ||||| |||||||||||||||||| |||||||   |||  ||||  | |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||| || || ||||||||||  || || ||||| || ||||||||||| |||||||||||||||||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||| |||| |||||| |||||||||||| |    |||||||||| ||||||||  |||||||||||||||||||||||||||||||||||||||||||||| ||||||||||  || ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|379647888|gb|JF700350.1|</Hit_id>
+  <Hit_def>Treponema denticola strain MS25 GTP-binding protein (era) gene, complete cds &gt;gi|379647904|gb|JF700358.1| Treponema denticola strain GM1 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700350</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1301.52</Hsp_bit-score>
+      <Hsp_score>1442</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>817</Hsp_identity>
+      <Hsp_positive>817</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGTGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATTGCTAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGACCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATAGGCCTAAACAAAGCCGACCTTGCATCCGCAAAGACTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCAGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTCCCCAAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAGGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGCAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||||||| ||||| ||||||||||||||||||||||||||   |||  ||||  | |||||||||||||||||||||||||||||||| || |||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||| || || ||| |||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||| ||||||||||||      |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|379647900|gb|JF700356.1|</Hit_id>
+  <Hit_def>Treponema denticola strain S2 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>JF700356</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1297.01</Hsp_bit-score>
+      <Hsp_score>1437</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>816</Hsp_identity>
+      <Hsp_positive>816</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACTACCCGAAATGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAGGAAGGGGATGCTGTCTTATATCTGATAGACCTTTCACGGGAATTAGGGGAAGAAGAAAAAAACATCTGTTCTCTTCTTATCCCCCTGCAAAACAAAACCGTGATAGGCCTAAACAAAGCCGACCTCAAATCCTCAAAGACAGACCTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCAGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAACTCCTCCCCGAAGGAGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTCTTTAGGATTACGGAGATTATAAGGGAACAAGCTATTCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATTCAGGGGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATCGGCAAGGGAGCAGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||| |||||||||||||| || |||||||||||||| ||||| ||||||||||| ||||||||||| |||||||| ||||||||||||||||||||||||||||| |||||  |||| ||||||||||||||||||||||||||||| || |||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||| || |||||||| |||||||| || || |||||||||||||| |||||||||||||||||||||||||| ||||||||||||||||| || ||||||||||||||||||||||| ||||||||||||||| |||| |||||| |||||||||||| |    |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||  || ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|449040572|gb|KC415227.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ853-3 GTP-binding protein (era) gene, complete cds</Hit_def>
+  <Hit_accession>KC415227</Hit_accession>
+  <Hit_len>885</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1297.01</Hsp_bit-score>
+      <Hsp_score>1437</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>881</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>816</Hsp_identity>
+      <Hsp_positive>816</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACCTTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAGGAAGGGGACGCTGTCTTATATCTGATAGACATTTCACGGGAATTCGGAGAAGAAGAAAAAAACATTTGCTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATCGGCCTAAACAAAGCCGACCTTGCATCCGCAGAGACTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTTCCCGAAGGGGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTTTTTAGGATTACGGAGATTATAAGGGAACAGGCCATCCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATCATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||| ||||| ||||||||||||||  ||||||||||||||||||||||||||||||| || |||||||||||||| ||||||||||| ||||| ||||| ||||||||||||||||||||   |||  || |  | |||||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||| || |||||||||||||||||||| || || |||||||||||||| |||||||||||||| ||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2265163189|gb|CP051302.1|</Hit_id>
+  <Hit_def>Treponema denticola strain OMZ 853 chromosome, complete genome</Hit_def>
+  <Hit_accession>CP051302</Hit_accession>
+  <Hit_len>2749579</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1297.01</Hsp_bit-score>
+      <Hsp_score>1437</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>881</Hsp_query-to>
+      <Hsp_hit-from>1299957</Hsp_hit-from>
+      <Hsp_hit-to>1300837</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>816</Hsp_identity>
+      <Hsp_positive>816</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>881</Hsp_align-len>
+      <Hsp_qseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGCCCTTCAGCCGGAAAGTCTACATTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCAGCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAGATAGTTTTTATAGACACCCCCGGCTACCACAAATCCGGAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAAGAAGGGGATGCTGTTTTATATCTGATAGATCTTTCACGGGAATTCGGAGAAGAAGAAAAAAATATCTGCTCTCTTCTTATTCCCCTGCAAAATAAAACCGTAATAGGCCTAAACAAAGCCGACCTCAAATCTTCAAAAGCAGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTACCCGATATTCCGCAAAAAAGAATCTTTGAAATTTCCGCCCTAAAGGATGAGGGCATAAACGAAATTCTTTCCCTCCTAATAGAACTTCTTCCCGAAGGGGAAGCCCTATACCCAGAAGACATCTACACGGATCAGGATGTAGTCTTTAGGATTACAGAGATTATAAGGGAACAGGCCATTCTTCACACAAGGGAAGAAATCCCTCACGCCCTCTATGCAGGAGTAGAATATGCCGAAATGCCTTCTCACGGCAAAGAGCTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGGCGCAGTAATTAATAGCATAAGGATAATATCCATGGCCGAACTGCGTAAAATTTTCCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAATACAAACTGGCGGCAAATTGATAGGATTATACTAAAAATATCGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACAGCGGAGTTGTAACGATAATAGGCCGTCCTTCAGCCGGAAAGTCAACCTTTTTAAATACGGCTTCAGGCGAAAAGGTTTCGATTGTCTCATCAATTCCGCAAACCACCCGAAACGCAATCAGGGGTATCGTAAACACTACCAAGGGACAAATAGTTTTTATAGATACCCCCGGCTACCACAAATCCGAAAAAAAATTAAACCTAAAACTTCAAGAAATCGCGAAAACCCGCTTAGAGGAAGGGGACGCTGTCTTATATCTGATAGACATTTCACGGGAATTCGGAGAAGAAGAAAAAAACATTTGCTCTCTTCTTATCCCCCTGCAAAACAAAACAGTAATCGGCCTAAACAAAGCCGACCTTGCATCCGCAGAGACTGAACTTGTAAAAAAAGAGCTTTTAAGCCTCTTGCCCGATATTCCGCAAGAAAGAATCTTTGAAATTTCCGCCCTAAAGGATAAGGGCATAAACGAAATTCTTTCCCTCCTCATAGAGCTCCTTCCCGAAGGGGAAGCCCTCTATCCCGAAGACATCTACACCGATCAGGATGTAGTTTTTAGGATTACGGAGATTATAAGGGAACAGGCCATCCTTCACACAAGGGAAGAAATTCCTCACGCCCTCTATGCAGGCGTAGAAGATGCCGAAATGCGTAAAAACGGCAAAGAACTCTGGGTTCGAGCCTTCCTCTATGTCGAAAAAGAAAGCCAAAAGGCTATGCTCATAGGCAAGGGAGCCGCCGTAATCAAGAGCATAAGGATAAAATCCATGGCCGAACTGCGTAAAATTTTTCCCTACAAGGTTCAATTGGATCTTCAAGTCCGCGTAAACAAAAACTGGCGGCAAAAAGATAATATAATAAAAAAAATCTCGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| ||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||| |||||||| ||||| ||||||||||||||  ||||||||||||||||||||||||||||||| || |||||||||||||| ||||||||||| ||||| ||||| ||||||||||||||||||||   |||  || |  | |||||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| ||||| || |||||||||||||||||||| || || |||||||||||||| |||||||||||||| ||||||||||| ||||||||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||| |||||| |||||||||||| |    |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||||| || ||||||||||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| | ||||||||||||||  ||||  || |||  |||||| |||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>0.0636129</Hsp_evalue>
+      <Hsp_query-from>39</Hsp_query-from>
+      <Hsp_query-to>62</Hsp_query-to>
+      <Hsp_hit-from>971286</Hsp_hit-from>
+      <Hsp_hit-to>971309</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AGCCGGAAAGTCTACATTTTTAAA</Hsp_qseq>
+      <Hsp_hseq>AGCCGGAAAGTCTACTTTTTTAAA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>870</Statistics_db-num>
+      <Statistics_db-len>45500752</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

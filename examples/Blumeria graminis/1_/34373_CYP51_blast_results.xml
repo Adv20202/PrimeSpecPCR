@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1311253</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>317</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1311253</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>317</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1149117972|gb|KY348713.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 335 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348713</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1149118008|gb|KY348731.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 234 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348731</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1149117974|gb|KY348714.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 415 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348714</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1149118006|gb|KY348730.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 407 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348730</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1149118020|gb|KY348737.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 299 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348737</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1149118018|gb|KY348736.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 110 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348736</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1149117986|gb|KY348720.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 506 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348720</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1149117994|gb|KY348724.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 44 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348724</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1149117960|gb|KY348707.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 59 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348707</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1149117996|gb|KY348725.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 442 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348725</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|1149118022|gb|KY348738.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 65 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348738</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1149117970|gb|KY348712.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 241 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348712</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1149117990|gb|KY348722.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 43 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348722</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1149117962|gb|KY348708.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 68 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348708</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1149118004|gb|KY348729.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 144 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348729</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1149118012|gb|KY348733.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 361 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348733</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1149117976|gb|KY348715.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 423 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348715</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|33284833|emb|AJ578437.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3</Hit_def>
+  <Hit_accession>AJ578437</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1149117980|gb|KY348717.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 494 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348717</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|298568415|gb|HM538441.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 9 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>HM538441</Hit_accession>
+  <Hit_len>574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>78</Hsp_hit-from>
+      <Hsp_hit-to>394</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1149118002|gb|KY348728.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 154 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348728</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1149117966|gb|KY348710.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 191 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348710</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1149117998|gb|KY348726.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 93 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348726</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|298568411|gb|HM538439.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate 34 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>HM538439</Hit_accession>
+  <Hit_len>574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>78</Hsp_hit-from>
+      <Hsp_hit-to>394</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|1149118000|gb|KY348727.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 105 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348727</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1149118014|gb|KY348734.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 352 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348734</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1149118016|gb|KY348735.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 519 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348735</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1149117964|gb|KY348709.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 177 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348709</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|1149117958|gb|KY348706.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 17 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348706</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.86732e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|1149117988|gb|KY348721.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 392 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348721</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.249</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.27486e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAWCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1149117984|gb|KY348719.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 39 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348719</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.249</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.27486e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAWCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|1149117992|gb|KY348723.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 21 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348723</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.249</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.27486e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAWCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|1149117982|gb|KY348718.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 49 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348718</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.249</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.27486e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAWCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1149117968|gb|KY348711.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 198 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348711</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>570.249</Hsp_bit-score>
+      <Hsp_score>631</Hsp_score>
+      <Hsp_evalue>2.27486e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAWCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|2618475554|gb|OR753406.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate CAW14S63.09#5 lanosterol demethylase (Cyp51) gene, complete cds</Hit_def>
+  <Hit_accession>OR753406</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|2618475552|gb|OR753405.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate CAW14S63.09#1 lanosterol demethylase (Cyp51) gene, complete cds</Hit_def>
+  <Hit_accession>OR753405</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|2620460448|gb|OR763813.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate cyp51_5 CYP51/ERG11 gene, complete cds</Hit_def>
+  <Hit_accession>OR763813</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|33300253|emb|AJ313158.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate Cor3 &gt;gi|33300271|emb|AJ578753.1| Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate WF10/4</Hit_def>
+  <Hit_accession>AJ313158</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|1149117978|gb|KY348716.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 481 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348716</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|1149118010|gb|KY348732.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 500 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>KY348732</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|2622753132|gb|OR763808.2|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate cyp51_1 CYP51/ERG11 gene, complete cds</Hit_def>
+  <Hit_accession>OR763808</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|298568409|gb|HM538438.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. secalis isolate 3 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>HM538438</Hit_accession>
+  <Hit_len>574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>78</Hsp_hit-from>
+      <Hsp_hit-to>394</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|33300255|emb|AJ313159.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate JIW2</Hit_def>
+  <Hit_accession>AJ313159</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|2634039880|gb|OR888440.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici lanosterol demethylase gene, complete cds</Hit_def>
+  <Hit_accession>OR888440</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|2620460440|gb|OR763809.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate cyp51_2 CYP51/ERG11 gene, complete cds &gt;gi|2620460444|gb|OR763811.1| Blumeria graminis f. sp. tritici isolate cyp51_3T CYP51/ERG11 gene, complete cds</Hit_def>
+  <Hit_accession>OR763809</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|2620460446|gb|OR763812.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate cyp51_4 CYP51/ERG11 gene, complete cds</Hit_def>
+  <Hit_accession>OR763812</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|2620460442|gb|OR763810.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate cyp51_3C CYP51/ERG11 gene, complete cds</Hit_def>
+  <Hit_accession>OR763810</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|2618475556|gb|OR753407.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate CAW14S6312#1 lanosterol demethylase (Cyp51) gene, complete cds</Hit_def>
+  <Hit_accession>OR753407</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|33300257|emb|AJ313160.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate JIW20 &gt;gi|33300267|emb|AJ578751.1| Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate JIW24 &gt;gi|33300269|emb|AJ578752.1| Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate WF3/2</Hit_def>
+  <Hit_accession>AJ313160</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|2618475558|gb|OR753408.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate CAW14S63.09#3 lanosterol demethylase (Cyp51) gene, complete cds</Hit_def>
+  <Hit_accession>OR753408</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gi|33300263|emb|AJ578749.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate JIW11</Hit_def>
+  <Hit_accession>AJ578749</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gi|33300265|emb|AJ578750.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate JIW14</Hit_def>
+  <Hit_accession>AJ578750</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>568.446</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>7.94003e-163</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>316</Hsp_identity>
+      <Hsp_positive>316</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gi|298568413|gb|HM538440.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 14 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>HM538440</Hit_accession>
+  <Hit_len>574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>563.937</Hsp_bit-score>
+      <Hsp_score>624</Hsp_score>
+      <Hsp_evalue>9.67294e-162</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>78</Hsp_hit-from>
+      <Hsp_hit-to>394</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAGTCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gi|2189131316|gb|OK066155.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt40 14 alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>OK066155</Hit_accession>
+  <Hit_len>426</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.968</Hsp_bit-score>
+      <Hsp_score>583</Hsp_score>
+      <Hsp_evalue>2.43102e-150</Hsp_evalue>
+      <Hsp_query-from>24</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>294</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>294</Hsp_align-len>
+      <Hsp_qseq>TGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>TGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gi|2189131314|gb|OK066154.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt29 14 alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>OK066154</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>519.755</Hsp_bit-score>
+      <Hsp_score>575</Hsp_score>
+      <Hsp_evalue>3.60795e-148</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>290</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>290</Hsp_align-len>
+      <Hsp_qseq>GCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>GCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gi|2189131312|gb|OK066153.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate SH-6 14 alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>OK066153</Hit_accession>
+  <Hit_len>436</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>519.755</Hsp_bit-score>
+      <Hsp_score>575</Hsp_score>
+      <Hsp_evalue>3.60795e-148</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>290</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>290</Hsp_align-len>
+      <Hsp_qseq>GCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>GCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gi|33300249|emb|AJ313156.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate E1 &gt;gi|33300283|emb|AJ578759.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC66 &gt;gi|33300289|emb|AJ578762.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate AP2-19 &gt;gi|33300291|emb|AJ578763.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate 92-18</Hit_def>
+  <Hit_accession>AJ578759</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.718</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.87062e-126</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||| |||||||||||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||  | | |   |||| |||| |||| ||||||||| ||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| || || |||||||| |||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gi|33300277|emb|AJ578756.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC212 &gt;gi|33300281|emb|AJ578758.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate RR99/92</Hit_def>
+  <Hit_accession>AJ578756</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.718</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.87062e-126</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||| |||||||||||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||  | | |   |||| |||| |||| ||||||||| ||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| || || |||||||| |||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gi|33300279|emb|AJ578757.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate RR99/103</Hit_def>
+  <Hit_accession>AJ578757</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.718</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.87062e-126</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||| |||||||||||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||  | | |   |||| |||| |||| ||||||||| ||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| || || |||||||| |||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gi|33300251|emb|AJ313157.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate DH14 &gt;gi|33300273|emb|AJ578754.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC107 &gt;gi|33300275|emb|AJ578755.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC145 &gt;gi|33300285|emb|AJ578760.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC52</Hit_def>
+  <Hit_accession>AJ578754</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.718</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.87062e-126</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||| |||||||||||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||  | | |   |||| |||| |||| ||||||||| ||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| || || |||||||| |||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gi|33300287|emb|AJ578761.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate AL1</Hit_def>
+  <Hit_accession>AJ578761</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>446.718</Hsp_bit-score>
+      <Hsp_score>494</Hsp_score>
+      <Hsp_evalue>1.87062e-126</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>99</Hsp_hit-from>
+      <Hsp_hit-to>415</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>289</Hsp_identity>
+      <Hsp_positive>289</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGTCAGTTGCCATTGATATATTCTGGGGAACACGAAATTAATTGAAGTAAAGTACGGAAATATTTTCACTTTCATATTACTGGGTAAAAAGACGACAGTATATCTAGGTCGACAGGGAAACAATTTTATTCTTAATGGAAAACTGAGGGATGTTAATGCTGAAGAAGTTT</Hsp_qseq>
+      <Hsp_hseq>ACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||| |||||||||||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||  | | |   |||| |||| |||| ||||||||| ||||||||||||||||| ||||||||||||||||||||||| |||||||| ||||||||||||||||||||||| ||||||||||||||||||||||| || || |||||||| |||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gi|260765211|gb|GQ470707.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 7 putative virulence effector gene, partial cds</Hit_def>
+  <Hit_accession>GQ470707</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>36.452</Hsp_bit-score>
+      <Hsp_score>39</Hsp_score>
+      <Hsp_evalue>0.0111151</Hsp_evalue>
+      <Hsp_query-from>151</Hsp_query-from>
+      <Hsp_query-to>177</Hsp_query-to>
+      <Hsp_hit-from>208</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CAGTTGCCATTGATATATTCTGGGGAA</Hsp_qseq>
+      <Hsp_hseq>CAGTAGCCTTTGAAATATTCTGGGGAA</Hsp_hseq>
+      <Hsp_midline>|||| ||| |||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gi|260765215|gb|GQ470709.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 10 putative virulence effector gene, partial cds</Hit_def>
+  <Hit_accession>GQ470709</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>36.452</Hsp_bit-score>
+      <Hsp_score>39</Hsp_score>
+      <Hsp_evalue>0.0111151</Hsp_evalue>
+      <Hsp_query-from>151</Hsp_query-from>
+      <Hsp_query-to>177</Hsp_query-to>
+      <Hsp_hit-from>208</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>27</Hsp_align-len>
+      <Hsp_qseq>CAGTTGCCATTGATATATTCTGGGGAA</Hsp_qseq>
+      <Hsp_hseq>CAGTAGCCTTTGAAATATTCTGGGGAA</Hsp_hseq>
+      <Hsp_midline>|||| ||| |||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1246</Statistics_db-num>
+      <Statistics_db-len>1897221</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

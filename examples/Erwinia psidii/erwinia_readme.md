@@ -176,7 +176,7 @@ To replicate this example:
 3. Run each module in sequence:
    - In Module 1, select the five genes mentioned above
    - In Module 2, create at least 5 alignment groups
-   - In Module 3, use default amplicon size ranges (100-250 bp)
+   - In Module 3, use default amplicon size ranges
    - In Module 4, specify TaxID 69224 for specificity testing
 
 4. Review the HTML reports in the 4_ directory to identify the most specific primer sets for your application

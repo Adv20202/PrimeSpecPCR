@@ -308,6 +308,10 @@ Each module builds upon the outputs of the previous one, creating an analysis pi
 
 ## Using the GUI Interface
 
+
+![PrimeSpecPCR Interface](images/primespecpcr_interface.png)
+*Figure 1: PrimeSpecPCR's main interface showing the configuration panel (left), program output (right), and input controls (bottom).*
+
 The PrimeSpecPCR graphical user interface provides a user-friendly environment for executing the entire workflow. The interface is divided into several key sections:
 
 ### Configuration Panel

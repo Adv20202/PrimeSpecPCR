@@ -151,17 +151,26 @@ To replicate this example:
 
 ## Laboratory Validation
 
-These primer sets should be experimentally validated in the laboratory using:
-- Cultured Aviadenovirus isolates
-- Clinical samples from suspected cases
-- Samples containing other avian pathogens to confirm specificity
+These primer sets should be experimentally validated using:
 
-For qPCR validation, recommended conditions:
-- Annealing temperature: 60°C
-- Cycling conditions: 95°C for 15s, 60°C for 60s
-- Probe chemistry: TaqMan with FAM/BHQ1 labels
-- Standard curve preparation: 10-fold serial dilutions of viral DNA
-- Include appropriate positive and negative controls
+- **Viral samples**: Reference strains of Aviadenovirus propagated in appropriate cell cultures (e.g., chicken embryo liver cells, chicken embryo fibroblasts) or from embryonated chicken eggs
+- **Clinical specimens**: Liver, spleen, kidney, and intestinal samples from birds with suspected aviadenovirus infection
+- **Environmental samples**: Fecal samples, cloacal swabs, or drinking water from poultry houses
+- **Cross-reactivity panel**: Other avian viruses (e.g., avian influenza virus, infectious bronchitis virus) to confirm specificity
+
+For qPCR validation protocol:
+- **Nucleic acid extraction**: Use commercial viral DNA extraction kits optimized for tissues and fecal samples
+- **Reaction setup**: Prepare reactions in dedicated pre-PCR area to prevent contamination
+- **Cycling conditions**: Initial denaturation at 95°C for 5 min, followed by 40 cycles of 95°C for 15s, 60°C for 60s
+- **Probe chemistry**: TaqMan probes with FAM reporter and BHQ1 quencher
+- **Controls**:
+  - Positive controls: Plasmids containing target sequences or DNA extracted from reference virus
+  - Negative controls: No-template controls to detect contamination
+  - Internal amplification controls: To identify PCR inhibition in clinical samples
+- **Validation parameters**: Determine analytical sensitivity (limit of detection), specificity, repeatability, and reproducibility
+- **Field validation**: Test primers on samples from multiple geographic locations to account for viral strain variation
+
+For comprehensive validation, compare results with established diagnostic methods like virus isolation or commercial PCR kits if available.
 
 ## Additional Notes
 

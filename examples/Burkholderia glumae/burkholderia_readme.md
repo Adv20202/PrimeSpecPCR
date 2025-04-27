@@ -68,7 +68,7 @@ The alignment files (MAFFT_*.txt) contain the full multiple sequence alignments,
 
 ### Module 3: PCR Primer Design
 
-Using the consensus sequences, Module 3 designed primer-probe sets for qPCR. The log file shows that amplicon ranges of 100-250 bp were selected for both consensus sequences, and 5 primer sets were generated for each consensus.
+Using the consensus sequences, Module 3 designed primer-probe sets for qPCR. The log file shows that amplicon ranges of 100-200 bp were selected for both consensus sequences, and 5 primer sets were generated for each consensus.
 
 Each CSV file contains these fields for the primer sets:
 - Primer sequences (forward, reverse, probe)
@@ -149,7 +149,7 @@ To replicate this example:
 3. Run each module in sequence:
    - In Module 1, select the genes mentioned above (GYRB, TOXA)
    - In Module 2, create at least 2 alignment groups
-   - In Module 3, use amplicon size range 100-250 bp
+   - In Module 3, use amplicon size range 100-200 bp
    - In Module 4, specify TaxID 337 for specificity testing
 
 4. Review the HTML reports in the 4_ directory to identify the most specific primer sets for your application

@@ -100,7 +100,7 @@ The toolkit addresses a critical challenge in molecular diagnostics: developing 
 
 4. Run the application:
    ```bash
-   python3 PrimeSpecPCR.py
+   python3 run.py
    ```
 
 > **Note**: For Fedora/RHEL-based systems, use `dnf` instead of `apt` and `python3-tkinter` instead of `python3-tk`.
@@ -130,7 +130,7 @@ The toolkit addresses a critical challenge in molecular diagnostics: developing 
 
 5. Run the application:
    ```bash
-   python3 PrimeSpecPCR.py
+   python3 run.py
    ```
 
 ### Installing from Source
@@ -165,7 +165,7 @@ For users who prefer to build from source or need to customize the installation:
 
 6. Launch the application:
    ```bash
-   python PrimeSpecPCR.py
+   python run.py
    ```
 
 ## Workflow Overview

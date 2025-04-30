@@ -27,7 +27,6 @@ REQUIRED_PACKAGES = [
     'tqdm',
     'validators',
     'requests>=2.25.0',  # For BLAST API requests in the specificity test module
-    # Removed scikit-bio as MAFFT will handle all multiple sequence alignment tasks
 ]
 
 def is_package_installed(package_name):
@@ -70,12 +69,12 @@ def is_mafft_installed():
         
     # Check for local installation based on OS
     current_dir = os.getcwd()
-    mafft_dir = os.path.join(current_dir, "mafft")  # Główny katalog mafft
+    mafft_dir = os.path.join(current_dir, "mafft")
     system = platform.system()
     
     if system == "Darwin":  # macOS
         mac_mafft_bat = os.path.join(mafft_dir, "mafft-mac", "mafft.bat")
-        local_mafft = os.path.join(current_dir, "mafft")  # Skrypt w głównym katalogu
+        local_mafft = os.path.join(current_dir, "mafft")
         
         if os.path.exists(mac_mafft_bat):
             print(f"Found MAFFT for macOS at {mac_mafft_bat}")
@@ -223,7 +222,7 @@ def verify_mafft_installation():
         
         # Prepare command based on OS and available executables
         current_dir = os.getcwd()
-        mafft_dir = os.path.join(current_dir, "mafft")  # Główny katalog mafft
+        mafft_dir = os.path.join(current_dir, "mafft")
         system = platform.system()
         successful = False
         
@@ -232,7 +231,6 @@ def verify_mafft_installation():
             print("System-wide MAFFT detected in PATH, assuming it's correctly installed.")
             successful = True
             
-            # Opcjonalna weryfikacja, ale niepowodzenie nie wpłynie na wynik
             try:
                 with open(output_file, 'w') as outfile:
                     subprocess.check_call(['mafft', '--quiet', temp_file_path], 
@@ -313,8 +311,6 @@ def main():
     print("PrimeSpecPCR Dependencies Installer")
     print("==================================")
     
-    # Check for required Python packages (removing scikit-bio since MAFFT will handle alignments)
-    # Modify the required packages to remove alignment-related packages that are no longer needed
     required_packages = [pkg for pkg in REQUIRED_PACKAGES if 'scikit-bio' not in pkg]
     
     missing_packages = []

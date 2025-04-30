@@ -27,10 +27,8 @@ class FlushingStreamHandler(logging.StreamHandler):
         super().emit(record)
         self.flush()
 
-# Custom formatter to remove "- INFO -" from messages
 class CustomFormatter(logging.Formatter):
     def format(self, record):
-        # Skip timestamp, just return the message
         return record.getMessage()
 
 # Set up logging with immediate flushing and modified time format
@@ -171,12 +169,9 @@ def screen_taxid(taxid: str, output_dir: str) -> Tuple[Optional[str], Optional[D
     total_records_processed = 0
     total_gene_features_found = 0
     
-    # Process more sequences - instead of just 10 batches/1000 sequences, process up to 5000
-    # but still have a reasonable limit to avoid excessive API calls for very large datasets
     max_sequences = min(50000, count)
     max_batches = (max_sequences + batch_size - 1) // batch_size
     
-    # No intermediate progress updates - just process all batches silently
     for batch_idx in range(max_batches):
         start = batch_idx * batch_size
         end = min(max_sequences, start + batch_size)
@@ -218,12 +213,10 @@ def screen_taxid(taxid: str, output_dir: str) -> Tuple[Optional[str], Optional[D
             logging.error(f"Error processing batch: {e}")
             continue
 
-        # More careful with rate limits for longer runs
         time.sleep(0.1)
     
     logging.info(f"\nScreening complete for {organism_name}:")
     logging.info(f"Total records processed: {total_records_processed}")
-    # Usunięto informację o cechach genowych (gene features)
     logging.info(f"Total unique genes found: {len(gene_counts)}")
 
     # Verify gene counts with precise search
@@ -404,7 +397,7 @@ def blast_and_download_homologs(taxid: str, gene_name: str, ref_sequence: str, r
                     # Only take the best HSP for each alignment
                     #break
                     
-                # Add a small delay to be gentle on API
+                # Add a small delay to be gentle:) on API
                 time.sleep(0.1)
         
         logging.info(f"Successfully saved {sequences_saved} sequences to {fasta_file}")
@@ -486,7 +479,7 @@ def download_gene_sequences(taxid: str, organism_name: str, selected_genes: List
             logging.info(f"\nSelect a reference sequence for {gene}:")
             
             for i, record in enumerate(all_records, 1):
-                # Create a more informative description
+                # Create a description
                 description = record.description
                 if hasattr(record, 'features') and record.features:
                     for feature in record.features:

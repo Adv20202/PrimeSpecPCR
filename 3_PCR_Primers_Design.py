@@ -921,7 +921,7 @@ def get_console_input(prompt, default=None):
         return default if default is not None else ""
     
     # Wait for response file to appear
-    timeout = 600  # More reasonable timeout (10 minutes instead of ~16 hours)
+    timeout = 600
     start_time = time.time()
     while not os.path.exists(input_response_file):
         time.sleep(0.5)

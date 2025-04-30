@@ -598,7 +598,7 @@ def read_primer_pairs(csv_file: str) -> List[PrimerPair]:
                     primer_pair = PrimerPair(
                         id=primer_id,
                         left_primer=left_primer,
-                        right_primer=right_primer,  # Keep the original reverse primer sequence
+                        right_primer=right_primer,
                         probe=probe,
                         product_size=product_size,
                         left_tm=left_tm,
@@ -662,16 +662,16 @@ def direct_blast_search(primer: str, settings: SpecificitySettings, email: str, 
         'DATABASE': 'nt',
         'QUERY': primer,
         'HITLIST_SIZE': settings.max_hits,
-        'EXPECT': settings.max_e_value,      # Much more permissive E-value to find more distant matches
-        'WORD_SIZE': settings.word_size,       # Reduced word size to increase sensitivity
+        'EXPECT': settings.max_e_value,
+        'WORD_SIZE': settings.word_size,
         'FILTER': 'F',
         'FORMAT_TYPE': 'XML',
         'EMAIL': email,
         'TOOL': 'PrimeSpecPCR',
         'MEGABLAST': 'off',
-        'THRESHOLD': 100,     # More permissive threshold
-        'GAPCOSTS': '5 2',    # Adjust gap costs to allow more alignment flexibility
-        'MATCH_SCORES': '1,-1' # More permissive match/mismatch scoring
+        'THRESHOLD': 100,
+        'GAPCOSTS': '5 2',
+        'MATCH_SCORES': '1,-1'
     }
     
     if api_key:
@@ -896,7 +896,7 @@ def fetch_matching_sequences(primer: str, settings: SpecificitySettings, email: 
             # Ustawienia Entrez
             Entrez.email = email
             Entrez.api_key = api_key
-            # Szukaj za pomocą esearch
+            
             try:
                 handle = Entrez.esearch(
                     db="nucleotide",
@@ -1476,7 +1476,7 @@ def create_html_report(all_results: Dict[str, List[SpecificityMatch]], primer_pa
         report_data.append({
             'primer_id': primer_id,
             'left_primer': pair.left_primer,
-            'right_primer': pair.right_primer,  # Keep in forward orientation
+            'right_primer': pair.right_primer,
             'probe': pair.probe,
             'product_size': pair.product_size,
             'left_tm': pair.left_tm,

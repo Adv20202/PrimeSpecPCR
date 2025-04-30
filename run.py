@@ -55,7 +55,6 @@ def is_package_installed(package_name):
             return False
 
 # Function to check if a system tool is installed
-# Function to check if a system tool is installed
 def is_tool_installed(tool_name):
     """Check if a system tool is available in PATH or in local directories."""
     # For tools other than MAFFT, use standard PATH check

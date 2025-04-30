@@ -72,7 +72,6 @@ def validate_group_indices(groups: List[str], num_files: int) -> List[List[int]]
     for group in groups:
         indices_str = group.strip().split(',')
         try:
-            # Odejmij 1 od każdego indeksu, aby przekształcić indeksy od 1 do indeksów od 0
             indices = [int(i.strip()) - 1 for i in indices_str]
             if any(i < 0 or i >= num_files for i in indices):
                 raise ValidationError(f"Index out of range in group: {group}")
@@ -110,7 +109,6 @@ def create_temporary_fasta(sequences: List[Tuple[str, str]], reference_idx: int)
             # Other sequences
             for i, (title, seq) in enumerate(sequences):
                 if i != reference_idx:
-                    # Use JX IDs similar to the example
                     f.write(f">JX{533400+i}\n{seq}\n")
         
         return temp_path
@@ -149,10 +147,10 @@ def locate_mafft():
                 return mafft_bat
     
     elif system == "Darwin":  # macOS
-        # On macOS, according to the documentation, MAFFT is run using mafft.bat
+        # On macOS MAFFT is run using mafft.bat
         mafft_dir = os.path.join(current_dir, "mafft")
         if os.path.exists(mafft_dir):
-            # Per documentation, use mafft.bat in mafft-mac folder
+            # use mafft.bat in mafft-mac folder
             mafft_bat = os.path.join(mafft_dir, "mafft-mac", "mafft.bat")
             if os.path.exists(mafft_bat):
                 # Check if the file is executable, if not, try to make it executable
@@ -625,7 +623,7 @@ def generate_consensus_sequence(aligned_sequences: List[Tuple[str, str]], thresh
     if not aligned_sequences:
         return ""
     
-    # Get the length of the alignment (all sequences should have the same length after alignment)
+    # Get the length of the alignment
     alignment_length = max(len(seq) for _, seq in aligned_sequences)
     
     # Initialize consensus sequence with empty characters

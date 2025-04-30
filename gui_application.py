@@ -270,7 +270,6 @@ class PrimeSpecPCRApp:
         # Update the last output time
         self.last_output_time = time.time()
         
-        # Filter out unnecessary or repetitive information from logs for cleaner display
         if "DEBUG:" in text or "INPUT:" in text:
             return
     

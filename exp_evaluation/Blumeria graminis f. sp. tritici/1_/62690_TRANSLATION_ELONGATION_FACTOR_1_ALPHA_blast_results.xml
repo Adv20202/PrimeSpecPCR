@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_4365933</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>312</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_4365933</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>312</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2463891425|gb|OP153832.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SH -14 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153832</Hit_accession>
+  <Hit_len>648</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>460</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2463891423|gb|OP153831.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt KPM-32 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153831</Hit_accession>
+  <Hit_len>702</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>442</Hsp_hit-from>
+      <Hsp_hit-to>133</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2463891413|gb|OP153826.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-36 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153826</Hit_accession>
+  <Hit_len>740</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>474</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|2463912245|gb|OP555114.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 42 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP555114</Hit_accession>
+  <Hit_len>671</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>483</Hsp_hit-from>
+      <Hsp_hit-to>174</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2463891427|gb|OP153833.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt N9 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153833</Hit_accession>
+  <Hit_len>592</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>464</Hsp_hit-from>
+      <Hsp_hit-to>155</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|298573352|gb|HM538431.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate 23 elongation factor 1 alpha gene, partial sequence &gt;gi|298573353|gb|HM538432.1| Blumeria graminis f. sp. tritici isolate 14 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>HM538432</Hit_accession>
+  <Hit_len>1175</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>862</Hsp_hit-from>
+      <Hsp_hit-to>553</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|2463891421|gb|OP153830.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt KPM-5 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153830</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>490</Hsp_hit-from>
+      <Hsp_hit-to>181</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|384111083|gb|JQ268230.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgtd_D6 elongation factor 1 alpha gene, partial sequence &gt;gi|384111084|gb|JQ268231.1| Blumeria graminis isolate Bgtdic_D7 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268230</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|384111078|gb|JQ268225.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_C10 elongation factor 1 alpha gene, partial sequence &gt;gi|384111079|gb|JQ268226.1| Blumeria graminis f. sp. tritici isolate Bgta_D1 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268225</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|2463891415|gb|OP153827.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-40 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153827</Hit_accession>
+  <Hit_len>727</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>474</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|2463891409|gb|OP153824.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 32 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153824</Hit_accession>
+  <Hit_len>717</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>474</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|2463891419|gb|OP153829.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SH-5 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153829</Hit_accession>
+  <Hit_len>732</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.707</Hsp_bit-score>
+      <Hsp_score>606</Hsp_score>
+      <Hsp_evalue>5.70225e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>473</Hsp_hit-from>
+      <Hsp_hit-to>164</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|2463891417|gb|OP153828.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SH-6 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153828</Hit_accession>
+  <Hit_len>735</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>479</Hsp_hit-from>
+      <Hsp_hit-to>170</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|2463891429|gb|OP153834.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt Jammu-7 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153834</Hit_accession>
+  <Hit_len>748</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>481</Hsp_hit-from>
+      <Hsp_hit-to>172</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|384111058|gb|JQ268205.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B4 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268205</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|2463891431|gb|OP153835.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-43 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153835</Hit_accession>
+  <Hit_len>729</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>462</Hsp_hit-from>
+      <Hsp_hit-to>153</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2463891411|gb|OP153825.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-29 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153825</Hit_accession>
+  <Hit_len>742</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>474</Hsp_hit-from>
+      <Hsp_hit-to>165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2463891433|gb|OP153836.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 26 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153836</Hit_accession>
+  <Hit_len>739</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>482</Hsp_hit-from>
+      <Hsp_hit-to>173</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCCGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|384111059|gb|JQ268206.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B6 elongation factor 1 alpha gene, partial sequence &gt;gi|384111061|gb|JQ268208.1| Blumeria graminis isolate BgTR_B8 elongation factor 1 alpha gene, partial sequence &gt;gi|384111062|gb|JQ268209.1| Blumeria graminis f. sp. tritici isolate BgTR_B10 elongation factor 1 alpha gene, partial sequence &gt;gi|384111063|gb|JQ268210.1| Blumeria graminis f. sp. tritici isolate BgTR_B11 elongation factor 1 alpha gene, partial sequence &gt;gi|384111064|gb|JQ268211.1| Blumeria graminis isolate BgTR_B12 elongation factor 1 alpha gene, partial sequence &gt;gi|384111065|gb|JQ268212.1| Blumeria graminis f. sp. tritici isolate BgTR_B13 elongation factor 1 alpha gene, partial sequence &gt;gi|384111066|gb|JQ268213.1| Blumeria graminis f. sp. tritici isolate BgTR_B14 elongation factor 1 alpha gene, partial sequence &gt;gi|384111067|gb|JQ268214.1| Blumeria graminis isolate BgTR_B15 elongation factor 1 alpha gene, partial sequence &gt;gi|384111068|gb|JQ268215.1| Blumeria graminis isolate BgTR_B16 elongation factor 1 alpha gene, partial sequence &gt;gi|384111069|gb|JQ268216.1| Blumeria graminis f. sp. tritici isolate Bgta_C1 elongation factor 1 alpha gene, partial sequence &gt;gi|384111070|gb|JQ268217.1| Blumeria graminis f. sp. tritici isolate BgTR_C2 elongation factor 1 alpha gene, partial sequence &gt;gi|384111071|gb|JQ268218.1| Blumeria graminis isolate BgTR_C3 elongation factor 1 alpha gene, partial sequence &gt;gi|384111072|gb|JQ268219.1| Blumeria graminis isolate BgTR_C4 elongation factor 1 alpha gene, partial sequence &gt;gi|384111073|gb|JQ268220.1| Blumeria graminis isolate BgTR_C5 elongation factor 1 alpha gene, partial sequence &gt;gi|384111074|gb|JQ268221.1| Blumeria graminis f. sp. tritici isolate BgTR_C6 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268206</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|2463891435|gb|OP153837.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt KPM-58 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153837</Hit_accession>
+  <Hit_len>727</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>467</Hsp_hit-from>
+      <Hsp_hit-to>158</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCCGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|384111075|gb|JQ268222.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_C7 elongation factor 1 alpha gene, partial sequence &gt;gi|384111076|gb|JQ268223.1| Blumeria graminis f. sp. tritici isolate BgTR_C8 elongation factor 1 alpha gene, partial sequence &gt;gi|384111077|gb|JQ268224.1| Blumeria graminis f. sp. tritici isolate BgTR_C9 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268222</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|384111055|gb|JQ268202.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B1 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268202</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|384111060|gb|JQ268207.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B7 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268207</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>865</Hsp_hit-from>
+      <Hsp_hit-to>556</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCAAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|384111053|gb|JQ268200.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgS_A38 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268200</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>865</Hsp_hit-from>
+      <Hsp_hit-to>556</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2915759798|gb|PQ999189.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Ba translation elongation factor 1-alpha gene, partial cds</Hit_def>
+  <Hit_accession>PQ999189</Hit_accession>
+  <Hit_len>542</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.42466e-155</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>345</Hsp_hit-from>
+      <Hsp_hit-to>36</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCCGTAAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|384111048|gb|JQ268195.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_A33 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268195</Hit_accession>
+  <Hit_len>1180</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>2.95384e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>867</Hsp_hit-from>
+      <Hsp_hit-to>558</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAGTGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|384111042|gb|JQ268189.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_A26 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268189</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>2.95384e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAGTGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|384111056|gb|JQ268203.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B2 elongation factor 1 alpha gene, partial sequence &gt;gi|384111057|gb|JQ268204.1| Blumeria graminis f. sp. tritici isolate Bgta_B3 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268203</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>2.95384e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>865</Hsp_hit-from>
+      <Hsp_hit-to>556</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTATTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|384111054|gb|JQ268201.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgS_A39 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268201</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>2.95384e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCGGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|384111041|gb|JQ268188.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_A25 elongation factor 1 alpha gene, partial sequence &gt;gi|384111043|gb|JQ268190.1| Blumeria graminis isolate BgTR_A27 elongation factor 1 alpha gene, partial sequence &gt;gi|384111044|gb|JQ268191.1| Blumeria graminis isolate BgTR_A28 elongation factor 1 alpha gene, partial sequence &gt;gi|384111045|gb|JQ268192.1| Blumeria graminis f. sp. tritici isolate BgTR_A30 elongation factor 1 alpha gene, partial sequence &gt;gi|384111046|gb|JQ268193.1| Blumeria graminis f. sp. tritici isolate BgTR_A31 elongation factor 1 alpha gene, partial sequence &gt;gi|384111047|gb|JQ268194.1| Blumeria graminis f. sp. tritici isolate BgTR_A32 elongation factor 1 alpha gene, partial sequence &gt;gi|384111049|gb|JQ268196.1| Blumeria graminis f. sp. tritici isolate BgTR_A34 elongation factor 1 alpha gene, partial sequence &gt;gi|384111050|gb|JQ268197.1| Blumeria graminis isolate BgTR_A35 elongation factor 1 alpha gene, partial sequence &gt;gi|384111051|gb|JQ268198.1| Blumeria graminis f. sp. tritici isolate BgTR_A36 elongation factor 1 alpha gene, partial sequence &gt;gi|384111052|gb|JQ268199.1| Blumeria graminis isolate BgTR_A37 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268188</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>2.95384e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>866</Hsp_hit-from>
+      <Hsp_hit-to>557</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATAATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAGTGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|384111031|gb|JQ268178.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate Bgta_A15 elongation factor 1 alpha gene, partial sequence &gt;gi|384111033|gb|JQ268180.1| Blumeria graminis isolate Bgta_A17 elongation factor 1 alpha gene, partial sequence &gt;gi|384111034|gb|JQ268181.1| Blumeria graminis f. sp. tritici isolate Bgta_A18 elongation factor 1 alpha gene, partial sequence &gt;gi|384111035|gb|JQ268182.1| Blumeria graminis isolate Bgta_A19 elongation factor 1 alpha gene, partial sequence &gt;gi|384111036|gb|JQ268183.1| Blumeria graminis f. sp. secalis isolate Bgta_A20 elongation factor 1 alpha gene, partial sequence &gt;gi|384111037|gb|JQ268184.1| Blumeria graminis isolate BgTR_A21 elongation factor 1 alpha gene, partial sequence &gt;gi|384111038|gb|JQ268185.1| Blumeria graminis isolate BgTR_A22 elongation factor 1 alpha gene, partial sequence &gt;gi|384111039|gb|JQ268186.1| Blumeria graminis isolate BgTR_A23 elongation factor 1 alpha gene, partial sequence &gt;gi|384111040|gb|JQ268187.1| Blumeria graminis isolate BgTR_A24 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268181</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.673</Hsp_bit-score>
+      <Hsp_score>586</Hsp_score>
+      <Hsp_evalue>1.53013e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>863</Hsp_hit-from>
+      <Hsp_hit-to>554</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTATCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATGAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTAGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|384111017|gb|JQ268164.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate Bgta_A1 elongation factor 1 alpha gene, partial sequence &gt;gi|384111018|gb|JQ268165.1| Blumeria graminis f. sp. tritici isolate Bgta_A2 elongation factor 1 alpha gene, partial sequence &gt;gi|384111019|gb|JQ268166.1| Blumeria graminis isolate Bgta_A3 elongation factor 1 alpha gene, partial sequence &gt;gi|384111020|gb|JQ268167.1| Blumeria graminis isolate Bgta_A4 elongation factor 1 alpha gene, partial sequence &gt;gi|384111021|gb|JQ268168.1| Blumeria graminis isolate Bgta_A5 elongation factor 1 alpha gene, partial sequence &gt;gi|384111022|gb|JQ268169.1| Blumeria graminis isolate Bgta_A6 elongation factor 1 alpha gene, partial sequence &gt;gi|384111023|gb|JQ268170.1| Blumeria graminis isolate Bgta_A7 elongation factor 1 alpha gene, partial sequence &gt;gi|384111024|gb|JQ268171.1| Blumeria graminis isolate Bgta_A8 elongation factor 1 alpha gene, partial sequence &gt;gi|384111025|gb|JQ268172.1| Blumeria graminis f. sp. tritici isolate Bgta_A9 elongation factor 1 alpha gene, partial sequence &gt;gi|384111026|gb|JQ268173.1| Blumeria graminis isolate Bgta_A10 elongation factor 1 alpha gene, partial sequence &gt;gi|384111027|gb|JQ268174.1| Blumeria graminis f. sp. tritici isolate Bgta_A11 elongation factor 1 alpha gene, partial sequence &gt;gi|384111028|gb|JQ268175.1| Blumeria graminis isolate Bgta_A12 elongation factor 1 alpha gene, partial sequence &gt;gi|384111029|gb|JQ268176.1| Blumeria graminis isolate Bgta_A13 elongation factor 1 alpha gene, partial sequence &gt;gi|384111030|gb|JQ268177.1| Blumeria graminis isolate Bgta_A14 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268165</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.673</Hsp_bit-score>
+      <Hsp_score>586</Hsp_score>
+      <Hsp_evalue>1.53013e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>312</Hsp_query-to>
+      <Hsp_hit-from>863</Hsp_hit-from>
+      <Hsp_hit-to>554</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>AGTTTGCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATAAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTCGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTGCTTTCGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_qseq>
+      <Hsp_hseq>AGTTATCGGAATTATCAATCATATTGTCTCCGTTGAAGCCAGAAATTGGCACAAATGGAACAACCTTGGGGTTAAATCCGACTTTCTTTATGAAGTTGGTCGTCTCCTTGATGATTTCAAGGTATCTAGCTTCAGCCCATTTGGCCGTGTCCATCTTGTTAATGGCAACAATCAATTG--TTTGACACCTAATGTGAACGCAAGCAATGCATGTTCTCTGGTTTGACCATCCTTTGAAATACCTGCCTCGAACTCACCGGTACCGGCCGCGATGATGAGAATGGCACAGTCAGCTTGAGAGGTTCCAGTAAT</Hsp_hseq>
+      <Hsp_midline>||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||  || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>808</Statistics_db-num>
+      <Statistics_db-len>1479469</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

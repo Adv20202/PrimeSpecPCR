@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_4496589</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>222</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_4496589</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>222</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|260765027|gb|GQ470803.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone A15MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470803</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>401.634</Hsp_bit-score>
+      <Hsp_score>444</Hsp_score>
+      <Hsp_evalue>3.70857e-113</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>222</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|939107827|gb|KT714072.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 96224 avirulence gene cluster, complete sequence</Hit_def>
+  <Hit_accession>KT714072</Hit_accession>
+  <Hit_len>428224</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>357.452</Hsp_bit-score>
+      <Hsp_score>395</Hsp_score>
+      <Hsp_evalue>1.38328e-99</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>121244</Hsp_hit-from>
+      <Hsp_hit-to>121464</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTTCTCCCTCCTCGCCCAACGAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATATCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACGGTGGCCAGAAACGGACTGCAACAAAAAGCAGGCCCAACTGTGAAGGCTGTGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||| || |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>288.924</Hsp_bit-score>
+      <Hsp_score>319</Hsp_score>
+      <Hsp_evalue>5.88704e-79</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>361305</Hsp_hit-from>
+      <Hsp_hit-to>361067</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>206</Hsp_identity>
+      <Hsp_positive>206</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTC------------------CTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCTCGAGCTCGGCCTCCACGCCACCTTTCCTCCCTCGTCGCCCAGCGAACCCTCCTCGCCCAACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCATAATCACCTGGGCCAGGGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTATGAAGGCTATGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||| || || ||||| | ||||||||  |||||||||                  ||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||  ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>33.7469</Hsp_bit-score>
+      <Hsp_score>36</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>130</Hsp_query-from>
+      <Hsp_query-to>157</Hsp_query-to>
+      <Hsp_hit-from>185972</Hsp_hit-from>
+      <Hsp_hit-to>185999</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>CAAAAGCACCTGGGCCACAGTGGCCAGA</Hsp_qseq>
+      <Hsp_hseq>CAGAAGCACCTGGGCCACTGTCACCAGA</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||||||| ||  |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|260765021|gb|GQ470800.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone A19MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470800</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.401</Hsp_bit-score>
+      <Hsp_score>365</Hsp_score>
+      <Hsp_evalue>1.92279e-91</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>221</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>207</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGGGTCCGGCCACTACGCCGCCCGTCCTCCCTCCTCGCCCGATGAACCCTCTCTCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCTTGTCAAAAGAACCTGGGCCACGGTGGCCAGACACGGACTGCAACAAAAAGCAGGCCCAACTGCAAAGGCTGTGCCACAACCTGTGGCAAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||| |||||||||||||| ||||||||||||||||||||||  ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||| ||||||||||| ||||||||||||||||||||||||||||||| ||||||||  ||||||||||| | ||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|313870789|gb|HQ437160.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone Bgt_BACs_1f12_12c21 hypothetical protein, component of chromatin assembly complex, phosphatidylinositol N-acetylglucosaminyltransferase, DNA repair protein, C3HC zink finger domain-containing protein, acyltransferase activity, hypothetical protein, and tyrosine-protein phosphatase genes, complete cds</Hit_def>
+  <Hit_accession>HQ437160</Hit_accession>
+  <Hit_len>218405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>321.384</Hsp_bit-score>
+      <Hsp_score>355</Hsp_score>
+      <Hsp_evalue>9.96028e-89</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>214020</Hsp_hit-from>
+      <Hsp_hit-to>213800</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTTCTCCCTCCTCGCCCGACGAACCCTCTCTCAAGGGCTCCCGAAGCCAGGAGTAACACAACTCCCGCCATCCCAGTTCTGCCTGTCAAAAGCACCTGGGCCACGGTGGCCAGACACGGACTGCAACAAAAAGCAATCCCAAATGTGAAGGCTGTGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||| ||||||||||||| ||||||||  | ||||  ||| || |||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||||||| |||||| ||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>226.707</Hsp_bit-score>
+      <Hsp_score>250</Hsp_score>
+      <Hsp_evalue>1.68816e-60</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>188245</Hsp_hit-from>
+      <Hsp_hit-to>188465</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGGACCCGGCCACTACGCCACCCGTTCTCCCTCCTCGCCCGACGAACCCTCTCTCAAGGGTTCCCGACGCCAGGAGCATACCAATTCCCGCGGTCCCAGCGCTGGCCCTCAAAAGCACCTGGACCACGGTAGTAAAAAATGGACTGCCACAAAAAGCAGCTCCTATAGCAAAGGCTATTCCGCGACCTGCGTACAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||| ||||||||||||||||||||| ||||||||||||||||| ||||||||| |||||| |||||||||||||||   | |||| ||| | |||||||| ||| |  |||||||||||||| |||| || |  | | | ||||||| |||||||||||  || |  |  |||||| | |||||||||| |  |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|260765023|gb|GQ470801.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone A22MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470801</Hit_accession>
+  <Hit_len>222</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.25</Hsp_bit-score>
+      <Hsp_score>275</Hsp_score>
+      <Hsp_evalue>5.16411e-67</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>221</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>189</Hsp_identity>
+      <Hsp_positive>189</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>222</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGGTCCCGGCCACTACGCCACCCGCTTTTCCTCCTCGCCCGGCGAACCCAACCTCAAGGGCTCCCGAAGCTAGGAGTAACGCAACTCCCGCCGTCCCAGTTCTGCCTGTCAAAAGCACCTGGGCCACGGTGGCCAGGAACGGACTGCGACAGAAAGCAGTCCCAACTGCAAAGGCTGTGCCACAACCTGCGGCAAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||||| ||||||||||||||||||||   | |||||||||||| | |||||   | ||||||||||||| || |||||  |  |||  ||| ||||||||| ||||||||||||||||||||||||||| ||||||||  ||||||||| ||| ||||||||||||||||  ||||||||||| | ||||| ||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|260765025|gb|GQ470802.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone A16MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470802</Hit_accession>
+  <Hit_len>138</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>185.23</Hsp_bit-score>
+      <Hsp_score>204</Hsp_score>
+      <Hsp_evalue>5.16867e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>138</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>125</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACC</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGGGCCCGGCCACTACACCACCCGTTCTCCCTCCTCGCCCGACGAACCCCCTCCCAAGGGCTCCCGAAGCCAGGATTAAAACAACTCCCGCCGTCCCAGTTCTGCCTGTCAAAATCACC</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||||||||||||||| |||||||| ||||||||||||||||| ||||| ||||||||||||||||| |||||||   ||||||  ||| ||||||||| |||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|260765226|gb|GQ470715.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 2 putative virulence effector gene, partial cds</Hit_def>
+  <Hit_accession>GQ470715</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.196</Hsp_bit-score>
+      <Hsp_score>184</Hsp_score>
+      <Hsp_evalue>1.38695e-42</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>147</Hsp_query-to>
+      <Hsp_hit-from>82</Hsp_hit-from>
+      <Hsp_hit-to>227</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>128</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>148</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAAC-AATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCAC</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATATATGGCCACGGGCCCGGCCTCCACGCCACTCGTCCTCCCTCCTCGCCCGGCAAACCAGATCCCGAGGGCTCCCGACGCCAGGAG-CATACAAATTCCCGCCGTCCCAGCGCTGCCCCTCAAAAGCACAGGGGCCAC</Hsp_hseq>
+      <Hsp_midline>|||||| ||||| |||||||||||||||||| | ||||||| ||||||||||||||||||| ||||||   |||| |||||||||||||||||||| || || ||| ||| |||||||||| |||||  ||||||||||  |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|260765224|gb|GQ470714.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 4 putative virulence effector gene, partial cds</Hit_def>
+  <Hit_accession>GQ470714</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.983</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>2.05841e-40</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>147</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>227</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>122</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>142</Hsp_align-len>
+      <Hsp_qseq>GCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAAC-AATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCAC</Hsp_qseq>
+      <Hsp_hseq>GCAATATATGGCTACGGGCCCGGCCTCCACGCCACCTGTCCTCCATCTTCGCCCGGCGAACCCTCCCCCAAGGGCTCCCGACGCCAGGAG-CATACAAATTCCCGCCGTCCCAGCGCTGCCCCTCAAAAGCACACGGGCCAC</Hsp_hseq>
+      <Hsp_midline>|||||| ||||| |||||||||||| | |||||||| ||||||| || ||||||| | ||||||| |||||||||||||||||||||||| || || ||| ||| |||||||||| |||||  ||||||||||  |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|260765229|gb|GQ470717.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 3 putative virulence effector gene, partial cds</Hit_def>
+  <Hit_accession>GQ470717</Hit_accession>
+  <Hit_len>227</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>147.359</Hsp_bit-score>
+      <Hsp_score>162</Hsp_score>
+      <Hsp_evalue>1.299e-36</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>147</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>227</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>141</Hsp_align-len>
+      <Hsp_qseq>GCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAACAATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCAC</Hsp_qseq>
+      <Hsp_hseq>GCAATACATGGCCTCGGGCTCGGCCATCACGCCACCCGTCCTCCCTCCTCGCCCTGCGAACTCTCTCCCAAGGGCCCTCGATGCCAGGAGCACAACGATTCCCGCCGTCCCAGTGCTGCCCCTCAGAAGCACTCGGGCCAC</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||| ||||||  ||||||||||||||||||||||||||  | ||| ||||||||||||| | ||| ||||||||   ||| || ||| |||||||||  |||||  ||| ||||||  |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|260765041|gb|GQ470810.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 11MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470810</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.834</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>2.86124e-32</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGACTGCAACAAAAAGCAGGCCCAACTGTGAAGGCTGTGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|260765031|gb|GQ470805.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 23MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470805</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.834</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>2.86124e-32</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGACTGCAACAAAAAGCAGGCCCAACTGTGAAGGCTGTGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|260765039|gb|GQ470809.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 17MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470809</Hit_accession>
+  <Hit_len>102</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.325</Hsp_bit-score>
+      <Hsp_score>142</Hsp_score>
+      <Hsp_evalue>3.4857e-31</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>77</Hsp_identity>
+      <Hsp_positive>77</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGAAACGGACTGCAACAAAAAGCAGGCCCAACTGTGAAGGCTGTGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||| ||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|260765029|gb|GQ470804.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 21MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470804</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>124.817</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>1.48216e-29</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGAAACGGACTGCAACAAAAAACAGGCCCAACTGTGAAGGCTGTGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||| ||||||||||||||||| ||| ||||||||||||||||||||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|260765043|gb|GQ470811.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 12MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470811</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>124.817</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>1.48216e-29</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGAAACGGACTGCAACAAAAAGCAGGCCCAACTGTGAAGGCTGTGCCACGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||| ||||||||||||||||||||| ||||||||||||||||||||| ||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|260765035|gb|GQ470807.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 8MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470807</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>120.309</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>1.80564e-28</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGGCTGCAACAAAAAGCAGTCCCAGCTGTGAAGGCTGTACCGCGACCTGCAGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||| ||||||||||||||||||||| ||||||||||||| ||||||||||  |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|260765053|gb|GQ470816.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 14MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470816</Hit_accession>
+  <Hit_len>96</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>120.309</Hsp_bit-score>
+      <Hsp_score>132</Hsp_score>
+      <Hsp_evalue>1.80564e-28</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>96</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCAAGACACGGACTGCAACAAAAAGCAGGCCCAACTGTGAAGGCTGTGCCGCAACCTGCAGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||| ||||||||||||||||||||||||| ||||||||||||||||||||||| |||||  |||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>42.7638</Hsp_bit-score>
+      <Hsp_score>46</Hsp_score>
+      <Hsp_evalue>3.9807e-05</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>23</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCGGCAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|260764950|gb|GQ470763.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei clone 50MFC52B3 putative virulence effector mRNA, partial cds &gt;gi|260765033|gb|GQ470806.1| Blumeria graminis f. sp. tritici clone 10MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470806</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.8</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>7.67777e-27</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGACTGCAACAAAAAGCAGGCCCAACTGCAAAGGCTGTGCCACAACCTGTGGCAAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||||||||||||||||| ||||||||  ||||||||||| | ||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|260765045|gb|GQ470812.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 5MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470812</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.8</Hsp_bit-score>
+      <Hsp_score>127</Hsp_score>
+      <Hsp_evalue>7.67777e-27</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGACTGCGACAAAAAGCAGTCCCTACTGCCAAGGCTATGCCGCGACCTGCGGCCAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||||| ||||||||||||||| ||||  |||||| |||||||||||| ||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|260765051|gb|GQ470815.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 7MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470815</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>111.292</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>9.35344e-26</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>73</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGACTGCAACAAAAAGCAGGCCCAACTGCAAAGGCTGCGCCACAACCTGTGGCAAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||||||||||||||||| ||||||||  ||||||| ||| | ||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|260765228|gb|GQ470716.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 5 putative virulence effector-like gene, partial sequence</Hit_def>
+  <Hit_accession>GQ470716</Hit_accession>
+  <Hit_len>243</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>104.078</Hsp_bit-score>
+      <Hsp_score>114</Hsp_score>
+      <Hsp_evalue>1.38817e-23</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>147</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>158</Hsp_align-len>
+      <Hsp_qseq>GCAATACATGGCCACGGGCCCGGCCACTACGC----------------CACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGCCAGGAGACAAAC-AATACCCACCGTCCCAGCTCTGCCTGTCAAAAGCACCTGGGCCAC</Hsp_qseq>
+      <Hsp_hseq>GCAATATATGGCCACGGGCCCGACCTCCACGCTACCTGTCCTTGCTGCCACCTGTCCTCCCTCCTCGCCTGGTGAACCCTTCCCCAAGGGCTCTAGACGCCAGGAG-CATACAAATTCCTACCGTTCCAGCGCCGCCCCTCAAAAGCACAGGGGCCAC</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||| || | ||||                |||| |||||||||||||||| |   ||||||  |||||||||||  ||||||||||| || || ||| || ||||| ||||| | |||  ||||||||||  |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|260765057|gb|GQ470818.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 2MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470818</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.7665</Hsp_bit-score>
+      <Hsp_score>107</Hsp_score>
+      <Hsp_evalue>2.06023e-21</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGAAACGGACTGCGACTGAAAGCAGTCCCAACTGCAAAGGCTGTGCCACAACCTGCGGCAAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||| ||||||||| ||  ||||||||||||||||  ||||||||||| | ||||| ||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|260765037|gb|GQ470808.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 13MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470808</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.7665</Hsp_bit-score>
+      <Hsp_score>107</Hsp_score>
+      <Hsp_evalue>2.06023e-21</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>222</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCCA</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGGAACGGACTGCGACAGAAAGCAGTCCCAACTGCAAAGGCTGTGCCACAACCTGCGGCAAAAGCCCA</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||  ||||||||| ||| ||||||||||||||||  ||||||||||| | ||||| ||| ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1115569241|gb|KX765276.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate 96224 BgtE-5843_p (BgtE-5843), BgtE-5842_p (BgtE-5842), BgtE-5845_p (AvrPm2), and BgtE-5846_p (BgtE-5846) genes, complete cds</Hit_def>
+  <Hit_accession>KX765276</Hit_accession>
+  <Hit_len>217279</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.3564</Hsp_bit-score>
+      <Hsp_score>101</Hsp_score>
+      <Hsp_evalue>8.76033e-20</Hsp_evalue>
+      <Hsp_query-from>130</Hsp_query-from>
+      <Hsp_query-to>212</Hsp_query-to>
+      <Hsp_hit-from>80541</Hsp_hit-from>
+      <Hsp_hit-to>80459</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>70</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>83</Hsp_align-len>
+      <Hsp_qseq>CAAAAGCACCTGGGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGG</Hsp_qseq>
+      <Hsp_hseq>CAAAAGCACCTAGGCCACGGTGGCTGGAAACAGACTGCGACAAAAAGCAGTTCCTATTGTAAAGGCTGTGCCGCAACCTGCGG</Hsp_hseq>
+      <Hsp_midline>||||||||||| |||||| |||||  || || |||||| |||||||||||| || | ||| ||||||||||||| ||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>85.143</Hsp_bit-score>
+      <Hsp_score>93</Hsp_score>
+      <Hsp_evalue>1.30015e-17</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>90</Hsp_query-to>
+      <Hsp_hit-from>81539</Hsp_hit-from>
+      <Hsp_hit-to>81456</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>69</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>GCAATACATGGCCACGGGCCCGGCCACTACGCCACCCGTCCTCCCTCCTCGCCCGACAAACCCTCTCCCAAGGGCTCCCGACGC</Hsp_qseq>
+      <Hsp_hseq>GCAATATATGGCTGCAGGCCCGGCTTGCACGCCACCTGTCCTCCCTCCTCGCCCGGAAAGCCCTCTCCCAAGAGCCCCCAACGC</Hsp_hseq>
+      <Hsp_midline>|||||| |||||  | ||||||||    |||||||| ||||||||||||||||||  || |||||||||||| || ||| ||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>3</Hsp_num>
+      <Hsp_bit-score>56.2891</Hsp_bit-score>
+      <Hsp_score>61</Hsp_score>
+      <Hsp_evalue>6.30787e-09</Hsp_evalue>
+      <Hsp_query-from>86</Hsp_query-from>
+      <Hsp_query-to>136</Hsp_query-to>
+      <Hsp_hit-from>80861</Hsp_hit-from>
+      <Hsp_hit-to>80811</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>GACGCCAGGAGACAAAC-AATACCCACCGTCCCAGCTCTGCCTGTCAAAAGC</Hsp_qseq>
+      <Hsp_hseq>GACGCCAGGAG-CAAACAAATTCCCGCCGTCCCAGTGCTGCCTGTAAAAAGC</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| ||| ||| |||||||||  |||||||| ||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>4</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>117</Hsp_query-from>
+      <Hsp_query-to>147</Hsp_query-to>
+      <Hsp_hit-from>29237</Hsp_hit-from>
+      <Hsp_hit-to>29207</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>26</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>CAGCTCTGCCTGTCAAAAGCACCTGGGCCAC</Hsp_qseq>
+      <Hsp_hseq>CACCTCTCCCGCTCAGAAGCACCTGGGCCAC</Hsp_hseq>
+      <Hsp_midline>|| |||| ||  ||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|260765055|gb|GQ470817.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 18MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470817</Hit_accession>
+  <Hit_len>87</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.9463</Hsp_bit-score>
+      <Hsp_score>95</Hsp_score>
+      <Hsp_evalue>3.72499e-18</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGAC</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGACACGGGCTGCGACAAAAAGCAGTCCCTACTGCCAAGGCTATGCCGCGAC</Hsp_hseq>
+      <Hsp_midline>|||||| |||||||||||||| |||| ||||||||||||||| ||||  |||||| |||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|260765049|gb|GQ470814.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 24MFJIW1W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470814</Hit_accession>
+  <Hit_len>87</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.9295</Hsp_bit-score>
+      <Hsp_score>85</Hsp_score>
+      <Hsp_evalue>1.92959e-15</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>65</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGAC</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCAGGACCGGACTGCGACAGAAAGCAGTCCCAACTGCAAAGGCTATGCCGCGAC</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||   |||||||| ||| ||||||||||||||||  |||||| |||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|260765047|gb|GQ470813.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici clone 9MFJW11W3 putative virulence effector mRNA, partial cds</Hit_def>
+  <Hit_accession>GQ470813</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>64.4042</Hsp_bit-score>
+      <Hsp_score>70</Hsp_score>
+      <Hsp_evalue>1.2177e-11</Hsp_evalue>
+      <Hsp_query-from>142</Hsp_query-from>
+      <Hsp_query-to>221</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>94</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>62</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>80</Hsp_align-len>
+      <Hsp_qseq>GGCCACAGTGGCCAGACACGGACTGCAACAAAAAGCAGTCCCAACTGTGAAGGCTGTGCCGCGACCTGTGGCCAAAGCCC</Hsp_qseq>
+      <Hsp_hseq>GGCCACGGTGGCCGGAAACGGACTGCGACTTATAGCTCTCCCAACTCCAAAGGCTGTGCCACAGCCTGCGGAAAAAGCCC</Hsp_hseq>
+      <Hsp_midline>|||||| |||||| || ||||||||| ||  | |||  ||||||||   ||||||||||| |  |||| ||  |||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>34.6486</Hsp_bit-score>
+      <Hsp_score>37</Hsp_score>
+      <Hsp_evalue>0.0206205</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>23</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>ATTGCGGCAATACATGGCCACGG</Hsp_qseq>
+      <Hsp_hseq>ATTGCG-CAATACATGGCCACGG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>808</Statistics_db-num>
+      <Statistics_db-len>1479469</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

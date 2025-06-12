@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_3340463</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>514</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_3340463</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>514</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|31043656|emb|AJ313152.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici tub2 gene for beta-tubulin, exons 1-7, isolate WHC15 tub2</Hit_def>
+  <Hit_accession>AJ313152</Hit_accession>
+  <Hit_len>1646</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>928.218</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>139</Hsp_hit-from>
+      <Hsp_hit-to>652</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2189131284|gb|MZ852758.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate SH 14 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>MZ852758</Hit_accession>
+  <Hit_len>725</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>928.218</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>525</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2189131242|gb|MZ823339.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate SH 6 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>MZ823339</Hit_accession>
+  <Hit_len>726</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>928.218</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>528</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|2189131282|gb|MZ852757.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate SH 5 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>MZ852757</Hit_accession>
+  <Hit_len>745</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>928.218</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>535</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2189131255|gb|MZ823340.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 40 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>MZ823340</Hit_accession>
+  <Hit_len>514</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>928.218</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>514</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|298568421|gb|HM538444.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. secalis isolate 3 beta-tubulin (tub2) gene, partial cds &gt;gi|298568423|gb|HM538445.1| Blumeria graminis isolate 34 beta-tubulin (tub2) gene, partial cds &gt;gi|298568425|gb|HM538446.1| Blumeria graminis f. sp. tritici isolate 14 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>HM538446</Hit_accession>
+  <Hit_len>670</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>928.218</Hsp_bit-score>
+      <Hsp_score>1028</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>546</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>514</Hsp_identity>
+      <Hsp_positive>514</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|31043652|emb|AJ313150.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici tub2 gene for beta-tubulin, exons 1-7, isolate JIW28</Hit_def>
+  <Hit_accession>AJ313150</Hit_accession>
+  <Hit_len>1646</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>896.659</Hsp_bit-score>
+      <Hsp_score>993</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>139</Hsp_hit-from>
+      <Hsp_hit-to>652</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>507</Hsp_identity>
+      <Hsp_positive>507</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAGAATCTAAAGCTTCTGGCTCAACTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCATCCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTTAAGGCTTCTGGCAACAAATATGTTCCTCGTGCTGTTCTCGTCGACTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|31043654|emb|AJ313151.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici tub2 gene for beta-tubulin, exons 1-7, isolate JIW48 tub2</Hit_def>
+  <Hit_accession>AJ313151</Hit_accession>
+  <Hit_len>1646</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>883.134</Hsp_bit-score>
+      <Hsp_score>978</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>139</Hsp_hit-from>
+      <Hsp_hit-to>652</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>504</Hsp_identity>
+      <Hsp_positive>504</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>514</Hsp_align-len>
+      <Hsp_qseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAAAATCTAAAGCTTCTGTCTCATCTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>AAACCAAATCGGTGCCGCGTTCTGTTCGTAGAATCTAAAGCTTCTGGCTCAACTCGCTCACACCCACTTTACAGGGCAAACAATTTCTGGTGAACATGGACTTGATGGTTCAGGAGTGTAAGTTCCCTCGCATAACGAGGTATCCGCATCCATCAACAAATTATAATGACTCTATTAGCTACAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTTAAGGCTTCTGGCAACAAATATGTTCCTCGTGCTGTTCTCGTCGACTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||| ||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|384402441|gb|JQ268158.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_D2 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ268158</Hit_accession>
+  <Hit_len>1425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.538</Hsp_bit-score>
+      <Hsp_score>862</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>431</Hsp_identity>
+      <Hsp_positive>431</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|384402371|gb|JQ268123.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate BgTR_A32 beta-tubulin (tub2) gene, partial cds &gt;gi|384402373|gb|JQ268124.1| Blumeria graminis isolate BgTR_A33 beta-tubulin (tub2) gene, partial cds &gt;gi|384402375|gb|JQ268125.1| Blumeria graminis isolate BgTR_A34 beta-tubulin (tub2) gene, partial cds &gt;gi|384402377|gb|JQ268126.1| Blumeria graminis isolate BgTR_A35 beta-tubulin (tub2) gene, partial cds &gt;gi|384402379|gb|JQ268127.1| Blumeria graminis f. sp. tritici isolate BgTR_A36 beta-tubulin (tub2) gene, partial cds &gt;gi|384402381|gb|JQ268128.1| Blumeria graminis f. sp. tritici isolate BgTR_A37 beta-tubulin (tub2) gene, partial cds &gt;gi|384402383|gb|JQ268129.1| Blumeria graminis isolate BgS_A38 beta-tubulin (tub2) gene, partial cds &gt;gi|384402385|gb|JQ268130.1| Blumeria graminis isolate BgS_A39 beta-tubulin (tub2) gene, partial cds &gt;gi|384402387|gb|JQ268131.1| Blumeria graminis isolate Bgta_B1 beta-tubulin (tub2) gene, partial cds &gt;gi|384402389|gb|JQ268132.1| Blumeria graminis isolate Bgta_B2 beta-tubulin (tub2) gene, partial cds &gt;gi|384402391|gb|JQ268133.1| Blumeria graminis isolate Bgta_B3 beta-tubulin (tub2) gene, partial cds &gt;gi|384402393|gb|JQ268134.1| Blumeria graminis isolate Bgta_B4 beta-tubulin (tub2) gene, partial cds &gt;gi|384402395|gb|JQ268135.1| Blumeria graminis isolate Bgta_B5 beta-tubulin (tub2) gene, partial cds &gt;gi|384402397|gb|JQ268136.1| Blumeria graminis f. sp. tritici isolate Bgta_B6 beta-tubulin (tub2) gene, partial cds &gt;gi|384402399|gb|JQ268137.1| Blumeria graminis isolate Bgta_B7 beta-tubulin (tub2) gene, partial cds &gt;gi|384402401|gb|JQ268138.1| Blumeria graminis isolate BgTR_B8 beta-tubulin (tub2) gene, partial cds &gt;gi|384402403|gb|JQ268139.1| Blumeria graminis isolate BgTR_B9 beta-tubulin (tub2) gene, partial cds &gt;gi|384402405|gb|JQ268140.1| Blumeria graminis isolate BgTR_B10 beta-tubulin (tub2) gene, partial cds &gt;gi|384402407|gb|JQ268141.1| Blumeria graminis isolate BgTR_B11 beta-tubulin (tub2) gene, partial cds &gt;gi|384402409|gb|JQ268142.1| Blumeria graminis isolate BgTR_B12 beta-tubulin (tub2) gene, partial cds &gt;gi|384402411|gb|JQ268143.1| Blumeria graminis isolate BgTR_B13 beta-tubulin (tub2) gene, partial cds &gt;gi|384402413|gb|JQ268144.1| Blumeria graminis isolate BgTR_B14 beta-tubulin (tub2) gene, partial cds &gt;gi|384402415|gb|JQ268145.1| Blumeria graminis isolate BgTR_B15 beta-tubulin (tub2) gene, partial cds &gt;gi|384402417|gb|JQ268146.1| Blumeria graminis isolate BgTR_B16 beta-tubulin (tub2) gene, partial cds &gt;gi|384402421|gb|JQ268148.1| Blumeria graminis isolate BgTR_C2 beta-tubulin (tub2) gene, partial cds &gt;gi|384402423|gb|JQ268149.1| Blumeria graminis f. sp. secalis isolate BgTR_C3 beta-tubulin (tub2) gene, partial cds &gt;gi|384402425|gb|JQ268150.1| Blumeria graminis isolate BgTR_C4 beta-tubulin (tub2) gene, partial cds &gt;gi|384402427|gb|JQ268151.1| Blumeria graminis isolate BgTR_C5 beta-tubulin (tub2) gene, partial cds &gt;gi|384402429|gb|JQ268152.1| Blumeria graminis isolate BgTR_C6 beta-tubulin (tub2) gene, partial cds &gt;gi|384402431|gb|JQ268153.1| Blumeria graminis isolate BgTR_C7 beta-tubulin (tub2) gene, partial cds &gt;gi|384402433|gb|JQ268154.1| Blumeria graminis isolate BgTR_C8 beta-tubulin (tub2) gene, partial cds &gt;gi|384402435|gb|JQ268155.1| Blumeria graminis isolate BgTR_C9 beta-tubulin (tub2) gene, partial cds &gt;gi|384402437|gb|JQ268156.1| Blumeria graminis f. sp. secalis isolate BgTR_C10 beta-tubulin (tub2) gene, partial cds &gt;gi|384402439|gb|JQ268157.1| Blumeria graminis isolate Bgta_D1 beta-tubulin (tub2) gene, partial cds &gt;gi|384402449|gb|JQ268162.1| Blumeria graminis isolate Bgtd_D6 beta-tubulin (tub2) gene, partial cds &gt;gi|384402451|gb|JQ268163.1| Blumeria graminis isolate Bgtdic_D7 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ268127</Hit_accession>
+  <Hit_len>1425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.538</Hsp_bit-score>
+      <Hsp_score>862</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>431</Hsp_identity>
+      <Hsp_positive>431</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|384402333|gb|JQ268104.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_A13 beta-tubulin (tub2) gene, partial cds &gt;gi|384402335|gb|JQ268105.1| Blumeria graminis f. sp. tritici isolate Bgta_A14 beta-tubulin (tub2) gene, partial cds &gt;gi|384402337|gb|JQ268106.1| Blumeria graminis f. sp. tritici isolate Bgta_A15 beta-tubulin (tub2) gene, partial cds &gt;gi|384402339|gb|JQ268107.1| Blumeria graminis f. sp. tritici isolate Bgta_A16 beta-tubulin (tub2) gene, partial cds &gt;gi|384402341|gb|JQ268108.1| Blumeria graminis f. sp. tritici isolate Bgta_A17 beta-tubulin (tub2) gene, partial cds &gt;gi|384402343|gb|JQ268109.1| Blumeria graminis f. sp. tritici isolate Bgta_A18 beta-tubulin (tub2) gene, partial cds &gt;gi|384402345|gb|JQ268110.1| Blumeria graminis f. sp. tritici isolate Bgta_A19 beta-tubulin (tub2) gene, partial cds &gt;gi|384402347|gb|JQ268111.1| Blumeria graminis f. sp. tritici isolate Bgta_A20 beta-tubulin (tub2) gene, partial cds &gt;gi|384402349|gb|JQ268112.1| Blumeria graminis f. sp. tritici isolate BgTR_A21 beta-tubulin (tub2) gene, partial cds &gt;gi|384402351|gb|JQ268113.1| Blumeria graminis f. sp. tritici isolate BgTR_A22 beta-tubulin (tub2) gene, partial cds &gt;gi|384402353|gb|JQ268114.1| Blumeria graminis f. sp. tritici isolate BgTR_A23 beta-tubulin (tub2) gene, partial cds &gt;gi|384402355|gb|JQ268115.1| Blumeria graminis f. sp. tritici isolate BgTR_A24 beta-tubulin (tub2) gene, partial cds &gt;gi|384402357|gb|JQ268116.1| Blumeria graminis f. sp. tritici isolate BgTR_A25 beta-tubulin (tub2) gene, partial cds &gt;gi|384402359|gb|JQ268117.1| Blumeria graminis f. sp. tritici isolate BgTR_A26 beta-tubulin (tub2) gene, partial cds &gt;gi|384402361|gb|JQ268118.1| Blumeria graminis f. sp. tritici isolate BgTR_A27 beta-tubulin (tub2) gene, partial cds &gt;gi|384402363|gb|JQ268119.1| Blumeria graminis f. sp. tritici isolate BgTR_A28 beta-tubulin (tub2) gene, partial cds &gt;gi|384402365|gb|JQ268120.1| Blumeria graminis f. sp. tritici isolate BgTR_A29 beta-tubulin (tub2) gene, partial cds &gt;gi|384402367|gb|JQ268121.1| Blumeria graminis f. sp. tritici isolate BgTR_A30 beta-tubulin (tub2) gene, partial cds &gt;gi|384402369|gb|JQ268122.1| Blumeria graminis isolate BgTR_A31 beta-tubulin (tub2) gene, partial cds &gt;gi|384402443|gb|JQ268159.1| Blumeria graminis f. sp. tritici isolate Bgta_D3 beta-tubulin (tub2) gene, partial cds &gt;gi|384402445|gb|JQ268160.1| Blumeria graminis f. sp. tritici isolate Bgtd_D4 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ268104</Hit_accession>
+  <Hit_len>1425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>778.538</Hsp_bit-score>
+      <Hsp_score>862</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>431</Hsp_identity>
+      <Hsp_positive>431</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|384402313|gb|JQ268094.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_A3 beta-tubulin (tub2) gene, partial cds &gt;gi|384402317|gb|JQ268096.1| Blumeria graminis f. sp. tritici isolate Bgta_A5 beta-tubulin (tub2) gene, partial cds &gt;gi|384402319|gb|JQ268097.1| Blumeria graminis isolate Bgta_A6 beta-tubulin (tub2) gene, partial cds &gt;gi|384402321|gb|JQ268098.1| Blumeria graminis f. sp. tritici isolate Bgta_A7 beta-tubulin (tub2) gene, partial cds &gt;gi|384402323|gb|JQ268099.1| Blumeria graminis f. sp. tritici isolate Bgta_A8 beta-tubulin (tub2) gene, partial cds &gt;gi|384402325|gb|JQ268100.1| Blumeria graminis isolate Bgta_A9 beta-tubulin (tub2) gene, partial cds &gt;gi|384402327|gb|JQ268101.1| Blumeria graminis f. sp. tritici isolate Bgta_A10 beta-tubulin (tub2) gene, partial cds &gt;gi|384402329|gb|JQ268102.1| Blumeria graminis f. sp. tritici isolate Bgta_A11 beta-tubulin (tub2) gene, partial cds &gt;gi|384402331|gb|JQ268103.1| Blumeria graminis f. sp. tritici isolate Bgta_A12 beta-tubulin (tub2) gene, partial cds &gt;gi|384402447|gb|JQ268161.1| Blumeria graminis f. sp. tritici isolate Bgtd_D5 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ268094</Hit_accession>
+  <Hit_len>1425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.03</Hsp_bit-score>
+      <Hsp_score>857</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>430</Hsp_identity>
+      <Hsp_positive>430</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAATGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|384402315|gb|JQ268095.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_A4 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ268095</Hit_accession>
+  <Hit_len>1425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.03</Hsp_bit-score>
+      <Hsp_score>857</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>430</Hsp_identity>
+      <Hsp_positive>430</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAATGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|384402309|gb|JQ268092.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_A1 beta-tubulin (tub2) gene, partial cds &gt;gi|384402311|gb|JQ268093.1| Blumeria graminis f. sp. tritici isolate Bgta_A2 beta-tubulin (tub2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ268092</Hit_accession>
+  <Hit_len>1425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>774.03</Hsp_bit-score>
+      <Hsp_score>857</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>84</Hsp_query-from>
+      <Hsp_query-to>514</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>431</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>430</Hsp_identity>
+      <Hsp_positive>430</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTTCTGGTGAACATGGACTCGATGGTTCAGGAGTGTAAGTTCCCTCGCAAAACGAGGTATCCGCAACCATCAACAAATTATAATGACTCTATTAGCTATAATGGTACATCAGATTTACAACTTGAGAGGATGAACGTATACTTTAATGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTCGGACAATCTGGAGCAGGAAATAATTGGGCAAAAGGTCACTATACTGAGGGAGCGGAGCTTGTCGACCAAGTACTAGATGTGGTGCGAAGAGAAGCAGAGGGATGTGACTGTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|224812928|gb|FJ747799.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate A4-9 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812929|gb|FJ747800.1| Blumeria graminis f. sp. tritici isolate AC4-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812930|gb|FJ747801.1| Blumeria graminis f. sp. tritici isolate AE1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812931|gb|FJ747802.1| Blumeria graminis f. sp. tritici isolate AE3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812932|gb|FJ747803.1| Blumeria graminis f. sp. tritici isolate AK1-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812933|gb|FJ747804.1| Blumeria graminis f. sp. tritici isolate AK2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812934|gb|FJ747805.1| Blumeria graminis f. sp. tritici isolate AK3-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812935|gb|FJ747806.1| Blumeria graminis f. sp. tritici isolate AL1-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812936|gb|FJ747807.1| Blumeria graminis f. sp. tritici isolate AL2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812937|gb|FJ747808.1| Blumeria graminis f. sp. tritici isolate B1-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812938|gb|FJ747809.1| Blumeria graminis f. sp. tritici isolate B4-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812939|gb|FJ747810.1| Blumeria graminis f. sp. tritici isolate C3-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812940|gb|FJ747811.1| Blumeria graminis f. sp. tritici isolate E1-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812941|gb|FJ747812.1| Blumeria graminis f. sp. tritici isolate E1-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812942|gb|FJ747813.1| Blumeria graminis f. sp. tritici isolate E2-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812943|gb|FJ747814.1| Blumeria graminis f. sp. tritici isolate I2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812944|gb|FJ747815.1| Blumeria graminis f. sp. tritici isolate I4-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812945|gb|FJ747816.1| Blumeria graminis f. sp. tritici isolate IS-103 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812946|gb|FJ747817.1| Blumeria graminis f. sp. tritici isolate IS-106 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812947|gb|FJ747818.1| Blumeria graminis f. sp. tritici isolate IS-108 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812948|gb|FJ747819.1| Blumeria graminis f. sp. tritici isolate IS-13 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812949|gb|FJ747820.1| Blumeria graminis f. sp. tritici isolate IS-15 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812950|gb|FJ747821.1| Blumeria graminis f. sp. tritici isolate IS-16 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812951|gb|FJ747822.1| Blumeria graminis f. sp. tritici isolate IS-20 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812952|gb|FJ747823.1| Blumeria graminis f. sp. tritici isolate IS-25 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812953|gb|FJ747824.1| Blumeria graminis f. sp. tritici isolate IS-30-1P beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812954|gb|FJ747825.1| Blumeria graminis f. sp. tritici isolate IS-30-2W beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812955|gb|FJ747826.1| Blumeria graminis f. sp. tritici isolate IS-37 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812956|gb|FJ747827.1| Blumeria graminis f. sp. tritici isolate IS-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812957|gb|FJ747828.1| Blumeria graminis f. sp. tritici isolate IS-43 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812958|gb|FJ747829.1| Blumeria graminis f. sp. tritici isolate IS-44 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812959|gb|FJ747830.1| Blumeria graminis f. sp. tritici isolate IS-47 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812960|gb|FJ747831.1| Blumeria graminis f. sp. tritici isolate IS-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812961|gb|FJ747832.1| Blumeria graminis f. sp. tritici isolate IS-67 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812962|gb|FJ747833.1| Blumeria graminis f. sp. tritici isolate IS-68 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812963|gb|FJ747834.1| Blumeria graminis f. sp. tritici isolate IS-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812964|gb|FJ747835.1| Blumeria graminis f. sp. tritici isolate IS-70 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812965|gb|FJ747836.1| Blumeria graminis f. sp. tritici isolate IS-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812966|gb|FJ747837.1| Blumeria graminis f. sp. tritici isolate IS-91 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812967|gb|FJ747838.1| Blumeria graminis f. sp. tritici isolate IS-92 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812968|gb|FJ747839.1| Blumeria graminis f. sp. tritici isolate IS-94 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812969|gb|FJ747840.1| Blumeria graminis f. sp. tritici isolate IS-96 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812970|gb|FJ747841.1| Blumeria graminis f. sp. tritici isolate W1-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812971|gb|FJ747842.1| Blumeria graminis f. sp. tritici isolate WM-41-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812972|gb|FJ747843.1| Blumeria graminis f. sp. tritici isolate WM-42-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812973|gb|FJ747844.1| Blumeria graminis f. sp. tritici isolate WM-43-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812974|gb|FJ747845.1| Blumeria graminis f. sp. tritici isolate WM-79-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812975|gb|FJ747846.1| Blumeria graminis f. sp. tritici isolate WM-A-12 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812976|gb|FJ747847.1| Blumeria graminis f. sp. tritici isolate WM-RAB-44 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812977|gb|FJ747848.1| Blumeria graminis f. sp. tritici isolate WM-14-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812978|gb|FJ747849.1| Blumeria graminis f. sp. tritici isolate WM-18-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812979|gb|FJ747850.1| Blumeria graminis f. sp. tritici isolate WM-18-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812980|gb|FJ747851.1| Blumeria graminis f. sp. tritici isolate WM-44-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812981|gb|FJ747852.1| Blumeria graminis f. sp. tritici isolate WM-44-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812982|gb|FJ747853.1| Blumeria graminis f. sp. tritici isolate WM-59-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812983|gb|FJ747854.1| Blumeria graminis f. sp. tritici isolate WM-64-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812984|gb|FJ747855.1| Blumeria graminis f. sp. tritici isolate WM-67-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812985|gb|FJ747856.1| Blumeria graminis f. sp. tritici isolate WM-69-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812986|gb|FJ747857.1| Blumeria graminis f. sp. tritici isolate WM-7-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812987|gb|FJ747858.1| Blumeria graminis f. sp. tritici isolate WM-7-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812988|gb|FJ747859.1| Blumeria graminis f. sp. tritici isolate WM-A-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812989|gb|FJ747860.1| Blumeria graminis f. sp. tritici isolate WM-RAB-31 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812990|gb|FJ747861.1| Blumeria graminis f. sp. tritici isolate WM-RAB-57 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812991|gb|FJ747862.1| Blumeria graminis f. sp. tritici isolate WM-RAB-69 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812992|gb|FJ747863.1| Blumeria graminis f. sp. tritici isolate Y1-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812993|gb|FJ747864.1| Blumeria graminis f. sp. tritici isolate Y2-1 beta-tubulin (TUB2) gene, partial sequence</Hit_def>
+  <Hit_accession>FJ747799</Hit_accession>
+  <Hit_len>176</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>318.679</Hsp_bit-score>
+      <Hsp_score>352</Hsp_score>
+      <Hsp_evalue>8.51058e-88</Hsp_evalue>
+      <Hsp_query-from>221</Hsp_query-from>
+      <Hsp_query-to>396</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>176</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>176</Hsp_identity>
+      <Hsp_positive>176</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>176</Hsp_align-len>
+      <Hsp_qseq>ATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTC</Hsp_qseq>
+      <Hsp_hseq>ATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|224812804|gb|FJ747675.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate A1-10 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812805|gb|FJ747676.1| Blumeria graminis f. sp. tritici isolate A1-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812806|gb|FJ747677.1| Blumeria graminis f. sp. tritici isolate A2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812807|gb|FJ747678.1| Blumeria graminis f. sp. tritici isolate Z4-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812808|gb|FJ747679.1| Blumeria graminis f. sp. tritici isolate Z4-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812809|gb|FJ747680.1| Blumeria graminis f. sp. tritici isolate Z3-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812810|gb|FJ747681.1| Blumeria graminis f. sp. tritici isolate Z3-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812811|gb|FJ747682.1| Blumeria graminis f. sp. tritici isolate Z3-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812812|gb|FJ747683.1| Blumeria graminis f. sp. tritici isolate Z2-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812813|gb|FJ747684.1| Blumeria graminis f. sp. tritici isolate Z2-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812814|gb|FJ747685.1| Blumeria graminis f. sp. tritici isolate Z2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812815|gb|FJ747686.1| Blumeria graminis f. sp. tritici isolate Y4-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812816|gb|FJ747687.1| Blumeria graminis f. sp. tritici isolate Y3-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812817|gb|FJ747688.1| Blumeria graminis f. sp. tritici isolate Y3-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812818|gb|FJ747689.1| Blumeria graminis f. sp. tritici isolate Y1-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812819|gb|FJ747690.1| Blumeria graminis f. sp. tritici isolate X4-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812820|gb|FJ747691.1| Blumeria graminis f. sp. tritici isolate X2-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812821|gb|FJ747692.1| Blumeria graminis f. sp. tritici isolate X1-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812822|gb|FJ747693.1| Blumeria graminis f. sp. tritici isolate X1-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812823|gb|FJ747694.1| Blumeria graminis f. sp. tritici isolate X1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812824|gb|FJ747695.1| Blumeria graminis f. sp. tritici isolate WM-RAB-62 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812825|gb|FJ747696.1| Blumeria graminis f. sp. tritici isolate WM-RAB-38 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812826|gb|FJ747697.1| Blumeria graminis f. sp. tritici isolate WM-RAB-32 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812827|gb|FJ747698.1| Blumeria graminis f. sp. tritici isolate WM-A-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812828|gb|FJ747699.1| Blumeria graminis f. sp. tritici isolate WM-77-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812829|gb|FJ747700.1| Blumeria graminis f. sp. tritici isolate WM-63-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812830|gb|FJ747701.1| Blumeria graminis f. sp. tritici isolate WM-62-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812831|gb|FJ747702.1| Blumeria graminis f. sp. tritici isolate WM-60-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812832|gb|FJ747703.1| Blumeria graminis f. sp. tritici isolate WM-60-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812833|gb|FJ747704.1| Blumeria graminis f. sp. tritici isolate WM-16-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812834|gb|FJ747705.1| Blumeria graminis f. sp. tritici isolate WM-1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812835|gb|FJ747706.1| Blumeria graminis f. sp. tritici isolate WM-59-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812836|gb|FJ747707.1| Blumeria graminis f. sp. tritici isolate WM-3-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812837|gb|FJ747708.1| Blumeria graminis f. sp. tritici isolate W4-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812838|gb|FJ747709.1| Blumeria graminis f. sp. tritici isolate N2-9 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812839|gb|FJ747710.1| Blumeria graminis f. sp. tritici isolate N2-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812840|gb|FJ747711.1| Blumeria graminis f. sp. tritici isolate N2-11 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812841|gb|FJ747712.1| Blumeria graminis f. sp. tritici isolate J3-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812842|gb|FJ747713.1| Blumeria graminis f. sp. tritici isolate J3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812843|gb|FJ747714.1| Blumeria graminis f. sp. tritici isolate J2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812844|gb|FJ747715.1| Blumeria graminis f. sp. tritici isolate IS-9 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812845|gb|FJ747716.1| Blumeria graminis f. sp. tritici isolate IS-113 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812846|gb|FJ747717.1| Blumeria graminis f. sp. tritici isolate IS-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812847|gb|FJ747718.1| Blumeria graminis f. sp. tritici isolate I4-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812848|gb|FJ747719.1| Blumeria graminis f. sp. tritici isolate I4-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812849|gb|FJ747720.1| Blumeria graminis f. sp. tritici isolate I1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812850|gb|FJ747721.1| Blumeria graminis f. sp. tritici isolate H2-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812851|gb|FJ747722.1| Blumeria graminis f. sp. tritici isolate H2-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812852|gb|FJ747723.1| Blumeria graminis f. sp. tritici isolate H2-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812853|gb|FJ747724.1| Blumeria graminis f. sp. tritici isolate H2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812854|gb|FJ747725.1| Blumeria graminis f. sp. tritici isolate H2-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812855|gb|FJ747726.1| Blumeria graminis f. sp. tritici isolate H2-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812856|gb|FJ747727.1| Blumeria graminis f. sp. tritici isolate H2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812857|gb|FJ747728.1| Blumeria graminis f. sp. tritici isolate G4-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812858|gb|FJ747729.1| Blumeria graminis f. sp. tritici isolate G4-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812859|gb|FJ747730.1| Blumeria graminis f. sp. tritici isolate G4-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812860|gb|FJ747731.1| Blumeria graminis f. sp. tritici isolate G3-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812861|gb|FJ747732.1| Blumeria graminis f. sp. tritici isolate G3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812862|gb|FJ747733.1| Blumeria graminis f. sp. tritici isolate F4-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812863|gb|FJ747734.1| Blumeria graminis f. sp. tritici isolate F4-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812864|gb|FJ747735.1| Blumeria graminis f. sp. tritici isolate F4-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812865|gb|FJ747736.1| Blumeria graminis f. sp. tritici isolate F3-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812866|gb|FJ747737.1| Blumeria graminis f. sp. tritici isolate F2-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812867|gb|FJ747738.1| Blumeria graminis f. sp. tritici isolate F2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812868|gb|FJ747739.1| Blumeria graminis f. sp. tritici isolate F2-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812869|gb|FJ747740.1| Blumeria graminis f. sp. tritici isolate F1-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812870|gb|FJ747741.1| Blumeria graminis f. sp. tritici isolate E4-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812871|gb|FJ747742.1| Blumeria graminis f. sp. tritici isolate E4-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812872|gb|FJ747743.1| Blumeria graminis f. sp. tritici isolate E4-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812873|gb|FJ747744.1| Blumeria graminis f. sp. tritici isolate E3-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812874|gb|FJ747745.1| Blumeria graminis f. sp. tritici isolate E3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812875|gb|FJ747746.1| Blumeria graminis f. sp. tritici isolate E2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812876|gb|FJ747747.1| Blumeria graminis f. sp. tritici isolate D4-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812877|gb|FJ747748.1| Blumeria graminis f. sp. tritici isolate D3-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812878|gb|FJ747749.1| Blumeria graminis f. sp. tritici isolate D3-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812879|gb|FJ747750.1| Blumeria graminis f. sp. tritici isolate D2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812880|gb|FJ747751.1| Blumeria graminis f. sp. tritici isolate D1-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812881|gb|FJ747752.1| Blumeria graminis f. sp. tritici isolate D1-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812882|gb|FJ747753.1| Blumeria graminis f. sp. tritici isolate C4-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812883|gb|FJ747754.1| Blumeria graminis f. sp. tritici isolate C3-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812884|gb|FJ747755.1| Blumeria graminis f. sp. tritici isolate C3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812885|gb|FJ747756.1| Blumeria graminis f. sp. tritici isolate C2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812886|gb|FJ747757.1| Blumeria graminis f. sp. tritici isolate C1-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812887|gb|FJ747758.1| Blumeria graminis f. sp. tritici isolate C1-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812888|gb|FJ747759.1| Blumeria graminis f. sp. tritici isolate B4-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812889|gb|FJ747760.1| Blumeria graminis f. sp. tritici isolate B3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812890|gb|FJ747761.1| Blumeria graminis f. sp. tritici isolate B2-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812891|gb|FJ747762.1| Blumeria graminis f. sp. tritici isolate B2-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812892|gb|FJ747763.1| Blumeria graminis f. sp. tritici isolate B2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812893|gb|FJ747764.1| Blumeria graminis f. sp. tritici isolate B1-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812894|gb|FJ747765.1| Blumeria graminis f. sp. tritici isolate B1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812895|gb|FJ747766.1| Blumeria graminis f. sp. tritici isolate AN4-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812896|gb|FJ747767.1| Blumeria graminis f. sp. tritici isolate AN2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812897|gb|FJ747768.1| Blumeria graminis f. sp. tritici isolate AN2-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812898|gb|FJ747769.1| Blumeria graminis f. sp. tritici isolate AN2-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812899|gb|FJ747770.1| Blumeria graminis f. sp. tritici isolate AN1-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812900|gb|FJ747771.1| Blumeria graminis f. sp. tritici isolate AL4-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812901|gb|FJ747772.1| Blumeria graminis f. sp. tritici isolate AL4-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812902|gb|FJ747773.1| Blumeria graminis f. sp. tritici isolate AL2-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812903|gb|FJ747774.1| Blumeria graminis f. sp. tritici isolate AL2-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812904|gb|FJ747775.1| Blumeria graminis f. sp. tritici isolate AK3-10 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812905|gb|FJ747776.1| Blumeria graminis f. sp. tritici isolate AK2-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812906|gb|FJ747777.1| Blumeria graminis f. sp. tritici isolate AK2-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812907|gb|FJ747778.1| Blumeria graminis f. sp. tritici isolate AK1-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812908|gb|FJ747779.1| Blumeria graminis f. sp. tritici isolate AK1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812909|gb|FJ747780.1| Blumeria graminis f. sp. tritici isolate AF3-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812910|gb|FJ747781.1| Blumeria graminis f. sp. tritici isolate AF2-9 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812911|gb|FJ747782.1| Blumeria graminis f. sp. tritici isolate AF2-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812912|gb|FJ747783.1| Blumeria graminis f. sp. tritici isolate AF2-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812913|gb|FJ747784.1| Blumeria graminis f. sp. tritici isolate AF1-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812914|gb|FJ747785.1| Blumeria graminis f. sp. tritici isolate AF1-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812915|gb|FJ747786.1| Blumeria graminis f. sp. tritici isolate AE3-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812916|gb|FJ747787.1| Blumeria graminis f. sp. tritici isolate AE1-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812917|gb|FJ747788.1| Blumeria graminis f. sp. tritici isolate AD4-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812918|gb|FJ747789.1| Blumeria graminis f. sp. tritici isolate AD3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812919|gb|FJ747790.1| Blumeria graminis f. sp. tritici isolate AD2-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812920|gb|FJ747791.1| Blumeria graminis f. sp. tritici isolate AD1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812921|gb|FJ747792.1| Blumeria graminis f. sp. tritici isolate AC1-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812922|gb|FJ747793.1| Blumeria graminis f. sp. tritici isolate AC1-6 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812923|gb|FJ747794.1| Blumeria graminis f. sp. tritici isolate AC1-4 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812924|gb|FJ747795.1| Blumeria graminis f. sp. tritici isolate A4-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812925|gb|FJ747796.1| Blumeria graminis f. sp. tritici isolate A4-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812926|gb|FJ747797.1| Blumeria graminis f. sp. tritici isolate A3-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812927|gb|FJ747798.1| Blumeria graminis f. sp. tritici isolate A3-2 beta-tubulin (TUB2) gene, partial sequence</Hit_def>
+  <Hit_accession>FJ747675</Hit_accession>
+  <Hit_len>176</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>314.171</Hsp_bit-score>
+      <Hsp_score>347</Hsp_score>
+      <Hsp_evalue>3.61879e-86</Hsp_evalue>
+      <Hsp_query-from>221</Hsp_query-from>
+      <Hsp_query-to>396</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>176</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>175</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>176</Hsp_align-len>
+      <Hsp_qseq>ATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTC</Hsp_qseq>
+      <Hsp_hseq>ATACTTTAATGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTC</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|224812994|gb|FJ747865.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate A3-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812995|gb|FJ747866.1| Blumeria graminis f. sp. tritici isolate AF1-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812996|gb|FJ747867.1| Blumeria graminis f. sp. tritici isolate B3-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812997|gb|FJ747868.1| Blumeria graminis f. sp. tritici isolate C2-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812998|gb|FJ747869.1| Blumeria graminis f. sp. tritici isolate D1-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224812999|gb|FJ747870.1| Blumeria graminis f. sp. tritici isolate D4-1 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813000|gb|FJ747871.1| Blumeria graminis f. sp. tritici isolate D4-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813001|gb|FJ747872.1| Blumeria graminis f. sp. tritici isolate E2-8 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813002|gb|FJ747873.1| Blumeria graminis f. sp. tritici isolate F3-7 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813003|gb|FJ747874.1| Blumeria graminis f. sp. tritici isolate I1-5 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813004|gb|FJ747875.1| Blumeria graminis f. sp. tritici isolate J3-3 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813005|gb|FJ747876.1| Blumeria graminis f. sp. tritici isolate W2-2 beta-tubulin (TUB2) gene, partial sequence &gt;gi|224813006|gb|FJ747877.1| Blumeria graminis f. sp. tritici isolate W4-4 beta-tubulin (TUB2) gene, partial sequence</Hit_def>
+  <Hit_accession>FJ747865</Hit_accession>
+  <Hit_len>176</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>309.662</Hsp_bit-score>
+      <Hsp_score>342</Hsp_score>
+      <Hsp_evalue>4.40859e-85</Hsp_evalue>
+      <Hsp_query-from>221</Hsp_query-from>
+      <Hsp_query-to>396</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>176</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>174</Hsp_identity>
+      <Hsp_positive>174</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>176</Hsp_align-len>
+      <Hsp_qseq>ATACTTTAACGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTCGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTC</Hsp_qseq>
+      <Hsp_hseq>ATACTTTAATGAGGTCTGATGAATCTCTCAAAGGAGACGTTATAGCTAACCCTCTAAAGGCTTCTGGCAACAAGTATGTTCCTCGTGCTGTTCTCGTGGATTTAGAGCCAGGTACCATGGATGCTGTACGAGCTGGTCCTTTTGGCCAGCTATTCAGACCAGACAACTTTGTTTTC</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>808</Statistics_db-num>
+      <Statistics_db-len>1479469</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

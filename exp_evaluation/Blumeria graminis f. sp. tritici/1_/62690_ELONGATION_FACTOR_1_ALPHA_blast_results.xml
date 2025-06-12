@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_3143809</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>808</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_3143809</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>808</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|384111031|gb|JQ268178.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate Bgta_A15 elongation factor 1 alpha gene, partial sequence &gt;gi|384111033|gb|JQ268180.1| Blumeria graminis isolate Bgta_A17 elongation factor 1 alpha gene, partial sequence &gt;gi|384111034|gb|JQ268181.1| Blumeria graminis f. sp. tritici isolate Bgta_A18 elongation factor 1 alpha gene, partial sequence &gt;gi|384111035|gb|JQ268182.1| Blumeria graminis isolate Bgta_A19 elongation factor 1 alpha gene, partial sequence &gt;gi|384111036|gb|JQ268183.1| Blumeria graminis f. sp. secalis isolate Bgta_A20 elongation factor 1 alpha gene, partial sequence &gt;gi|384111037|gb|JQ268184.1| Blumeria graminis isolate BgTR_A21 elongation factor 1 alpha gene, partial sequence &gt;gi|384111038|gb|JQ268185.1| Blumeria graminis isolate BgTR_A22 elongation factor 1 alpha gene, partial sequence &gt;gi|384111039|gb|JQ268186.1| Blumeria graminis isolate BgTR_A23 elongation factor 1 alpha gene, partial sequence &gt;gi|384111040|gb|JQ268187.1| Blumeria graminis isolate BgTR_A24 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268181</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1453.9</Hsp_bit-score>
+      <Hsp_score>1611</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>807</Hsp_identity>
+      <Hsp_positive>807</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>808</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTTCAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAATTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTTCAATCCGTTTCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAATTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|384111017|gb|JQ268164.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate Bgta_A1 elongation factor 1 alpha gene, partial sequence &gt;gi|384111018|gb|JQ268165.1| Blumeria graminis f. sp. tritici isolate Bgta_A2 elongation factor 1 alpha gene, partial sequence &gt;gi|384111019|gb|JQ268166.1| Blumeria graminis isolate Bgta_A3 elongation factor 1 alpha gene, partial sequence &gt;gi|384111020|gb|JQ268167.1| Blumeria graminis isolate Bgta_A4 elongation factor 1 alpha gene, partial sequence &gt;gi|384111021|gb|JQ268168.1| Blumeria graminis isolate Bgta_A5 elongation factor 1 alpha gene, partial sequence &gt;gi|384111022|gb|JQ268169.1| Blumeria graminis isolate Bgta_A6 elongation factor 1 alpha gene, partial sequence &gt;gi|384111023|gb|JQ268170.1| Blumeria graminis isolate Bgta_A7 elongation factor 1 alpha gene, partial sequence &gt;gi|384111024|gb|JQ268171.1| Blumeria graminis isolate Bgta_A8 elongation factor 1 alpha gene, partial sequence &gt;gi|384111025|gb|JQ268172.1| Blumeria graminis f. sp. tritici isolate Bgta_A9 elongation factor 1 alpha gene, partial sequence &gt;gi|384111026|gb|JQ268173.1| Blumeria graminis isolate Bgta_A10 elongation factor 1 alpha gene, partial sequence &gt;gi|384111027|gb|JQ268174.1| Blumeria graminis f. sp. tritici isolate Bgta_A11 elongation factor 1 alpha gene, partial sequence &gt;gi|384111028|gb|JQ268175.1| Blumeria graminis isolate Bgta_A12 elongation factor 1 alpha gene, partial sequence &gt;gi|384111029|gb|JQ268176.1| Blumeria graminis isolate Bgta_A13 elongation factor 1 alpha gene, partial sequence &gt;gi|384111030|gb|JQ268177.1| Blumeria graminis isolate Bgta_A14 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268165</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1453.9</Hsp_bit-score>
+      <Hsp_score>1611</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1055</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>807</Hsp_identity>
+      <Hsp_positive>807</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>808</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTTCAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAATTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTTCAATCCGTTTCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAATTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|298573352|gb|HM538431.1|</Hit_id>
+  <Hit_def>Blumeria graminis isolate 23 elongation factor 1 alpha gene, partial sequence &gt;gi|298573353|gb|HM538432.1| Blumeria graminis f. sp. tritici isolate 14 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>HM538432</Hit_accession>
+  <Hit_len>1175</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1381.77</Hsp_bit-score>
+      <Hsp_score>1531</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>1054</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>791</Hsp_identity>
+      <Hsp_positive>791</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>808</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTTCAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAATTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|384111083|gb|JQ268230.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgtd_D6 elongation factor 1 alpha gene, partial sequence &gt;gi|384111084|gb|JQ268231.1| Blumeria graminis isolate Bgtdic_D7 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268230</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1371.85</Hsp_bit-score>
+      <Hsp_score>1520</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>792</Hsp_identity>
+      <Hsp_positive>792</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|384111078|gb|JQ268225.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_C10 elongation factor 1 alpha gene, partial sequence &gt;gi|384111079|gb|JQ268226.1| Blumeria graminis f. sp. tritici isolate Bgta_D1 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268225</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1371.85</Hsp_bit-score>
+      <Hsp_score>1520</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>792</Hsp_identity>
+      <Hsp_positive>792</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATCATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||| ||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|384111060|gb|JQ268207.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B7 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268207</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1364.63</Hsp_bit-score>
+      <Hsp_score>1512</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1057</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>789</Hsp_identity>
+      <Hsp_positive>789</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>810</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTTCAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTGAATTACAATAAATACCTCCTAATTATCCCTCTTTTCGTCTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATGATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|| |||||||||||| ||||| |||||||||||||||||||||| |||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|384111058|gb|JQ268205.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B4 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268205</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>790</Hsp_identity>
+      <Hsp_positive>790</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATCATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||| ||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|384111059|gb|JQ268206.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B6 elongation factor 1 alpha gene, partial sequence &gt;gi|384111061|gb|JQ268208.1| Blumeria graminis isolate BgTR_B8 elongation factor 1 alpha gene, partial sequence &gt;gi|384111062|gb|JQ268209.1| Blumeria graminis f. sp. tritici isolate BgTR_B10 elongation factor 1 alpha gene, partial sequence &gt;gi|384111063|gb|JQ268210.1| Blumeria graminis f. sp. tritici isolate BgTR_B11 elongation factor 1 alpha gene, partial sequence &gt;gi|384111064|gb|JQ268211.1| Blumeria graminis isolate BgTR_B12 elongation factor 1 alpha gene, partial sequence &gt;gi|384111065|gb|JQ268212.1| Blumeria graminis f. sp. tritici isolate BgTR_B13 elongation factor 1 alpha gene, partial sequence &gt;gi|384111066|gb|JQ268213.1| Blumeria graminis f. sp. tritici isolate BgTR_B14 elongation factor 1 alpha gene, partial sequence &gt;gi|384111067|gb|JQ268214.1| Blumeria graminis isolate BgTR_B15 elongation factor 1 alpha gene, partial sequence &gt;gi|384111068|gb|JQ268215.1| Blumeria graminis isolate BgTR_B16 elongation factor 1 alpha gene, partial sequence &gt;gi|384111069|gb|JQ268216.1| Blumeria graminis f. sp. tritici isolate Bgta_C1 elongation factor 1 alpha gene, partial sequence &gt;gi|384111070|gb|JQ268217.1| Blumeria graminis f. sp. tritici isolate BgTR_C2 elongation factor 1 alpha gene, partial sequence &gt;gi|384111071|gb|JQ268218.1| Blumeria graminis isolate BgTR_C3 elongation factor 1 alpha gene, partial sequence &gt;gi|384111072|gb|JQ268219.1| Blumeria graminis isolate BgTR_C4 elongation factor 1 alpha gene, partial sequence &gt;gi|384111073|gb|JQ268220.1| Blumeria graminis isolate BgTR_C5 elongation factor 1 alpha gene, partial sequence &gt;gi|384111074|gb|JQ268221.1| Blumeria graminis f. sp. tritici isolate BgTR_C6 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268206</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>790</Hsp_identity>
+      <Hsp_positive>790</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCCTAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATGATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||| |||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|384111048|gb|JQ268195.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_A33 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268195</Hit_accession>
+  <Hit_len>1180</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>249</Hsp_hit-from>
+      <Hsp_hit-to>1059</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>790</Hsp_identity>
+      <Hsp_positive>790</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCACTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|384111075|gb|JQ268222.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_C7 elongation factor 1 alpha gene, partial sequence &gt;gi|384111076|gb|JQ268223.1| Blumeria graminis f. sp. tritici isolate BgTR_C8 elongation factor 1 alpha gene, partial sequence &gt;gi|384111077|gb|JQ268224.1| Blumeria graminis f. sp. tritici isolate BgTR_C9 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268222</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>790</Hsp_identity>
+      <Hsp_positive>790</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCCTAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATATCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| ||||| |||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|384111056|gb|JQ268203.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B2 elongation factor 1 alpha gene, partial sequence &gt;gi|384111057|gb|JQ268204.1| Blumeria graminis f. sp. tritici isolate Bgta_B3 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268203</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>1057</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>790</Hsp_identity>
+      <Hsp_positive>790</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAATAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|384111041|gb|JQ268188.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_A25 elongation factor 1 alpha gene, partial sequence &gt;gi|384111043|gb|JQ268190.1| Blumeria graminis isolate BgTR_A27 elongation factor 1 alpha gene, partial sequence &gt;gi|384111044|gb|JQ268191.1| Blumeria graminis isolate BgTR_A28 elongation factor 1 alpha gene, partial sequence &gt;gi|384111045|gb|JQ268192.1| Blumeria graminis f. sp. tritici isolate BgTR_A30 elongation factor 1 alpha gene, partial sequence &gt;gi|384111046|gb|JQ268193.1| Blumeria graminis f. sp. tritici isolate BgTR_A31 elongation factor 1 alpha gene, partial sequence &gt;gi|384111047|gb|JQ268194.1| Blumeria graminis f. sp. tritici isolate BgTR_A32 elongation factor 1 alpha gene, partial sequence &gt;gi|384111049|gb|JQ268196.1| Blumeria graminis f. sp. tritici isolate BgTR_A34 elongation factor 1 alpha gene, partial sequence &gt;gi|384111050|gb|JQ268197.1| Blumeria graminis isolate BgTR_A35 elongation factor 1 alpha gene, partial sequence &gt;gi|384111051|gb|JQ268198.1| Blumeria graminis f. sp. tritici isolate BgTR_A36 elongation factor 1 alpha gene, partial sequence &gt;gi|384111052|gb|JQ268199.1| Blumeria graminis isolate BgTR_A37 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268188</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1362.83</Hsp_bit-score>
+      <Hsp_score>1510</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>790</Hsp_identity>
+      <Hsp_positive>790</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCACTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|384111042|gb|JQ268189.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgTR_A26 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268189</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1358.32</Hsp_bit-score>
+      <Hsp_score>1505</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>789</Hsp_identity>
+      <Hsp_positive>789</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAATCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCACTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| ||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|384111055|gb|JQ268202.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgta_B1 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268202</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1358.32</Hsp_bit-score>
+      <Hsp_score>1505</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>789</Hsp_identity>
+      <Hsp_positive>789</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTTCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTTGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| |||||||||| || ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|384111054|gb|JQ268201.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgS_A39 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268201</Hit_accession>
+  <Hit_len>1179</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1358.32</Hsp_bit-score>
+      <Hsp_score>1505</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>789</Hsp_identity>
+      <Hsp_positive>789</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTTTGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACCGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|384111053|gb|JQ268200.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate BgS_A38 elongation factor 1 alpha gene, partial sequence</Hit_def>
+  <Hit_accession>JQ268200</Hit_accession>
+  <Hit_len>1178</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1354.71</Hsp_bit-score>
+      <Hsp_score>1501</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>1057</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>789</Hsp_identity>
+      <Hsp_positive>789</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>811</Hsp_align-len>
+      <Hsp_qseq>GTAAATTACAATAAACACCTCATAATTATCCCTCTTTTCGTCTTCTTTTT-CAATCCGTTTCTCTGAAGCTTATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTAAATTACAATAAATACCTCATAATTATCCCTCTTTTCGTCTTTTTTTTTCAATCCGTTCCTCTGAAGCTAATAAACTGCCACAGGAAGCAGCAGAACTCGGAAAAGGATCTTTCAAATACGCCTGGGTCCTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAA-TTATGTCAAATTTTTTTACTACATTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATTATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| |||||||||||||||||||||||||||| ||||| ||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||  ||| |||||||| |||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2463891433|gb|OP153836.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 26 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153836</Hit_accession>
+  <Hit_len>739</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1149.13</Hsp_bit-score>
+      <Hsp_score>1273</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>138</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>674</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>659</Hsp_identity>
+      <Hsp_positive>659</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>673</Hsp_align-len>
+      <Hsp_qseq>AGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>AGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACGGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2463912245|gb|OP555114.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 42 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP555114</Hit_accession>
+  <Hit_len>671</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1145.52</Hsp_bit-score>
+      <Hsp_score>1269</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>804</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>671</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>657</Hsp_identity>
+      <Hsp_positive>657</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>671</Hsp_align-len>
+      <Hsp_qseq>CAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGA</Hsp_qseq>
+      <Hsp_hseq>CAAGCTAAAAGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|2463891429|gb|OP153834.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt Jammu-7 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153834</Hit_accession>
+  <Hit_len>748</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1144.62</Hsp_bit-score>
+      <Hsp_score>1268</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>138</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>673</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>658</Hsp_identity>
+      <Hsp_positive>658</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>673</Hsp_align-len>
+      <Hsp_qseq>AGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>AGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATGATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|2463891417|gb|OP153828.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SH-6 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153828</Hit_accession>
+  <Hit_len>735</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1141.02</Hsp_bit-score>
+      <Hsp_score>1264</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>140</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>671</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>656</Hsp_identity>
+      <Hsp_positive>656</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>671</Hsp_align-len>
+      <Hsp_qseq>CTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>CTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATGATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|2463891413|gb|OP153826.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-36 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153826</Hit_accession>
+  <Hit_len>740</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1141.02</Hsp_bit-score>
+      <Hsp_score>1264</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>145</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>666</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>653</Hsp_identity>
+      <Hsp_positive>653</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>666</Hsp_align-len>
+      <Hsp_qseq>GGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|2463891415|gb|OP153827.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-40 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153827</Hit_accession>
+  <Hit_len>727</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1141.02</Hsp_bit-score>
+      <Hsp_score>1264</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>145</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>666</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>653</Hsp_identity>
+      <Hsp_positive>653</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>666</Hsp_align-len>
+      <Hsp_qseq>GGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|2463891409|gb|OP153824.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt 32 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153824</Hit_accession>
+  <Hit_len>717</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1141.02</Hsp_bit-score>
+      <Hsp_score>1264</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>145</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>666</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>653</Hsp_identity>
+      <Hsp_positive>653</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>666</Hsp_align-len>
+      <Hsp_qseq>GGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2463891419|gb|OP153829.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SH-5 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153829</Hit_accession>
+  <Hit_len>732</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1139.21</Hsp_bit-score>
+      <Hsp_score>1262</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>146</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>665</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>652</Hsp_identity>
+      <Hsp_positive>652</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>665</Hsp_align-len>
+      <Hsp_qseq>GCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2463891411|gb|OP153825.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-29 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153825</Hit_accession>
+  <Hit_len>742</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1132</Hsp_bit-score>
+      <Hsp_score>1254</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>145</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>666</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>651</Hsp_identity>
+      <Hsp_positive>651</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>666</Hsp_align-len>
+      <Hsp_qseq>GGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATGATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|2463891435|gb|OP153837.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt KPM-58 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153837</Hit_accession>
+  <Hit_len>727</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1117.57</Hsp_bit-score>
+      <Hsp_score>1238</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>153</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>659</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>643</Hsp_identity>
+      <Hsp_positive>643</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>658</Hsp_align-len>
+      <Hsp_qseq>GTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>GTGAACGTGGTATTACTATTGACATTGCTCTATGGAATTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACGGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|2463891431|gb|OP153835.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SHZ-43 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153835</Hit_accession>
+  <Hit_len>729</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1110.36</Hsp_bit-score>
+      <Hsp_score>1230</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>157</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>654</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>639</Hsp_identity>
+      <Hsp_positive>639</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>654</Hsp_align-len>
+      <Hsp_qseq>ACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>ACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATGATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTTGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|2463891425|gb|OP153832.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt SH -14 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153832</Hit_accession>
+  <Hit_len>648</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1108.55</Hsp_bit-score>
+      <Hsp_score>1228</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>159</Hsp_query-from>
+      <Hsp_query-to>804</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>648</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>635</Hsp_identity>
+      <Hsp_positive>635</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>648</Hsp_align-len>
+      <Hsp_qseq>GTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGA</Hsp_qseq>
+      <Hsp_hseq>GTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGA</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2463891423|gb|OP153831.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt KPM-32 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153831</Hit_accession>
+  <Hit_len>702</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1087.82</Hsp_bit-score>
+      <Hsp_score>1205</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>177</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>634</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>622</Hsp_identity>
+      <Hsp_positive>622</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>634</Hsp_align-len>
+      <Hsp_qseq>TTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>TTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|2463891427|gb|OP153833.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt N9 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153833</Hit_accession>
+  <Hit_len>592</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1012.07</Hsp_bit-score>
+      <Hsp_score>1121</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>155</Hsp_query-from>
+      <Hsp_query-to>744</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>592</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>580</Hsp_identity>
+      <Hsp_positive>580</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>592</Hsp_align-len>
+      <Hsp_qseq>GAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTA</Hsp_qseq>
+      <Hsp_hseq>GAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|2915759798|gb|PQ999189.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Ba translation elongation factor 1-alpha gene, partial cds</Hit_def>
+  <Hit_accession>PQ999189</Hit_accession>
+  <Hit_len>542</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>933.628</Hsp_bit-score>
+      <Hsp_score>1034</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>272</Hsp_query-from>
+      <Hsp_query-to>808</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>537</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>529</Hsp_identity>
+      <Hsp_positive>529</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>537</Hsp_align-len>
+      <Hsp_qseq>ACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATCGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_qseq>
+      <Hsp_hseq>ACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACGGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAACTCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCCGCCTACCACTACAAGATGTTTACAAAATTGGTGGCATTGGCACGGTTCCTGTTGGACGTGTCGAGACCGGAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2463891421|gb|OP153830.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. tritici isolate Bgt KPM-5 translation elongation factor 1 alpha gene, partial cds</Hit_def>
+  <Hit_accession>OP153830</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>862.395</Hsp_bit-score>
+      <Hsp_score>955</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>637</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>511</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>497</Hsp_identity>
+      <Hsp_positive>497</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>509</Hsp_align-len>
+      <Hsp_qseq>CTCGACAAGCTAAAGGCCGAACGTGAACGTGGTATTACGATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAA--TTTCTTACTACACTGCTTACCCGCTTTCAGACGCTCCTGGACACAGAGATTTCATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCTAGATACCTTGAAATCATCAAGGAGACGACCAACTTCATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGATAACTGCCCCTGGTACAAAGGCTGGG</Hsp_qseq>
+      <Hsp_hseq>CTCAACAAGCTAAAGGCCGAACGTGAACGTGGTATTACTATTGACATTGCTCTATGGAAGTTTGAGACTCCTAGATACTACGTCACCGTCATTGGTAAGAAATTATGTCAAATTTTTTTACTACACTGCTAACCCGATTTCAGACGCTCCTGGACACAGAGATTTTATCAAGAACATGATTACTGGAACCTCTCAAGCTGACTGTGCCATTCTCATCATCGCGGCCGGTACCGGTGAGTTCGAGGCAGGTATTTCAAAGGATGGTCAAACCAGAGAACATGCATTGCTTGCGTTCACATTAGGTGTCAAACAATTGATTGTTGCCATTAACAAGATGGACACGGCCAAATGGGCTGAAGCGAGATACCTTGAAATCATCAAGGAGACGACCAACTTTATAAAGAAAGTCGGATTTAACCCCAAGGTTGTTCCATTTGTGCCAATTTCTGGCTTCAACGGAGACAATATGATTGATAATTCCGCAAACTGCCCCTGGTACAAAGGCTGGG</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| ||||||||||||| ||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>808</Statistics_db-num>
+      <Statistics_db-len>1479469</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

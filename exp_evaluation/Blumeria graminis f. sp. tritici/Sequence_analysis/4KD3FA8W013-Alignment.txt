@@ -1,0 +1,860 @@
+RID: 4KD3FA8W013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_697691(dna) Length: 131
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Blumeria graminis f. sp. tritici isolate Bgt SH-6 translation...  Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  735        OP153828.1       
+Blumeria graminis f. sp. tritici isolate Bgt SHZ-36 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  740        OP153826.1       
+Blumeria graminis f. sp. tritici isolate Bgt 32 translation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  717        OP153824.1       
+Blumeria graminis f. sp. tritici isolate Bgt 26 translation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  739        OP153836.1       
+Blumeria graminis isolate Bgta_D2 elongation factor 1 alpha...    Blumeria gra... NA              34373      200    200   89%   4e-47 97.48  1179       JQ268227.1       
+Blumeria graminis f. sp. tritici isolate Bgt SHZ-43 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  729        OP153835.1       
+Blumeria graminis f. sp. tritici isolate Bgt KPM-32 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  702        OP153831.1       
+Blumeria graminis f. sp. tritici isolate BgTR_C10 elongation...   Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  1179       JQ268225.1       
+Blumeria graminis f. sp. tritici isolate Ba translation...        Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  542        PQ999189.1       
+Blumeria graminis f. sp. tritici isolate Bgt 42 translation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  671        OP555114.1       
+Blumeria graminis f. sp. tritici isolate Bgt SHZ-40 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  727        OP153827.1       
+Blumeria graminis f. sp. tritici isolate Bgt SHZ-29 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  742        OP153825.1       
+Blumeria graminis f. sp. tritici isolate Bgta_B7 elongation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  1178       JQ268207.1       
+Blumeria graminis f. sp. tritici isolate Bgt Jammu-7 translati... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  748        OP153834.1       
+Blumeria graminis f. sp. tritici isolate Bgt KPM-58 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  727        OP153837.1       
+Blumeria graminis f. sp. tritici isolate Bgt SH -14 translatio... Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  648        OP153832.1       
+Blumeria graminis f. sp. tritici isolate Bgt N9 translation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  592        OP153833.1       
+Blumeria graminis f. sp. tritici isolate BgTR_C7 elongation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  1179       JQ268222.1       
+Blumeria graminis f. sp. tritici isolate Bgt SH-5 translation...  Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  732        OP153829.1       
+Blumeria graminis f. sp. tritici isolate Bgta_B6 elongation...    Blumeria gra... NA              62690      200    200   89%   4e-47 97.48  1179       JQ268206.1       
+Blumeria graminis f. sp. secalis isolate Bgta_A16 elongation...   Blumeria gra... NA              62689      195    195   89%   2e-45 96.64  1178       JQ268179.1       
+Blumeria graminis isolate Bgta_A1 elongation factor 1 alpha...    Blumeria gra... NA              34373      195    195   89%   2e-45 96.64  1178       JQ268164.1       
+Blumeria graminis f. sp. tritici isolate Bgta_B4 elongation...    Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1179       JQ268205.1       
+Blumeria graminis isolate 23 elongation factor 1 alpha gene,...   Blumeria gra... NA              34373      195    195   89%   2e-45 96.64  1175       HM538431.1       
+Blumeria graminis f. sp. tritici isolate BgTR_A25 elongation...   Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1179       JQ268188.1       
+Blumeria graminis f. sp. secalis isolate 3 elongation factor 1... Blumeria gra... NA              62689      195    195   89%   2e-45 96.64  1176       HM538425.1       
+Blumeria graminis f. sp. secalis isolate 2 elongation factor 1... Blumeria gra... NA              62689      195    195   89%   2e-45 96.64  1176       HM538426.1       
+Blumeria graminis f. sp. secalis isolate 1 elongation factor 1... Blumeria gra... NA              62689      195    195   89%   2e-45 96.64  1176       HM538427.1       
+Blumeria graminis f. sp. tritici isolate BgTR_A33 elongation...   Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1180       JQ268195.1       
+Blumeria graminis f. sp. tritici isolate BgS_A39 elongation...    Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1179       JQ268201.1       
+Blumeria graminis f. sp. tritici isolate BgTR_A26 elongation...   Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1179       JQ268189.1       
+Blumeria graminis f. sp. tritici isolate Bgtd_D6 elongation...    Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1179       JQ268230.1       
+Blumeria graminis isolate 38 elongation factor 1 alpha gene,...   Blumeria gra... NA              34373      195    195   89%   2e-45 96.64  1176       HM538429.1       
+Blumeria graminis isolate Bgta_A15 elongation factor 1 alpha...   Blumeria gra... NA              34373      195    195   89%   2e-45 96.64  1178       JQ268178.1       
+Blumeria graminis isolate 27 elongation factor 1 alpha gene,...   Blumeria gra... NA              34373      195    195   89%   2e-45 96.64  1176       HM538430.1       
+Blumeria graminis f. sp. tritici isolate BgS_A38 elongation...    Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1178       JQ268200.1       
+Blumeria graminis isolate 34 elongation factor 1 alpha gene,...   Blumeria gra... NA              34373      195    195   89%   2e-45 96.64  1175       HM538428.1       
+Blumeria graminis f. sp. tritici isolate Bgta_B1 elongation...    Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1179       JQ268202.1       
+Blumeria graminis f. sp. tritici isolate Bgta_B2 elongation...    Blumeria gra... NA              62690      195    195   89%   2e-45 96.64  1178       JQ268203.1       
+
+Alignments:
+
+>Blumeria graminis f. sp. tritici isolate Bgt SH-6 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153828.1 Length: 735
+Range 1: 478 to 596
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  478  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  537
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  538  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  596
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt SHZ-36 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153826.1 Length: 740
+Range 1: 473 to 591
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  532
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  533  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  591
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt 32 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153824.1 Length: 717
+Range 1: 473 to 591
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  532
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  533  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  591
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt 26 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153836.1 Length: 739
+Range 1: 481 to 599
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  481  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  540
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  599
+
+
+
+
+>Blumeria graminis isolate Bgta_D2 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268227.1 Length: 1179
+>Blumeria graminis isolate Bgta_D3 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268228.1 Length: 1179
+>Blumeria graminis isolate Bgtd_D5 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268229.1 Length: 1179 
+Range 1: 865 to 983
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt SHZ-43 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153835.1 Length: 729
+Range 1: 461 to 579
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  461  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  520
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  521  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  579
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt KPM-32 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153831.1 Length: 702
+Range 1: 441 to 559
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  441  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  500
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  501  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  559
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgTR_C10 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268225.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate Bgta_D1 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268226.1 Length: 1179 
+Range 1: 865 to 983
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Ba translation elongation factor 1-alpha gene, partial cds
+Sequence ID: PQ999189.1 Length: 542
+Range 1: 344 to 462
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  344  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  403
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  404  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  462
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt 42 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP555114.1 Length: 671
+Range 1: 482 to 600
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  482  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  541
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  542  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  600
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt SHZ-40 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153827.1 Length: 727
+Range 1: 473 to 591
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  532
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  533  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  591
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt SHZ-29 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153825.1 Length: 742
+Range 1: 473 to 591
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  473  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  532
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  533  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  591
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgta_B7 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268207.1 Length: 1178
+Range 1: 864 to 982
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  864  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  923
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  924  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  982
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt Jammu-7 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153834.1 Length: 748
+Range 1: 480 to 598
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  480  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  539
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  540  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  598
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt KPM-58 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153837.1 Length: 727
+Range 1: 466 to 584
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  466  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  525
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  526  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  584
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt SH -14 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153832.1 Length: 648
+Range 1: 459 to 577
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  459  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  518
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  519  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  577
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt N9 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153833.1 Length: 592
+Range 1: 463 to 581
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  463  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  522
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  523  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  581
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgTR_C7 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268222.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_C8 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268223.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_C9 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268224.1 Length: 1179 
+Range 1: 865 to 983
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt SH-5 translation elongation factor 1 alpha gene, partial cds
+Sequence ID: OP153829.1 Length: 732
+Range 1: 472 to 590
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  472  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  531
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  532  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  590
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgta_B6 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268206.1 Length: 1179
+>Blumeria graminis isolate BgTR_B8 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268208.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_B10 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268209.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_B11 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268210.1 Length: 1179
+>Blumeria graminis isolate BgTR_B12 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268211.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_B13 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268212.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_B14 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268213.1 Length: 1179
+>Blumeria graminis isolate BgTR_B15 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268214.1 Length: 1179
+>Blumeria graminis isolate BgTR_B16 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268215.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate Bgta_C1 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268216.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_C2 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268217.1 Length: 1179
+>Blumeria graminis isolate BgTR_C3 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268218.1 Length: 1179
+>Blumeria graminis isolate BgTR_C4 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268219.1 Length: 1179
+>Blumeria graminis isolate BgTR_C5 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268220.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_C6 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268221.1 Length: 1179 
+Range 1: 865 to 983
+
+Score:200 bits(108), Expect:4e-47, 
+Identities:116/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. secalis isolate Bgta_A16 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268179.1 Length: 1178
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis isolate Bgta_A1 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268164.1 Length: 1178
+>Blumeria graminis f. sp. tritici isolate Bgta_A2 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268165.1 Length: 1178
+>Blumeria graminis isolate Bgta_A3 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268166.1 Length: 1178
+>Blumeria graminis isolate Bgta_A4 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268167.1 Length: 1178
+>Blumeria graminis isolate Bgta_A5 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268168.1 Length: 1178
+>Blumeria graminis isolate Bgta_A6 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268169.1 Length: 1178
+>Blumeria graminis isolate Bgta_A7 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268170.1 Length: 1178
+>Blumeria graminis isolate Bgta_A8 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268171.1 Length: 1178
+>Blumeria graminis f. sp. tritici isolate Bgta_A9 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268172.1 Length: 1178
+>Blumeria graminis isolate Bgta_A10 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268173.1 Length: 1178
+>Blumeria graminis f. sp. tritici isolate Bgta_A11 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268174.1 Length: 1178
+>Blumeria graminis isolate Bgta_A12 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268175.1 Length: 1178
+>Blumeria graminis isolate Bgta_A13 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268176.1 Length: 1178
+>Blumeria graminis isolate Bgta_A14 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268177.1 Length: 1178 
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgta_B4 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268205.1 Length: 1179
+Range 1: 865 to 983
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis isolate 23 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538431.1 Length: 1175
+>Blumeria graminis f. sp. tritici isolate 14 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538432.1 Length: 1175 
+Range 1: 861 to 979
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  861  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  920
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  921  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  979
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgTR_A25 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268188.1 Length: 1179
+>Blumeria graminis isolate BgTR_A27 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268190.1 Length: 1179
+>Blumeria graminis isolate BgTR_A28 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268191.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_A30 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268192.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_A31 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268193.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_A32 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268194.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_A34 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268196.1 Length: 1179
+>Blumeria graminis isolate BgTR_A35 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268197.1 Length: 1179
+>Blumeria graminis f. sp. tritici isolate BgTR_A36 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268198.1 Length: 1179
+>Blumeria graminis isolate BgTR_A37 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268199.1 Length: 1179 
+Range 1: 865 to 983
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. secalis isolate 3 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538425.1 Length: 1176
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis f. sp. secalis isolate 2 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538426.1 Length: 1176
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis f. sp. secalis isolate 1 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538427.1 Length: 1176
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgTR_A33 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268195.1 Length: 1180
+Range 1: 866 to 984
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  866  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  925
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  926  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  984
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgS_A39 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268201.1 Length: 1179
+Range 1: 865 to 983
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgTR_A26 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268189.1 Length: 1179
+Range 1: 865 to 983
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgtd_D6 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268230.1 Length: 1179
+>Blumeria graminis isolate Bgtdic_D7 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268231.1 Length: 1179 
+Range 1: 865 to 983
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis isolate 38 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538429.1 Length: 1176
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis isolate Bgta_A15 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268178.1 Length: 1178
+>Blumeria graminis isolate Bgta_A17 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268180.1 Length: 1178
+>Blumeria graminis f. sp. tritici isolate Bgta_A18 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268181.1 Length: 1178
+>Blumeria graminis isolate Bgta_A19 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268182.1 Length: 1178
+>Blumeria graminis f. sp. secalis isolate Bgta_A20 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268183.1 Length: 1178
+>Blumeria graminis isolate BgTR_A21 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268184.1 Length: 1178
+>Blumeria graminis isolate BgTR_A22 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268185.1 Length: 1178
+>Blumeria graminis isolate BgTR_A23 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268186.1 Length: 1178
+>Blumeria graminis isolate BgTR_A24 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268187.1 Length: 1178 
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis isolate 27 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538430.1 Length: 1176
+Range 1: 862 to 980
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||| ||||||||||||||||||||||||||
+Sbjct  862  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAATAAGACTGGAAAGGTTACCGGAAAAAC  921
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  922  TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  980
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate BgS_A38 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268200.1 Length: 1178
+Range 1: 864 to 982
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  864  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  923
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  924  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  982
+
+
+
+
+>Blumeria graminis isolate 34 elongation factor 1 alpha gene, partial sequence
+Sequence ID: HM538428.1 Length: 1175
+Range 1: 861 to 979
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  861  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  920
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  921  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  979
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgta_B1 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268202.1 Length: 1179
+Range 1: 865 to 983
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  865  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  924
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  925  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  983
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgta_B2 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268203.1 Length: 1178
+>Blumeria graminis f. sp. tritici isolate Bgta_B3 elongation factor 1 alpha gene, partial sequence
+Sequence ID: JQ268204.1 Length: 1178 
+Range 1: 864 to 982
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:115/119(97%),  Gaps:3/119(2%), Strand: Plus/Plus
+
+Query  15   CTG-CCCTGGTAC-AAGGCTGGG-AAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  71
+            ||| ||||||||| ||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  864  CTGCCCCTGGTACAAAGGCTGGGAAAAAGAAAACAAGACTGGAAAGGTTACCGGAAAAAC  923
+
+Query  72   TCTCCTCGAAGCCATAGACAACATTGACCCACCGAGTCGCCCTACCGATAAACCCCTCC  130
+            ||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  924  TCTCCTCGAAGCCATAGACAACATTGACCCACCAAGTCGCCCTACCGATAAACCCCTCC  982
+
+
+
+
+		
+
+

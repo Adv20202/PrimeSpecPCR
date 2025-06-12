@@ -22,6 +22,7 @@
   - [Log and Output Panel](#log-and-output-panel)
   - [Input Controls](#input-controls)
 - [Working with Examples](#working-with-examples)
+- [Experimental Validation](#experimental-validation)
 - [Command Line Usage](#command-line-usage)
 - [Parameter Files](#parameter-files)
   - [PCR_primer_settings.txt](#pcr_primer_settingstxt)
@@ -33,7 +34,7 @@
 
 ## Introduction
 
-PrimeSpecPCR is a tool for designing species-specific oligonucleotides for quantitative PCR (qPCR) applications in microbiology, environmental science, food safety, and clinical diagnostics. It automates the entire workflow from retrieving genetic sequences from public databases to generating highly specific primer-probe sets optimized for target organisms.
+PrimeSpecPCR is a tool for designing species-specific oligonucleotides for quantitative PCR (qPCR) applications in microbiology, environmental science, food safety, and clinical diagnostics. It automates the entire workflow from retrieving genetic sequences from public databases to generating highly specific primer-probe sets optimized for target organisms. The toolkit has been validated through laboratory testing, confirming that computationally designed primers perform successfully under real PCR conditions.
 
 The toolkit addresses a critical challenge in molecular diagnostics: developing oligonucleotides that can reliably discriminate between closely related species. PrimeSpecPCR achieves this through a rigorous, multi-stage approach that systematically identifies conserved regions within a target species while simultaneously evaluating cross-reactivity with non-target organisms.
 
@@ -50,6 +51,7 @@ The toolkit addresses a critical challenge in molecular diagnostics: developing 
 - **User-Friendly GUI Interface**: Step-by-step workflow guidance with contextual help
 - **Flexible Configuration**: Customizable parameters for all analysis stages
 - **Logging**: Detailed tracking of each analysis step for reproducibility
+- - **Laboratory Validated**: Experimentally verified primer performance through PCR amplification and Sanger sequencing
 
 ## System Requirements
 
@@ -395,6 +397,63 @@ Each example folder contains its own README file with specific information about
 - Validation information (where available)
 
 To use an example, navigate to its directory and follow the instructions in its README file.
+
+## Experimental Validation
+
+PrimeSpecPCR has been validated through laboratory testing using biological samples. The experimental validation confirms that computationally designed primers perform successfully in laboratory PCR conditions.
+
+### Validation Dataset
+
+The validation study tested primer sets designed for five different organisms:
+- **Blumeria graminis f. sp. tritici** (wheat powdery mildew)
+- **Blumeria hordei** (barley powdery mildew) 
+- **Capsella bursa-pastoris** (shepherd's purse)
+- **Equisetum arvense** (field horsetail)
+- **Zymoseptoria tritici** (wheat septoria leaf blotch)
+
+All validation data is available in the `exp_evaluation/` directory.
+
+### Validation Methodology
+
+The experimental validation included:
+1. **PCR Amplification**: Testing primer sets under standard PCR conditions
+2. **Gel Electrophoresis**: Confirming amplification products of expected sizes
+3. **Sanger Sequencing**: Verifying presence of PCR products
+4. **BLAST Analysis**: Confirming species specificity of amplified sequences
+5. **Comparative Analysis**: Benchmarking against Primer3-designed primers
+
+### Validation Data Structure
+
+Each organism's validation data is organized in the following structure:
+exp_evaluation/
+├── [Organism_name]/
+│   ├── 1_/                    # PrimeSpecPCR Module 1 output
+│   ├── 2_/                    # PrimeSpecPCR Module 2 output
+│   ├── 3_/                    # PrimeSpecPCR Module 3 output
+│   ├── 4_/                    # PrimeSpecPCR Module 4 output
+│   ├── PCR_verification/      # Gel electrophoresis images
+│   ├── Primer3_verification/  # Comparative Primer3 results
+│   ├── Sanger_sequencing/     # Sequencing data (.ab1, .seq files)
+│   └── Sequence_analysis/     # BLAST alignment results
+└── readme.md                  # Detailed validation protocol
+
+### Key Validation Results
+
+- **Success Rate**: All tested primer sets successfully amplified target sequences
+- **Specificity Confirmation**: Sanger sequencing confirmed species-specific amplification
+- **Comparative Performance**: PrimeSpecPCR identified one primer set not found by Primer3 alone
+- **Reproducibility**: Duplicate PCR reactions showed consistent results
+
+### Accessing Validation Data
+
+The complete validation dataset, including:
+- Gel images showing successful amplifications
+- Raw Sanger sequencing files (.ab1 format)  
+- Processed sequence data and BLAST results
+
+is available in the `exp_evaluation/` directory of this repository.
+
+**Note**: For complete methodological details and experimental conditions please refer to the associated publication [citation to be added upon publication].
 
 ## Command Line Usage
 

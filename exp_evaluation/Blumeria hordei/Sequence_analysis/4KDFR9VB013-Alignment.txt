@@ -1,0 +1,1624 @@
+RID: 4KDFR9VB013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_3587813(dna) Length: 172
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Blumeria graminis f. sp. hordei isolate 7 14alpha-demethylase...  Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  574        HM538436.1       
+Blumeria graminis f. sp. hordei isolate Strl1 sterol 14...        Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       KM016903.1       
+Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alph... Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       AJ313156.1       
+Blumeria graminis f. sp. hordei isolate 6 14alpha-demethylase...  Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  574        HM538437.1       
+Blumeria graminis f. sp. hordei isolate Pshk1 sterol 14...        Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       KM016904.1       
+Blumeria graminis f. sp. hordei isolate Pshk2 sterol 14...        Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       KM016905.1       
+Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alp... Blumeria gra... NA              34373      291    291   93%   3e-74 99.38  1696       AJ578757.1       
+Blumeria graminis f. sp. hordei isolate Frnk1 sterol 14...        Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       KM016902.1       
+Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alph... Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       AJ313155.1       
+Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alph... Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  1696       AJ313157.1       
+Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alp... Blumeria gra... NA              34373      291    291   93%   3e-74 99.38  1696       AJ578756.1       
+Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alp... Blumeria gra... NA              34373      291    291   93%   3e-74 99.38  1696       AJ578761.1       
+Blumeria graminis f. sp. hordei eburicol 14alpha demethylase...   Blumeria hordei NA              2867405    291    291   93%   3e-74 99.38  2167       AF052515.1       
+Blumeria graminis f. sp. tritici isolate cyp51_5 CYP51/ERG11...   Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR763813.1       
+Blumeria graminis f. sp. secalis isolate 3 14alpha-demethylase... Blumeria gra... NA              62689      252    252   93%   1e-62 95.03  574        HM538438.1       
+Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14...    Blumeria gra... NA              34373      252    252   93%   1e-62 95.03  1696       AJ578750.1       
+Blumeria graminis f. sp. tritici isolate cyp51_1 CYP51/ERG11...   Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR763808.2       
+Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alp... Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       AJ313159.1       
+Blumeria graminis f. sp. tritici isolate CAW14S63.09#5...         Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR753406.1       
+Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alp... Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       AJ313158.1       
+Blumeria graminis f. sp. tritici isolate CAW14S63.09#3...         Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR753408.1       
+Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alp... Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       AJ313160.1       
+Blumeria graminis f. sp. tritici isolate cyp51_2 CYP51/ERG11...   Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR763809.1       
+Blumeria graminis f. sp. tritici lanosterol demethylase gene,...  Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR888440.1       
+Blumeria graminis f. sp. tritici isolate cyp51_3C CYP51/ERG11...  Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR763810.1       
+Blumeria graminis f. sp. tritici isolate CAW14S6312#1 lanoster... Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR753407.1       
+Blumeria graminis f. sp. tritici isolate CAW14S63.09#1...         Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR753405.1       
+Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14...    Blumeria gra... NA              34373      252    252   93%   1e-62 95.03  1696       AJ578749.1       
+Blumeria graminis f. sp. tritici isolate cyp51_4 CYP51/ERG11...   Blumeria gra... NA              62690      252    252   93%   1e-62 95.03  1696       OR763812.1       
+Blumeria graminis isolate 34 14alpha-demethylase (cyp51) gene,... Blumeria gra... NA              34373      246    246   93%   6e-61 94.41  574        HM538439.1       
+Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14...    Blumeria gra... NA              62690      246    246   93%   6e-61 94.41  1696       AJ578437.1       
+Blumeria graminis f. sp. tritici isolate 14 14alpha-demethylas... Blumeria gra... NA              62690      246    246   93%   6e-61 94.41  574        HM538440.1       
+Blumeria graminis f. sp. tritici isolate 9 14alpha-demethylase... Blumeria gra... NA              62690      246    246   93%   6e-61 94.41  574        HM538441.1       
+Blumeria graminis f. sp. tritici isolate 500 14alpha-demethyla... Blumeria gra... NA              62690      231    231   87%   2e-56 94.67  317        KY348732.1       
+Blumeria graminis f. sp. tritici isolate 481 14alpha-demethyla... Blumeria gra... NA              62690      231    231   87%   2e-56 94.67  317        KY348716.1       
+Blumeria graminis f. sp. tritici isolate 39 14alpha-demethylas... Blumeria gra... NA              62690      228    228   87%   2e-55 94.00  317        KY348719.1       
+Blumeria graminis f. sp. tritici isolate 392 14alpha-demethyla... Blumeria gra... NA              62690      228    228   87%   2e-55 94.00  317        KY348721.1       
+Blumeria graminis f. sp. tritici isolate 49 14alpha-demethylas... Blumeria gra... NA              62690      228    228   87%   2e-55 94.00  317        KY348718.1       
+Blumeria graminis f. sp. tritici isolate 198 14alpha-demethyla... Blumeria gra... NA              62690      228    228   87%   2e-55 94.00  317        KY348711.1       
+Blumeria graminis f. sp. tritici isolate 21 14alpha-demethylas... Blumeria gra... NA              62690      228    228   87%   2e-55 94.00  317        KY348723.1       
+Blumeria graminis f. sp. tritici isolate 442 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348725.1       
+Blumeria graminis f. sp. tritici isolate 407 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348730.1       
+Blumeria graminis f. sp. tritici isolate 110 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348736.1       
+Blumeria graminis f. sp. tritici isolate 506 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348720.1       
+Blumeria graminis f. sp. tritici isolate 68 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348708.1       
+Blumeria graminis f. sp. tritici isolate 423 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348715.1       
+Blumeria graminis f. sp. tritici isolate 44 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348724.1       
+Blumeria graminis f. sp. tritici isolate 519 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348735.1       
+Blumeria graminis f. sp. tritici isolate 361 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348733.1       
+Blumeria graminis f. sp. tritici isolate 144 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348729.1       
+Blumeria graminis f. sp. tritici isolate 415 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348714.1       
+Blumeria graminis f. sp. tritici isolate 234 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348731.1       
+Blumeria graminis f. sp. tritici isolate 335 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348713.1       
+Blumeria graminis f. sp. tritici isolate 352 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348734.1       
+Blumeria graminis f. sp. tritici isolate 241 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348712.1       
+Blumeria graminis f. sp. tritici isolate 43 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348722.1       
+Blumeria graminis f. sp. tritici isolate 65 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348738.1       
+Blumeria graminis f. sp. tritici isolate 105 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348727.1       
+Blumeria graminis f. sp. tritici isolate 59 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348707.1       
+Blumeria graminis f. sp. tritici isolate 93 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348726.1       
+Blumeria graminis f. sp. tritici isolate 191 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348710.1       
+Blumeria graminis f. sp. tritici isolate 494 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348717.1       
+Blumeria graminis f. sp. tritici isolate 154 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348728.1       
+Blumeria graminis f. sp. tritici isolate 299 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348737.1       
+Blumeria graminis f. sp. tritici isolate 17 14alpha-demethylas... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348706.1       
+Blumeria graminis f. sp. tritici isolate 177 14alpha-demethyla... Blumeria gra... NA              62690      226    226   87%   8e-55 94.00  317        KY348709.1       
+Blumeria graminis f. sp. tritici isolate Bgt40 14...              Blumeria gra... NA              62690      207    207   74%   3e-49 96.06  426        OK066155.1       
+Blumeria graminis f. sp. tritici isolate Bgt29 14...              Blumeria gra... NA              62690      200    200   72%   5e-47 95.93  415        OK066154.1       
+Blumeria graminis f. sp. tritici isolate SH-6 14...               Blumeria gra... NA              62690      200    200   72%   5e-47 95.93  436        OK066153.1       
+
+Alignments:
+
+>Blumeria graminis f. sp. hordei isolate 7 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: HM538436.1 Length: 574
+Range 1: 67 to 227
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  126
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  127  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  186
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  187  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  227
+
+
+
+
+>Blumeria graminis f. sp. hordei isolate Strl1 sterol 14 alpha-demethylase (CYP51) gene, complete cds
+Sequence ID: KM016903.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate E1
+Sequence ID: AJ313156.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC66
+Sequence ID: AJ578759.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate AP2-19
+Sequence ID: AJ578762.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate 92-18
+Sequence ID: AJ578763.1 Length: 1696 
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei isolate 6 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: HM538437.1 Length: 574
+Range 1: 67 to 227
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  126
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  127  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  186
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  187  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  227
+
+
+
+
+>Blumeria graminis f. sp. hordei isolate Pshk1 sterol 14 alpha-demethylase (CYP51) gene, complete cds
+Sequence ID: KM016904.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei isolate Pshk2 sterol 14 alpha-demethylase (CYP51) gene, complete cds
+Sequence ID: KM016905.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate RR99/103
+Sequence ID: AJ578757.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei isolate Frnk1 sterol 14 alpha-demethylase (CYP51) gene, complete cds
+Sequence ID: KM016902.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate CC146
+Sequence ID: AJ313155.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate DH14
+Sequence ID: AJ313157.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC107
+Sequence ID: AJ578754.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC145
+Sequence ID: AJ578755.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC52
+Sequence ID: AJ578760.1 Length: 1696 
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC212
+Sequence ID: AJ578756.1 Length: 1696
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate RR99/92
+Sequence ID: AJ578758.1 Length: 1696 
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate AL1
+Sequence ID: AJ578761.1 Length: 1696
+Range 1: 88 to 248
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  88   AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. hordei eburicol 14alpha demethylase (CYP51) gene, complete cds
+Sequence ID: AF052515.1 Length: 2167
+Range 1: 251 to 411
+
+Score:291 bits(157), Expect:3e-74, 
+Identities:160/161(99%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  251  AGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  310
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  311  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  370
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  371  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  411
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate cyp51_5 CYP51/ERG11 gene, complete cds
+Sequence ID: OR763813.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. secalis isolate 3 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: HM538438.1 Length: 574
+Range 1: 67 to 227
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  67   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  126
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  127  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  186
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  187  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  227
+
+
+
+
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate JIW14
+Sequence ID: AJ578750.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate cyp51_1 CYP51/ERG11 gene, complete cds
+Sequence ID: OR763808.2 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate JIW2
+Sequence ID: AJ313159.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate CAW14S63.09#5 lanosterol demethylase (Cyp51) gene, complete cds
+Sequence ID: OR753406.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate Cor3
+Sequence ID: AJ313158.1 Length: 1696
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate WF10/4
+Sequence ID: AJ578753.1 Length: 1696 
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate CAW14S63.09#3 lanosterol demethylase (Cyp51) gene, complete cds
+Sequence ID: OR753408.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate JIW20
+Sequence ID: AJ313160.1 Length: 1696
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate JIW24
+Sequence ID: AJ578751.1 Length: 1696
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate WF3/2
+Sequence ID: AJ578752.1 Length: 1696 
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate cyp51_2 CYP51/ERG11 gene, complete cds
+Sequence ID: OR763809.1 Length: 1696
+>Blumeria graminis f. sp. tritici isolate cyp51_3T CYP51/ERG11 gene, complete cds
+Sequence ID: OR763811.1 Length: 1696 
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici lanosterol demethylase gene, complete cds
+Sequence ID: OR888440.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate cyp51_3C CYP51/ERG11 gene, complete cds
+Sequence ID: OR763810.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate CAW14S6312#1 lanosterol demethylase (Cyp51) gene, complete cds
+Sequence ID: OR753407.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate CAW14S63.09#1 lanosterol demethylase (Cyp51) gene, complete cds
+Sequence ID: OR753405.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate JIW11
+Sequence ID: AJ578749.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate cyp51_4 CYP51/ERG11 gene, complete cds
+Sequence ID: OR763812.1 Length: 1696
+Range 1: 88 to 248
+
+Score:252 bits(136), Expect:1e-62, 
+Identities:153/161(95%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis isolate 34 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: HM538439.1 Length: 574
+Range 1: 67 to 227
+
+Score:246 bits(133), Expect:6e-61, 
+Identities:152/161(94%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  67   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  126
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  127  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  186
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| ||||||||||||||| |||||||||||||
+Sbjct  187  ATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGT  227
+
+
+
+
+>Blumeria graminis f. sp. tritici cyp51 gene for eburicol 14 alpha demethylase, exons 1-3
+Sequence ID: AJ578437.1 Length: 1696
+Range 1: 88 to 248
+
+Score:246 bits(133), Expect:6e-61, 
+Identities:152/161(94%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  88   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  147
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  148  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  207
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| ||||||||||||||| |||||||||||||
+Sbjct  208  ATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGT  248
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 14 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: HM538440.1 Length: 574
+Range 1: 67 to 227
+
+Score:246 bits(133), Expect:6e-61, 
+Identities:152/161(94%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| | ||||
+Sbjct  67   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAGTCCA  126
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  127  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  186
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| |||||||||||||||||||||||||||||
+Sbjct  187  ATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAAGGT  227
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 9 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: HM538441.1 Length: 574
+Range 1: 67 to 227
+
+Score:246 bits(133), Expect:6e-61, 
+Identities:152/161(94%),  Gaps:1/161(0%), Strand: Plus/Plus
+
+Query  13   AGTTTATTATTACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCA  71
+            |||||||||||||| || ||||||||||| |||||||||||| |||| ||||| ||||||
+Sbjct  67   AGTTTATTATTACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCA  126
+
+Query  72   AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGA  131
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  127  AATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGA  186
+
+Query  132  ATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+            ||||||||||| ||||||||||||||| |||||||||||||
+Sbjct  187  ATGAATCCCTATAAATTCTTTCATGAAACCCAAGCCAAGGT  227
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 500 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348732.1 Length: 317
+Range 1: 1 to 150
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:142/150(95%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             |||||||||||||||||||||||||||||
+Sbjct  121  TAAATTCTTTCATGAATCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 481 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348716.1 Length: 317
+Range 1: 1 to 150
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:142/150(95%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             |||||||||||||||||||||||||||||
+Sbjct  121  TAAATTCTTTCATGAATCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 39 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348719.1 Length: 317
+Range 1: 1 to 150
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAWCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 392 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348721.1 Length: 317
+Range 1: 1 to 150
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAWCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 49 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348718.1 Length: 317
+Range 1: 1 to 150
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAWCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 198 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348711.1 Length: 317
+Range 1: 1 to 150
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAWCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 21 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348723.1 Length: 317
+Range 1: 1 to 150
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAWCCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 442 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348725.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 407 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348730.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 110 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348736.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 506 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348720.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 68 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348708.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 423 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348715.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 44 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348724.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 519 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348735.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 361 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348733.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 144 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348729.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 415 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348714.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 234 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348731.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 335 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348713.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 352 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348734.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 241 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348712.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 43 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348722.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 65 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348738.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 105 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348727.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 59 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348707.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 93 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348726.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 191 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348710.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 494 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348717.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 154 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348728.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 299 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348737.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 17 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348706.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate 177 14alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: KY348709.1 Length: 317
+Range 1: 1 to 150
+
+Score:226 bits(122), Expect:8e-55, 
+Identities:141/150(94%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  24   ACTGTT-ACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACC  82
+            ||| || ||||||||||| |||||||||||| |||| ||||| |||||||||||||||||
+Sbjct  1    ACTATTAACCTTCTTGAATGTATTGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACC  60
+
+Query  83   GATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTA  142
+            |||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  61   GATCGTGTTTCATTGGATTCCTATCATTGGTAGTACAATTTCATATGGAATGAATCCCTA  120
+
+Query  143  CAAATTCTTTCATGAATCCCAAGCCAAGGT  172
+             ||||||||||||||| |||||||||||||
+Sbjct  121  TAAATTCTTTCATGAAACCCAAGCCAAGGT  150
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt40 14 alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: OK066155.1 Length: 426
+Range 1: 1 to 127
+
+Score:207 bits(112), Expect:3e-49, 
+Identities:122/127(96%),  Gaps:0/127(0%), Strand: Plus/Plus
+
+Query  46   TGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTA  105
+            |||||||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    TGAAGCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTA  60
+
+Query  106  TCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAG  165
+            ||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||
+Sbjct  61   TCATTGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAG  120
+
+Query  166  CCAAGGT  172
+            |||||||
+Sbjct  121  CCAAGGT  127
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate Bgt29 14 alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: OK066154.1 Length: 415
+Range 1: 1 to 123
+
+Score:200 bits(108), Expect:5e-47, 
+Identities:118/123(96%),  Gaps:0/123(0%), Strand: Plus/Plus
+
+Query  50   GCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCAT  109
+            |||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCAT  60
+
+Query  110  TGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAA  169
+            ||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  61   TGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAA  120
+
+Query  170  GGT  172
+            |||
+Sbjct  121  GGT  123
+
+
+
+
+>Blumeria graminis f. sp. tritici isolate SH-6 14 alpha-demethylase (cyp51) gene, partial cds
+Sequence ID: OK066153.1 Length: 436
+Range 1: 1 to 123
+
+Score:200 bits(108), Expect:5e-47, 
+Identities:118/123(96%),  Gaps:0/123(0%), Strand: Plus/Plus
+
+Query  50   GCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCAT  109
+            |||| |||| ||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GCAGCTACTATTCAAAAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCAT  60
+
+Query  110  TGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAA  169
+            ||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  61   TGGTAGTACAATTTCATATGGAATGAATCCCTATAAATTCTTTCATGAATCCCAAGCCAA  120
+
+Query  170  GGT  172
+            |||
+Sbjct  121  GGT  123
+
+
+
+
+		
+
+

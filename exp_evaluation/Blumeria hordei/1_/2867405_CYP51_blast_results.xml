@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_2861837</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>574</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_2861837</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>574</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|33300249|emb|AJ313156.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate E1 &gt;gi|33300283|emb|AJ578759.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC66 &gt;gi|33300289|emb|AJ578762.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate AP2-19 &gt;gi|33300291|emb|AJ578763.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate 92-18</Hit_def>
+  <Hit_accession>AJ313156</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1036.42</Hsp_bit-score>
+      <Hsp_score>1148</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>574</Hsp_identity>
+      <Hsp_positive>574</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|685431172|gb|KM016905.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei isolate Pshk2 sterol 14 alpha-demethylase (CYP51) gene, complete cds</Hit_def>
+  <Hit_accession>KM016905</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1036.42</Hsp_bit-score>
+      <Hsp_score>1148</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>574</Hsp_identity>
+      <Hsp_positive>574</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|685431170|gb|KM016904.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei isolate Pshk1 sterol 14 alpha-demethylase (CYP51) gene, complete cds</Hit_def>
+  <Hit_accession>KM016904</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1036.42</Hsp_bit-score>
+      <Hsp_score>1148</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>574</Hsp_identity>
+      <Hsp_positive>574</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|298568407|gb|HM538437.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei isolate 6 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>HM538437</Hit_accession>
+  <Hit_len>574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1036.42</Hsp_bit-score>
+      <Hsp_score>1148</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>574</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>574</Hsp_identity>
+      <Hsp_positive>574</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|685431166|gb|KM016902.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei isolate Frnk1 sterol 14 alpha-demethylase (CYP51) gene, complete cds</Hit_def>
+  <Hit_accession>KM016902</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1031.91</Hsp_bit-score>
+      <Hsp_score>1143</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>573</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGGATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|33300247|emb|AJ313155.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate CC146</Hit_def>
+  <Hit_accession>AJ313155</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1031.91</Hsp_bit-score>
+      <Hsp_score>1143</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>573</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAACAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|298568405|gb|HM538436.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei isolate 7 14alpha-demethylase (cyp51) gene, partial cds</Hit_def>
+  <Hit_accession>HM538436</Hit_accession>
+  <Hit_len>574</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1031.91</Hsp_bit-score>
+      <Hsp_score>1143</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>574</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>573</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAACAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|33300251|emb|AJ313157.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14alpha demethylase, exons 1-3, isolate DH14 &gt;gi|33300273|emb|AJ578754.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC107 &gt;gi|33300275|emb|AJ578755.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC145 &gt;gi|33300285|emb|AJ578760.1| Blumeria graminis f. sp. hordei cyp51 gene for eburicol 14 alpha demethylase, exons 1-3, isolate CC52</Hit_def>
+  <Hit_accession>AJ313157</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1031.91</Hsp_bit-score>
+      <Hsp_score>1143</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>573</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTATGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|685431168|gb|KM016903.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei isolate Strl1 sterol 14 alpha-demethylase (CYP51) gene, complete cds</Hit_def>
+  <Hit_accession>KM016903</Hit_accession>
+  <Hit_len>1696</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1031.91</Hsp_bit-score>
+      <Hsp_score>1143</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>595</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>573</Hsp_identity>
+      <Hsp_positive>573</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGGATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|4049644|gb|AF052515.1|</Hit_id>
+  <Hit_def>Blumeria graminis f. sp. hordei eburicol 14alpha demethylase (CYP51) gene, complete cds</Hit_def>
+  <Hit_accession>AF052515</Hit_accession>
+  <Hit_len>2167</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1027.4</Hsp_bit-score>
+      <Hsp_score>1138</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>574</Hsp_query-to>
+      <Hsp_hit-from>185</Hsp_hit-from>
+      <Hsp_hit-to>758</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>572</Hsp_identity>
+      <Hsp_positive>572</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>574</Hsp_align-len>
+      <Hsp_qseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTATAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTTTGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_qseq>
+      <Hsp_hseq>ATGTTTCCATACTTGCAGCCTTTGCTCCAACTCGGTTTTGGCATTGCGTTGGCTAGTGGAATTTTAAGTTTATTATTACTGTTAACCTTCTTGAACGTATTGAAGCAGTTACTTTTCAAGAATCCAAATGAGCCACCGATCGTGTTTCATTGGATTCCTATCATTGGAAGTACAATTTCATATGGAATGAATCCCTACAAATTCTTTCATGAATCCCAAGCCAAGGTCAGTTGCCGCTTACACTCTCTGAGGAATACGATATTAATTGAGGTAAAGTACGGAAATATCTTCACTTTCATATTACTGGGTAAGAAGACGACGGTATATCTAGGTCGACAGGGAAATAATTTTATTCTTAATGGAAAACTCAGAGACGTTAATGCCGAAGAAATTTATACGGTCTTGACGACTCCTGTCTTCGGGACTGATGTAGTGTATGACTGTCCTAATTCAAAATTAATGGAACAAAAGAAGGTTTTAAAATCATATGGATAACTTTCAGAATCAGACTCTGATATTTGCACAGTTCATGAAAGCAGCCCTTACGACTGAGGCCTTCCGCTCTTATGTACCT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>211</Statistics_db-num>
+      <Statistics_db-len>238579</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

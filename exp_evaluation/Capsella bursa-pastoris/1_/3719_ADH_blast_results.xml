@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1590745</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>317</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1590745</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>317</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|747035331|gb|KJ955745.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955745</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>572.954</Hsp_bit-score>
+      <Hsp_score>634</Hsp_score>
+      <Hsp_evalue>1.55871e-164</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>317</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|747035353|gb|KJ955756.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C4-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955756</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>557.626</Hsp_bit-score>
+      <Hsp_score>617</Hsp_score>
+      <Hsp_evalue>1.19834e-159</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCC-TCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCCTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|747035363|gb|KJ955761.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C46-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035365|gb|KJ955762.1| Capsella bursa-pastoris isolate C50-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035371|gb|KJ955765.1| Capsella bursa-pastoris isolate C55-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035373|gb|KJ955766.1| Capsella bursa-pastoris isolate C56-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035377|gb|KJ955768.1| Capsella bursa-pastoris isolate C58-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955761</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>557.626</Hsp_bit-score>
+      <Hsp_score>617</Hsp_score>
+      <Hsp_evalue>1.19834e-159</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|747035335|gb|KJ955747.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C3-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035343|gb|KJ955751.1| Capsella bursa-pastoris isolate C35-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035355|gb|KJ955757.1| Capsella bursa-pastoris isolate C41-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035361|gb|KJ955760.1| Capsella bursa-pastoris isolate C45-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035367|gb|KJ955763.1| Capsella bursa-pastoris isolate C53-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035369|gb|KJ955764.1| Capsella bursa-pastoris isolate C54-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035375|gb|KJ955767.1| Capsella bursa-pastoris isolate C57-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035381|gb|KJ955770.1| Capsella orientalis isolate C13-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035383|gb|KJ955771.1| Capsella orientalis isolate C16-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035385|gb|KJ955772.1| Capsella orientalis isolate C21-11 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035389|gb|KJ955774.1| Capsella orientalis isolate C24-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035391|gb|KJ955775.1| Capsella orientalis isolate C25 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035393|gb|KJ955776.1| Capsella orientalis isolate C34-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035401|gb|KJ955780.1| Capsella orientalis isolate C52-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035405|gb|KJ955782.1| Capsella orientalis isolate C59-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955747</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>557.626</Hsp_bit-score>
+      <Hsp_score>617</Hsp_score>
+      <Hsp_evalue>1.19834e-159</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|747035333|gb|KJ955746.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C20-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955746</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>553.117</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>1.45987e-158</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|747035341|gb|KJ955750.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C33-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955750</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>553.117</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>1.45987e-158</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|747035345|gb|KJ955752.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C36-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955752</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>553.117</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>1.45987e-158</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGGATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|747035337|gb|KJ955748.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C31-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035349|gb|KJ955754.1| Capsella bursa-pastoris isolate C39-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035397|gb|KJ955778.1| Capsella orientalis isolate C47-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955748</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>553.117</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>1.45987e-158</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGGGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|747035357|gb|KJ955758.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C42-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955758</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>553.117</Hsp_bit-score>
+      <Hsp_score>612</Hsp_score>
+      <Hsp_evalue>1.45987e-158</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCGCGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|747035339|gb|KJ955749.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C32 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035351|gb|KJ955755.1| Capsella bursa-pastoris isolate C40-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955749</Hit_accession>
+  <Hit_len>317</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>549.51</Hsp_bit-score>
+      <Hsp_score>608</Hsp_score>
+      <Hsp_evalue>1.77849e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGA-TCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|747035359|gb|KJ955759.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C44-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955759</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>548.609</Hsp_bit-score>
+      <Hsp_score>607</Hsp_score>
+      <Hsp_evalue>6.20754e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTACGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||| || |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|747035347|gb|KJ955753.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C37-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955753</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>548.609</Hsp_bit-score>
+      <Hsp_score>607</Hsp_score>
+      <Hsp_evalue>6.20754e-157</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGCTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGGTCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||| |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|747220500|gb|KM672867.1|</Hit_id>
+  <Hit_def>Capsella orientalis isolate C13-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220504|gb|KM672869.1| Capsella orientalis isolate C21-9 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220506|gb|KM672870.1| Capsella orientalis isolate C22-7 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220508|gb|KM672871.1| Capsella orientalis isolate C24-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220512|gb|KM672873.1| Capsella orientalis isolate C47-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220518|gb|KM672876.1| Capsella orientalis isolate C59-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220608|gb|KM672939.1| Capsella bursa-pastoris isolate C3-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220610|gb|KM672940.1| Capsella bursa-pastoris isolate C11-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220612|gb|KM672941.1| Capsella bursa-pastoris isolate C11-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220618|gb|KM672944.1| Capsella bursa-pastoris isolate C20-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220620|gb|KM672945.1| Capsella bursa-pastoris isolate C22-10 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220622|gb|KM672946.1| Capsella bursa-pastoris isolate C26 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220624|gb|KM672947.1| Capsella bursa-pastoris isolate C35-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220630|gb|KM672950.1| Capsella bursa-pastoris isolate C40-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220632|gb|KM672951.1| Capsella bursa-pastoris isolate C41-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220634|gb|KM672952.1| Capsella bursa-pastoris isolate C4-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220636|gb|KM672953.1| Capsella bursa-pastoris isolate C42-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220640|gb|KM672955.1| Capsella bursa-pastoris isolate C45-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220642|gb|KM672956.1| Capsella bursa-pastoris isolate C46-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220644|gb|KM672957.1| Capsella bursa-pastoris isolate C50-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220646|gb|KM672958.1| Capsella bursa-pastoris isolate C53-4 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220648|gb|KM672959.1| Capsella bursa-pastoris isolate C54-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220650|gb|KM672960.1| Capsella bursa-pastoris isolate C58-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220652|gb|KM672961.1| Capsella bursa-pastoris isolate C62-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220654|gb|KM672962.1| Capsella bursa-pastoris isolate C63-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220656|gb|KM672963.1| Capsella bursa-pastoris isolate C63-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220666|gb|KM672968.1| Capsella bursa-pastoris isolate C72-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220668|gb|KM672969.1| Capsella bursa-pastoris isolate C73-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM672939</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>543.199</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>2.63951e-155</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|747220626|gb|KM672948.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C36-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM672948</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>3.21558e-154</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGGGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|747220614|gb|KM672942.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C122-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220616|gb|KM672943.1| Capsella bursa-pastoris isolate C122-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220658|gb|KM672964.1| Capsella bursa-pastoris isolate C64-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220660|gb|KM672965.1| Capsella bursa-pastoris isolate C64-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220662|gb|KM672966.1| Capsella bursa-pastoris isolate C66 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220664|gb|KM672967.1| Capsella bursa-pastoris isolate C72-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220670|gb|KM672970.1| Capsella bursa-pastoris isolate C73-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220672|gb|KM672971.1| Capsella bursa-pastoris isolate C74-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220674|gb|KM672972.1| Capsella bursa-pastoris isolate C74-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220676|gb|KM672973.1| Capsella bursa-pastoris isolate C77-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220678|gb|KM672974.1| Capsella bursa-pastoris isolate C78-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM672942</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.69</Hsp_bit-score>
+      <Hsp_score>596</Hsp_score>
+      <Hsp_evalue>3.21558e-154</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>306</Hsp_identity>
+      <Hsp_positive>306</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|747035283|gb|KJ955721.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035293|gb|KJ955726.1| Capsella bursa-pastoris isolate C33-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035303|gb|KJ955731.1| Capsella bursa-pastoris isolate C40-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035309|gb|KJ955734.1| Capsella bursa-pastoris isolate C42-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035315|gb|KJ955737.1| Capsella bursa-pastoris isolate C46-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035317|gb|KJ955738.1| Capsella bursa-pastoris isolate C50-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035321|gb|KJ955740.1| Capsella bursa-pastoris isolate C54-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035323|gb|KJ955741.1| Capsella bursa-pastoris isolate C55-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035325|gb|KJ955742.1| Capsella bursa-pastoris isolate C56-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035327|gb|KJ955743.1| Capsella bursa-pastoris isolate C57-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035329|gb|KJ955744.1| Capsella bursa-pastoris isolate C58-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955721</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.083</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>3.91738e-153</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|747220638|gb|KM672954.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C44-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM672954</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>534.182</Hsp_bit-score>
+      <Hsp_score>591</Hsp_score>
+      <Hsp_evalue>1.3673e-152</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTACGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||||||||||||||||| || |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|747220628|gb|KM672949.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C37-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM672949</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>534.182</Hsp_bit-score>
+      <Hsp_score>591</Hsp_score>
+      <Hsp_evalue>1.3673e-152</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGCTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGGTCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||| |||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|85665919|gb|DQ343307.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris ecotype 721 genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds</Hit_def>
+  <Hit_accession>DQ343307</Hit_accession>
+  <Hit_len>625</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>519</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|160334765|gb|EF683875.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate WH48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683875</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|160334737|gb|EF683861.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate ZZH279 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683861</Hit_accession>
+  <Hit_len>364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>364</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|160334779|gb|EF683882.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate BD97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683882</Hit_accession>
+  <Hit_len>359</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>359</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|85665921|gb|DQ343308.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris ecotype SE14 genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds &gt;gi|85665923|gb|DQ343309.1| Capsella bursa-pastoris ecotype 740 genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds &gt;gi|85665925|gb|DQ343310.1| Capsella bursa-pastoris ecotype PL genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds</Hit_def>
+  <Hit_accession>DQ343308</Hit_accession>
+  <Hit_len>625</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>519</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|160334723|gb|EF683854.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate KMB205 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334755|gb|EF683870.1| Capsella bursa-pastoris isolate NCH355 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334759|gb|EF683872.1| Capsella bursa-pastoris isolate AQ404 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334761|gb|EF683873.1| Capsella bursa-pastoris isolate AQ416 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683854</Hit_accession>
+  <Hit_len>356</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>356</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|160334601|gb|EF683793.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate AL87 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334603|gb|EF683794.1| Capsella bursa-pastoris isolate AL88 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334605|gb|EF683795.1| Capsella bursa-pastoris isolate AT125 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334607|gb|EF683796.1| Capsella bursa-pastoris isolate BH112 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334609|gb|EF683797.1| Capsella bursa-pastoris isolate BH113 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334611|gb|EF683798.1| Capsella bursa-pastoris isolate CZ96 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334613|gb|EF683799.1| Capsella bursa-pastoris isolate DE97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334615|gb|EF683800.1| Capsella bursa-pastoris isolate DE98 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334617|gb|EF683801.1| Capsella bursa-pastoris isolate DE127 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334619|gb|EF683802.1| Capsella bursa-pastoris isolate DE136 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334621|gb|EF683803.1| Capsella bursa-pastoris isolate ES105 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334623|gb|EF683804.1| Capsella bursa-pastoris isolate ES107 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334625|gb|EF683805.1| Capsella bursa-pastoris isolate ET8 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334627|gb|EF683806.1| Capsella bursa-pastoris isolate FR49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334629|gb|EF683807.1| Capsella bursa-pastoris isolate FR50 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334631|gb|EF683808.1| Capsella bursa-pastoris isolate ES121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334633|gb|EF683809.1| Capsella bursa-pastoris isolate GB93 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334635|gb|EF683810.1| Capsella bursa-pastoris isolate GR134 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334637|gb|EF683811.1| Capsella bursa-pastoris isolate JO56 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334639|gb|EF683812.1| Capsella bursa-pastoris isolate JO59 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334641|gb|EF683813.1| Capsella bursa-pastoris isolate JO60 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334643|gb|EF683814.1| Capsella bursa-pastoris isolate NL54 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334645|gb|EF683815.1| Capsella bursa-pastoris isolate NL55 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334647|gb|EF683816.1| Capsella bursa-pastoris isolate PL135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334649|gb|EF683817.1| Capsella bursa-pastoris isolate SE139 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334651|gb|EF683818.1| Capsella bursa-pastoris isolate SE12 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334653|gb|EF683819.1| Capsella bursa-pastoris isolate SE30 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334655|gb|EF683820.1| Capsella bursa-pastoris isolate SE31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334657|gb|EF683821.1| Capsella bursa-pastoris isolate SE32 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334659|gb|EF683822.1| Capsella bursa-pastoris isolate SE33 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334661|gb|EF683823.1| Capsella bursa-pastoris isolate SE35 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334663|gb|EF683824.1| Capsella bursa-pastoris isolate SE37 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334665|gb|EF683825.1| Capsella bursa-pastoris isolate SE38 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334667|gb|EF683826.1| Capsella bursa-pastoris isolate SE39 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334669|gb|EF683827.1| Capsella bursa-pastoris isolate SE40 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334671|gb|EF683828.1| Capsella bursa-pastoris isolate SE41 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334673|gb|EF683829.1| Capsella bursa-pastoris isolate SE42 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334675|gb|EF683830.1| Capsella bursa-pastoris isolate SE43 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334677|gb|EF683831.1| Capsella bursa-pastoris isolate SE44 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334679|gb|EF683832.1| Capsella bursa-pastoris isolate SE45 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334681|gb|EF683833.1| Capsella bursa-pastoris isolate SE46 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334683|gb|EF683834.1| Capsella bursa-pastoris isolate SE48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334685|gb|EF683835.1| Capsella bursa-pastoris isolate SY61 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334687|gb|EF683836.1| Capsella bursa-pastoris isolate SY63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334689|gb|EF683837.1| Capsella bursa-pastoris isolate SY64 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334691|gb|EF683838.1| Capsella bursa-pastoris isolate SY65 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334693|gb|EF683839.1| Capsella bursa-pastoris isolate SY66 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334695|gb|EF683840.1| Capsella bursa-pastoris isolate SY67 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334697|gb|EF683841.1| Capsella bursa-pastoris isolate SY68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334699|gb|EF683842.1| Capsella bursa-pastoris isolate SY69 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334701|gb|EF683843.1| Capsella bursa-pastoris isolate XA106 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334703|gb|EF683844.1| Capsella bursa-pastoris isolate XA110 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334705|gb|EF683845.1| Capsella bursa-pastoris isolate TY121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334709|gb|EF683847.1| Capsella bursa-pastoris isolate HRB135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334711|gb|EF683848.1| Capsella bursa-pastoris isolate JZH145 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334713|gb|EF683849.1| Capsella bursa-pastoris isolate JZH147 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334715|gb|EF683850.1| Capsella bursa-pastoris isolate DL167 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334717|gb|EF683851.1| Capsella bursa-pastoris isolate DL170 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334721|gb|EF683853.1| Capsella bursa-pastoris isolate CSH1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334725|gb|EF683855.1| Capsella bursa-pastoris isolate XY20 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334727|gb|EF683856.1| Capsella bursa-pastoris isolate KMB210 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334729|gb|EF683857.1| Capsella bursa-pastoris isolate NJ218 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334731|gb|EF683858.1| Capsella bursa-pastoris isolate NJ222 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334739|gb|EF683862.1| Capsella bursa-pastoris isolate ZZH284 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334741|gb|EF683863.1| Capsella bursa-pastoris isolate CSH2 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334745|gb|EF683865.1| Capsella bursa-pastoris isolate QD319 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334747|gb|EF683866.1| Capsella bursa-pastoris isolate GY31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334749|gb|EF683867.1| Capsella bursa-pastoris isolate QF335 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334751|gb|EF683868.1| Capsella bursa-pastoris isolate QF340 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334753|gb|EF683869.1| Capsella bursa-pastoris isolate NCH350 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334757|gb|EF683871.1| Capsella bursa-pastoris isolate GY36 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334763|gb|EF683874.1| Capsella bursa-pastoris isolate XN442 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334767|gb|EF683876.1| Capsella bursa-pastoris isolate WH49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334773|gb|EF683879.1| Capsella bursa-pastoris isolate HY76 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334775|gb|EF683880.1| Capsella bursa-pastoris isolate HY89 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334777|gb|EF683881.1| Capsella bursa-pastoris isolate BD92 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334781|gb|EF683883.1| Capsella bursa-pastoris isolate TWTY alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765952|gb|GQ251535.1| Capsella bursa-pastoris isolate AT101 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765954|gb|GQ251536.1| Capsella bursa-pastoris isolate SY70 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765956|gb|GQ251537.1| Capsella bursa-pastoris isolate TR71 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765958|gb|GQ251538.1| Capsella bursa-pastoris isolate TR73 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765960|gb|GQ251539.1| Capsella bursa-pastoris isolate TR74 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765962|gb|GQ251540.1| Capsella bursa-pastoris isolate TR75 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765964|gb|GQ251541.1| Capsella bursa-pastoris isolate TR79 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|260765966|gb|GQ251542.1| Capsella bursa-pastoris isolate TR83 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683793</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.477</Hsp_bit-score>
+      <Hsp_score>588</Hsp_score>
+      <Hsp_evalue>4.77235e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>315</Hsp_identity>
+      <Hsp_positive>315</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|747035285|gb|KJ955722.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C20-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955722</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.575</Hsp_bit-score>
+      <Hsp_score>587</Hsp_score>
+      <Hsp_evalue>1.66571e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| ||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|747035297|gb|KJ955728.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C36-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955728</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.575</Hsp_bit-score>
+      <Hsp_score>587</Hsp_score>
+      <Hsp_evalue>1.66571e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTATATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|747035307|gb|KJ955733.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C41-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955733</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.575</Hsp_bit-score>
+      <Hsp_score>587</Hsp_score>
+      <Hsp_evalue>1.66571e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAAAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| ||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|160334769|gb|EF683877.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate HD63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334771|gb|EF683878.1| Capsella bursa-pastoris isolate HD68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683877</Hit_accession>
+  <Hit_len>372</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>527.87</Hsp_bit-score>
+      <Hsp_score>584</Hsp_score>
+      <Hsp_evalue>5.81391e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>315</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>313</Hsp_identity>
+      <Hsp_positive>313</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGC</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|160334719|gb|EF683852.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate XY18 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683852</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>527.87</Hsp_bit-score>
+      <Hsp_score>584</Hsp_score>
+      <Hsp_evalue>5.81391e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGANATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|160334733|gb|EF683859.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate BJB234 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683859</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.968</Hsp_bit-score>
+      <Hsp_score>583</Hsp_score>
+      <Hsp_evalue>2.02925e-150</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAATGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|747035289|gb|KJ955724.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C31-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035291|gb|KJ955725.1| Capsella bursa-pastoris isolate C32 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035313|gb|KJ955736.1| Capsella bursa-pastoris isolate C45-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035319|gb|KJ955739.1| Capsella bursa-pastoris isolate C53-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955724</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.968</Hsp_bit-score>
+      <Hsp_score>583</Hsp_score>
+      <Hsp_evalue>2.02925e-150</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGA-TCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|160334707|gb|EF683846.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate TY123 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683846</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.968</Hsp_bit-score>
+      <Hsp_score>583</Hsp_score>
+      <Hsp_evalue>2.02925e-150</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>374</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>314</Hsp_identity>
+      <Hsp_positive>314</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGACGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|747035295|gb|KJ955727.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C35-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955727</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.067</Hsp_bit-score>
+      <Hsp_score>582</Hsp_score>
+      <Hsp_evalue>2.02925e-150</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAAAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAAATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGGGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| | | |||||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|747035311|gb|KJ955735.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C44-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955735</Hit_accession>
+  <Hit_len>318</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>522.46</Hsp_bit-score>
+      <Hsp_score>578</Hsp_score>
+      <Hsp_evalue>2.47214e-149</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGA-TCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCCGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||| |||||||||| ||||| ||||||||||||||||||  || |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|747220947|gb|KM673116.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C45-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220975|gb|KM673130.1| Capsella bursa-pastoris isolate C73-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220981|gb|KM673133.1| Capsella bursa-pastoris isolate C74-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673116</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>520.657</Hsp_bit-score>
+      <Hsp_score>576</Hsp_score>
+      <Hsp_evalue>8.62861e-149</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCC-TCATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCCTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||||| |||||| |||||||||||||||||| ||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|747220915|gb|KM673100.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C11-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220917|gb|KM673101.1| Capsella bursa-pastoris isolate C11-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220925|gb|KM673105.1| Capsella bursa-pastoris isolate C22-10 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220927|gb|KM673106.1| Capsella bursa-pastoris isolate C26 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220929|gb|KM673107.1| Capsella bursa-pastoris isolate C3-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220937|gb|KM673111.1| Capsella bursa-pastoris isolate C40-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220941|gb|KM673113.1| Capsella bursa-pastoris isolate C4-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220943|gb|KM673114.1| Capsella bursa-pastoris isolate C42-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220949|gb|KM673117.1| Capsella bursa-pastoris isolate C46-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220951|gb|KM673118.1| Capsella bursa-pastoris isolate C50-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220953|gb|KM673119.1| Capsella bursa-pastoris isolate C53-4 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220955|gb|KM673120.1| Capsella bursa-pastoris isolate C54-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220957|gb|KM673121.1| Capsella bursa-pastoris isolate C58-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220973|gb|KM673129.1| Capsella bursa-pastoris isolate C72-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220977|gb|KM673131.1| Capsella bursa-pastoris isolate C73-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220985|gb|KM673135.1| Capsella bursa-pastoris isolate C78-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673100</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>520.657</Hsp_bit-score>
+      <Hsp_score>576</Hsp_score>
+      <Hsp_evalue>8.62861e-149</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>302</Hsp_identity>
+      <Hsp_positive>302</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|160334735|gb|EF683860.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate BJB236 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683860</Hit_accession>
+  <Hit_len>366</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>517.05</Hsp_bit-score>
+      <Hsp_score>572</Hsp_score>
+      <Hsp_evalue>1.05118e-147</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>309</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>307</Hsp_identity>
+      <Hsp_positive>307</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>322</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCAC</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCAC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|747220939|gb|KM673112.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C41-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673112</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>516.148</Hsp_bit-score>
+      <Hsp_score>571</Hsp_score>
+      <Hsp_evalue>3.66898e-147</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAAAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| ||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|747220919|gb|KM673102.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C122-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220921|gb|KM673103.1| Capsella bursa-pastoris isolate C122-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220959|gb|KM673122.1| Capsella bursa-pastoris isolate C62-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220961|gb|KM673123.1| Capsella bursa-pastoris isolate C63-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220963|gb|KM673124.1| Capsella bursa-pastoris isolate C63-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220965|gb|KM673125.1| Capsella bursa-pastoris isolate C64-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220967|gb|KM673126.1| Capsella bursa-pastoris isolate C64-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220969|gb|KM673127.1| Capsella bursa-pastoris isolate C66 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220971|gb|KM673128.1| Capsella bursa-pastoris isolate C72-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220979|gb|KM673132.1| Capsella bursa-pastoris isolate C74-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747220983|gb|KM673134.1| Capsella bursa-pastoris isolate C77-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673102</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>516.148</Hsp_bit-score>
+      <Hsp_score>571</Hsp_score>
+      <Hsp_evalue>3.66898e-147</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| ||| ||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|747220933|gb|KM673109.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C36-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673109</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>516.148</Hsp_bit-score>
+      <Hsp_score>571</Hsp_score>
+      <Hsp_evalue>3.66898e-147</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTATATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| ||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|747220945|gb|KM673115.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C44-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673115</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>516.148</Hsp_bit-score>
+      <Hsp_score>571</Hsp_score>
+      <Hsp_evalue>3.66898e-147</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCCGAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| ||||||||||||||||||  || |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|747035287|gb|KJ955723.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C3-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035299|gb|KJ955729.1| Capsella bursa-pastoris isolate C37-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035301|gb|KJ955730.1| Capsella bursa-pastoris isolate C39-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds &gt;gi|747035305|gb|KJ955732.1| Capsella bursa-pastoris isolate C4-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KJ955723</Hit_accession>
+  <Hit_len>319</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>512.541</Hsp_bit-score>
+      <Hsp_score>567</Hsp_score>
+      <Hsp_evalue>4.46973e-146</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>319</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>305</Hsp_identity>
+      <Hsp_positive>305</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAAAAAGGTTGTGTAGGATTGTTGAAAGTGTTGGAAAAGGAGTGACTGATCTTCAACCAGGAAATCATGTTTTACCCATCTTCACCGGAAAGTGTGGGGATTGTCCTCACTGTCACTCCAAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| | | |||||||||||||||||||| ||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||| |||||||||| |||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|747220931|gb|KM673108.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C35-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673108</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>511.64</Hsp_bit-score>
+      <Hsp_score>566</Hsp_score>
+      <Hsp_evalue>4.46973e-146</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAAAAAGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAAATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGGGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| | | |||||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|160334743|gb|EF683864.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate QD318 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683864</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>506.23</Hsp_bit-score>
+      <Hsp_score>560</Hsp_score>
+      <Hsp_evalue>1.90058e-144</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>303</Hsp_query-to>
+      <Hsp_hit-from>45</Hsp_hit-from>
+      <Hsp_hit-to>360</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>316</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTG</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTAGGTGTTTTCTTTAGTACTAAGAGATTTGAAATTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||||||||||||||||||||||||||||            ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|160334389|gb|EF683687.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate AL87 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334391|gb|EF683688.1| Capsella bursa-pastoris isolate AL88 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334393|gb|EF683689.1| Capsella bursa-pastoris isolate AT125 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334395|gb|EF683690.1| Capsella bursa-pastoris isolate BH112 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334399|gb|EF683692.1| Capsella bursa-pastoris isolate CZ96 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334403|gb|EF683694.1| Capsella bursa-pastoris isolate DE98 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334409|gb|EF683697.1| Capsella bursa-pastoris isolate ES105 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334411|gb|EF683698.1| Capsella bursa-pastoris isolate ES107 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334413|gb|EF683699.1| Capsella bursa-pastoris isolate ET8 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334419|gb|EF683702.1| Capsella bursa-pastoris isolate ES121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334421|gb|EF683703.1| Capsella bursa-pastoris isolate GB93 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334425|gb|EF683705.1| Capsella bursa-pastoris isolate JO56 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334427|gb|EF683706.1| Capsella bursa-pastoris isolate JO59 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334429|gb|EF683707.1| Capsella bursa-pastoris isolate JO60 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334431|gb|EF683708.1| Capsella bursa-pastoris isolate NL54 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334433|gb|EF683709.1| Capsella bursa-pastoris isolate NL55 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334437|gb|EF683711.1| Capsella bursa-pastoris isolate SE139 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334439|gb|EF683712.1| Capsella bursa-pastoris isolate SE12 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334441|gb|EF683713.1| Capsella bursa-pastoris isolate SE30 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334443|gb|EF683714.1| Capsella bursa-pastoris isolate SE31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334445|gb|EF683715.1| Capsella bursa-pastoris isolate SE32 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334451|gb|EF683718.1| Capsella bursa-pastoris isolate SE37 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334455|gb|EF683720.1| Capsella bursa-pastoris isolate SE39 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334457|gb|EF683721.1| Capsella bursa-pastoris isolate SE40 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334459|gb|EF683722.1| Capsella bursa-pastoris isolate SE41 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334461|gb|EF683723.1| Capsella bursa-pastoris isolate SE42 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334463|gb|EF683724.1| Capsella bursa-pastoris isolate SE43 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334467|gb|EF683726.1| Capsella bursa-pastoris isolate SE45 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334469|gb|EF683727.1| Capsella bursa-pastoris isolate SE46 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334471|gb|EF683728.1| Capsella bursa-pastoris isolate SE48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334473|gb|EF683729.1| Capsella bursa-pastoris isolate SY61 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334475|gb|EF683730.1| Capsella bursa-pastoris isolate SY63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334477|gb|EF683731.1| Capsella bursa-pastoris isolate SY64 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334479|gb|EF683732.1| Capsella bursa-pastoris isolate SY65 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334481|gb|EF683733.1| Capsella bursa-pastoris isolate SY66 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334483|gb|EF683734.1| Capsella bursa-pastoris isolate SY67 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334485|gb|EF683735.1| Capsella bursa-pastoris isolate SY68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334487|gb|EF683736.1| Capsella bursa-pastoris isolate SY69 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047454|gb|GQ251528.1| Capsella bursa-pastoris isolate SY70 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047456|gb|GQ251529.1| Capsella bursa-pastoris isolate TR71 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047458|gb|GQ251530.1| Capsella bursa-pastoris isolate TR73 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047460|gb|GQ251531.1| Capsella bursa-pastoris isolate TR74 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047462|gb|GQ251532.1| Capsella bursa-pastoris isolate TR79 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047464|gb|GQ251533.1| Capsella bursa-pastoris isolate TR83 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047466|gb|GQ251534.1| Capsella bursa-pastoris isolate TR91 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683687</Hit_accession>
+  <Hit_len>359</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.525</Hsp_bit-score>
+      <Hsp_score>557</Hsp_score>
+      <Hsp_evalue>2.31538e-143</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|85665929|gb|DQ343312.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris ecotype 740 genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds</Hit_def>
+  <Hit_accession>DQ343312</Hit_accession>
+  <Hit_len>635</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>503.525</Hsp_bit-score>
+      <Hsp_score>557</Hsp_score>
+      <Hsp_evalue>2.31538e-143</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>197</Hsp_hit-from>
+      <Hsp_hit-to>529</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>310</Hsp_identity>
+      <Hsp_positive>310</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|747220923|gb|KM673104.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C20-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673104</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>502.623</Hsp_bit-score>
+      <Hsp_score>556</Hsp_score>
+      <Hsp_evalue>2.31538e-143</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>298</Hsp_identity>
+      <Hsp_positive>298</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAAAAAGGTTGTGTAGGATTGTTGAGTGTGTTGGAAAAGGAGTGACTGATCTTCAACCAGGAAATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| | | ||||||||||||||||||||  |||||||| |||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|85665927|gb|DQ343311.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris ecotype 721 genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds</Hit_def>
+  <Hit_accession>DQ343311</Hit_accession>
+  <Hit_len>635</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.918</Hsp_bit-score>
+      <Hsp_score>553</Hsp_score>
+      <Hsp_evalue>2.82071e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>197</Hsp_hit-from>
+      <Hsp_hit-to>529</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCANCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|160334507|gb|EF683746.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate XY18 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334519|gb|EF683752.1| Capsella bursa-pastoris isolate NJ222 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683746</Hit_accession>
+  <Hit_len>353</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.016</Hsp_bit-score>
+      <Hsp_score>552</Hsp_score>
+      <Hsp_evalue>2.82071e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               |||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>gi|160334539|gb|EF683762.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate QF340 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683762</Hit_accession>
+  <Hit_len>355</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.016</Hsp_bit-score>
+      <Hsp_score>552</Hsp_score>
+      <Hsp_evalue>2.82071e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               |||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gi|160334489|gb|EF683737.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate XA106 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334491|gb|EF683738.1| Capsella bursa-pastoris isolate XA110 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334493|gb|EF683739.1| Capsella bursa-pastoris isolate TY121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334495|gb|EF683740.1| Capsella bursa-pastoris isolate TY123 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334497|gb|EF683741.1| Capsella bursa-pastoris isolate HRB135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334499|gb|EF683742.1| Capsella bursa-pastoris isolate JZH145 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334501|gb|EF683743.1| Capsella bursa-pastoris isolate JZH147 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334503|gb|EF683744.1| Capsella bursa-pastoris isolate DL167 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334505|gb|EF683745.1| Capsella bursa-pastoris isolate DL170 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334509|gb|EF683747.1| Capsella bursa-pastoris isolate CSH1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334511|gb|EF683748.1| Capsella bursa-pastoris isolate KMB205 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334513|gb|EF683749.1| Capsella bursa-pastoris isolate XY20 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334515|gb|EF683750.1| Capsella bursa-pastoris isolate KMB210 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334517|gb|EF683751.1| Capsella bursa-pastoris isolate NJ218 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334521|gb|EF683753.1| Capsella bursa-pastoris isolate BJB234 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334523|gb|EF683754.1| Capsella bursa-pastoris isolate BJB236 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334525|gb|EF683755.1| Capsella bursa-pastoris isolate ZZH279 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334527|gb|EF683756.1| Capsella bursa-pastoris isolate ZZH284 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334529|gb|EF683757.1| Capsella bursa-pastoris isolate CSH2 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334531|gb|EF683758.1| Capsella bursa-pastoris isolate QD318 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334533|gb|EF683759.1| Capsella bursa-pastoris isolate QD319 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334537|gb|EF683761.1| Capsella bursa-pastoris isolate QF335 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334541|gb|EF683763.1| Capsella bursa-pastoris isolate NCH350 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334543|gb|EF683764.1| Capsella bursa-pastoris isolate NCH355 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334547|gb|EF683766.1| Capsella bursa-pastoris isolate AQ404 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334549|gb|EF683767.1| Capsella bursa-pastoris isolate AQ416 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334551|gb|EF683768.1| Capsella bursa-pastoris isolate XN442 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334553|gb|EF683769.1| Capsella bursa-pastoris isolate WH48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334555|gb|EF683770.1| Capsella bursa-pastoris isolate WH49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334557|gb|EF683771.1| Capsella bursa-pastoris isolate HD63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334559|gb|EF683772.1| Capsella bursa-pastoris isolate HD68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334561|gb|EF683773.1| Capsella bursa-pastoris isolate HY76 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334563|gb|EF683774.1| Capsella bursa-pastoris isolate HY89 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334565|gb|EF683775.1| Capsella bursa-pastoris isolate BD92 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334567|gb|EF683776.1| Capsella bursa-pastoris isolate BD97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334569|gb|EF683777.1| Capsella bursa-pastoris isolate TWTY alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683737</Hit_accession>
+  <Hit_len>359</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.016</Hsp_bit-score>
+      <Hsp_score>552</Hsp_score>
+      <Hsp_evalue>2.82071e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               |||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>gi|85665931|gb|DQ343313.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris ecotype PL genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds</Hit_def>
+  <Hit_accession>DQ343313</Hit_accession>
+  <Hit_len>635</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>499.016</Hsp_bit-score>
+      <Hsp_score>552</Hsp_score>
+      <Hsp_evalue>2.82071e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>197</Hsp_hit-from>
+      <Hsp_hit-to>529</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               |||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gi|747220935|gb|KM673110.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate C37-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds</Hit_def>
+  <Hit_accession>KM673110</Hit_accession>
+  <Hit_len>310</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>498.114</Hsp_bit-score>
+      <Hsp_score>551</Hsp_score>
+      <Hsp_evalue>9.84524e-142</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>297</Hsp_identity>
+      <Hsp_positive>297</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>ATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGAGGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>ATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAAAAAGGTTGTGTAGGATTGTTGAAAGTGTTGGAAAAGGAGTGACTGATCTTCAACCAGGAAATCATGTTTTACCCATCTTCACCGGAAAGTGTGGGGATTGTCCTCACTGTCACTCCAAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||| |||||||||||||||||| | | |||||||||||||||||||| ||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||| |||||||||||||||||| |||||||||| |||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>gi|160334535|gb|EF683760.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate GY31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683760</Hit_accession>
+  <Hit_len>359</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.508</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>1.1994e-140</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGCGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               ||||| |||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gi|160334545|gb|EF683765.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate GY36 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683765</Hit_accession>
+  <Hit_len>355</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.508</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>1.1994e-140</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>308</Hsp_identity>
+      <Hsp_positive>308</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGAGA---------------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTCTTTAGTACTCAGAAATTTTTGAAATTTTTTGGTTGCGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||||||||||||| ||| |               ||||| |||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gi|160334397|gb|EF683691.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate BH113 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334401|gb|EF683693.1| Capsella bursa-pastoris isolate DE97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334405|gb|EF683695.1| Capsella bursa-pastoris isolate DE127 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334407|gb|EF683696.1| Capsella bursa-pastoris isolate DE136 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334415|gb|EF683700.1| Capsella bursa-pastoris isolate FR49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334417|gb|EF683701.1| Capsella bursa-pastoris isolate FR50 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334423|gb|EF683704.1| Capsella bursa-pastoris isolate GR134 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334435|gb|EF683710.1| Capsella bursa-pastoris isolate PL135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334447|gb|EF683716.1| Capsella bursa-pastoris isolate SE33 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334449|gb|EF683717.1| Capsella bursa-pastoris isolate SE35 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334453|gb|EF683719.1| Capsella bursa-pastoris isolate SE38 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|160334465|gb|EF683725.1| Capsella bursa-pastoris isolate SE44 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds &gt;gi|261047452|gb|GQ251527.1| Capsella bursa-pastoris isolate AT101 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds</Hit_def>
+  <Hit_accession>EF683691</Hit_accession>
+  <Hit_len>351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.508</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>1.1994e-140</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>345</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGA-------GA--------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTGTTTAGTACTTAGAATTTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||| ||||||||| |||       ||        ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>gi|85665937|gb|DQ343316.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris ecotype SE14 genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds</Hit_def>
+  <Hit_accession>DQ343316</Hit_accession>
+  <Hit_len>640</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>494.508</Hsp_bit-score>
+      <Hsp_score>547</Hsp_score>
+      <Hsp_evalue>1.1994e-140</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>202</Hsp_hit-from>
+      <Hsp_hit-to>534</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>309</Hsp_identity>
+      <Hsp_positive>309</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>333</Hsp_align-len>
+      <Hsp_qseq>CCGATCGAATCTTTTTCCT-CATTTAGGTGTTTTCTTTAGTACTAAGA-------GA--------GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>CCGATCGAATCTTTTTCCTTCATTTTGGTGTTTTGTTTAGTACTTAGAATTTTTTGAAATTTTTTGGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| ||||| |||||||| ||||||||| |||       ||        ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>gi|397137097|gb|JQ419170.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpB_32_25 Adh gene, partial cds &gt;gi|397137099|gb|JQ419171.1| Capsella bursa-pastoris isolate CbpB_32_27 Adh gene, partial cds &gt;gi|397137101|gb|JQ419172.1| Capsella bursa-pastoris isolate CbpB_39_12 Adh gene, partial cds &gt;gi|397137127|gb|JQ419185.1| Capsella bursa-pastoris isolate CbpB_ISR3_2 Adh gene, partial cds &gt;gi|397137153|gb|JQ419198.1| Capsella bursa-pastoris isolate CbpB_RU10_1 Adh gene, partial cds &gt;gi|397137155|gb|JQ419199.1| Capsella bursa-pastoris isolate CbpB_RU13_1 Adh gene, partial cds &gt;gi|397137157|gb|JQ419200.1| Capsella bursa-pastoris isolate CbpB_RU13_2 Adh gene, partial cds &gt;gi|397137159|gb|JQ419201.1| Capsella bursa-pastoris isolate CbpB_RU2_1 Adh gene, partial cds &gt;gi|397137161|gb|JQ419202.1| Capsella bursa-pastoris isolate CbpB_RU5_1 Adh gene, partial cds &gt;gi|397137163|gb|JQ419203.1| Capsella bursa-pastoris isolate CbpB_RU8_1 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419170</Hit_accession>
+  <Hit_len>278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.572</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>3.21842e-135</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>gi|397137103|gb|JQ419173.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpB_AQ404 Adh gene, partial cds &gt;gi|397137105|gb|JQ419174.1| Capsella bursa-pastoris isolate CbpB_AQ416 Adh gene, partial cds &gt;gi|397137107|gb|JQ419175.1| Capsella bursa-pastoris isolate CbpB_CSH1 Adh gene, partial cds &gt;gi|397137109|gb|JQ419176.1| Capsella bursa-pastoris isolate CbpB_CSH2 Adh gene, partial cds &gt;gi|397137111|gb|JQ419177.1| Capsella bursa-pastoris isolate CbpB_DL167 Adh gene, partial cds &gt;gi|397137113|gb|JQ419178.1| Capsella bursa-pastoris isolate CbpB_DL170 Adh gene, partial cds &gt;gi|397137115|gb|JQ419179.1| Capsella bursa-pastoris isolate CbpB_GY31 Adh gene, partial cds &gt;gi|397137117|gb|JQ419180.1| Capsella bursa-pastoris isolate CbpB_GY36 Adh gene, partial cds &gt;gi|397137123|gb|JQ419183.1| Capsella bursa-pastoris isolate CbpB_HY76 Adh gene, partial cds &gt;gi|397137125|gb|JQ419184.1| Capsella bursa-pastoris isolate CbpB_HY89 Adh gene, partial cds &gt;gi|397137129|gb|JQ419186.1| Capsella bursa-pastoris isolate CbpB_JZH145 Adh gene, partial cds &gt;gi|397137131|gb|JQ419187.1| Capsella bursa-pastoris isolate CbpB_JZH147 Adh gene, partial cds &gt;gi|397137133|gb|JQ419188.1| Capsella bursa-pastoris isolate CbpB_KMB205 Adh gene, partial cds &gt;gi|397137135|gb|JQ419189.1| Capsella bursa-pastoris isolate CbpB_KMB210 Adh gene, partial cds &gt;gi|397137137|gb|JQ419190.1| Capsella bursa-pastoris isolate CbpB_NCH350 Adh gene, partial cds &gt;gi|397137139|gb|JQ419191.1| Capsella bursa-pastoris isolate CbpB_NCH355 Adh gene, partial cds &gt;gi|397137141|gb|JQ419192.1| Capsella bursa-pastoris isolate CbpB_NJ218 Adh gene, partial cds &gt;gi|397137143|gb|JQ419193.1| Capsella bursa-pastoris isolate CbpB_NJ222 Adh gene, partial cds &gt;gi|397137147|gb|JQ419195.1| Capsella bursa-pastoris isolate CbpB_QD319 Adh gene, partial cds &gt;gi|397137149|gb|JQ419196.1| Capsella bursa-pastoris isolate CbpB_QF335 Adh gene, partial cds &gt;gi|397137151|gb|JQ419197.1| Capsella bursa-pastoris isolate CbpB_QF340 Adh gene, partial cds &gt;gi|397137165|gb|JQ419204.1| Capsella bursa-pastoris isolate CbpB_TY121 Adh gene, partial cds &gt;gi|397137169|gb|JQ419206.1| Capsella bursa-pastoris isolate CbpB_WH48 Adh gene, partial cds &gt;gi|397137171|gb|JQ419207.1| Capsella bursa-pastoris isolate CbpB_WH49 Adh gene, partial cds &gt;gi|397137173|gb|JQ419208.1| Capsella bursa-pastoris isolate CbpB_XA106 Adh gene, partial cds &gt;gi|397137175|gb|JQ419209.1| Capsella bursa-pastoris isolate CbpB_XA110 Adh gene, partial cds &gt;gi|397137177|gb|JQ419210.1| Capsella bursa-pastoris isolate CbpB_XN438 Adh gene, partial cds &gt;gi|397137179|gb|JQ419211.1| Capsella bursa-pastoris isolate CbpB_XN442 Adh gene, partial cds &gt;gi|397137183|gb|JQ419213.1| Capsella bursa-pastoris isolate CbpB_XY20 Adh gene, partial cds &gt;gi|397137185|gb|JQ419214.1| Capsella bursa-pastoris isolate CbpB_ZZH279 Adh gene, partial cds &gt;gi|397137187|gb|JQ419215.1| Capsella bursa-pastoris isolate CbpB_ZZH284 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419173</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>475.572</Hsp_bit-score>
+      <Hsp_score>526</Hsp_score>
+      <Hsp_evalue>3.21842e-135</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gi|397137181|gb|JQ419212.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpB_XY18 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419212</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>472.867</Hsp_bit-score>
+      <Hsp_score>523</Hsp_score>
+      <Hsp_evalue>3.92084e-134</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAKATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gi|397137119|gb|JQ419181.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpB_HD63 Adh gene, partial cds &gt;gi|397137121|gb|JQ419182.1| Capsella bursa-pastoris isolate CbpB_HD68 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419181</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>471.966</Hsp_bit-score>
+      <Hsp_score>522</Hsp_score>
+      <Hsp_evalue>3.92084e-134</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>315</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>266</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGC</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>gi|397137167|gb|JQ419205.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpB_TY123 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419205</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>471.064</Hsp_bit-score>
+      <Hsp_score>521</Hsp_score>
+      <Hsp_evalue>1.36851e-133</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGACGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>gi|397137005|gb|JQ419124.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpA_32_25 Adh gene, partial cds &gt;gi|397137007|gb|JQ419125.1| Capsella bursa-pastoris isolate CbpA_32_27 Adh gene, partial cds &gt;gi|397137009|gb|JQ419126.1| Capsella bursa-pastoris isolate CbpA_39_12 Adh gene, partial cds &gt;gi|397137037|gb|JQ419140.1| Capsella bursa-pastoris isolate CbpA_ISR3_2 Adh gene, partial cds &gt;gi|397137063|gb|JQ419153.1| Capsella bursa-pastoris isolate CbpA_RU10_1 Adh gene, partial cds &gt;gi|397137065|gb|JQ419154.1| Capsella bursa-pastoris isolate CbpA_RU2_1 Adh gene, partial cds &gt;gi|397137067|gb|JQ419155.1| Capsella bursa-pastoris isolate CbpA_RU3_2 Adh gene, partial cds &gt;gi|397137069|gb|JQ419156.1| Capsella bursa-pastoris isolate CbpA_RU5_1 Adh gene, partial cds &gt;gi|397137071|gb|JQ419157.1| Capsella bursa-pastoris isolate CbpA_RU8_1 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419124</Hit_accession>
+  <Hit_len>278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.555</Hsp_bit-score>
+      <Hsp_score>516</Hsp_score>
+      <Hsp_evalue>1.66719e-132</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gi|397137061|gb|JQ419152.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpA_QF340 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419152</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.047</Hsp_bit-score>
+      <Hsp_score>511</Hsp_score>
+      <Hsp_evalue>7.08905e-131</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gi|397137011|gb|JQ419127.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpA_AQ404 Adh gene, partial cds &gt;gi|397137013|gb|JQ419128.1| Capsella bursa-pastoris isolate CbpA_AQ416 Adh gene, partial cds &gt;gi|397137015|gb|JQ419129.1| Capsella bursa-pastoris isolate CbpA_CSH1 Adh gene, partial cds &gt;gi|397137017|gb|JQ419130.1| Capsella bursa-pastoris isolate CbpA_CSH2 Adh gene, partial cds &gt;gi|397137019|gb|JQ419131.1| Capsella bursa-pastoris isolate CbpA_DL167 Adh gene, partial cds &gt;gi|397137021|gb|JQ419132.1| Capsella bursa-pastoris isolate CbpA_DL170 Adh gene, partial cds &gt;gi|397137027|gb|JQ419135.1| Capsella bursa-pastoris isolate CbpA_HD63 Adh gene, partial cds &gt;gi|397137029|gb|JQ419136.1| Capsella bursa-pastoris isolate CbpA_HD68 Adh gene, partial cds &gt;gi|397137031|gb|JQ419137.1| Capsella bursa-pastoris isolate CbpA_HRB137 Adh gene, partial cds &gt;gi|397137033|gb|JQ419138.1| Capsella bursa-pastoris isolate CbpA_HY76 Adh gene, partial cds &gt;gi|397137035|gb|JQ419139.1| Capsella bursa-pastoris isolate CbpA_HY89 Adh gene, partial cds &gt;gi|397137039|gb|JQ419141.1| Capsella bursa-pastoris isolate CbpA_JZH145 Adh gene, partial cds &gt;gi|397137041|gb|JQ419142.1| Capsella bursa-pastoris isolate CbpA_JZH147 Adh gene, partial cds &gt;gi|397137043|gb|JQ419143.1| Capsella bursa-pastoris isolate CbpA_KMB205 Adh gene, partial cds &gt;gi|397137045|gb|JQ419144.1| Capsella bursa-pastoris isolate CbpA_KMB210 Adh gene, partial cds &gt;gi|397137047|gb|JQ419145.1| Capsella bursa-pastoris isolate CbpA_NCH350 Adh gene, partial cds &gt;gi|397137049|gb|JQ419146.1| Capsella bursa-pastoris isolate CbpA_NCH355 Adh gene, partial cds &gt;gi|397137051|gb|JQ419147.1| Capsella bursa-pastoris isolate CbpA_NJ218 Adh gene, partial cds &gt;gi|397137055|gb|JQ419149.1| Capsella bursa-pastoris isolate CbpA_QD318 Adh gene, partial cds &gt;gi|397137057|gb|JQ419150.1| Capsella bursa-pastoris isolate CbpA_QD319 Adh gene, partial cds &gt;gi|397137059|gb|JQ419151.1| Capsella bursa-pastoris isolate CbpA_QF335 Adh gene, partial cds &gt;gi|397137073|gb|JQ419158.1| Capsella bursa-pastoris isolate CbpA_TY121 Adh gene, partial cds &gt;gi|397137075|gb|JQ419159.1| Capsella bursa-pastoris isolate CbpA_TY123 Adh gene, partial cds &gt;gi|397137077|gb|JQ419160.1| Capsella bursa-pastoris isolate CbpA_WH48 Adh gene, partial cds &gt;gi|397137079|gb|JQ419161.1| Capsella bursa-pastoris isolate CbpA_WH49 Adh gene, partial cds &gt;gi|397137081|gb|JQ419162.1| Capsella bursa-pastoris isolate CbpA_XA106 Adh gene, partial cds &gt;gi|397137083|gb|JQ419163.1| Capsella bursa-pastoris isolate CbpA_XA110 Adh gene, partial cds &gt;gi|397137085|gb|JQ419164.1| Capsella bursa-pastoris isolate CbpA_XN438 Adh gene, partial cds &gt;gi|397137087|gb|JQ419165.1| Capsella bursa-pastoris isolate CbpA_XN442 Adh gene, partial cds &gt;gi|397137091|gb|JQ419167.1| Capsella bursa-pastoris isolate CbpA_XY20 Adh gene, partial cds &gt;gi|397137093|gb|JQ419168.1| Capsella bursa-pastoris isolate CbpA_ZZH279 Adh gene, partial cds &gt;gi|397137095|gb|JQ419169.1| Capsella bursa-pastoris isolate CbpA_ZZH284 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419127</Hit_accession>
+  <Hit_len>278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.047</Hsp_bit-score>
+      <Hsp_score>511</Hsp_score>
+      <Hsp_evalue>7.08905e-131</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>gi|397137053|gb|JQ419148.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpA_NJ222 Adh gene, partial cds &gt;gi|397137089|gb|JQ419166.1| Capsella bursa-pastoris isolate CbpA_XY18 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419148</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>462.047</Hsp_bit-score>
+      <Hsp_score>511</Hsp_score>
+      <Hsp_evalue>7.08905e-131</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>gi|397137023|gb|JQ419133.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpA_GY31 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419133</Hit_accession>
+  <Hit_len>278</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>457.539</Hsp_bit-score>
+      <Hsp_score>506</Hsp_score>
+      <Hsp_evalue>8.63623e-130</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGCGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>gi|397137025|gb|JQ419134.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpA_GY36 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419134</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>457.539</Hsp_bit-score>
+      <Hsp_score>506</Hsp_score>
+      <Hsp_evalue>8.63623e-130</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>317</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_qseq>
+      <Hsp_hseq>GGTTGCGTAGGATTGTTGAGTGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTGGTTCACTCTGGCCA</Hsp_hseq>
+      <Hsp_midline>||||| |||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gi|397137145|gb|JQ419194.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate CbpB_QD318 Adh gene, partial cds</Hit_def>
+  <Hit_accession>JQ419194</Hit_accession>
+  <Hit_len>258</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>450.325</Hsp_bit-score>
+      <Hsp_score>498</Hsp_score>
+      <Hsp_evalue>1.28173e-127</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>303</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>258</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>252</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>254</Hsp_align-len>
+      <Hsp_qseq>GGTTGTGTAGGATTGTTGATAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCTCTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTG</Hsp_qseq>
+      <Hsp_hseq>GGTTGTGTAGGATTGTTGAGAGTGTTGGAGAAGGAGTGACTGATCTTCAACCAGGAGATCATGTTTTACCCATCTTCACCGGAGAGTGTGGGGATTGTCCTCACTGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCCTTGGGACTTCCACGTTTAGTGAGTACACTGTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>974</Statistics_db-num>
+      <Statistics_db-len>1584057</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

@@ -1,0 +1,3563 @@
+RID: 4KDUXEBT013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_3876191(dna) Length: 168
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Capsella rubella isolate 60-7 At4G08920-like protein gene,...     Capsella rub... NA              81985      278    278   93%   2e-70 98.11  491        JF822838.1       
+Capsella grandiflora isolate 3 clone 2 cryptochrome 1 (CRY1)...   Capsella gra... NA              264402     278    278   93%   2e-70 98.11  310        KM672799.1       
+Capsella grandiflora isolate 8 clone 2 cryptochrome 1 (CRY1)...   Capsella gra... NA              264402     278    278   93%   2e-70 98.11  310        KM672805.1       
+Capsella bursa-pastoris isolate C36-1 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  314        KJ955978.1       
+Capsella bursa-pastoris isolate C1 cryptochrome 1 (CRY1) gene,... Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  314        KJ955971.1       
+Capsella bursa-pastoris isolate AL87 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  466        EF683905.1       
+Capsella bursa-pastoris isolate CbpA_AQ404 CRY1 gene, partial cds Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  464        JQ418970.1       
+Capsella bursa-pastoris isolate US721 clone L2 cryptochrome 1...  Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  1980       GQ251563.1       
+Capsella bursa-pastoris isolate TR75 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  466        GQ251548.1       
+Capsella bursa-pastoris isolate TR73 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  430        GQ251546.1       
+Capsella bursa-pastoris isolate AL88 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  466        EF683906.1       
+Capsella bursa-pastoris isolate C73-3 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       278    278   93%   2e-70 98.11  310        KM673203.1       
+Capsella bursa-pastoris isolate CbpB_AQ404 CRY1 gene, partial cds Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  464        JQ419014.1       
+Capsella bursa-pastoris isolate SY70 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  488        GQ251553.1       
+Capsella bursa-pastoris isolate C11-1 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  310        KM673172.1       
+Capsella bursa-pastoris isolate C35-2 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  310        KM673045.1       
+Capsella bursa-pastoris isolate SE33 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  559        EF684026.1       
+Capsella bursa-pastoris isolate NL55 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  619        EF684019.1       
+Capsella bursa-pastoris isolate CZ96 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  627        EF684002.1       
+Capsella bursa-pastoris isolate US721 clone L1 cryptochrome 1...  Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  2057       GQ251561.1       
+Capsella bursa-pastoris isolate AL87 cryptochrome 1 (CRY1) gen... Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  627        EF683997.1       
+Capsella orientalis isolate C12-5 cryptochrome 1 (CRY1) gene,...  Capsella ori... NA              945839     276    276   93%   8e-70 98.10  310        KM672844.1       
+Capsella bursa-pastoris isolate AT101 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       276    276   93%   8e-70 98.10  498        GQ251552.1       
+Capsella orientalis isolate C24-2 cryptochrome 1 (CRY1) gene,...  Capsella ori... NA              945839     274    274   88%   3e-69 100.00 310        KM672849.1       
+Capsella grandiflora isolate 7m At4G08920-like protein gene,...   Capsella gra... NA              264402     274    274   93%   3e-69 97.48  466        JF821919.1       
+Capsella grandiflora isolate 10e At4G08920-like protein gene,...  Capsella gra... NA              264402     274    274   93%   3e-69 97.48  466        JF821921.1       
+Capsella grandiflora isolate 11c At4G08920-like protein gene,...  Capsella gra... NA              264402     274    274   93%   3e-69 97.48  466        JF821920.1       
+Capsella rubella isolate 2-8 At4G08920-like protein gene,...      Capsella rub... NA              81985      272    272   93%   1e-68 97.48  482        JF822860.1       
+Capsella rubella isolate 2-22 At4G08920-like protein gene,...     Capsella rub... NA              81985      272    272   93%   1e-68 97.48  483        JF822859.1       
+Capsella rubella isolate 4-30 At4G08920-like protein gene,...     Capsella rub... NA              81985      272    272   93%   1e-68 97.48  484        JF822858.1       
+Capsella bursa-pastoris isolate US740 clone L2 cryptochrome 1...  Capsella bur... shepherd's p... 3719       272    272   93%   1e-68 97.48  2022       GQ251564.1       
+Capsella grandiflora isolate 3-8d At4G08920-like protein gene,... Capsella gra... NA              264402     272    272   93%   1e-68 97.48  466        JF821970.1       
+Capsella grandiflora isolate 3-2j At4G08920-like protein gene,... Capsella gra... NA              264402     272    272   93%   1e-68 97.48  416        JF821990.1       
+Capsella grandiflora isolate 10 clone 1 cryptochrome 1 (CRY1)...  Capsella gra... NA              264402     272    272   93%   1e-68 97.48  310        KM672796.1       
+Capsella grandiflora isolate 10 clone 2 cryptochrome 1 (CRY1)...  Capsella gra... NA              264402     272    272   93%   1e-68 97.48  310        KM672797.1       
+PREDICTED: Capsella rubella cryptochrome-1 (LOC17881272), mRNA    Capsella rub... NA              81985      272    272   93%   1e-68 97.48  2637       XM_023780200.1   
+Capsella rubella isolate 8-5 At4G08920-like protein gene,...      Capsella rub... NA              81985      272    272   93%   1e-68 97.48  485        JF822857.1       
+Capsella rubella isolate 3-1 At4G08920-like protein gene,...      Capsella rub... NA              81985      272    272   93%   1e-68 97.48  490        JF822874.1       
+Capsella rubella isolate 115ES5 cryptochrome 1 (CRY1) gene, ex... Capsella rub... NA              81985      272    272   93%   1e-68 97.48  466        EF683898.1       
+Capsella rubella isolate 50-3 At4G08920-like protein gene,...     Capsella rub... NA              81985      272    272   93%   1e-68 97.48  491        JF822839.1       
+Capsella bursa-pastoris isolate CbpB_QD318 CRY1 gene, partial cds Capsella bur... shepherd's p... 3719       272    272   93%   1e-68 97.47  464        JQ419040.1       
+Capsella bursa-pastoris isolate CbpA_32_27 CRY1 gene, partial cds Capsella bur... shepherd's p... 3719       272    272   93%   1e-68 97.48  464        JQ418969.1       
+Capsella bursa-pastoris isolate C45-1 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       272    272   93%   1e-68 97.48  314        KJ955986.1       
+Capsella bursa-pastoris isolate C1 cryptochrome 1 (CRY1) gene,... Capsella bur... shepherd's p... 3719       272    272   92%   1e-68 98.08  296        KJ955783.1       
+Capsella rubella isolate 49-19 At4G08920-like protein gene,...    Capsella rub... NA              81985      272    272   93%   1e-68 97.48  491        JF822854.1       
+Capsella bursa-pastoris isolate QD318 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       272    272   93%   1e-68 97.47  627        EF684068.1       
+Capsella grandiflora isolate 11g At4G08920-like protein gene,...  Capsella gra... NA              264402     272    272   93%   1e-68 97.48  466        JF821975.1       
+Capsella grandiflora isolate 1-11g At4G08920-like protein gene... Capsella gra... NA              264402     272    272   93%   1e-68 97.48  466        JF821976.1       
+Capsella bursa-pastoris isolate AT125 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       272    272   92%   1e-68 98.08  484        EF683999.1       
+Capsella grandiflora isolate 4l At4G08920-like protein gene,...   Capsella gra... NA              264402     272    272   93%   1e-68 97.48  466        JF821927.1       
+Capsella rubella isolate Cr3.14 cryptochrome 1 (CRY1) gene, ex... Capsella rub... NA              81985      272    272   93%   1e-68 97.48  466        EF683884.1       
+Capsella orientalis isolate C47-2 cryptochrome 1 (CRY1) gene,...  Capsella ori... NA              945839     270    270   93%   4e-68 97.47  310        KM672851.1       
+Capsella orientalis isolate C24-3 cryptochrome 1 (CRY1) gene,...  Capsella ori... NA              945839     270    270   87%   4e-68 100.00 296        KJ955812.1       
+Capsella grandiflora isolate 4m At4G08920-like protein gene,...   Capsella gra... NA              264402     268    268   93%   1e-67 96.86  466        JF821929.1       
+Capsella grandiflora isolate 1-8c At4G08920-like protein gene,... Capsella gra... NA              264402     268    268   93%   1e-67 96.86  466        JF821928.1       
+Capsella bursa-pastoris isolate C39-3 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       267    267   93%   5e-67 96.86  314        KJ955980.1       
+PREDICTED: Camelina sativa cryptochrome-1-like (LOC104719895),... Camelina sativa false flax      90675      239    239   90%   1e-58 94.77  2684       XM_019234328.1   
+Arabidopsis lyrata subsp. lyrata isolate ITH8-2A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1749       KP022932.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH4-2A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1749       KP022926.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH42-2 cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022929.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH30-2 cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022919.1       
+Arabidopsis lyrata subsp. lyrata isolate NC11-1A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022766.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH8-2 cryptochrome-1... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022931.1       
+Arabidopsis lyrata subsp. lyrata isolate NC7-10A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2129       KP022762.1       
+Arabidopsis lyrata subsp. lyrata isolate NCM27-5 cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022783.1       
+Arabidopsis lyrata subsp. lyrata isolate NCM6-4A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022794.1       
+Arabidopsis lyrata subsp. petraea isolate SP18-21A...             Arabidopsis ... NA              59691      237    237   91%   4e-58 94.19  2129       KP022746.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH4-2 cryptochrome-1... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022925.1       
+Arabidopsis lyrata subsp. lyrata isolate NCM4-1A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022788.1       
+Arabidopsis lyrata subsp. petraea isolate PL59-5-19...            Arabidopsis ... NA              59691      237    237   91%   4e-58 94.19  1989       KP022807.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH2A cryptochrome-1...  Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022908.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH2 cryptochrome-1...   Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022907.1       
+Arabidopsis lyrata subsp. lyrata isolate NCM23-5A cryptochrome... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022782.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH10 cryptochrome-1...  Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022901.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH10A cryptochrome-1... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022902.1       
+Arabidopsis lyrata subsp. lyrata isolate NCM8-4A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022798.1       
+Arabidopsis lyrata subsp. lyrata isolate NC2-5A cryptochrome-1... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022778.1       
+Arabidopsis lyrata subsp. lyrata isolate NCM6-2A cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022792.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH26A cryptochrome-1... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1755       KP022916.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH29-2A cryptochrome... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022918.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH41 cryptochrome-1...  Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1756       KP022927.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH42-2A cryptochrome... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1752       KP022930.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH20-2 cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1756       KP022909.1       
+Arabidopsis lyrata subsp. lyrata isolate NC2-5 cryptochrome-1...  Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022777.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH12-1 cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1755       KP022905.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH26 cryptochrome-1...  Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1755       KP022915.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH30-2A cryptochrome... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1749       KP022920.1       
+Arabidopsis lyrata subsp. lyrata isolate NC5-1A cryptochrome-1... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  2358       KP022790.1       
+Arabidopsis lyrata subsp. petraea isolate SP15A cryptochrome-1... Arabidopsis ... NA              59691      237    237   91%   4e-58 94.19  2129       KP022742.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH21-2 cryptochrome-... Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1756       KP022911.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH11 cryptochrome-1...  Arabidopsis ... NA              81972      237    237   91%   4e-58 94.19  1756       KP022903.1       
+PREDICTED: Camelina sativa cryptochrome-1 (LOC104707204), mRNA    Camelina sativa false flax      90675      233    233   90%   5e-57 94.12  2687       XM_010423504.2   
+Arabidopsis lyrata subsp. lyrata isolate ITH32-2A cryptochrome... Arabidopsis ... NA              81972      231    231   91%   2e-56 93.55  1752       KP022922.1       
+Arabidopsis lyrata subsp. petraea isolate PL80-2 cryptochrome-... Arabidopsis ... NA              59691      231    231   91%   2e-56 93.55  2010       KP022827.1       
+Arabidopsis lyrata subsp. petraea isolate KAR33A cryptochrome-... Arabidopsis ... NA              59691      231    231   91%   2e-56 93.55  1756       KP022960.1       
+Arabidopsis lyrata subsp. petraea isolate KAR11A cryptochrome-... Arabidopsis ... NA              59691      231    231   91%   2e-56 93.55  1756       KP022936.1       
+Capsella bursa-pastoris isolate C56-2 cryptochrome 1 (CRY1)...    Capsella bur... shepherd's p... 3719       231    231   87%   2e-56 95.21  296        KJ955804.1       
+Arabidopsis lyrata subsp. petraea isolate PL56-4-6...             Arabidopsis ... NA              59691      231    231   91%   2e-56 93.55  1989       KP022805.1       
+Arabidopsis lyrata subsp. lyrata isolate ITH41A cryptochrome-1... Arabidopsis ... NA              81972      231    231   91%   2e-56 93.55  1752       KP022928.1       
+Arabidopsis lyrata subsp. petraea isolate KAR20A cryptochrome-... Arabidopsis ... NA              59691      231    231   91%   2e-56 93.55  1756       KP022950.1       
+
+Alignments:
+
+>Capsella rubella isolate 60-7 At4G08920-like protein gene, partial cds
+Sequence ID: JF822838.1 Length: 491
+Range 1: 185 to 343
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  185  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  244
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  245  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  304
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  305  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  343
+
+
+
+
+>Capsella grandiflora isolate 3 clone 2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672799.1 Length: 310
+>Capsella grandiflora isolate 4 clone 2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672801.1 Length: 310
+>Capsella grandiflora isolate 7 clone 2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672803.1 Length: 310
+>Capsella bursa-pastoris isolate C122-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673174.1 Length: 310
+>Capsella bursa-pastoris isolate C122-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673175.1 Length: 310
+>Capsella bursa-pastoris isolate C20-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673176.1 Length: 310
+>Capsella bursa-pastoris isolate C22-10 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673177.1 Length: 310
+>Capsella bursa-pastoris isolate C3-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673179.1 Length: 310
+>Capsella bursa-pastoris isolate C35-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673180.1 Length: 310
+>Capsella bursa-pastoris isolate C36-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673181.1 Length: 310
+>Capsella bursa-pastoris isolate C37-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673182.1 Length: 310
+>Capsella bursa-pastoris isolate C40-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673183.1 Length: 310
+>Capsella bursa-pastoris isolate C41-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673184.1 Length: 310
+>Capsella bursa-pastoris isolate C4-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673185.1 Length: 310
+>Capsella bursa-pastoris isolate C44-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673187.1 Length: 310
+>Capsella bursa-pastoris isolate C45-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673188.1 Length: 310
+>Capsella bursa-pastoris isolate C50-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673190.1 Length: 310
+>Capsella bursa-pastoris isolate C53-4 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673191.1 Length: 310
+>Capsella bursa-pastoris isolate C54-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673192.1 Length: 310
+>Capsella bursa-pastoris isolate C58-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673193.1 Length: 310
+>Capsella bursa-pastoris isolate C62-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673194.1 Length: 310
+>Capsella bursa-pastoris isolate C63-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673195.1 Length: 310
+>Capsella bursa-pastoris isolate C63-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673196.1 Length: 310
+>Capsella bursa-pastoris isolate C64-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673197.1 Length: 310
+>Capsella bursa-pastoris isolate C64-5 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673198.1 Length: 310
+>Capsella bursa-pastoris isolate C66 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673199.1 Length: 310
+>Capsella bursa-pastoris isolate C72-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673200.1 Length: 310
+>Capsella bursa-pastoris isolate C72-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673201.1 Length: 310
+>Capsella bursa-pastoris isolate C73-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673202.1 Length: 310
+>Capsella bursa-pastoris isolate C74-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673204.1 Length: 310
+>Capsella bursa-pastoris isolate C74-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673205.1 Length: 310
+>Capsella bursa-pastoris isolate C77-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673206.1 Length: 310 
+Range 1: 138 to 296
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  138  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  197
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  198  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  257
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  258  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella grandiflora isolate 8 clone 2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672805.1 Length: 310
+>Capsella bursa-pastoris isolate C46-5 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673189.1 Length: 310
+>Capsella bursa-pastoris isolate C78-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673207.1 Length: 310 
+Range 1: 138 to 296
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  138  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  197
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  198  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  257
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  258  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella bursa-pastoris isolate C36-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955978.1 Length: 314
+Range 1: 140 to 298
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  199
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  200  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  259
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  260  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  298
+
+
+
+
+>Capsella bursa-pastoris isolate C1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955971.1 Length: 314
+>Capsella bursa-pastoris isolate C20-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955972.1 Length: 314
+>Capsella bursa-pastoris isolate C3-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955973.1 Length: 314
+>Capsella bursa-pastoris isolate C31-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955974.1 Length: 314
+>Capsella bursa-pastoris isolate C32 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955975.1 Length: 314
+>Capsella bursa-pastoris isolate C33-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955976.1 Length: 314
+>Capsella bursa-pastoris isolate C35-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955977.1 Length: 314
+>Capsella bursa-pastoris isolate C37-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955979.1 Length: 314
+>Capsella bursa-pastoris isolate C40-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955981.1 Length: 314
+>Capsella bursa-pastoris isolate C4-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955982.1 Length: 314
+>Capsella bursa-pastoris isolate C41-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955983.1 Length: 314
+>Capsella bursa-pastoris isolate C42-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955984.1 Length: 314
+>Capsella bursa-pastoris isolate C44-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955985.1 Length: 314
+>Capsella bursa-pastoris isolate C46-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955987.1 Length: 314
+>Capsella bursa-pastoris isolate C50-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955988.1 Length: 314
+>Capsella bursa-pastoris isolate C53-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955989.1 Length: 314
+>Capsella bursa-pastoris isolate C54-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955990.1 Length: 314
+>Capsella bursa-pastoris isolate C55-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955991.1 Length: 314
+>Capsella bursa-pastoris isolate C56-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955992.1 Length: 314
+>Capsella bursa-pastoris isolate C57-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955993.1 Length: 314
+>Capsella bursa-pastoris isolate C58-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955994.1 Length: 314 
+Range 1: 140 to 298
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  199
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  200  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  259
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  260  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  298
+
+
+
+
+>Capsella bursa-pastoris isolate AL87 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683905.1 Length: 466
+>Capsella bursa-pastoris isolate AT125 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683907.1 Length: 466
+>Capsella bursa-pastoris isolate BH112 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683908.1 Length: 466
+>Capsella bursa-pastoris isolate BH113 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683909.1 Length: 466
+>Capsella bursa-pastoris isolate CZ96 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683910.1 Length: 466
+>Capsella bursa-pastoris isolate DE98 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683912.1 Length: 466
+>Capsella bursa-pastoris isolate ES107 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683916.1 Length: 466
+>Capsella bursa-pastoris isolate ET8 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683917.1 Length: 466
+>Capsella bursa-pastoris isolate GB93 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683921.1 Length: 466
+>Capsella bursa-pastoris isolate JO59 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683924.1 Length: 466
+>Capsella bursa-pastoris isolate JO60 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683925.1 Length: 466
+>Capsella bursa-pastoris isolate NL55 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683927.1 Length: 466
+>Capsella bursa-pastoris isolate PL135 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683928.1 Length: 466
+>Capsella bursa-pastoris isolate SE139 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683929.1 Length: 466
+>Capsella bursa-pastoris isolate SE12 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683930.1 Length: 466
+>Capsella bursa-pastoris isolate SE33 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683934.1 Length: 466
+>Capsella bursa-pastoris isolate SE35 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683935.1 Length: 466
+>Capsella bursa-pastoris isolate SE37 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683936.1 Length: 466
+>Capsella bursa-pastoris isolate SE39 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683938.1 Length: 466
+>Capsella bursa-pastoris isolate SE40 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683939.1 Length: 466
+>Capsella bursa-pastoris isolate SE41 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683940.1 Length: 466
+>Capsella bursa-pastoris isolate SE43 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683942.1 Length: 466
+>Capsella bursa-pastoris isolate SE46 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683945.1 Length: 466
+>Capsella bursa-pastoris isolate SY66 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683951.1 Length: 466
+>Capsella bursa-pastoris isolate SY68 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683953.1 Length: 466
+>Capsella bursa-pastoris isolate SY69 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683954.1 Length: 466
+>Capsella bursa-pastoris isolate XA106 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683955.1 Length: 466
+>Capsella bursa-pastoris isolate XA110 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683956.1 Length: 466
+>Capsella bursa-pastoris isolate TY121 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683957.1 Length: 466
+>Capsella bursa-pastoris isolate TY123 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683958.1 Length: 466
+>Capsella bursa-pastoris isolate HRB135 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683959.1 Length: 466
+>Capsella bursa-pastoris isolate JZH145 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683960.1 Length: 466
+>Capsella bursa-pastoris isolate JZH147 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683961.1 Length: 466
+>Capsella bursa-pastoris isolate DL167 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683962.1 Length: 466
+>Capsella bursa-pastoris isolate DL170 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683963.1 Length: 466
+>Capsella bursa-pastoris isolate XY18 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683964.1 Length: 466
+>Capsella bursa-pastoris isolate CSH1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683965.1 Length: 466
+>Capsella bursa-pastoris isolate KMB205 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683966.1 Length: 466
+>Capsella bursa-pastoris isolate XY20 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683967.1 Length: 466
+>Capsella bursa-pastoris isolate KMB210 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683968.1 Length: 466
+>Capsella bursa-pastoris isolate NJ218 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683969.1 Length: 466
+>Capsella bursa-pastoris isolate NJ222 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683970.1 Length: 466
+>Capsella bursa-pastoris isolate BJB234 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683971.1 Length: 466
+>Capsella bursa-pastoris isolate BJB236 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683972.1 Length: 466
+>Capsella bursa-pastoris isolate ZZH279 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683973.1 Length: 466
+>Capsella bursa-pastoris isolate ZZH284 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683974.1 Length: 466
+>Capsella bursa-pastoris isolate CSH2 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683975.1 Length: 466
+>Capsella bursa-pastoris isolate QD318 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683976.1 Length: 466
+>Capsella bursa-pastoris isolate QD319 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683977.1 Length: 466
+>Capsella bursa-pastoris isolate GY31 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683978.1 Length: 466
+>Capsella bursa-pastoris isolate QF335 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683979.1 Length: 466
+>Capsella bursa-pastoris isolate QF340 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683980.1 Length: 466
+>Capsella bursa-pastoris isolate NCH350 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683981.1 Length: 466
+>Capsella bursa-pastoris isolate NCH355 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683982.1 Length: 466
+>Capsella bursa-pastoris isolate GY36 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683983.1 Length: 466
+>Capsella bursa-pastoris isolate AQ404 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683984.1 Length: 466
+>Capsella bursa-pastoris isolate AQ416 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683985.1 Length: 466
+>Capsella bursa-pastoris isolate XN442 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683986.1 Length: 466
+>Capsella bursa-pastoris isolate WH48 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683987.1 Length: 466
+>Capsella bursa-pastoris isolate WH49 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683988.1 Length: 466
+>Capsella bursa-pastoris isolate HD63 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683989.1 Length: 466
+>Capsella bursa-pastoris isolate HD68 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683990.1 Length: 466
+>Capsella bursa-pastoris isolate HY76 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683991.1 Length: 466
+>Capsella bursa-pastoris isolate HY89 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683992.1 Length: 466
+>Capsella bursa-pastoris isolate BD92 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683993.1 Length: 466
+>Capsella bursa-pastoris isolate BD97 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683994.1 Length: 466
+>Capsella bursa-pastoris isolate TWPL cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683995.1 Length: 466
+>Capsella bursa-pastoris isolate TWTY cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683996.1 Length: 466
+>Capsella bursa-pastoris isolate TR74 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251547.1 Length: 466
+>Capsella bursa-pastoris isolate TR79 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251549.1 Length: 466
+>Capsella bursa-pastoris isolate TR83 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251550.1 Length: 466
+>Capsella bursa-pastoris isolate TR91 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251551.1 Length: 466 
+Range 1: 167 to 325
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_AQ404 CRY1 gene, partial cds
+Sequence ID: JQ418970.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_AQ416 CRY1 gene, partial cds
+Sequence ID: JQ418971.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_BJB234 CRY1 gene, partial cds
+Sequence ID: JQ418972.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_BJB236 CRY1 gene, partial cds
+Sequence ID: JQ418973.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_CHPL CRY1 gene, partial cds
+Sequence ID: JQ418974.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_CHTY CRY1 gene, partial cds
+Sequence ID: JQ418975.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_CSH1 CRY1 gene, partial cds
+Sequence ID: JQ418976.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_CSH2 CRY1 gene, partial cds
+Sequence ID: JQ418977.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_DL167 CRY1 gene, partial cds
+Sequence ID: JQ418978.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_DL170 CRY1 gene, partial cds
+Sequence ID: JQ418979.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_GY31 CRY1 gene, partial cds
+Sequence ID: JQ418981.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_GY36 CRY1 gene, partial cds
+Sequence ID: JQ418982.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_HD63 CRY1 gene, partial cds
+Sequence ID: JQ418983.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_HD68 CRY1 gene, partial cds
+Sequence ID: JQ418984.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_HRB135 CRY1 gene, partial cds
+Sequence ID: JQ418985.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_HY76 CRY1 gene, partial cds
+Sequence ID: JQ418986.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_HY89 CRY1 gene, partial cds
+Sequence ID: JQ418987.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_ISR3_3 CRY1 gene, partial cds
+Sequence ID: JQ418988.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_JZH145 CRY1 gene, partial cds
+Sequence ID: JQ418989.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_JZH147 CRY1 gene, partial cds
+Sequence ID: JQ418990.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_KMB205 CRY1 gene, partial cds
+Sequence ID: JQ418991.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_KMB210 CRY1 gene, partial cds
+Sequence ID: JQ418992.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_NCH350 CRY1 gene, partial cds
+Sequence ID: JQ418993.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_NCH355 CRY1 gene, partial cds
+Sequence ID: JQ418994.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_NJ218 CRY1 gene, partial cds
+Sequence ID: JQ418995.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_NJ222 CRY1 gene, partial cds
+Sequence ID: JQ418996.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_QD318 CRY1 gene, partial cds
+Sequence ID: JQ418997.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_QD319 CRY1 gene, partial cds
+Sequence ID: JQ418998.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_QF335 CRY1 gene, partial cds
+Sequence ID: JQ418999.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_QF340 CRY1 gene, partial cds
+Sequence ID: JQ419000.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_RU13_1 CRY1 gene, partial cds
+Sequence ID: JQ419001.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_RU3_2 CRY1 gene, partial cds
+Sequence ID: JQ419003.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_TY123 CRY1 gene, partial cds
+Sequence ID: JQ419005.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_WH48 CRY1 gene, partial cds
+Sequence ID: JQ419006.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_WH49 CRY1 gene, partial cds
+Sequence ID: JQ419007.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_XA110 CRY1 gene, partial cds
+Sequence ID: JQ419008.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_XN442 CRY1 gene, partial cds
+Sequence ID: JQ419009.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_XY18 CRY1 gene, partial cds
+Sequence ID: JQ419010.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_XY20 CRY1 gene, partial cds
+Sequence ID: JQ419011.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_ZZH279 CRY1 gene, partial cds
+Sequence ID: JQ419012.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_ZZH284 CRY1 gene, partial cds
+Sequence ID: JQ419013.1 Length: 464 
+Range 1: 165 to 323
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  165  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  224
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  225  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  284
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  285  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  323
+
+
+
+
+>Capsella bursa-pastoris isolate US721 clone L2 cryptochrome 1 (CRY1) mRNA, partial cds
+Sequence ID: GQ251563.1 Length: 1980
+Range 1: 1158 to 1316
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11    CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+             ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1158  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  1217
+
+Query  69    TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1218  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  1277
+
+Query  129   GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+             |||||||||||||||||||||||||||||||||||||||
+Sbjct  1278  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  1316
+
+
+
+
+>Capsella bursa-pastoris isolate TR75 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251548.1 Length: 466
+Range 1: 167 to 325
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella bursa-pastoris isolate TR73 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251546.1 Length: 430
+Range 1: 131 to 289
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  131  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  190
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  191  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  250
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  251  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  289
+
+
+
+
+>Capsella bursa-pastoris isolate AL88 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683906.1 Length: 466
+>Capsella bursa-pastoris isolate ES105 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683915.1 Length: 466
+>Capsella bursa-pastoris isolate ES121 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683920.1 Length: 466
+>Capsella bursa-pastoris isolate JO56 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683923.1 Length: 466
+>Capsella bursa-pastoris isolate SY61 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683947.1 Length: 466
+>Capsella bursa-pastoris isolate SY63 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683948.1 Length: 466
+>Capsella bursa-pastoris isolate SY64 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683949.1 Length: 466
+>Capsella bursa-pastoris isolate SY65 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683950.1 Length: 466
+>Capsella bursa-pastoris isolate SY67 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683952.1 Length: 466
+>Capsella bursa-pastoris isolate SY70 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251544.1 Length: 466
+>Capsella bursa-pastoris isolate TR71 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251545.1 Length: 466 
+Range 1: 167 to 325
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella bursa-pastoris isolate C73-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673203.1 Length: 310
+Range 1: 138 to 296
+
+Score:278 bits(150), Expect:2e-70, 
+Identities:156/159(98%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  138  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  197
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  198  TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  257
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  258  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_AQ404 CRY1 gene, partial cds
+Sequence ID: JQ419014.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_AQ416 CRY1 gene, partial cds
+Sequence ID: JQ419015.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_BJB234 CRY1 gene, partial cds
+Sequence ID: JQ419016.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_BJB236 CRY1 gene, partial cds
+Sequence ID: JQ419017.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_CHPL CRY1 gene, partial cds
+Sequence ID: JQ419018.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_CSH1 CRY1 gene, partial cds
+Sequence ID: JQ419019.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_CSH2 CRY1 gene, partial cds
+Sequence ID: JQ419020.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_DL167 CRY1 gene, partial cds
+Sequence ID: JQ419021.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_DL170 CRY1 gene, partial cds
+Sequence ID: JQ419022.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_FR4_2 CRY1 gene, partial cds
+Sequence ID: JQ419023.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_GY31 CRY1 gene, partial cds
+Sequence ID: JQ419024.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_GY36 CRY1 gene, partial cds
+Sequence ID: JQ419025.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_HD63 CRY1 gene, partial cds
+Sequence ID: JQ419026.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_HD68 CRY1 gene, partial cds
+Sequence ID: JQ419027.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_HRB135 CRY1 gene, partial cds
+Sequence ID: JQ419028.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_HY76 CRY1 gene, partial cds
+Sequence ID: JQ419029.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_HY89 CRY1 gene, partial cds
+Sequence ID: JQ419030.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_ISR3_3 CRY1 gene, partial cds
+Sequence ID: JQ419031.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_JZH145 CRY1 gene, partial cds
+Sequence ID: JQ419032.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_JZH147 CRY1 gene, partial cds
+Sequence ID: JQ419033.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_KMB205 CRY1 gene, partial cds
+Sequence ID: JQ419034.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_KMB210 CRY1 gene, partial cds
+Sequence ID: JQ419035.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_NCH350 CRY1 gene, partial cds
+Sequence ID: JQ419036.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_NCH355 CRY1 gene, partial cds
+Sequence ID: JQ419037.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_NJ218 CRY1 gene, partial cds
+Sequence ID: JQ419038.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_NJ222 CRY1 gene, partial cds
+Sequence ID: JQ419039.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_QD319 CRY1 gene, partial cds
+Sequence ID: JQ419041.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_QF335 CRY1 gene, partial cds
+Sequence ID: JQ419042.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_QF340 CRY1 gene, partial cds
+Sequence ID: JQ419043.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_RU13_1 CRY1 gene, partial cds
+Sequence ID: JQ419044.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_RU2_1 CRY1 gene, partial cds
+Sequence ID: JQ419045.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_RU3_2 CRY1 gene, partial cds
+Sequence ID: JQ419046.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_TY121 CRY1 gene, partial cds
+Sequence ID: JQ419047.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_TY123 CRY1 gene, partial cds
+Sequence ID: JQ419048.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_WH48 CRY1 gene, partial cds
+Sequence ID: JQ419049.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_WH49 CRY1 gene, partial cds
+Sequence ID: JQ419050.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_XA106 CRY1 gene, partial cds
+Sequence ID: JQ419051.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_XA110 CRY1 gene, partial cds
+Sequence ID: JQ419052.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_XN442 CRY1 gene, partial cds
+Sequence ID: JQ419053.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_XY18 CRY1 gene, partial cds
+Sequence ID: JQ419054.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_XY20 CRY1 gene, partial cds
+Sequence ID: JQ419055.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_ZZH279 CRY1 gene, partial cds
+Sequence ID: JQ419056.1 Length: 464
+>Capsella bursa-pastoris isolate CbpB_ZZH284 CRY1 gene, partial cds
+Sequence ID: JQ419057.1 Length: 464 
+Range 1: 166 to 323
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  166  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  225
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  226  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  285
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  286  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  323
+
+
+
+
+>Capsella bursa-pastoris isolate SY70 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251553.1 Length: 488
+Range 1: 329 to 486
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella bursa-pastoris isolate C11-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673172.1 Length: 310
+>Capsella bursa-pastoris isolate C11-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673173.1 Length: 310
+>Capsella bursa-pastoris isolate C26 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673178.1 Length: 310 
+Range 1: 139 to 296
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  139  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  198
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  199  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  258
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  259  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella bursa-pastoris isolate C35-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673045.1 Length: 310
+Range 1: 139 to 296
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  139  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  198
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  199  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  258
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  259  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella bursa-pastoris isolate SE33 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684026.1 Length: 559
+Range 1: 329 to 486
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella bursa-pastoris isolate NL55 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684019.1 Length: 619
+Range 1: 329 to 486
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella bursa-pastoris isolate CZ96 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684002.1 Length: 627
+>Capsella bursa-pastoris isolate SE139 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684021.1 Length: 627
+>Capsella bursa-pastoris isolate SE30 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684023.1 Length: 627
+>Capsella bursa-pastoris isolate SE35 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684027.1 Length: 627
+>Capsella bursa-pastoris isolate SE38 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684029.1 Length: 627
+>Capsella bursa-pastoris isolate SE43 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684034.1 Length: 627
+>Capsella bursa-pastoris isolate SE44 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684035.1 Length: 627 
+Range 1: 329 to 486
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella bursa-pastoris isolate US721 clone L1 cryptochrome 1 (CRY1) mRNA, complete cds
+Sequence ID: GQ251561.1 Length: 2057
+>Capsella bursa-pastoris isolate US740 clone L1 cryptochrome 1 (CRY1) mRNA, complete cds
+Sequence ID: GQ251562.1 Length: 2057 
+Range 1: 1159 to 1316
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1159  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1218
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1219  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  1278
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+             ||||||||||||||||||||||||||||||||||||||
+Sbjct  1279  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  1316
+
+
+
+
+>Capsella bursa-pastoris isolate AL87 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683997.1 Length: 627
+>Capsella bursa-pastoris isolate AL88 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683998.1 Length: 627
+>Capsella bursa-pastoris isolate BH112 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684000.1 Length: 627
+>Capsella bursa-pastoris isolate BH113 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684001.1 Length: 627
+>Capsella bursa-pastoris isolate DE97 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684003.1 Length: 627
+>Capsella bursa-pastoris isolate DE98 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684004.1 Length: 627
+>Capsella bursa-pastoris isolate DE127 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684005.1 Length: 627
+>Capsella bursa-pastoris isolate DE136 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684006.1 Length: 627
+>Capsella bursa-pastoris isolate ES105 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684007.1 Length: 627
+>Capsella bursa-pastoris isolate ES107 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684008.1 Length: 627
+>Capsella bursa-pastoris isolate ET8 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684009.1 Length: 627
+>Capsella bursa-pastoris isolate FR49 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684010.1 Length: 627
+>Capsella bursa-pastoris isolate FR50 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684011.1 Length: 627
+>Capsella bursa-pastoris isolate ES121 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684012.1 Length: 627
+>Capsella bursa-pastoris isolate GB93 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684013.1 Length: 627
+>Capsella bursa-pastoris isolate GR134 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684014.1 Length: 627
+>Capsella bursa-pastoris isolate JO56 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684015.1 Length: 627
+>Capsella bursa-pastoris isolate JO59 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684016.1 Length: 627
+>Capsella bursa-pastoris isolate JO60 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684017.1 Length: 627
+>Capsella bursa-pastoris isolate NL54 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684018.1 Length: 627
+>Capsella bursa-pastoris isolate PL135 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684020.1 Length: 627
+>Capsella bursa-pastoris isolate SE12 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684022.1 Length: 627
+>Capsella bursa-pastoris isolate SE31 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684024.1 Length: 627
+>Capsella bursa-pastoris isolate SE32 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684025.1 Length: 627
+>Capsella bursa-pastoris isolate SE37 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684028.1 Length: 627
+>Capsella bursa-pastoris isolate SE39 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684030.1 Length: 627
+>Capsella bursa-pastoris isolate SE40 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684031.1 Length: 627
+>Capsella bursa-pastoris isolate SE41 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684032.1 Length: 627
+>Capsella bursa-pastoris isolate SE42 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684033.1 Length: 627
+>Capsella bursa-pastoris isolate SE45 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684036.1 Length: 627
+>Capsella bursa-pastoris isolate SE46 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684037.1 Length: 627
+>Capsella bursa-pastoris isolate SE48 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684038.1 Length: 627
+>Capsella bursa-pastoris isolate SY61 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684039.1 Length: 627
+>Capsella bursa-pastoris isolate SY63 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684040.1 Length: 627
+>Capsella bursa-pastoris isolate SY64 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684041.1 Length: 627
+>Capsella bursa-pastoris isolate SY65 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684042.1 Length: 627
+>Capsella bursa-pastoris isolate SY66 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684043.1 Length: 627
+>Capsella bursa-pastoris isolate SY67 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684044.1 Length: 627
+>Capsella bursa-pastoris isolate SY68 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684045.1 Length: 627
+>Capsella bursa-pastoris isolate SY69 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684046.1 Length: 627
+>Capsella bursa-pastoris isolate XA106 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684047.1 Length: 627
+>Capsella bursa-pastoris isolate XA110 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684048.1 Length: 627
+>Capsella bursa-pastoris isolate TY121 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684049.1 Length: 627
+>Capsella bursa-pastoris isolate TY123 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684050.1 Length: 627
+>Capsella bursa-pastoris isolate HRB135 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684051.1 Length: 627
+>Capsella bursa-pastoris isolate JZH145 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684052.1 Length: 627
+>Capsella bursa-pastoris isolate JZH147 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684053.1 Length: 627
+>Capsella bursa-pastoris isolate DL167 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684054.1 Length: 627
+>Capsella bursa-pastoris isolate DL170 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684055.1 Length: 627
+>Capsella bursa-pastoris isolate XY18 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684056.1 Length: 627
+>Capsella bursa-pastoris isolate CSH1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684057.1 Length: 627
+>Capsella bursa-pastoris isolate KMB205 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684058.1 Length: 627
+>Capsella bursa-pastoris isolate XY20 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684059.1 Length: 627
+>Capsella bursa-pastoris isolate KMB210 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684060.1 Length: 627
+>Capsella bursa-pastoris isolate NJ218 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684061.1 Length: 627
+>Capsella bursa-pastoris isolate NJ222 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684062.1 Length: 627
+>Capsella bursa-pastoris isolate BJB234 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684063.1 Length: 627
+>Capsella bursa-pastoris isolate BJB236 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684064.1 Length: 627
+>Capsella bursa-pastoris isolate ZZH279 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684065.1 Length: 627
+>Capsella bursa-pastoris isolate ZZH284 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684066.1 Length: 627
+>Capsella bursa-pastoris isolate CSH2 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684067.1 Length: 627
+>Capsella bursa-pastoris isolate QD319 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684069.1 Length: 627
+>Capsella bursa-pastoris isolate GY31 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684070.1 Length: 627
+>Capsella bursa-pastoris isolate QF335 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684071.1 Length: 627
+>Capsella bursa-pastoris isolate QF340 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684072.1 Length: 627
+>Capsella bursa-pastoris isolate NCH350 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684073.1 Length: 627
+>Capsella bursa-pastoris isolate NCH355 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684074.1 Length: 627
+>Capsella bursa-pastoris isolate GY36 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684075.1 Length: 627
+>Capsella bursa-pastoris isolate AQ404 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684076.1 Length: 627
+>Capsella bursa-pastoris isolate AQ416 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684077.1 Length: 627
+>Capsella bursa-pastoris isolate XN442 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684078.1 Length: 627
+>Capsella bursa-pastoris isolate WH48 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684079.1 Length: 627
+>Capsella bursa-pastoris isolate WH49 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684080.1 Length: 627
+>Capsella bursa-pastoris isolate HD63 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684081.1 Length: 627
+>Capsella bursa-pastoris isolate HD68 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684082.1 Length: 627
+>Capsella bursa-pastoris isolate HY76 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684083.1 Length: 627
+>Capsella bursa-pastoris isolate HY89 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684084.1 Length: 627
+>Capsella bursa-pastoris isolate BD92 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684085.1 Length: 627
+>Capsella bursa-pastoris isolate BD97 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684086.1 Length: 627
+>Capsella bursa-pastoris isolate TWPL cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684087.1 Length: 627
+>Capsella bursa-pastoris isolate TR71 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251554.1 Length: 627
+>Capsella bursa-pastoris isolate TR73 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251555.1 Length: 627
+>Capsella bursa-pastoris isolate TR74 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251556.1 Length: 627
+>Capsella bursa-pastoris isolate TR75 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251557.1 Length: 627
+>Capsella bursa-pastoris isolate TR79 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251558.1 Length: 627
+>Capsella bursa-pastoris isolate TR83 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251559.1 Length: 627
+>Capsella bursa-pastoris isolate TR91 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251560.1 Length: 627 
+Range 1: 329 to 486
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella orientalis isolate C12-5 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672844.1 Length: 310
+>Capsella orientalis isolate C13-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672845.1 Length: 310
+>Capsella orientalis isolate C16-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672846.1 Length: 310
+>Capsella orientalis isolate C21-9 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672847.1 Length: 310
+>Capsella orientalis isolate C22-7 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672848.1 Length: 310
+>Capsella orientalis isolate C43-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672850.1 Length: 310
+>Capsella orientalis isolate C48-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672852.1 Length: 310
+>Capsella orientalis isolate C52-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672853.1 Length: 310
+>Capsella orientalis isolate C59-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672854.1 Length: 310
+>Capsella bursa-pastoris isolate C11-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673037.1 Length: 310
+>Capsella bursa-pastoris isolate C11-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673038.1 Length: 310
+>Capsella bursa-pastoris isolate C122-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673039.1 Length: 310
+>Capsella bursa-pastoris isolate C122-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673040.1 Length: 310
+>Capsella bursa-pastoris isolate C20-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673041.1 Length: 310
+>Capsella bursa-pastoris isolate C22-10 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673042.1 Length: 310
+>Capsella bursa-pastoris isolate C26 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673043.1 Length: 310
+>Capsella bursa-pastoris isolate C3-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673044.1 Length: 310
+>Capsella bursa-pastoris isolate C36-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673046.1 Length: 310
+>Capsella bursa-pastoris isolate C37-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673047.1 Length: 310
+>Capsella bursa-pastoris isolate C40-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673048.1 Length: 310
+>Capsella bursa-pastoris isolate C41-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673049.1 Length: 310
+>Capsella bursa-pastoris isolate C4-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673050.1 Length: 310
+>Capsella bursa-pastoris isolate C42-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673051.1 Length: 310
+>Capsella bursa-pastoris isolate C44-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673052.1 Length: 310
+>Capsella bursa-pastoris isolate C45-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673053.1 Length: 310
+>Capsella bursa-pastoris isolate C46-5 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673054.1 Length: 310
+>Capsella bursa-pastoris isolate C50-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673055.1 Length: 310
+>Capsella bursa-pastoris isolate C53-4 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673056.1 Length: 310
+>Capsella bursa-pastoris isolate C54-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673057.1 Length: 310
+>Capsella bursa-pastoris isolate C58-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673058.1 Length: 310
+>Capsella bursa-pastoris isolate C62-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673059.1 Length: 310
+>Capsella bursa-pastoris isolate C63-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673060.1 Length: 310
+>Capsella bursa-pastoris isolate C63-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673061.1 Length: 310
+>Capsella bursa-pastoris isolate C64-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673062.1 Length: 310
+>Capsella bursa-pastoris isolate C64-5 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673063.1 Length: 310
+>Capsella bursa-pastoris isolate C66 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673064.1 Length: 310
+>Capsella bursa-pastoris isolate C72-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673065.1 Length: 310
+>Capsella bursa-pastoris isolate C72-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673066.1 Length: 310
+>Capsella bursa-pastoris isolate C73-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673067.1 Length: 310
+>Capsella bursa-pastoris isolate C73-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673068.1 Length: 310
+>Capsella bursa-pastoris isolate C74-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673069.1 Length: 310
+>Capsella bursa-pastoris isolate C74-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673070.1 Length: 310
+>Capsella bursa-pastoris isolate C77-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673071.1 Length: 310
+>Capsella bursa-pastoris isolate C78-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673072.1 Length: 310 
+Range 1: 139 to 296
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  139  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  198
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  199  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  258
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  259  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella bursa-pastoris isolate AT101 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251552.1 Length: 498
+Range 1: 329 to 486
+
+Score:276 bits(149), Expect:8e-70, 
+Identities:155/158(98%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella orientalis isolate C24-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672849.1 Length: 310
+Range 1: 149 to 296
+
+Score:274 bits(148), Expect:3e-69, 
+Identities:148/148(100%),  Gaps:0/148(0%), Strand: Plus/Plus
+
+Query  20   CCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATTACTGGTACTC  79
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  149  CCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATTACTGGTACTC  208
+
+Query  80   TCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGGTACAAGTTTG  139
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  209  TCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGGTACAAGTTTG  268
+
+Query  140  ACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||
+Sbjct  269  ACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella grandiflora isolate 7m At4G08920-like protein gene, partial cds
+Sequence ID: JF821919.1 Length: 466
+Range 1: 167 to 325
+
+Score:274 bits(148), Expect:3e-69, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCRGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella grandiflora isolate 10e At4G08920-like protein gene, partial cds
+Sequence ID: JF821921.1 Length: 466
+>Capsella grandiflora isolate 9c At4G08920-like protein gene, partial cds
+Sequence ID: JF821922.1 Length: 466
+>Capsella grandiflora isolate 9d At4G08920-like protein gene, partial cds
+Sequence ID: JF821923.1 Length: 466
+>Capsella grandiflora isolate 9i At4G08920-like protein gene, partial cds
+Sequence ID: JF821924.1 Length: 466
+>Capsella grandiflora isolate 4-11e At4G08920-like protein gene, partial cds
+Sequence ID: JF821925.1 Length: 466
+>Capsella grandiflora isolate 10a At4G08920-like protein gene, partial cds
+Sequence ID: JF821926.1 Length: 466 
+Range 1: 167 to 325
+
+Score:274 bits(148), Expect:3e-69, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCRGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella grandiflora isolate 11c At4G08920-like protein gene, partial cds
+Sequence ID: JF821920.1 Length: 466
+Range 1: 167 to 325
+
+Score:274 bits(148), Expect:3e-69, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCRGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella rubella isolate 2-8 At4G08920-like protein gene, partial cds
+Sequence ID: JF822860.1 Length: 482
+>Capsella rubella isolate 3-11 At4G08920-like protein gene, partial cds
+Sequence ID: JF822861.1 Length: 482
+>Capsella rubella isolate 3-5 At4G08920-like protein gene, partial cds
+Sequence ID: JF822880.1 Length: 482
+>Capsella rubella isolate 6-25 At4G08920-like protein gene, partial cds
+Sequence ID: JF822882.1 Length: 482 
+Range 1: 176 to 334
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  176  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  235
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  295
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  296  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  334
+
+
+
+
+>Capsella rubella isolate 2-22 At4G08920-like protein gene, partial cds
+Sequence ID: JF822859.1 Length: 483
+>Capsella rubella isolate 3-14 At4G08920-like protein gene, partial cds
+Sequence ID: JF822876.1 Length: 483 
+Range 1: 177 to 335
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  177  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  236
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  237  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  296
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  297  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  335
+
+
+
+
+>Capsella rubella isolate 4-30 At4G08920-like protein gene, partial cds
+Sequence ID: JF822858.1 Length: 484
+>Capsella rubella isolate 3-15 At4G08920-like protein gene, partial cds
+Sequence ID: JF822875.1 Length: 484 
+Range 1: 178 to 336
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  178  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  237
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  238  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  297
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  298  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  336
+
+
+
+
+>Capsella bursa-pastoris isolate US740 clone L2 cryptochrome 1 (CRY1) mRNA, partial cds
+Sequence ID: GQ251564.1 Length: 2022
+Range 1: 1158 to 1316
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11    CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+             ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1158  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  1217
+
+Query  69    TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+             ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1218  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  1277
+
+Query  129   GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+             |||||||||||||||||||||||||||||||||||||||
+Sbjct  1278  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  1316
+
+
+
+
+>Capsella grandiflora isolate 3-8d At4G08920-like protein gene, partial cds
+Sequence ID: JF821970.1 Length: 466
+>Capsella grandiflora isolate 2-11b At4G08920-like protein gene, partial cds
+Sequence ID: JF821971.1 Length: 466
+>Capsella grandiflora isolate 3-8f At4G08920-like protein gene, partial cds
+Sequence ID: JF821972.1 Length: 466
+>Capsella grandiflora isolate 7n At4G08920-like protein gene, partial cds
+Sequence ID: JF821973.1 Length: 466
+>Capsella grandiflora isolate 10c At4G08920-like protein gene, partial cds
+Sequence ID: JF821974.1 Length: 466 
+Range 1: 167 to 325
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella grandiflora isolate 3-2j At4G08920-like protein gene, partial cds
+Sequence ID: JF821990.1 Length: 416
+Range 1: 117 to 275
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  117  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  176
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  177  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  236
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  237  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  275
+
+
+
+
+>Capsella grandiflora isolate 10 clone 1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672796.1 Length: 310
+>Capsella grandiflora isolate 3 clone 1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672798.1 Length: 310
+>Capsella grandiflora isolate 4 clone 1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672800.1 Length: 310
+>Capsella grandiflora isolate 7 clone 1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672802.1 Length: 310
+>Capsella grandiflora isolate 8 clone 1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672804.1 Length: 310
+>Capsella grandiflora isolate 9 clone 1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672806.1 Length: 310
+>Capsella grandiflora isolate 9 clone 2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672807.1 Length: 310
+>Capsella rubella isolate 1207 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672877.1 Length: 310
+>Capsella rubella isolate 1208 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672878.1 Length: 310
+>Capsella rubella isolate 1209 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672879.1 Length: 310
+>Capsella rubella isolate 1215 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672880.1 Length: 310
+>Capsella rubella isolate 1311 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672881.1 Length: 310
+>Capsella rubella isolate 1482 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672882.1 Length: 310
+>Capsella rubella isolate 1GR1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672883.1 Length: 310
+>Capsella rubella isolate 762 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672884.1 Length: 310
+>Capsella rubella isolate 86IT1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672885.1 Length: 310
+>Capsella rubella isolate 879 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672886.1 Length: 310
+>Capsella rubella isolate 907 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672887.1 Length: 310
+>Capsella rubella isolate 665 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672888.1 Length: 310
+>Capsella rubella isolate MTE cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672889.1 Length: 310
+>Capsella rubella isolate RIAH cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672890.1 Length: 310
+>Capsella rubella isolate TAAL-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672891.1 Length: 310
+>Capsella bursa-pastoris isolate C42-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM673186.1 Length: 310 
+Range 1: 138 to 296
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  138  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  197
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  198  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  257
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  258  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>Capsella grandiflora isolate 10 clone 2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672797.1 Length: 310
+Range 1: 138 to 296
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  138  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  197
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  198  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  257
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  258  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  296
+
+
+
+
+>PREDICTED: Capsella rubella cryptochrome-1 (LOC17881272), mRNA
+Sequence ID: XM_023780200.1 Length: 2637
+Range 1: 1401 to 1559
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11    CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+             ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1401  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  1460
+
+Query  69    TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+             ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1461  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  1520
+
+Query  129   GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+             |||||||||||||||||||||||||||||||||||||||
+Sbjct  1521  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  1559
+
+
+
+
+>Capsella rubella isolate 8-5 At4G08920-like protein gene, partial cds
+Sequence ID: JF822857.1 Length: 485
+Range 1: 179 to 337
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  179  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  238
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  239  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  298
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  299  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  337
+
+
+
+
+>Capsella rubella isolate 3-1 At4G08920-like protein gene, partial cds
+Sequence ID: JF822874.1 Length: 490
+>Capsella rubella isolate 2-21 At4G08920-like protein gene, partial cds
+Sequence ID: JF822913.1 Length: 490
+>Capsella rubella isolate 2-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822919.1 Length: 490 
+Range 1: 184 to 342
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  184  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  243
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  244  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  303
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  304  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  342
+
+
+
+
+>Capsella rubella isolate 115ES5 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683898.1 Length: 466
+Range 1: 167 to 325
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella rubella isolate 50-3 At4G08920-like protein gene, partial cds
+Sequence ID: JF822839.1 Length: 491
+>Capsella rubella isolate 50-15 At4G08920-like protein gene, partial cds
+Sequence ID: JF822840.1 Length: 491
+>Capsella rubella isolate 50-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822841.1 Length: 491
+>Capsella rubella isolate 49-16 At4G08920-like protein gene, partial cds
+Sequence ID: JF822842.1 Length: 491
+>Capsella rubella isolate 35-11 At4G08920-like protein gene, partial cds
+Sequence ID: JF822843.1 Length: 491
+>Capsella rubella isolate 27-6 At4G08920-like protein gene, partial cds
+Sequence ID: JF822844.1 Length: 491
+>Capsella rubella isolate 28-9 At4G08920-like protein gene, partial cds
+Sequence ID: JF822845.1 Length: 491
+>Capsella rubella isolate 35-1 At4G08920-like protein gene, partial cds
+Sequence ID: JF822846.1 Length: 491
+>Capsella rubella isolate 35-12 At4G08920-like protein gene, partial cds
+Sequence ID: JF822847.1 Length: 491
+>Capsella rubella isolate 60-1 At4G08920-like protein gene, partial cds
+Sequence ID: JF822848.1 Length: 491
+>Capsella rubella isolate 50-8 At4G08920-like protein gene, partial cds
+Sequence ID: JF822849.1 Length: 491
+>Capsella rubella isolate 35-10 At4G08920-like protein gene, partial cds
+Sequence ID: JF822850.1 Length: 491
+>Capsella rubella isolate 35-7 At4G08920-like protein gene, partial cds
+Sequence ID: JF822851.1 Length: 491
+>Capsella rubella isolate 32-15 At4G08920-like protein gene, partial cds
+Sequence ID: JF822852.1 Length: 491
+>Capsella rubella isolate 50-1 At4G08920-like protein gene, partial cds
+Sequence ID: JF822853.1 Length: 491
+>Capsella rubella isolate 50-7 At4G08920-like protein gene, partial cds
+Sequence ID: JF822855.1 Length: 491
+>Capsella rubella isolate 63-1 At4G08920-like protein gene, partial cds
+Sequence ID: JF822856.1 Length: 491
+>Capsella rubella isolate 49-11 At4G08920-like protein gene, partial cds
+Sequence ID: JF822862.1 Length: 491
+>Capsella rubella isolate 49-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822863.1 Length: 491
+>Capsella rubella isolate 49-14 At4G08920-like protein gene, partial cds
+Sequence ID: JF822864.1 Length: 491
+>Capsella rubella isolate 39-1 At4G08920-like protein gene, partial cds
+Sequence ID: JF822865.1 Length: 491
+>Capsella rubella isolate 39-2 At4G08920-like protein gene, partial cds
+Sequence ID: JF822866.1 Length: 491
+>Capsella rubella isolate 39-7 At4G08920-like protein gene, partial cds
+Sequence ID: JF822867.1 Length: 491
+>Capsella rubella isolate 2-18 At4G08920-like protein gene, partial cds
+Sequence ID: JF822868.1 Length: 491
+>Capsella rubella isolate 22-6 At4G08920-like protein gene, partial cds
+Sequence ID: JF822869.1 Length: 491
+>Capsella rubella isolate 23-17 At4G08920-like protein gene, partial cds
+Sequence ID: JF822870.1 Length: 491
+>Capsella rubella isolate 23-18 At4G08920-like protein gene, partial cds
+Sequence ID: JF822871.1 Length: 491
+>Capsella rubella isolate 23-20 At4G08920-like protein gene, partial cds
+Sequence ID: JF822872.1 Length: 491
+>Capsella rubella isolate 32-14 At4G08920-like protein gene, partial cds
+Sequence ID: JF822873.1 Length: 491
+>Capsella rubella isolate 2-6 At4G08920-like protein gene, partial cds
+Sequence ID: JF822877.1 Length: 491
+>Capsella rubella isolate 23-9 At4G08920-like protein gene, partial cds
+Sequence ID: JF822878.1 Length: 491
+>Capsella rubella isolate 23-26 At4G08920-like protein gene, partial cds
+Sequence ID: JF822879.1 Length: 491
+>Capsella rubella isolate 6-24 At4G08920-like protein gene, partial cds
+Sequence ID: JF822881.1 Length: 491
+>Capsella rubella isolate 49-10 At4G08920-like protein gene, partial cds
+Sequence ID: JF822883.1 Length: 491
+>Capsella rubella isolate 49-12 At4G08920-like protein gene, partial cds
+Sequence ID: JF822884.1 Length: 491
+>Capsella rubella isolate 49-18 At4G08920-like protein gene, partial cds
+Sequence ID: JF822885.1 Length: 491
+>Capsella rubella isolate 49-21 At4G08920-like protein gene, partial cds
+Sequence ID: JF822886.1 Length: 491
+>Capsella rubella isolate 49-22 At4G08920-like protein gene, partial cds
+Sequence ID: JF822887.1 Length: 491
+>Capsella rubella isolate 49-5 At4G08920-like protein gene, partial cds
+Sequence ID: JF822888.1 Length: 491
+>Capsella rubella isolate 39-10 At4G08920-like protein gene, partial cds
+Sequence ID: JF822889.1 Length: 491
+>Capsella rubella isolate 35-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822890.1 Length: 491
+>Capsella rubella isolate 39-3 At4G08920-like protein gene, partial cds
+Sequence ID: JF822891.1 Length: 491
+>Capsella rubella isolate 39-4 At4G08920-like protein gene, partial cds
+Sequence ID: JF822892.1 Length: 491
+>Capsella rubella isolate 39-5 At4G08920-like protein gene, partial cds
+Sequence ID: JF822893.1 Length: 491
+>Capsella rubella isolate 3-9 At4G08920-like protein gene, partial cds
+Sequence ID: JF822894.1 Length: 491
+>Capsella rubella isolate 35-2 At4G08920-like protein gene, partial cds
+Sequence ID: JF822895.1 Length: 491
+>Capsella rubella isolate 35-5 At4G08920-like protein gene, partial cds
+Sequence ID: JF822896.1 Length: 491
+>Capsella rubella isolate 3-6 At4G08920-like protein gene, partial cds
+Sequence ID: JF822897.1 Length: 491
+>Capsella rubella isolate 3-4 At4G08920-like protein gene, partial cds
+Sequence ID: JF822898.1 Length: 491
+>Capsella rubella isolate 2-15 At4G08920-like protein gene, partial cds
+Sequence ID: JF822899.1 Length: 491
+>Capsella rubella isolate 22-10 At4G08920-like protein gene, partial cds
+Sequence ID: JF822900.1 Length: 491
+>Capsella rubella isolate 22-11 At4G08920-like protein gene, partial cds
+Sequence ID: JF822901.1 Length: 491
+>Capsella rubella isolate 22-12 At4G08920-like protein gene, partial cds
+Sequence ID: JF822902.1 Length: 491
+>Capsella rubella isolate 22-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822903.1 Length: 491
+>Capsella rubella isolate 22-15 At4G08920-like protein gene, partial cds
+Sequence ID: JF822904.1 Length: 491
+>Capsella rubella isolate 22-16 At4G08920-like protein gene, partial cds
+Sequence ID: JF822905.1 Length: 491
+>Capsella rubella isolate 22-18 At4G08920-like protein gene, partial cds
+Sequence ID: JF822906.1 Length: 491
+>Capsella rubella isolate 22-4 At4G08920-like protein gene, partial cds
+Sequence ID: JF822907.1 Length: 491
+>Capsella rubella isolate 22-5 At4G08920-like protein gene, partial cds
+Sequence ID: JF822908.1 Length: 491
+>Capsella rubella isolate 22-7 At4G08920-like protein gene, partial cds
+Sequence ID: JF822909.1 Length: 491
+>Capsella rubella isolate 22-9 At4G08920-like protein gene, partial cds
+Sequence ID: JF822910.1 Length: 491
+>Capsella rubella isolate 2-2 At4G08920-like protein gene, partial cds
+Sequence ID: JF822911.1 Length: 491
+>Capsella rubella isolate 23-10 At4G08920-like protein gene, partial cds
+Sequence ID: JF822912.1 Length: 491
+>Capsella rubella isolate 2-12 At4G08920-like protein gene, partial cds
+Sequence ID: JF822914.1 Length: 491
+>Capsella rubella isolate 4-23 At4G08920-like protein gene, partial cds
+Sequence ID: JF822915.1 Length: 491
+>Capsella rubella isolate 49-8 At4G08920-like protein gene, partial cds
+Sequence ID: JF822916.1 Length: 491
+>Capsella rubella isolate 6-26 At4G08920-like protein gene, partial cds
+Sequence ID: JF822917.1 Length: 491
+>Capsella rubella isolate 4-21 At4G08920-like protein gene, partial cds
+Sequence ID: JF822918.1 Length: 491
+>Capsella rubella isolate 23-11 At4G08920-like protein gene, partial cds
+Sequence ID: JF822920.1 Length: 491
+>Capsella rubella isolate 23-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822921.1 Length: 491
+>Capsella rubella isolate 23-14 At4G08920-like protein gene, partial cds
+Sequence ID: JF822922.1 Length: 491
+>Capsella rubella isolate 23-16 At4G08920-like protein gene, partial cds
+Sequence ID: JF822923.1 Length: 491
+>Capsella rubella isolate 35-9 At4G08920-like protein gene, partial cds
+Sequence ID: JF822924.1 Length: 491
+>Capsella rubella isolate 50-14 At4G08920-like protein gene, partial cds
+Sequence ID: JF822925.1 Length: 491
+>Capsella rubella isolate 2-3 At4G08920-like protein gene, partial cds
+Sequence ID: JF822926.1 Length: 491
+>Capsella rubella isolate 3-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822927.1 Length: 491
+>Capsella rubella isolate 3-16 At4G08920-like protein gene, partial cds
+Sequence ID: JF822928.1 Length: 491
+>Capsella rubella isolate 3-17 At4G08920-like protein gene, partial cds
+Sequence ID: JF822929.1 Length: 491
+>Capsella rubella isolate 27-2 At4G08920-like protein gene, partial cds
+Sequence ID: JF822930.1 Length: 491
+>Capsella rubella isolate 50-12 At4G08920-like protein gene, partial cds
+Sequence ID: JF822931.1 Length: 491
+>Capsella rubella isolate 50-9 At4G08920-like protein gene, partial cds
+Sequence ID: JF822932.1 Length: 491
+>Capsella rubella isolate 32-13 At4G08920-like protein gene, partial cds
+Sequence ID: JF822933.1 Length: 491
+>Capsella rubella isolate 32-17 At4G08920-like protein gene, partial cds
+Sequence ID: JF822934.1 Length: 491
+>Capsella rubella isolate 32-18 At4G08920-like protein gene, partial cds
+Sequence ID: JF822935.1 Length: 491
+>Capsella rubella isolate 2-10 At4G08920-like protein gene, partial cds
+Sequence ID: JF822936.1 Length: 491 
+Range 1: 185 to 343
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  185  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  244
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  245  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  304
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  305  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  343
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_QD318 CRY1 gene, partial cds
+Sequence ID: JQ419040.1 Length: 464
+Range 1: 166 to 323
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:154/158(97%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  166  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  225
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  226  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACNGTTTGAAGGG  285
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  286  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  323
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_32_27 CRY1 gene, partial cds
+Sequence ID: JQ418969.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_FR4_2 CRY1 gene, partial cds
+Sequence ID: JQ418980.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_RU2_1 CRY1 gene, partial cds
+Sequence ID: JQ419002.1 Length: 464
+>Capsella bursa-pastoris isolate CbpA_RU8_1 CRY1 gene, partial cds
+Sequence ID: JQ419004.1 Length: 464
+>Capsella rubella isolate Cr_22_12 CRY1 gene, partial cds
+Sequence ID: JQ419058.1 Length: 464
+>Capsella rubella isolate Cr_6_25 CRY1 gene, partial cds
+Sequence ID: JQ419059.1 Length: 464
+>Capsella rubella isolate Cr_FR1_3 CRY1 gene, partial cds
+Sequence ID: JQ419060.1 Length: 464
+>Capsella rubella isolate Cr_FR4_1 CRY1 gene, partial cds
+Sequence ID: JQ419061.1 Length: 464
+>Capsella rubella isolate Cr_2-3 CRY1 gene, partial cds
+Sequence ID: JQ419062.1 Length: 464
+>Capsella rubella isolate Cr_22-15 CRY1 gene, partial cds
+Sequence ID: JQ419063.1 Length: 464
+>Capsella rubella isolate Cr_23-13 CRY1 gene, partial cds
+Sequence ID: JQ419064.1 Length: 464
+>Capsella rubella isolate Cr_27-6 CRY1 gene, partial cds
+Sequence ID: JQ419065.1 Length: 464
+>Capsella rubella isolate Cr_28-9 CRY1 gene, partial cds
+Sequence ID: JQ419066.1 Length: 464
+>Capsella rubella isolate Cr_3-11 CRY1 gene, partial cds
+Sequence ID: JQ419067.1 Length: 464
+>Capsella rubella isolate Cr_32-13 CRY1 gene, partial cds
+Sequence ID: JQ419068.1 Length: 464
+>Capsella rubella isolate Cr_35-13 CRY1 gene, partial cds
+Sequence ID: JQ419069.1 Length: 464
+>Capsella rubella isolate Cr_39-5 CRY1 gene, partial cds
+Sequence ID: JQ419070.1 Length: 464
+>Capsella rubella isolate Cr_4-23 CRY1 gene, partial cds
+Sequence ID: JQ419071.1 Length: 464
+>Capsella rubella isolate Cr_49-13 CRY1 gene, partial cds
+Sequence ID: JQ419072.1 Length: 464
+>Capsella rubella isolate Cr_50-14 CRY1 gene, partial cds
+Sequence ID: JQ419073.1 Length: 464
+>Capsella rubella isolate Cr_6-24 CRY1 gene, partial cds
+Sequence ID: JQ419074.1 Length: 464
+>Capsella rubella isolate Cr_6-26 CRY1 gene, partial cds
+Sequence ID: JQ419075.1 Length: 464
+>Capsella rubella isolate Cr_60-1 CRY1 gene, partial cds
+Sequence ID: JQ419076.1 Length: 464
+>Capsella rubella isolate Cr_63-1 CRY1 gene, partial cds
+Sequence ID: JQ419077.1 Length: 464
+>Capsella rubella isolate Cr_8-5 CRY1 gene, partial cds
+Sequence ID: JQ419078.1 Length: 464 
+Range 1: 165 to 323
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  165  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  224
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  225  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  284
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  285  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  323
+
+
+
+
+>Capsella bursa-pastoris isolate C45-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955986.1 Length: 314
+Range 1: 140 to 298
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  199
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  200  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  259
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  260  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  298
+
+
+
+
+>Capsella bursa-pastoris isolate C1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955783.1 Length: 296
+>Capsella bursa-pastoris isolate C20-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955784.1 Length: 296
+>Capsella bursa-pastoris isolate C3-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955785.1 Length: 296
+>Capsella bursa-pastoris isolate C31-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955786.1 Length: 296
+>Capsella bursa-pastoris isolate C32 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955787.1 Length: 296
+>Capsella bursa-pastoris isolate C33-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955788.1 Length: 296
+>Capsella bursa-pastoris isolate C35-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955789.1 Length: 296
+>Capsella bursa-pastoris isolate C36-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955790.1 Length: 296
+>Capsella bursa-pastoris isolate C37-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955791.1 Length: 296
+>Capsella bursa-pastoris isolate C39-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955792.1 Length: 296
+>Capsella bursa-pastoris isolate C40-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955793.1 Length: 296
+>Capsella bursa-pastoris isolate C4-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955794.1 Length: 296
+>Capsella bursa-pastoris isolate C41-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955795.1 Length: 296
+>Capsella bursa-pastoris isolate C42-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955796.1 Length: 296
+>Capsella bursa-pastoris isolate C44-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955797.1 Length: 296
+>Capsella bursa-pastoris isolate C45-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955798.1 Length: 296
+>Capsella bursa-pastoris isolate C46-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955799.1 Length: 296
+>Capsella bursa-pastoris isolate C50-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955800.1 Length: 296
+>Capsella bursa-pastoris isolate C53-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955801.1 Length: 296
+>Capsella bursa-pastoris isolate C54-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955802.1 Length: 296
+>Capsella bursa-pastoris isolate C55-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955803.1 Length: 296
+>Capsella bursa-pastoris isolate C57-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955805.1 Length: 296
+>Capsella bursa-pastoris isolate C58-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955806.1 Length: 296
+>Capsella orientalis isolate C12-6 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955807.1 Length: 296
+>Capsella orientalis isolate C13-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955808.1 Length: 296
+>Capsella orientalis isolate C16-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955809.1 Length: 296
+>Capsella orientalis isolate C21-11 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955810.1 Length: 296
+>Capsella orientalis isolate C22-9 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955811.1 Length: 296
+>Capsella orientalis isolate C25 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955813.1 Length: 296
+>Capsella orientalis isolate C34-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955814.1 Length: 296
+>Capsella orientalis isolate C43-4 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955815.1 Length: 296
+>Capsella orientalis isolate C47-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955816.1 Length: 296
+>Capsella orientalis isolate C48-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955817.1 Length: 296
+>Capsella orientalis isolate C52-1 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955818.1 Length: 296
+>Capsella orientalis isolate C54-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955819.1 Length: 296
+>Capsella orientalis isolate C59-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955820.1 Length: 296 
+Range 1: 141 to 296
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:153/156(98%),  Gaps:2/156(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  141  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  200
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  201  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  260
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGT  165
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  261  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGT  296
+
+
+
+
+>Capsella rubella isolate 49-19 At4G08920-like protein gene, partial cds
+Sequence ID: JF822854.1 Length: 491
+Range 1: 185 to 343
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  185  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  244
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  245  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  304
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  305  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  343
+
+
+
+
+>Capsella bursa-pastoris isolate QD318 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684068.1 Length: 627
+Range 1: 329 to 486
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:154/158(97%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACNGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  486
+
+
+
+
+>Capsella grandiflora isolate 11g At4G08920-like protein gene, partial cds
+Sequence ID: JF821975.1 Length: 466
+Range 1: 167 to 325
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella grandiflora isolate 1-11g At4G08920-like protein gene, partial cds
+Sequence ID: JF821976.1 Length: 466
+>Capsella grandiflora isolate 10d At4G08920-like protein gene, partial cds
+Sequence ID: JF821977.1 Length: 466
+>Capsella grandiflora isolate 4-7f At4G08920-like protein gene, partial cds
+Sequence ID: JF821978.1 Length: 466
+>Capsella grandiflora isolate 4-7d At4G08920-like protein gene, partial cds
+Sequence ID: JF821979.1 Length: 466
+>Capsella grandiflora isolate 7k At4G08920-like protein gene, partial cds
+Sequence ID: JF821980.1 Length: 466
+>Capsella grandiflora isolate 4-7e At4G08920-like protein gene, partial cds
+Sequence ID: JF821981.1 Length: 466
+>Capsella grandiflora isolate 10g At4G08920-like protein gene, partial cds
+Sequence ID: JF821982.1 Length: 466
+>Capsella grandiflora isolate 4-8e At4G08920-like protein gene, partial cds
+Sequence ID: JF821983.1 Length: 466
+>Capsella grandiflora isolate 9l At4G08920-like protein gene, partial cds
+Sequence ID: JF821984.1 Length: 466
+>Capsella grandiflora isolate 9a At4G08920-like protein gene, partial cds
+Sequence ID: JF821985.1 Length: 466
+>Capsella grandiflora isolate 7l At4G08920-like protein gene, partial cds
+Sequence ID: JF821986.1 Length: 466
+>Capsella grandiflora isolate 9h At4G08920-like protein gene, partial cds
+Sequence ID: JF821987.1 Length: 466
+>Capsella grandiflora isolate 3-7g At4G08920-like protein gene, partial cds
+Sequence ID: JF821988.1 Length: 466
+>Capsella grandiflora isolate 3-7h At4G08920-like protein gene, partial cds
+Sequence ID: JF821989.1 Length: 466 
+Range 1: 167 to 325
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella bursa-pastoris isolate AT125 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683999.1 Length: 484
+>Capsella bursa-pastoris isolate TWTY cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF684088.1 Length: 484 
+Range 1: 329 to 484
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:153/156(98%),  Gaps:2/156(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  329  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  388
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  389  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  448
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGT  165
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  449  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGT  484
+
+
+
+
+>Capsella grandiflora isolate 4l At4G08920-like protein gene, partial cds
+Sequence ID: JF821927.1 Length: 466
+Range 1: 167 to 325
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella rubella isolate Cr3.14 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683884.1 Length: 466
+>Capsella rubella isolate Cr6.26 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683885.1 Length: 466
+>Capsella rubella isolate Cr8.5 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683886.1 Length: 466
+>Capsella rubella isolate 1GR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683887.1 Length: 466
+>Capsella rubella isolate 72TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683888.1 Length: 466
+>Capsella rubella isolate 76TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683889.1 Length: 466
+>Capsella rubella isolate 77TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683890.1 Length: 466
+>Capsella rubella isolate 78TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683891.1 Length: 466
+>Capsella rubella isolate 80TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683892.1 Length: 466
+>Capsella rubella isolate 81TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683893.1 Length: 466
+>Capsella rubella isolate 82TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683894.1 Length: 466
+>Capsella rubella isolate 84TR1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683895.1 Length: 466
+>Capsella rubella isolate 85IT1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683896.1 Length: 466
+>Capsella rubella isolate 86IT1 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683897.1 Length: 466
+>Capsella rubella isolate 116ES6 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683899.1 Length: 466
+>Capsella rubella isolate 130GR4 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683900.1 Length: 466
+>Capsella rubella isolate 123ES7 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683901.1 Length: 466
+>Capsella rubella isolate 131GR4 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683902.1 Length: 466
+>Capsella rubella isolate 137GR6 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683903.1 Length: 466
+>Capsella rubella isolate SI368 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683904.1 Length: 466
+>Capsella bursa-pastoris isolate DE97 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683911.1 Length: 466
+>Capsella bursa-pastoris isolate DE127 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683913.1 Length: 466
+>Capsella bursa-pastoris isolate DE136 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683914.1 Length: 466
+>Capsella bursa-pastoris isolate FR49 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683918.1 Length: 466
+>Capsella bursa-pastoris isolate FR50 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683919.1 Length: 466
+>Capsella bursa-pastoris isolate GR134 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683922.1 Length: 466
+>Capsella bursa-pastoris isolate NL54 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683926.1 Length: 466
+>Capsella bursa-pastoris isolate SE30 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683931.1 Length: 466
+>Capsella bursa-pastoris isolate SE31 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683932.1 Length: 466
+>Capsella bursa-pastoris isolate SE32 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683933.1 Length: 466
+>Capsella bursa-pastoris isolate SE38 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683937.1 Length: 466
+>Capsella bursa-pastoris isolate SE42 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683941.1 Length: 466
+>Capsella bursa-pastoris isolate SE44 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683943.1 Length: 466
+>Capsella bursa-pastoris isolate SE45 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683944.1 Length: 466
+>Capsella bursa-pastoris isolate SE48 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: EF683946.1 Length: 466
+>Capsella bursa-pastoris isolate AT101 cryptochrome 1 (CRY1) gene, exon 3 and partial cds
+Sequence ID: GQ251543.1 Length: 466
+>Capsella grandiflora isolate 1-10t At4G08920-like protein gene, partial cds
+Sequence ID: JF821931.1 Length: 466
+>Capsella grandiflora isolate 1-2g At4G08920-like protein gene, partial cds
+Sequence ID: JF821932.1 Length: 466
+>Capsella grandiflora isolate 11f At4G08920-like protein gene, partial cds
+Sequence ID: JF821933.1 Length: 466
+>Capsella grandiflora isolate 11e At4G08920-like protein gene, partial cds
+Sequence ID: JF821934.1 Length: 466
+>Capsella grandiflora isolate 11d At4G08920-like protein gene, partial cds
+Sequence ID: JF821935.1 Length: 466
+>Capsella grandiflora isolate 11b At4G08920-like protein gene, partial cds
+Sequence ID: JF821936.1 Length: 466
+>Capsella grandiflora isolate 11a At4G08920-like protein gene, partial cds
+Sequence ID: JF821937.1 Length: 466
+>Capsella grandiflora isolate 1-11d At4G08920-like protein gene, partial cds
+Sequence ID: JF821938.1 Length: 466
+>Capsella grandiflora isolate 10i At4G08920-like protein gene, partial cds
+Sequence ID: JF821939.1 Length: 466
+>Capsella grandiflora isolate 10b At4G08920-like protein gene, partial cds
+Sequence ID: JF821940.1 Length: 466
+>Capsella grandiflora isolate 3-7a At4G08920-like protein gene, partial cds
+Sequence ID: JF821941.1 Length: 466
+>Capsella grandiflora isolate 4-2i At4G08920-like protein gene, partial cds
+Sequence ID: JF821942.1 Length: 466
+>Capsella grandiflora isolate 9k At4G08920-like protein gene, partial cds
+Sequence ID: JF821943.1 Length: 466
+>Capsella grandiflora isolate 9g At4G08920-like protein gene, partial cds
+Sequence ID: JF821944.1 Length: 466
+>Capsella grandiflora isolate 9f At4G08920-like protein gene, partial cds
+Sequence ID: JF821945.1 Length: 466
+>Capsella grandiflora isolate 9e At4G08920-like protein gene, partial cds
+Sequence ID: JF821946.1 Length: 466
+>Capsella grandiflora isolate 7o At4G08920-like protein gene, partial cds
+Sequence ID: JF821947.1 Length: 466
+>Capsella grandiflora isolate 5-2e At4G08920-like protein gene, partial cds
+Sequence ID: JF821948.1 Length: 466
+>Capsella grandiflora isolate 5-2d At4G08920-like protein gene, partial cds
+Sequence ID: JF821949.1 Length: 466
+>Capsella grandiflora isolate 4t At4G08920-like protein gene, partial cds
+Sequence ID: JF821950.1 Length: 466
+>Capsella grandiflora isolate 4r At4G08920-like protein gene, partial cds
+Sequence ID: JF821951.1 Length: 466
+>Capsella grandiflora isolate 4q At4G08920-like protein gene, partial cds
+Sequence ID: JF821952.1 Length: 466
+>Capsella grandiflora isolate 4n At4G08920-like protein gene, partial cds
+Sequence ID: JF821953.1 Length: 466
+>Capsella grandiflora isolate 4o At4G08920-like protein gene, partial cds
+Sequence ID: JF821954.1 Length: 466
+>Capsella grandiflora isolate 4p At4G08920-like protein gene, partial cds
+Sequence ID: JF821955.1 Length: 466
+>Capsella grandiflora isolate 4s At4G08920-like protein gene, partial cds
+Sequence ID: JF821956.1 Length: 466
+>Capsella grandiflora isolate 5-4a At4G08920-like protein gene, partial cds
+Sequence ID: JF821957.1 Length: 466
+>Capsella grandiflora isolate 7p At4G08920-like protein gene, partial cds
+Sequence ID: JF821958.1 Length: 466
+>Capsella grandiflora isolate 9b At4G08920-like protein gene, partial cds
+Sequence ID: JF821959.1 Length: 466
+>Capsella grandiflora isolate 9j At4G08920-like protein gene, partial cds
+Sequence ID: JF821960.1 Length: 466
+>Capsella grandiflora isolate 3-2b At4G08920-like protein gene, partial cds
+Sequence ID: JF821961.1 Length: 466
+>Capsella grandiflora isolate 3-2c At4G08920-like protein gene, partial cds
+Sequence ID: JF821962.1 Length: 466
+>Capsella grandiflora isolate 3-2f At4G08920-like protein gene, partial cds
+Sequence ID: JF821963.1 Length: 466
+>Capsella grandiflora isolate 3-4i At4G08920-like protein gene, partial cds
+Sequence ID: JF821964.1 Length: 466
+>Capsella grandiflora isolate 2-11c At4G08920-like protein gene, partial cds
+Sequence ID: JF821965.1 Length: 466
+>Capsella grandiflora isolate 10f At4G08920-like protein gene, partial cds
+Sequence ID: JF821966.1 Length: 466
+>Capsella grandiflora isolate 10h At4G08920-like protein gene, partial cds
+Sequence ID: JF821967.1 Length: 466
+>Capsella grandiflora isolate 1-2a At4G08920-like protein gene, partial cds
+Sequence ID: JF821968.1 Length: 466
+>Capsella grandiflora isolate 1-2h At4G08920-like protein gene, partial cds
+Sequence ID: JF821969.1 Length: 466 
+Range 1: 167 to 325
+
+Score:272 bits(147), Expect:1e-68, 
+Identities:155/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella orientalis isolate C47-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KM672851.1 Length: 310
+Range 1: 139 to 296
+
+Score:270 bits(146), Expect:4e-68, 
+Identities:154/158(97%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  12   TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+            |||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  139  TTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  198
+
+Query  70   ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  199  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  258
+
+Query  130  TACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||| |||||||||
+Sbjct  259  TACAAGTTTGACCCAAATGGCGAATATGAAAGGCGTTG  296
+
+
+
+
+>Capsella orientalis isolate C24-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955812.1 Length: 296
+Range 1: 151 to 296
+
+Score:270 bits(146), Expect:4e-68, 
+Identities:146/146(100%),  Gaps:0/146(0%), Strand: Plus/Plus
+
+Query  20   CCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATTACTGGTACTC  79
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151  CCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATTACTGGTACTC  210
+
+Query  80   TCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGGTACAAGTTTG  139
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  211  TCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGGTACAAGTTTG  270
+
+Query  140  ACCCAAATGGCGAATATGTAAGGCGT  165
+            ||||||||||||||||||||||||||
+Sbjct  271  ACCCAAATGGCGAATATGTAAGGCGT  296
+
+
+
+
+>Capsella grandiflora isolate 4m At4G08920-like protein gene, partial cds
+Sequence ID: JF821929.1 Length: 466
+>Capsella grandiflora isolate 4u At4G08920-like protein gene, partial cds
+Sequence ID: JF821930.1 Length: 466 
+Range 1: 167 to 325
+
+Score:268 bits(145), Expect:1e-67, 
+Identities:154/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||| ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  227  TACKGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella grandiflora isolate 1-8c At4G08920-like protein gene, partial cds
+Sequence ID: JF821928.1 Length: 466
+Range 1: 167 to 325
+
+Score:268 bits(145), Expect:1e-67, 
+Identities:154/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CTTCTGGGACACCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  226
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  227  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAKTTTGAAGG  286
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  287  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  325
+
+
+
+
+>Capsella bursa-pastoris isolate C39-3 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955980.1 Length: 314
+Range 1: 140 to 298
+
+Score:267 bits(144), Expect:5e-67, 
+Identities:154/159(97%),  Gaps:2/159(1%), Strand: Plus/Plus
+
+Query  11   CTTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACAT  68
+            ||||||||   |||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  140  CTTCTGGGACACCCTTCTCGATGCAGATTTAAAAAGTGATGCTCTTGGTTGGCAATACAT  199
+
+Query  69   TACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  128
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  200  TACTGGTACTCTCCCAGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGG  259
+
+Query  129  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  167
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  260  GTACAAGTTTGACCCAAATGGCGAATATGTAAGGCGTTG  298
+
+
+
+
+>PREDICTED: Camelina sativa cryptochrome-1-like (LOC104719895), mRNA
+Sequence ID: XM_019234328.1 Length: 2684
+Range 1: 1491 to 1643
+
+Score:239 bits(129), Expect:1e-58, 
+Identities:145/153(95%),  Gaps:2/153(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1491  TTCTGGGACACCCTTCTTGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1550
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1551  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1610
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGG  162
+             |||||||||||||| ||||| ||||| ||||||
+Sbjct  1611  TACAAGTTTGACCCGAATGGTGAATACGTAAGG  1643
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH8-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022932.1 Length: 1749
+Range 1: 1090 to 1244
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1090  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1149
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1150  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1209
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1210  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1244
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH4-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022926.1 Length: 1749
+Range 1: 1090 to 1244
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1090  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1149
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1150  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1209
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1210  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1244
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH42-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022929.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH30-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022919.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NC11-1A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022766.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH8-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022931.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NC7-10A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022762.1 Length: 2129
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NCM27-5 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022783.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NCM6-4A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022794.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate SP18-21A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022746.1 Length: 2129
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH4-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022925.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NCM4-1A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022788.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate PL59-5-19 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022807.1 Length: 1989
+Range 1: 1101 to 1255
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1101  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1160
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1161  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1220
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1221  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1255
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022908.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022907.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NCM23-5A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022782.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH10 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022901.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH10A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022902.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NCM8-4A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022798.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NC2-5A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022778.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NCM6-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022792.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH26A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022916.1 Length: 1755
+Range 1: 1096 to 1250
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1096  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1155
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1156  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1215
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1216  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1250
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH29-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022918.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH41 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022927.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH42-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022930.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH20-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022909.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NC2-5 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022777.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH12-1 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022905.1 Length: 1755
+Range 1: 1096 to 1250
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1096  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1155
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1156  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1215
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1216  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1250
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH26 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022915.1 Length: 1755
+Range 1: 1096 to 1250
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1096  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1155
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1156  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1215
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1216  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1250
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH30-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022920.1 Length: 1749
+Range 1: 1090 to 1244
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1090  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1149
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1150  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1209
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1210  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1244
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate NC5-1A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022790.1 Length: 2358
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate SP15A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022742.1 Length: 2129
+Range 1: 1470 to 1624
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1470  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1529
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1530  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1589
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1590  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1624
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH21-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022911.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH11 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022903.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:237 bits(128), Expect:4e-58, 
+Identities:146/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+>PREDICTED: Camelina sativa cryptochrome-1 (LOC104707204), mRNA
+Sequence ID: XM_010423504.2 Length: 2687
+Range 1: 1471 to 1623
+
+Score:233 bits(126), Expect:5e-57, 
+Identities:144/153(94%),  Gaps:2/153(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1471  TTCTGGGACACCCTTCTTGATGCTGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1530
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1531  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1590
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGG  162
+             |||||||||||||| ||||| ||||| ||||||
+Sbjct  1591  TACAAGTTTGACCCGAATGGTGAATACGTAAGG  1623
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH32-2A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022922.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| 
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGT  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate PL80-2 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022827.1 Length: 2010
+Range 1: 1122 to 1276
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  1122  TTCTGGGACACCCTTCTTGATGCAGATTTAGAAAGCGATGCTCTTGGTTGGCAATACATT  1181
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||
+Sbjct  1182  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAATTTGAAGGG  1241
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1242  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1276
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate KAR33A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022960.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||| ||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGCGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate KAR11A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022936.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||| ||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGCGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+>Capsella bursa-pastoris isolate C56-2 cryptochrome 1 (CRY1) gene, exon 2 and partial cds
+Sequence ID: KJ955804.1 Length: 296
+Range 1: 151 to 296
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:139/146(95%),  Gaps:0/146(0%), Strand: Plus/Plus
+
+Query  20   CCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATTACTGGTACTC  79
+            ||||| |||||||||||||||||||||||||| |||||||||||||| ||| ||||||| 
+Sbjct  151  CCCTTTTCGATGCAGATTTAGAAAGTGATGCTTTTGGTTGGCAATACCTTAATGGTACTT  210
+
+Query  80   TCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGGTACAAGTTTG  139
+            ||||||||||||||||||||||| ||||||||||||| ||||||||||||||||||||||
+Sbjct  211  TCCCGGATAGCCGGGAGTTTGATTGCATAGATAACCCCCAGTTTGAAGGGTACAAGTTTG  270
+
+Query  140  ACCCAAATGGCGAATATGTAAGGCGT  165
+            ||||||||||||||||||||||||||
+Sbjct  271  ACCCAAATGGCGAATATGTAAGGCGT  296
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate PL56-4-6 cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022805.1 Length: 1989
+Range 1: 1101 to 1255
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  1101  TTCTGGGACACCCTTCTTGATGCAGATTTAGAAAGCGATGCTCTTGGTTGGCAATACATT  1160
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||
+Sbjct  1161  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAATTTGAAGGG  1220
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1221  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1255
+
+
+
+
+>Arabidopsis lyrata subsp. lyrata isolate ITH41A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022928.1 Length: 1752
+Range 1: 1093 to 1247
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1093  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  1152
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| 
+Sbjct  1153  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGT  1212
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1213  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1247
+
+
+
+
+>Arabidopsis lyrata subsp. petraea isolate KAR20A cryptochrome-1 (CRY1) gene, partial cds
+Sequence ID: KP022950.1 Length: 1756
+Range 1: 1097 to 1251
+
+Score:231 bits(125), Expect:2e-56, 
+Identities:145/155(94%),  Gaps:2/155(1%), Strand: Plus/Plus
+
+Query  12    TTCTGGG--MCCCTTCTCGATGCAGATTTAGAAAGTGATGCTCTTGGTTGGCAATACATT  69
+             |||||||   ||||||| ||||| ||||||||||| ||||||||||||||||||||||||
+Sbjct  1097  TTCTGGGACACCCTTCTTGATGCGGATTTAGAAAGCGATGCTCTTGGTTGGCAATACATT  1156
+
+Query  70    ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCACAGTTTGAAGGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1157  ACTGGTACTCTCCCGGATAGCCGGGAGTTTGATCGCATAGATAACCCTCAGTTTGAAGGG  1216
+
+Query  130   TACAAGTTTGACCCAAATGGCGAATATGTAAGGCG  164
+             |||||||||||||| ||||| ||||| ||||||||
+Sbjct  1217  TACAAGTTTGACCCGAATGGGGAATACGTAAGGCG  1251
+
+
+
+
+		
+
+

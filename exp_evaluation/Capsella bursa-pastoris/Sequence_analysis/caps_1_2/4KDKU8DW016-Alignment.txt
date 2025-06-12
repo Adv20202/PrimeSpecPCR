@@ -1,0 +1,2775 @@
+RID: 4KDKU8DW016	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_3695231(dna) Length: 133
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Capsella bursa-pastoris isolate C1 alcohol dehydrogenase (Adh)... Capsella bur... shepherd's p... 3719       196    196   91%   5e-46 95.12  317        KJ955745.1       
+Capsella bursa-pastoris isolate C31-3 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  318        KJ955724.1       
+Capsella bursa-pastoris isolate C20-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955722.1       
+Capsella bursa-pastoris isolate C3-1 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955747.1       
+Capsella orientalis isolate C13-2 alcohol dehydrogenase (Adh)...  Capsella ori... NA              945839     195    195   84%   2e-45 97.35  310        KM672867.1       
+Capsella bursa-pastoris isolate BD97 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  359        EF683882.1       
+Capsella bursa-pastoris isolate CbpA_GY36 Adh gene, partial cds   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  274        JQ419134.1       
+Capsella bursa-pastoris isolate C44-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM672954.1       
+Capsella bursa-pastoris isolate QD318 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  360        EF683864.1       
+Capsella bursa-pastoris isolate CbpB_HD63 Adh gene, partial cds   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  270        JQ419181.1       
+Capsella bursa-pastoris isolate ZZH279 alcohol dehydrogenase...   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  364        EF683861.1       
+Capsella bursa-pastoris isolate C46-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  318        KJ955761.1       
+Capsella bursa-pastoris isolate C44-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  318        KJ955735.1       
+Capsella bursa-pastoris isolate BJB234 alcohol dehydrogenase...   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  374        EF683859.1       
+Capsella bursa-pastoris isolate C45-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM673116.1       
+Capsella bursa-pastoris isolate C41-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955733.1       
+Capsella bursa-pastoris isolate QF340 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  355        EF683762.1       
+Capsella bursa-pastoris isolate C4-1 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955756.1       
+Capsella bursa-pastoris isolate C44-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955759.1       
+Capsella bursa-pastoris isolate C33-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  318        KJ955750.1       
+Capsella bursa-pastoris isolate KMB205 alcohol dehydrogenase...   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  356        EF683854.1       
+Capsella bursa-pastoris isolate BJB236 alcohol dehydrogenase...   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  366        EF683860.1       
+Capsella bursa-pastoris isolate AL87 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  374        EF683793.1       
+Capsella bursa-pastoris isolate C11-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM673100.1       
+Capsella bursa-pastoris isolate CbpA_GY31 Adh gene, partial cds   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  278        JQ419133.1       
+Capsella bursa-pastoris isolate C122-1 alcohol dehydrogenase...   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM672942.1       
+Capsella bursa-pastoris isolate C41-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM673112.1       
+Capsella bursa-pastoris isolate CbpA_32_25 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  278        JQ419124.1       
+Capsella bursa-pastoris isolate C1 alcohol dehydrogenase (Adh)... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955721.1       
+Capsella bursa-pastoris isolate C20-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  318        KJ955746.1       
+Capsella bursa-pastoris isolate CbpB_XY18 Adh gene, partial cds   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  272        JQ419212.1       
+Capsella bursa-pastoris isolate C37-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955753.1       
+Capsella bursa-pastoris isolate HD63 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  372        EF683877.1       
+Capsella bursa-pastoris isolate CbpB_AQ404 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  272        JQ419173.1       
+Capsella orientalis isolate C12-5 alcohol dehydrogenase (Adh)...  Capsella ori... NA              945839     195    195   84%   2e-45 97.35  310        KM672866.1       
+Capsella bursa-pastoris isolate C32 alcohol dehydrogenase (Adh... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  317        KJ955749.1       
+Capsella orientalis isolate C52-2 alcohol dehydrogenase (Adh)...  Capsella ori... NA              945839     195    195   84%   2e-45 97.35  310        KM672875.1       
+Capsella bursa-pastoris isolate XA106 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  359        EF683737.1       
+Capsella orientalis isolate C22-9 alcohol dehydrogenase (Adh)...  Capsella ori... NA              945839     195    195   84%   2e-45 97.35  319        KJ955773.1       
+Capsella bursa-pastoris isolate AL87 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  359        EF683687.1       
+Capsella bursa-pastoris ecotype 721 genotype tetraploid B...      Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  625        DQ343307.1       
+Capsella bursa-pastoris isolate C44-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM673115.1       
+Capsella bursa-pastoris isolate XY18 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  353        EF683746.1       
+Capsella bursa-pastoris isolate CbpA_NJ222 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  272        JQ419148.1       
+Capsella bursa-pastoris isolate CbpA_AQ404 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  278        JQ419127.1       
+Capsella bursa-pastoris ecotype PL genotype tetraploid A alcoh... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  635        DQ343313.1       
+Capsella bursa-pastoris isolate CbpA_QF340 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  274        JQ419152.1       
+Capsella bursa-pastoris ecotype 740 genotype tetraploid A...      Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  635        DQ343312.1       
+Capsella bursa-pastoris isolate GY31 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  359        EF683760.1       
+Capsella bursa-pastoris isolate C122-1 alcohol dehydrogenase...   Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM673102.1       
+Capsella bursa-pastoris isolate C37-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM672949.1       
+Capsella orientalis isolate C12-6 alcohol dehydrogenase (Adh)...  Capsella ori... NA              945839     195    195   84%   2e-45 97.35  318        KJ955769.1       
+Capsella orientalis isolate C54-3 alcohol dehydrogenase (Adh)...  Capsella ori... NA              945839     195    195   84%   2e-45 97.35  319        KJ955781.1       
+Capsella bursa-pastoris isolate WH48 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  360        EF683875.1       
+Capsella bursa-pastoris isolate C36-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  319        KJ955752.1       
+Capsella bursa-pastoris ecotype SE14 genotype tetraploid B...     Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  625        DQ343308.1       
+Capsella bursa-pastoris isolate CbpB_QD318 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  258        JQ419194.1       
+Capsella bursa-pastoris isolate C20-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  310        KM673104.1       
+Capsella bursa-pastoris isolate CbpB_32_25 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  278        JQ419170.1       
+Capsella bursa-pastoris isolate XY18 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  374        EF683852.1       
+Capsella bursa-pastoris isolate GY36 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       195    195   84%   2e-45 97.35  355        EF683765.1       
+Capsella bursa-pastoris isolate C35-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       193    193   84%   6e-45 97.35  310        KM673108.1       
+Capsella bursa-pastoris isolate C35-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       193    193   84%   6e-45 97.35  319        KJ955727.1       
+Capsella bursa-pastoris ecotype 721 genotype tetraploid A...      Capsella bur... shepherd's p... 3719       191    191   84%   2e-44 96.46  635        DQ343311.1       
+Capsella rubella isolate Cr3.14 alcohol dehydrogenase (Adh)...    Capsella rub... NA              81985      189    189   84%   8e-44 96.46  574        EF683778.1       
+Capsella rubella isolate 85IT1 alcohol dehydrogenase (Adh) gen... Capsella rub... NA              81985      189    189   84%   8e-44 96.46  596        EF683785.1       
+Capsella rubella isolate 76TR1 alcohol dehydrogenase (Adh) gen... Capsella rub... NA              81985      189    189   84%   8e-44 96.46  581        EF683781.1       
+PREDICTED: Capsella rubella alcohol dehydrogenase class-P...      Capsella rub... NA              81985      189    189   84%   8e-44 96.46  1431       XM_006302340.2   
+Capsella grandiflora strain 3 clone 1 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1261       FJ649735.1       
+Capsella bursa-pastoris isolate C42-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  319        KJ955758.1       
+Capsella rubella alcohol dehydrogenase gene, complete cds         Capsella rub... NA              81985      189    189   84%   8e-44 96.46  1723       AF110435.1       
+Capsella bursa-pastoris isolate C36-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  310        KM673109.1       
+Capsella grandiflora strain 8 clone 1 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1268       FJ649728.1       
+Capsella rubella strain 925 ADH (ADH) gene, partial cds           Capsella rub... NA              81985      189    189   84%   8e-44 96.46  1262       FJ649699.1       
+Capsella rubella isolate Cr_22_12 Adh gene, partial cds           Capsella rub... NA              81985      189    189   84%   8e-44 96.46  278        JQ419233.1       
+Capsella bursa-pastoris isolate BH113 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  351        EF683691.1       
+Capsella grandiflora ecotype IPK genotype diploid alcohol...      Capsella gra... NA              264402     189    189   84%   8e-44 96.46  639        DQ343314.1       
+Capsella rubella isolate 81TR1 alcohol dehydrogenase (Adh) gen... Capsella rub... NA              81985      189    189   84%   8e-44 96.46  595        EF683783.1       
+Capsella bursa-pastoris isolate CbpB_TY123 Adh gene, partial cds  Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  272        JQ419205.1       
+Capsella grandiflora strain 3 clone 2 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1262       FJ649725.1       
+Capsella grandiflora strain 11 clone 2 ADH (ADH) gene, partial... Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1263       FJ649723.1       
+Capsella rubella isolate 84TR1 alcohol dehydrogenase (Adh) gen... Capsella rub... NA              81985      189    189   84%   8e-44 96.46  589        EF683784.1       
+Capsella grandiflora strain 7 clone 1 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1258       FJ649726.1       
+Capsella grandiflora strain 4 clone 2 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1262       FJ649724.1       
+Capsella bursa-pastoris isolate TY123 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  374        EF683846.1       
+Capsella grandiflora strain 10 clone 2 ADH (ADH) gene, partial... Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1263       FJ649722.1       
+Capsella bursa-pastoris isolate C36-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  310        KM672948.1       
+Capsella rubella strain 1204 ADH (ADH) gene, partial cds          Capsella rub... NA              81985      189    189   84%   8e-44 96.46  1262       FJ649700.1       
+Capsella rubella strain 1408 ADH (ADH) gene, partial cds          Capsella rub... NA              81985      189    189   84%   8e-44 96.46  1262       FJ649697.1       
+Capsella bursa-pastoris isolate C37-2 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  310        KM673110.1       
+Capsella rubella isolate Cr_2-3 Adh gene, partial cds             Capsella rub... NA              81985      189    189   84%   8e-44 96.46  274        JQ419216.1       
+Capsella rubella ecotype GO genotype diploid alcohol...           Capsella rub... NA              81985      189    189   84%   8e-44 96.46  638        DQ343317.1       
+Capsella bursa-pastoris isolate C36-1 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  319        KJ955728.1       
+Capsella grandiflora strain 8 clone 2 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1268       FJ649729.1       
+Capsella bursa-pastoris isolate C31-3 alcohol dehydrogenase...    Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  319        KJ955748.1       
+Capsella grandiflora strain 9 clone 1 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1262       FJ649733.1       
+Capsella rubella isolate 130GR4 alcohol dehydrogenase (Adh)...    Capsella rub... NA              81985      189    189   84%   8e-44 96.46  583        EF683789.1       
+Capsella grandiflora strain 7 clone 2 ADH (ADH) gene, partial cds Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1264       FJ649727.1       
+Capsella grandiflora strain 11 clone 1 ADH (ADH) gene, partial... Capsella gra... NA              264402     189    189   84%   8e-44 96.46  1262       FJ649732.1       
+Capsella bursa-pastoris isolate C3-1 alcohol dehydrogenase (Ad... Capsella bur... shepherd's p... 3719       189    189   84%   8e-44 96.46  319        KJ955723.1       
+
+Alignments:
+
+>Capsella bursa-pastoris isolate C1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955745.1 Length: 317
+Range 1: 150 to 271
+
+Score:196 bits(106), Expect:5e-46, 
+Identities:117/123(95%),  Gaps:3/123(2%), Strand: Plus/Plus
+
+Query  11   TCTCMTGT-MCTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWG  68
+            |||| |||  |||||||| |||||| |||||||||||||||||||||||||||||||| |
+Sbjct  150  TCTC-TGTCACTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAG  208
+
+Query  69   GAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATT  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  209  GAGGAATGATTCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATT  268
+
+Query  129  TCC  131
+            |||
+Sbjct  269  TCC  271
+
+
+
+
+>Capsella bursa-pastoris isolate C31-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955724.1 Length: 318
+>Capsella bursa-pastoris isolate C32 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955725.1 Length: 318
+>Capsella bursa-pastoris isolate C45-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955736.1 Length: 318
+>Capsella bursa-pastoris isolate C53-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955739.1 Length: 318 
+Range 1: 160 to 272
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  160  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  219
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  220  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  272
+
+
+
+
+>Capsella bursa-pastoris isolate C20-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955722.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate C3-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955747.1 Length: 319
+>Capsella bursa-pastoris isolate C35-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955751.1 Length: 319
+>Capsella bursa-pastoris isolate C41-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955757.1 Length: 319
+>Capsella bursa-pastoris isolate C45-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955760.1 Length: 319
+>Capsella bursa-pastoris isolate C53-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955763.1 Length: 319
+>Capsella bursa-pastoris isolate C54-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955764.1 Length: 319
+>Capsella bursa-pastoris isolate C57-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955767.1 Length: 319
+>Capsella orientalis isolate C13-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955770.1 Length: 319
+>Capsella orientalis isolate C16-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955771.1 Length: 319
+>Capsella orientalis isolate C21-11 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955772.1 Length: 319
+>Capsella orientalis isolate C24-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955774.1 Length: 319
+>Capsella orientalis isolate C25 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955775.1 Length: 319
+>Capsella orientalis isolate C34-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955776.1 Length: 319
+>Capsella orientalis isolate C52-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955780.1 Length: 319
+>Capsella orientalis isolate C59-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955782.1 Length: 319 
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella orientalis isolate C13-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672867.1 Length: 310
+>Capsella orientalis isolate C21-9 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672869.1 Length: 310
+>Capsella orientalis isolate C22-7 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672870.1 Length: 310
+>Capsella orientalis isolate C24-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672871.1 Length: 310
+>Capsella orientalis isolate C47-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672873.1 Length: 310
+>Capsella orientalis isolate C59-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672876.1 Length: 310
+>Capsella bursa-pastoris isolate C3-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672939.1 Length: 310
+>Capsella bursa-pastoris isolate C11-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672940.1 Length: 310
+>Capsella bursa-pastoris isolate C11-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672941.1 Length: 310
+>Capsella bursa-pastoris isolate C20-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672944.1 Length: 310
+>Capsella bursa-pastoris isolate C22-10 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672945.1 Length: 310
+>Capsella bursa-pastoris isolate C26 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672946.1 Length: 310
+>Capsella bursa-pastoris isolate C35-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672947.1 Length: 310
+>Capsella bursa-pastoris isolate C40-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672950.1 Length: 310
+>Capsella bursa-pastoris isolate C41-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672951.1 Length: 310
+>Capsella bursa-pastoris isolate C4-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672952.1 Length: 310
+>Capsella bursa-pastoris isolate C42-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672953.1 Length: 310
+>Capsella bursa-pastoris isolate C45-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672955.1 Length: 310
+>Capsella bursa-pastoris isolate C46-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672956.1 Length: 310
+>Capsella bursa-pastoris isolate C50-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672957.1 Length: 310
+>Capsella bursa-pastoris isolate C53-4 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672958.1 Length: 310
+>Capsella bursa-pastoris isolate C54-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672959.1 Length: 310
+>Capsella bursa-pastoris isolate C58-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672960.1 Length: 310
+>Capsella bursa-pastoris isolate C62-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672961.1 Length: 310
+>Capsella bursa-pastoris isolate C63-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672962.1 Length: 310
+>Capsella bursa-pastoris isolate C63-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672963.1 Length: 310
+>Capsella bursa-pastoris isolate C72-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672968.1 Length: 310
+>Capsella bursa-pastoris isolate C73-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672969.1 Length: 310 
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate BD97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683882.1 Length: 359
+Range 1: 201 to 313
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  201  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  260
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  261  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  313
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_GY36 Adh gene, partial cds
+Sequence ID: JQ419134.1 Length: 274
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate C44-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672954.1 Length: 310
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate QD318 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683864.1 Length: 360
+Range 1: 216 to 328
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_HD63 Adh gene, partial cds
+Sequence ID: JQ419181.1 Length: 270
+>Capsella bursa-pastoris isolate CbpB_HD68 Adh gene, partial cds
+Sequence ID: JQ419182.1 Length: 270 
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate ZZH279 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683861.1 Length: 364
+Range 1: 206 to 318
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  206  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  265
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  266  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  318
+
+
+
+
+>Capsella bursa-pastoris isolate C46-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955761.1 Length: 318
+>Capsella bursa-pastoris isolate C50-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955762.1 Length: 318
+>Capsella bursa-pastoris isolate C55-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955765.1 Length: 318
+>Capsella bursa-pastoris isolate C56-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955766.1 Length: 318
+>Capsella bursa-pastoris isolate C58-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955768.1 Length: 318 
+Range 1: 160 to 272
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  160  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  219
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  220  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  272
+
+
+
+
+>Capsella bursa-pastoris isolate C44-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955735.1 Length: 318
+Range 1: 160 to 272
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  160  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  219
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  220  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  272
+
+
+
+
+>Capsella bursa-pastoris isolate BJB234 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683859.1 Length: 374
+Range 1: 216 to 328
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella bursa-pastoris isolate C45-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673116.1 Length: 310
+>Capsella bursa-pastoris isolate C73-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673130.1 Length: 310
+>Capsella bursa-pastoris isolate C74-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673133.1 Length: 310 
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate C41-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955733.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate QF340 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683762.1 Length: 355
+Range 1: 195 to 307
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  195  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  254
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  255  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  307
+
+
+
+
+>Capsella bursa-pastoris isolate C4-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955756.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate C44-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955759.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate C33-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955750.1 Length: 318
+Range 1: 160 to 272
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  160  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  219
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  220  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  272
+
+
+
+
+>Capsella bursa-pastoris isolate KMB205 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683854.1 Length: 356
+>Capsella bursa-pastoris isolate NCH355 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683870.1 Length: 356
+>Capsella bursa-pastoris isolate AQ404 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683872.1 Length: 356
+>Capsella bursa-pastoris isolate AQ416 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683873.1 Length: 356 
+Range 1: 198 to 310
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  198  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  257
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  258  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  310
+
+
+
+
+>Capsella bursa-pastoris isolate BJB236 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683860.1 Length: 366
+Range 1: 216 to 328
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella bursa-pastoris isolate AL87 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683793.1 Length: 374
+>Capsella bursa-pastoris isolate AL88 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683794.1 Length: 374
+>Capsella bursa-pastoris isolate AT125 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683795.1 Length: 374
+>Capsella bursa-pastoris isolate BH112 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683796.1 Length: 374
+>Capsella bursa-pastoris isolate BH113 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683797.1 Length: 374
+>Capsella bursa-pastoris isolate CZ96 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683798.1 Length: 374
+>Capsella bursa-pastoris isolate DE97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683799.1 Length: 374
+>Capsella bursa-pastoris isolate DE98 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683800.1 Length: 374
+>Capsella bursa-pastoris isolate DE127 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683801.1 Length: 374
+>Capsella bursa-pastoris isolate DE136 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683802.1 Length: 374
+>Capsella bursa-pastoris isolate ES105 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683803.1 Length: 374
+>Capsella bursa-pastoris isolate ES107 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683804.1 Length: 374
+>Capsella bursa-pastoris isolate ET8 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683805.1 Length: 374
+>Capsella bursa-pastoris isolate FR49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683806.1 Length: 374
+>Capsella bursa-pastoris isolate FR50 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683807.1 Length: 374
+>Capsella bursa-pastoris isolate ES121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683808.1 Length: 374
+>Capsella bursa-pastoris isolate GB93 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683809.1 Length: 374
+>Capsella bursa-pastoris isolate GR134 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683810.1 Length: 374
+>Capsella bursa-pastoris isolate JO56 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683811.1 Length: 374
+>Capsella bursa-pastoris isolate JO59 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683812.1 Length: 374
+>Capsella bursa-pastoris isolate JO60 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683813.1 Length: 374
+>Capsella bursa-pastoris isolate NL54 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683814.1 Length: 374
+>Capsella bursa-pastoris isolate NL55 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683815.1 Length: 374
+>Capsella bursa-pastoris isolate PL135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683816.1 Length: 374
+>Capsella bursa-pastoris isolate SE139 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683817.1 Length: 374
+>Capsella bursa-pastoris isolate SE12 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683818.1 Length: 374
+>Capsella bursa-pastoris isolate SE30 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683819.1 Length: 374
+>Capsella bursa-pastoris isolate SE31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683820.1 Length: 374
+>Capsella bursa-pastoris isolate SE32 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683821.1 Length: 374
+>Capsella bursa-pastoris isolate SE33 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683822.1 Length: 374
+>Capsella bursa-pastoris isolate SE35 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683823.1 Length: 374
+>Capsella bursa-pastoris isolate SE37 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683824.1 Length: 374
+>Capsella bursa-pastoris isolate SE38 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683825.1 Length: 374
+>Capsella bursa-pastoris isolate SE39 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683826.1 Length: 374
+>Capsella bursa-pastoris isolate SE40 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683827.1 Length: 374
+>Capsella bursa-pastoris isolate SE41 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683828.1 Length: 374
+>Capsella bursa-pastoris isolate SE42 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683829.1 Length: 374
+>Capsella bursa-pastoris isolate SE43 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683830.1 Length: 374
+>Capsella bursa-pastoris isolate SE44 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683831.1 Length: 374
+>Capsella bursa-pastoris isolate SE45 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683832.1 Length: 374
+>Capsella bursa-pastoris isolate SE46 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683833.1 Length: 374
+>Capsella bursa-pastoris isolate SE48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683834.1 Length: 374
+>Capsella bursa-pastoris isolate SY61 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683835.1 Length: 374
+>Capsella bursa-pastoris isolate SY63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683836.1 Length: 374
+>Capsella bursa-pastoris isolate SY64 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683837.1 Length: 374
+>Capsella bursa-pastoris isolate SY65 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683838.1 Length: 374
+>Capsella bursa-pastoris isolate SY66 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683839.1 Length: 374
+>Capsella bursa-pastoris isolate SY67 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683840.1 Length: 374
+>Capsella bursa-pastoris isolate SY68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683841.1 Length: 374
+>Capsella bursa-pastoris isolate SY69 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683842.1 Length: 374
+>Capsella bursa-pastoris isolate XA106 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683843.1 Length: 374
+>Capsella bursa-pastoris isolate XA110 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683844.1 Length: 374
+>Capsella bursa-pastoris isolate TY121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683845.1 Length: 374
+>Capsella bursa-pastoris isolate HRB135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683847.1 Length: 374
+>Capsella bursa-pastoris isolate JZH145 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683848.1 Length: 374
+>Capsella bursa-pastoris isolate JZH147 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683849.1 Length: 374
+>Capsella bursa-pastoris isolate DL167 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683850.1 Length: 374
+>Capsella bursa-pastoris isolate DL170 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683851.1 Length: 374
+>Capsella bursa-pastoris isolate CSH1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683853.1 Length: 374
+>Capsella bursa-pastoris isolate XY20 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683855.1 Length: 374
+>Capsella bursa-pastoris isolate KMB210 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683856.1 Length: 374
+>Capsella bursa-pastoris isolate NJ218 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683857.1 Length: 374
+>Capsella bursa-pastoris isolate NJ222 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683858.1 Length: 374
+>Capsella bursa-pastoris isolate ZZH284 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683862.1 Length: 374
+>Capsella bursa-pastoris isolate CSH2 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683863.1 Length: 374
+>Capsella bursa-pastoris isolate QD319 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683865.1 Length: 374
+>Capsella bursa-pastoris isolate GY31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683866.1 Length: 374
+>Capsella bursa-pastoris isolate QF335 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683867.1 Length: 374
+>Capsella bursa-pastoris isolate QF340 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683868.1 Length: 374
+>Capsella bursa-pastoris isolate NCH350 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683869.1 Length: 374
+>Capsella bursa-pastoris isolate GY36 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683871.1 Length: 374
+>Capsella bursa-pastoris isolate XN442 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683874.1 Length: 374
+>Capsella bursa-pastoris isolate WH49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683876.1 Length: 374
+>Capsella bursa-pastoris isolate HY76 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683879.1 Length: 374
+>Capsella bursa-pastoris isolate HY89 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683880.1 Length: 374
+>Capsella bursa-pastoris isolate BD92 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683881.1 Length: 374
+>Capsella bursa-pastoris isolate TWTY alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683883.1 Length: 374
+>Capsella bursa-pastoris isolate AT101 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251535.1 Length: 374
+>Capsella bursa-pastoris isolate SY70 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251536.1 Length: 374
+>Capsella bursa-pastoris isolate TR71 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251537.1 Length: 374
+>Capsella bursa-pastoris isolate TR73 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251538.1 Length: 374
+>Capsella bursa-pastoris isolate TR74 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251539.1 Length: 374
+>Capsella bursa-pastoris isolate TR75 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251540.1 Length: 374
+>Capsella bursa-pastoris isolate TR79 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251541.1 Length: 374
+>Capsella bursa-pastoris isolate TR83 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251542.1 Length: 374 
+Range 1: 216 to 328
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella bursa-pastoris isolate C11-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673100.1 Length: 310
+>Capsella bursa-pastoris isolate C11-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673101.1 Length: 310
+>Capsella bursa-pastoris isolate C22-10 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673105.1 Length: 310
+>Capsella bursa-pastoris isolate C26 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673106.1 Length: 310
+>Capsella bursa-pastoris isolate C3-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673107.1 Length: 310
+>Capsella bursa-pastoris isolate C40-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673111.1 Length: 310
+>Capsella bursa-pastoris isolate C4-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673113.1 Length: 310
+>Capsella bursa-pastoris isolate C42-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673114.1 Length: 310
+>Capsella bursa-pastoris isolate C46-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673117.1 Length: 310
+>Capsella bursa-pastoris isolate C50-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673118.1 Length: 310
+>Capsella bursa-pastoris isolate C53-4 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673119.1 Length: 310
+>Capsella bursa-pastoris isolate C54-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673120.1 Length: 310
+>Capsella bursa-pastoris isolate C58-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673121.1 Length: 310
+>Capsella bursa-pastoris isolate C72-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673129.1 Length: 310
+>Capsella bursa-pastoris isolate C73-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673131.1 Length: 310
+>Capsella bursa-pastoris isolate C78-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673135.1 Length: 310 
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_GY31 Adh gene, partial cds
+Sequence ID: JQ419133.1 Length: 278
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate C122-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672942.1 Length: 310
+>Capsella bursa-pastoris isolate C122-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672943.1 Length: 310
+>Capsella bursa-pastoris isolate C64-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672964.1 Length: 310
+>Capsella bursa-pastoris isolate C64-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672965.1 Length: 310
+>Capsella bursa-pastoris isolate C66 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672966.1 Length: 310
+>Capsella bursa-pastoris isolate C72-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672967.1 Length: 310
+>Capsella bursa-pastoris isolate C73-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672970.1 Length: 310
+>Capsella bursa-pastoris isolate C74-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672971.1 Length: 310
+>Capsella bursa-pastoris isolate C74-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672972.1 Length: 310
+>Capsella bursa-pastoris isolate C77-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672973.1 Length: 310
+>Capsella bursa-pastoris isolate C78-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672974.1 Length: 310 
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate C41-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673112.1 Length: 310
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_32_25 Adh gene, partial cds
+Sequence ID: JQ419124.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_32_27 Adh gene, partial cds
+Sequence ID: JQ419125.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_39_12 Adh gene, partial cds
+Sequence ID: JQ419126.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_ISR3_2 Adh gene, partial cds
+Sequence ID: JQ419140.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_RU10_1 Adh gene, partial cds
+Sequence ID: JQ419153.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_RU2_1 Adh gene, partial cds
+Sequence ID: JQ419154.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_RU3_2 Adh gene, partial cds
+Sequence ID: JQ419155.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_RU5_1 Adh gene, partial cds
+Sequence ID: JQ419156.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_RU8_1 Adh gene, partial cds
+Sequence ID: JQ419157.1 Length: 278 
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate C1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955721.1 Length: 319
+>Capsella bursa-pastoris isolate C33-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955726.1 Length: 319
+>Capsella bursa-pastoris isolate C40-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955731.1 Length: 319
+>Capsella bursa-pastoris isolate C42-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955734.1 Length: 319
+>Capsella bursa-pastoris isolate C46-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955737.1 Length: 319
+>Capsella bursa-pastoris isolate C50-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955738.1 Length: 319
+>Capsella bursa-pastoris isolate C54-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955740.1 Length: 319
+>Capsella bursa-pastoris isolate C55-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955741.1 Length: 319
+>Capsella bursa-pastoris isolate C56-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955742.1 Length: 319
+>Capsella bursa-pastoris isolate C57-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955743.1 Length: 319
+>Capsella bursa-pastoris isolate C58-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955744.1 Length: 319 
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate C20-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955746.1 Length: 318
+Range 1: 160 to 272
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  160  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  219
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  220  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  272
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_XY18 Adh gene, partial cds
+Sequence ID: JQ419212.1 Length: 272
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate C37-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955753.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate HD63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683877.1 Length: 372
+>Capsella bursa-pastoris isolate HD68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683878.1 Length: 372 
+Range 1: 216 to 328
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_AQ404 Adh gene, partial cds
+Sequence ID: JQ419173.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_AQ416 Adh gene, partial cds
+Sequence ID: JQ419174.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_CSH1 Adh gene, partial cds
+Sequence ID: JQ419175.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_CSH2 Adh gene, partial cds
+Sequence ID: JQ419176.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_DL167 Adh gene, partial cds
+Sequence ID: JQ419177.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_DL170 Adh gene, partial cds
+Sequence ID: JQ419178.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_GY31 Adh gene, partial cds
+Sequence ID: JQ419179.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_GY36 Adh gene, partial cds
+Sequence ID: JQ419180.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_HY76 Adh gene, partial cds
+Sequence ID: JQ419183.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_HY89 Adh gene, partial cds
+Sequence ID: JQ419184.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_JZH145 Adh gene, partial cds
+Sequence ID: JQ419186.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_JZH147 Adh gene, partial cds
+Sequence ID: JQ419187.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_KMB205 Adh gene, partial cds
+Sequence ID: JQ419188.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_KMB210 Adh gene, partial cds
+Sequence ID: JQ419189.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_NCH350 Adh gene, partial cds
+Sequence ID: JQ419190.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_NCH355 Adh gene, partial cds
+Sequence ID: JQ419191.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_NJ218 Adh gene, partial cds
+Sequence ID: JQ419192.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_NJ222 Adh gene, partial cds
+Sequence ID: JQ419193.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_QD319 Adh gene, partial cds
+Sequence ID: JQ419195.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_QF335 Adh gene, partial cds
+Sequence ID: JQ419196.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_QF340 Adh gene, partial cds
+Sequence ID: JQ419197.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_TY121 Adh gene, partial cds
+Sequence ID: JQ419204.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_WH48 Adh gene, partial cds
+Sequence ID: JQ419206.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_WH49 Adh gene, partial cds
+Sequence ID: JQ419207.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_XA106 Adh gene, partial cds
+Sequence ID: JQ419208.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_XA110 Adh gene, partial cds
+Sequence ID: JQ419209.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_XN438 Adh gene, partial cds
+Sequence ID: JQ419210.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_XN442 Adh gene, partial cds
+Sequence ID: JQ419211.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_XY20 Adh gene, partial cds
+Sequence ID: JQ419213.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_ZZH279 Adh gene, partial cds
+Sequence ID: JQ419214.1 Length: 272
+>Capsella bursa-pastoris isolate CbpB_ZZH284 Adh gene, partial cds
+Sequence ID: JQ419215.1 Length: 272 
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella orientalis isolate C12-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672866.1 Length: 310
+>Capsella orientalis isolate C16-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672868.1 Length: 310
+>Capsella orientalis isolate C43-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672872.1 Length: 310
+>Capsella orientalis isolate C48-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672874.1 Length: 310 
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate C32 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955749.1 Length: 317
+>Capsella bursa-pastoris isolate C40-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955755.1 Length: 317 
+Range 1: 159 to 271
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  159  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  218
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  219  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  271
+
+
+
+
+>Capsella orientalis isolate C52-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672875.1 Length: 310
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate XA106 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683737.1 Length: 359
+>Capsella bursa-pastoris isolate XA110 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683738.1 Length: 359
+>Capsella bursa-pastoris isolate TY121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683739.1 Length: 359
+>Capsella bursa-pastoris isolate TY123 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683740.1 Length: 359
+>Capsella bursa-pastoris isolate HRB135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683741.1 Length: 359
+>Capsella bursa-pastoris isolate JZH145 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683742.1 Length: 359
+>Capsella bursa-pastoris isolate JZH147 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683743.1 Length: 359
+>Capsella bursa-pastoris isolate DL167 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683744.1 Length: 359
+>Capsella bursa-pastoris isolate DL170 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683745.1 Length: 359
+>Capsella bursa-pastoris isolate CSH1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683747.1 Length: 359
+>Capsella bursa-pastoris isolate KMB205 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683748.1 Length: 359
+>Capsella bursa-pastoris isolate XY20 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683749.1 Length: 359
+>Capsella bursa-pastoris isolate KMB210 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683750.1 Length: 359
+>Capsella bursa-pastoris isolate NJ218 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683751.1 Length: 359
+>Capsella bursa-pastoris isolate BJB234 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683753.1 Length: 359
+>Capsella bursa-pastoris isolate BJB236 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683754.1 Length: 359
+>Capsella bursa-pastoris isolate ZZH279 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683755.1 Length: 359
+>Capsella bursa-pastoris isolate ZZH284 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683756.1 Length: 359
+>Capsella bursa-pastoris isolate CSH2 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683757.1 Length: 359
+>Capsella bursa-pastoris isolate QD318 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683758.1 Length: 359
+>Capsella bursa-pastoris isolate QD319 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683759.1 Length: 359
+>Capsella bursa-pastoris isolate QF335 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683761.1 Length: 359
+>Capsella bursa-pastoris isolate NCH350 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683763.1 Length: 359
+>Capsella bursa-pastoris isolate NCH355 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683764.1 Length: 359
+>Capsella bursa-pastoris isolate AQ404 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683766.1 Length: 359
+>Capsella bursa-pastoris isolate AQ416 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683767.1 Length: 359
+>Capsella bursa-pastoris isolate XN442 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683768.1 Length: 359
+>Capsella bursa-pastoris isolate WH48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683769.1 Length: 359
+>Capsella bursa-pastoris isolate WH49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683770.1 Length: 359
+>Capsella bursa-pastoris isolate HD63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683771.1 Length: 359
+>Capsella bursa-pastoris isolate HD68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683772.1 Length: 359
+>Capsella bursa-pastoris isolate HY76 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683773.1 Length: 359
+>Capsella bursa-pastoris isolate HY89 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683774.1 Length: 359
+>Capsella bursa-pastoris isolate BD92 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683775.1 Length: 359
+>Capsella bursa-pastoris isolate BD97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683776.1 Length: 359
+>Capsella bursa-pastoris isolate TWTY alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683777.1 Length: 359 
+Range 1: 195 to 307
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  195  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  254
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  255  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  307
+
+
+
+
+>Capsella orientalis isolate C22-9 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955773.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate AL87 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683687.1 Length: 359
+>Capsella bursa-pastoris isolate AL88 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683688.1 Length: 359
+>Capsella bursa-pastoris isolate AT125 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683689.1 Length: 359
+>Capsella bursa-pastoris isolate BH112 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683690.1 Length: 359
+>Capsella bursa-pastoris isolate CZ96 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683692.1 Length: 359
+>Capsella bursa-pastoris isolate DE98 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683694.1 Length: 359
+>Capsella bursa-pastoris isolate ES105 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683697.1 Length: 359
+>Capsella bursa-pastoris isolate ES107 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683698.1 Length: 359
+>Capsella bursa-pastoris isolate ET8 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683699.1 Length: 359
+>Capsella bursa-pastoris isolate ES121 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683702.1 Length: 359
+>Capsella bursa-pastoris isolate GB93 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683703.1 Length: 359
+>Capsella bursa-pastoris isolate JO56 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683705.1 Length: 359
+>Capsella bursa-pastoris isolate JO59 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683706.1 Length: 359
+>Capsella bursa-pastoris isolate JO60 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683707.1 Length: 359
+>Capsella bursa-pastoris isolate NL54 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683708.1 Length: 359
+>Capsella bursa-pastoris isolate NL55 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683709.1 Length: 359
+>Capsella bursa-pastoris isolate SE139 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683711.1 Length: 359
+>Capsella bursa-pastoris isolate SE12 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683712.1 Length: 359
+>Capsella bursa-pastoris isolate SE30 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683713.1 Length: 359
+>Capsella bursa-pastoris isolate SE31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683714.1 Length: 359
+>Capsella bursa-pastoris isolate SE32 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683715.1 Length: 359
+>Capsella bursa-pastoris isolate SE37 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683718.1 Length: 359
+>Capsella bursa-pastoris isolate SE39 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683720.1 Length: 359
+>Capsella bursa-pastoris isolate SE40 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683721.1 Length: 359
+>Capsella bursa-pastoris isolate SE41 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683722.1 Length: 359
+>Capsella bursa-pastoris isolate SE42 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683723.1 Length: 359
+>Capsella bursa-pastoris isolate SE43 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683724.1 Length: 359
+>Capsella bursa-pastoris isolate SE45 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683726.1 Length: 359
+>Capsella bursa-pastoris isolate SE46 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683727.1 Length: 359
+>Capsella bursa-pastoris isolate SE48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683728.1 Length: 359
+>Capsella bursa-pastoris isolate SY61 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683729.1 Length: 359
+>Capsella bursa-pastoris isolate SY63 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683730.1 Length: 359
+>Capsella bursa-pastoris isolate SY64 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683731.1 Length: 359
+>Capsella bursa-pastoris isolate SY65 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683732.1 Length: 359
+>Capsella bursa-pastoris isolate SY66 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683733.1 Length: 359
+>Capsella bursa-pastoris isolate SY67 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683734.1 Length: 359
+>Capsella bursa-pastoris isolate SY68 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683735.1 Length: 359
+>Capsella bursa-pastoris isolate SY69 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683736.1 Length: 359
+>Capsella bursa-pastoris isolate SY70 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251528.1 Length: 359
+>Capsella bursa-pastoris isolate TR71 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251529.1 Length: 359
+>Capsella bursa-pastoris isolate TR73 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251530.1 Length: 359
+>Capsella bursa-pastoris isolate TR74 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251531.1 Length: 359
+>Capsella bursa-pastoris isolate TR79 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251532.1 Length: 359
+>Capsella bursa-pastoris isolate TR83 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251533.1 Length: 359
+>Capsella bursa-pastoris isolate TR91 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251534.1 Length: 359 
+Range 1: 195 to 307
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  195  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  254
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  255  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  307
+
+
+
+
+>Capsella bursa-pastoris ecotype 721 genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343307.1 Length: 625
+Range 1: 361 to 473
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  361  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  420
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  473
+
+
+
+
+>Capsella bursa-pastoris isolate C44-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673115.1 Length: 310
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate XY18 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683746.1 Length: 353
+>Capsella bursa-pastoris isolate NJ222 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683752.1 Length: 353 
+Range 1: 195 to 307
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  195  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  254
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  255  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  307
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_NJ222 Adh gene, partial cds
+Sequence ID: JQ419148.1 Length: 272
+>Capsella bursa-pastoris isolate CbpA_XY18 Adh gene, partial cds
+Sequence ID: JQ419166.1 Length: 272 
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_AQ404 Adh gene, partial cds
+Sequence ID: JQ419127.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_AQ416 Adh gene, partial cds
+Sequence ID: JQ419128.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_CSH1 Adh gene, partial cds
+Sequence ID: JQ419129.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_CSH2 Adh gene, partial cds
+Sequence ID: JQ419130.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_DL167 Adh gene, partial cds
+Sequence ID: JQ419131.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_DL170 Adh gene, partial cds
+Sequence ID: JQ419132.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_HD63 Adh gene, partial cds
+Sequence ID: JQ419135.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_HD68 Adh gene, partial cds
+Sequence ID: JQ419136.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_HRB137 Adh gene, partial cds
+Sequence ID: JQ419137.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_HY76 Adh gene, partial cds
+Sequence ID: JQ419138.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_HY89 Adh gene, partial cds
+Sequence ID: JQ419139.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_JZH145 Adh gene, partial cds
+Sequence ID: JQ419141.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_JZH147 Adh gene, partial cds
+Sequence ID: JQ419142.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_KMB205 Adh gene, partial cds
+Sequence ID: JQ419143.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_KMB210 Adh gene, partial cds
+Sequence ID: JQ419144.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_NCH350 Adh gene, partial cds
+Sequence ID: JQ419145.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_NCH355 Adh gene, partial cds
+Sequence ID: JQ419146.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_NJ218 Adh gene, partial cds
+Sequence ID: JQ419147.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_QD318 Adh gene, partial cds
+Sequence ID: JQ419149.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_QD319 Adh gene, partial cds
+Sequence ID: JQ419150.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_QF335 Adh gene, partial cds
+Sequence ID: JQ419151.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_TY121 Adh gene, partial cds
+Sequence ID: JQ419158.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_TY123 Adh gene, partial cds
+Sequence ID: JQ419159.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_WH48 Adh gene, partial cds
+Sequence ID: JQ419160.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_WH49 Adh gene, partial cds
+Sequence ID: JQ419161.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_XA106 Adh gene, partial cds
+Sequence ID: JQ419162.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_XA110 Adh gene, partial cds
+Sequence ID: JQ419163.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_XN438 Adh gene, partial cds
+Sequence ID: JQ419164.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_XN442 Adh gene, partial cds
+Sequence ID: JQ419165.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_XY20 Adh gene, partial cds
+Sequence ID: JQ419167.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_ZZH279 Adh gene, partial cds
+Sequence ID: JQ419168.1 Length: 278
+>Capsella bursa-pastoris isolate CbpA_ZZH284 Adh gene, partial cds
+Sequence ID: JQ419169.1 Length: 278 
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris ecotype PL genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343313.1 Length: 635
+Range 1: 371 to 483
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  371  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  430
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  431  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  483
+
+
+
+
+>Capsella bursa-pastoris isolate CbpA_QF340 Adh gene, partial cds
+Sequence ID: JQ419152.1 Length: 274
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris ecotype 740 genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343312.1 Length: 635
+Range 1: 371 to 483
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  371  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  430
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  431  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  483
+
+
+
+
+>Capsella bursa-pastoris isolate GY31 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683760.1 Length: 359
+Range 1: 195 to 307
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  195  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  254
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  255  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  307
+
+
+
+
+>Capsella bursa-pastoris isolate C122-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673102.1 Length: 310
+>Capsella bursa-pastoris isolate C122-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673103.1 Length: 310
+>Capsella bursa-pastoris isolate C62-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673122.1 Length: 310
+>Capsella bursa-pastoris isolate C63-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673123.1 Length: 310
+>Capsella bursa-pastoris isolate C63-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673124.1 Length: 310
+>Capsella bursa-pastoris isolate C64-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673125.1 Length: 310
+>Capsella bursa-pastoris isolate C64-5 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673126.1 Length: 310
+>Capsella bursa-pastoris isolate C66 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673127.1 Length: 310
+>Capsella bursa-pastoris isolate C72-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673128.1 Length: 310
+>Capsella bursa-pastoris isolate C74-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673132.1 Length: 310
+>Capsella bursa-pastoris isolate C77-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673134.1 Length: 310 
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate C37-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672949.1 Length: 310
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella orientalis isolate C12-6 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955769.1 Length: 318
+>Capsella orientalis isolate C43-4 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955777.1 Length: 318
+>Capsella orientalis isolate C48-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955779.1 Length: 318 
+Range 1: 160 to 272
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  160  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  219
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  220  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  272
+
+
+
+
+>Capsella orientalis isolate C54-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955781.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris isolate WH48 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683875.1 Length: 360
+Range 1: 202 to 314
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  202  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  261
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  262  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  314
+
+
+
+
+>Capsella bursa-pastoris isolate C36-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955752.1 Length: 319
+Range 1: 161 to 273
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGA-GGATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||| |||||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGGATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris ecotype SE14 genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343308.1 Length: 625
+>Capsella bursa-pastoris ecotype 740 genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343309.1 Length: 625
+>Capsella bursa-pastoris ecotype PL genotype tetraploid B alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343310.1 Length: 625 
+Range 1: 361 to 473
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  361  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  420
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  421  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  473
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_QD318 Adh gene, partial cds
+Sequence ID: JQ419194.1 Length: 258
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate C20-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673104.1 Length: 310
+Range 1: 152 to 264
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_32_25 Adh gene, partial cds
+Sequence ID: JQ419170.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_32_27 Adh gene, partial cds
+Sequence ID: JQ419171.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_39_12 Adh gene, partial cds
+Sequence ID: JQ419172.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_ISR3_2 Adh gene, partial cds
+Sequence ID: JQ419185.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_RU10_1 Adh gene, partial cds
+Sequence ID: JQ419198.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_RU13_1 Adh gene, partial cds
+Sequence ID: JQ419199.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_RU13_2 Adh gene, partial cds
+Sequence ID: JQ419200.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_RU2_1 Adh gene, partial cds
+Sequence ID: JQ419201.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_RU5_1 Adh gene, partial cds
+Sequence ID: JQ419202.1 Length: 278
+>Capsella bursa-pastoris isolate CbpB_RU8_1 Adh gene, partial cds
+Sequence ID: JQ419203.1 Length: 278 
+Range 1: 114 to 226
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  114  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate XY18 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683852.1 Length: 374
+Range 1: 216 to 328
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella bursa-pastoris isolate GY36 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683765.1 Length: 355
+Range 1: 195 to 307
+
+Score:195 bits(105), Expect:2e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  195  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  254
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  255  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  307
+
+
+
+
+>Capsella bursa-pastoris isolate C35-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673108.1 Length: 310
+Range 1: 152 to 264
+
+Score:193 bits(104), Expect:6e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGGGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella bursa-pastoris isolate C35-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955727.1 Length: 319
+Range 1: 161 to 273
+
+Score:193 bits(104), Expect:6e-45, 
+Identities:110/113(97%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGGGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella bursa-pastoris ecotype 721 genotype tetraploid A alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343311.1 Length: 635
+Range 1: 371 to 483
+
+Score:191 bits(103), Expect:2e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  371  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  430
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            ||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  431  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCANCATTTCC  483
+
+
+
+
+>Capsella rubella isolate Cr3.14 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683778.1 Length: 574
+Range 1: 289 to 401
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  289  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  348
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  349  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  401
+
+
+
+
+>Capsella rubella isolate 85IT1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683785.1 Length: 596
+>Capsella rubella isolate 116ES6 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683787.1 Length: 596
+>Capsella rubella isolate 123ES7 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683788.1 Length: 596
+>Capsella rubella isolate 137GR6 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683791.1 Length: 596
+>Capsella rubella isolate SI368 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683792.1 Length: 596 
+Range 1: 289 to 401
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  289  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  348
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  349  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  401
+
+
+
+
+>Capsella rubella isolate 76TR1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683781.1 Length: 581
+>Capsella rubella isolate 78TR1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683782.1 Length: 581 
+Range 1: 275 to 387
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  275  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  334
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  335  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  387
+
+
+
+
+>PREDICTED: Capsella rubella alcohol dehydrogenase class-P (LOC17895484), mRNA
+Sequence ID: XM_006302340.2 Length: 1431
+Range 1: 399 to 511
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  399  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  458
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  459  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  511
+
+
+
+
+>Capsella grandiflora strain 3 clone 1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649735.1 Length: 1261
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella bursa-pastoris isolate C42-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955758.1 Length: 319
+Range 1: 161 to 273
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            || ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCGCGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella rubella alcohol dehydrogenase gene, complete cds
+Sequence ID: AF110435.1 Length: 1723
+Range 1: 651 to 763
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  651  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  710
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  711  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  763
+
+
+
+
+>Capsella bursa-pastoris isolate C36-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673109.1 Length: 310
+Range 1: 152 to 264
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            ||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTATATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella grandiflora strain 8 clone 1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649728.1 Length: 1268
+Range 1: 285 to 397
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  285  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  344
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  397
+
+
+
+
+>Capsella rubella strain 925 ADH (ADH) gene, partial cds
+Sequence ID: FJ649699.1 Length: 1262
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella rubella isolate Cr_22_12 Adh gene, partial cds
+Sequence ID: JQ419233.1 Length: 278
+>Capsella rubella isolate Cr_2_4 Adh gene, partial cds
+Sequence ID: JQ419234.1 Length: 278
+>Capsella rubella isolate Cr_32_15 Adh gene, partial cds
+Sequence ID: JQ419235.1 Length: 278
+>Capsella rubella isolate Cr_32_17 Adh gene, partial cds
+Sequence ID: JQ419236.1 Length: 278
+>Capsella rubella isolate Cr_6_25 Adh gene, partial cds
+Sequence ID: JQ419237.1 Length: 278
+>Capsella rubella isolate Cr_FR1_3 Adh gene, partial cds
+Sequence ID: JQ419238.1 Length: 278
+>Capsella rubella isolate Cr_FR4_1 Adh gene, partial cds
+Sequence ID: JQ419239.1 Length: 278
+>Capsella rubella isolate Cr_ISR1_1 Adh gene, partial cds
+Sequence ID: JQ419240.1 Length: 278
+>Capsella rubella isolate Cr_ISR2_3 Adh gene, partial cds
+Sequence ID: JQ419241.1 Length: 278 
+Range 1: 114 to 226
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  114  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella bursa-pastoris isolate BH113 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683691.1 Length: 351
+>Capsella bursa-pastoris isolate DE97 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683693.1 Length: 351
+>Capsella bursa-pastoris isolate DE127 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683695.1 Length: 351
+>Capsella bursa-pastoris isolate DE136 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683696.1 Length: 351
+>Capsella bursa-pastoris isolate FR49 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683700.1 Length: 351
+>Capsella bursa-pastoris isolate FR50 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683701.1 Length: 351
+>Capsella bursa-pastoris isolate GR134 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683704.1 Length: 351
+>Capsella bursa-pastoris isolate PL135 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683710.1 Length: 351
+>Capsella bursa-pastoris isolate SE33 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683716.1 Length: 351
+>Capsella bursa-pastoris isolate SE35 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683717.1 Length: 351
+>Capsella bursa-pastoris isolate SE38 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683719.1 Length: 351
+>Capsella bursa-pastoris isolate SE44 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683725.1 Length: 351
+>Capsella bursa-pastoris isolate AT101 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: GQ251527.1 Length: 351 
+Range 1: 187 to 299
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  187  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  246
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  247  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  299
+
+
+
+
+>Capsella grandiflora ecotype IPK genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343314.1 Length: 639
+Range 1: 375 to 487
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  375  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  434
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  435  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  487
+
+
+
+
+>Capsella rubella isolate 81TR1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683783.1 Length: 595
+>Capsella rubella isolate 131GR4 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683790.1 Length: 595 
+Range 1: 288 to 400
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  288  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  347
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  348  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  400
+
+
+
+
+>Capsella bursa-pastoris isolate CbpB_TY123 Adh gene, partial cds
+Sequence ID: JQ419205.1 Length: 272
+Range 1: 114 to 226
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||| |||||||
+Sbjct  114  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGACGAATGAT  173
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  226
+
+
+
+
+>Capsella grandiflora strain 3 clone 2 ADH (ADH) gene, partial cds
+Sequence ID: FJ649725.1 Length: 1262
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella grandiflora strain 11 clone 2 ADH (ADH) gene, partial cds
+Sequence ID: FJ649723.1 Length: 1263
+Range 1: 280 to 392
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  280  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  339
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  340  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  392
+
+
+
+
+>Capsella rubella isolate 84TR1 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683784.1 Length: 589
+Range 1: 273 to 385
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  273  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  332
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  333  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  385
+
+
+
+
+>Capsella grandiflora strain 7 clone 1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649726.1 Length: 1258
+Range 1: 282 to 394
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  282  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGGATGAT  341
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  342  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  394
+
+
+
+
+>Capsella grandiflora strain 4 clone 2 ADH (ADH) gene, partial cds
+Sequence ID: FJ649724.1 Length: 1262
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella bursa-pastoris isolate TY123 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683846.1 Length: 374
+Range 1: 216 to 328
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||| |||||||
+Sbjct  216  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGACGAATGAT  275
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  276  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  328
+
+
+
+
+>Capsella grandiflora strain 10 clone 2 ADH (ADH) gene, partial cds
+Sequence ID: FJ649722.1 Length: 1263
+Range 1: 280 to 392
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  280  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  339
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  340  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  392
+
+
+
+
+>Capsella bursa-pastoris isolate C36-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM672948.1 Length: 310
+Range 1: 152 to 264
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||| ||| |||||||||||
+Sbjct  152  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGGGCGAGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella rubella strain 1204 ADH (ADH) gene, partial cds
+Sequence ID: FJ649700.1 Length: 1262
+>Capsella rubella strain 1207 ADH (ADH) gene, partial cds
+Sequence ID: FJ649701.1 Length: 1262
+>Capsella rubella strain 1208 ADH (ADH) gene, partial cds
+Sequence ID: FJ649702.1 Length: 1262
+>Capsella rubella strain 1209 ADH (ADH) gene, partial cds
+Sequence ID: FJ649703.1 Length: 1262
+>Capsella rubella strain 1215 ADH (ADH) gene, partial cds
+Sequence ID: FJ649704.1 Length: 1262
+>Capsella rubella strain 1311 ADH (ADH) gene, partial cds
+Sequence ID: FJ649705.1 Length: 1262
+>Capsella rubella strain 1377 ADH (ADH) gene, partial cds
+Sequence ID: FJ649706.1 Length: 1262
+>Capsella rubella strain 1453 ADH (ADH) gene, partial cds
+Sequence ID: FJ649707.1 Length: 1262
+>Capsella rubella strain 1482 ADH (ADH) gene, partial cds
+Sequence ID: FJ649708.1 Length: 1262
+>Capsella rubella strain 1GR1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649709.1 Length: 1262
+>Capsella rubella strain 690 ADH (ADH) gene, partial cds
+Sequence ID: FJ649710.1 Length: 1262
+>Capsella rubella strain 697 ADH (ADH) gene, partial cds
+Sequence ID: FJ649711.1 Length: 1262
+>Capsella rubella strain 698 ADH (ADH) gene, partial cds
+Sequence ID: FJ649712.1 Length: 1262
+>Capsella rubella strain 762 ADH (ADH) gene, partial cds
+Sequence ID: FJ649713.1 Length: 1262
+>Capsella rubella strain 844 ADH (ADH) gene, partial cds
+Sequence ID: FJ649714.1 Length: 1262
+>Capsella rubella strain 86IT1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649715.1 Length: 1262
+>Capsella rubella strain 907 ADH (ADH) gene, partial cds
+Sequence ID: FJ649716.1 Length: 1262
+>Capsella rubella strain 984 ADH (ADH) gene, partial cds
+Sequence ID: FJ649717.1 Length: 1262
+>Capsella rubella strain GO665 ADH (ADH) gene, partial cds
+Sequence ID: FJ649718.1 Length: 1262
+>Capsella rubella strain MTE ADH (ADH) gene, partial cds
+Sequence ID: FJ649719.1 Length: 1262
+>Capsella rubella strain RIAH ADH (ADH) gene, partial cds
+Sequence ID: FJ649720.1 Length: 1262
+>Capsella rubella strain TAAL ADH (ADH) gene, partial cds
+Sequence ID: FJ649721.1 Length: 1262 
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella rubella strain 1408 ADH (ADH) gene, partial cds
+Sequence ID: FJ649697.1 Length: 1262
+>Capsella rubella strain 879 ADH (ADH) gene, partial cds
+Sequence ID: FJ649698.1 Length: 1262 
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella bursa-pastoris isolate C37-2 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KM673110.1 Length: 310
+Range 1: 152 to 264
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||| ||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  152  CTCCAAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  211
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  212  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  264
+
+
+
+
+>Capsella rubella isolate Cr_2-3 Adh gene, partial cds
+Sequence ID: JQ419216.1 Length: 274
+>Capsella rubella isolate Cr_22-15 Adh gene, partial cds
+Sequence ID: JQ419217.1 Length: 274
+>Capsella rubella isolate Cr_23-13 Adh gene, partial cds
+Sequence ID: JQ419218.1 Length: 274
+>Capsella rubella isolate Cr_27-6 Adh gene, partial cds
+Sequence ID: JQ419219.1 Length: 274
+>Capsella rubella isolate Cr_28-9 Adh gene, partial cds
+Sequence ID: JQ419220.1 Length: 274
+>Capsella rubella isolate Cr_3-11 Adh gene, partial cds
+Sequence ID: JQ419221.1 Length: 274
+>Capsella rubella isolate Cr_32-13 Adh gene, partial cds
+Sequence ID: JQ419222.1 Length: 274
+>Capsella rubella isolate Cr_35-13 Adh gene, partial cds
+Sequence ID: JQ419223.1 Length: 274
+>Capsella rubella isolate Cr_39-5 Adh gene, partial cds
+Sequence ID: JQ419224.1 Length: 274
+>Capsella rubella isolate Cr_4-23 Adh gene, partial cds
+Sequence ID: JQ419225.1 Length: 274
+>Capsella rubella isolate Cr_49-13 Adh gene, partial cds
+Sequence ID: JQ419226.1 Length: 274
+>Capsella rubella isolate Cr_50-14 Adh gene, partial cds
+Sequence ID: JQ419227.1 Length: 274
+>Capsella rubella isolate Cr_6-24 Adh gene, partial cds
+Sequence ID: JQ419228.1 Length: 274
+>Capsella rubella isolate Cr_6-26 Adh gene, partial cds
+Sequence ID: JQ419229.1 Length: 274
+>Capsella rubella isolate Cr_60-1 Adh gene, partial cds
+Sequence ID: JQ419230.1 Length: 274
+>Capsella rubella isolate Cr_63-1 Adh gene, partial cds
+Sequence ID: JQ419231.1 Length: 274
+>Capsella rubella isolate Cr_8-5 Adh gene, partial cds
+Sequence ID: JQ419232.1 Length: 274 
+Range 1: 110 to 222
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  110  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  169
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  222
+
+
+
+
+>Capsella rubella ecotype GO genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343317.1 Length: 638
+>Capsella rubella ecotype IPK genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343318.1 Length: 638
+>Capsella rubella ecotype 80TR1 genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343319.1 Length: 638
+>Capsella rubella ecotype 86IT1 genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343320.1 Length: 638
+>Capsella rubella ecotype 82TR1 genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343321.1 Length: 638
+>Capsella rubella ecotype 1GR1 genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343322.1 Length: 638
+>Capsella rubella ecotype 77TR1 genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343323.1 Length: 638
+>Capsella rubella ecotype 72TR1 genotype diploid alcohol dehydrogenase (Adh) gene, exons 2 through 4 and partial cds
+Sequence ID: DQ343324.1 Length: 638 
+Range 1: 374 to 486
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  374  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  433
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  434  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  486
+
+
+
+
+>Capsella bursa-pastoris isolate C36-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955728.1 Length: 319
+Range 1: 161 to 273
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            ||||||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTATATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella grandiflora strain 8 clone 2 ADH (ADH) gene, partial cds
+Sequence ID: FJ649729.1 Length: 1268
+Range 1: 285 to 397
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  285  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  344
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  345  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  397
+
+
+
+
+>Capsella bursa-pastoris isolate C31-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955748.1 Length: 319
+>Capsella bursa-pastoris isolate C39-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955754.1 Length: 319
+>Capsella orientalis isolate C47-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955778.1 Length: 319 
+Range 1: 161 to 273
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||| ||| |||||||||||
+Sbjct  161  CTCCGAGGAATCCAATATGTGTGATCTTCTCAGGATCAACACCGGGCGAGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+>Capsella grandiflora strain 9 clone 1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649733.1 Length: 1262
+>Capsella grandiflora strain 10 clone 1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649734.1 Length: 1262 
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella rubella isolate 130GR4 alcohol dehydrogenase (Adh) gene, exons 3, 4 and partial cds
+Sequence ID: EF683789.1 Length: 583
+Range 1: 276 to 388
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  276  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  335
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  336  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  388
+
+
+
+
+>Capsella grandiflora strain 7 clone 2 ADH (ADH) gene, partial cds
+Sequence ID: FJ649727.1 Length: 1264
+Range 1: 281 to 393
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  281  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGAGGAGGGATGAT  340
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  341  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  393
+
+
+
+
+>Capsella grandiflora strain 11 clone 1 ADH (ADH) gene, partial cds
+Sequence ID: FJ649732.1 Length: 1262
+Range 1: 279 to 391
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||||||| |||||| |||||||||||||||||||||||||||||||| ||||| |||||
+Sbjct  279  CTCCGAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGGATGAT  338
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  339  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  391
+
+
+
+
+>Capsella bursa-pastoris isolate C3-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955723.1 Length: 319
+>Capsella bursa-pastoris isolate C37-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955729.1 Length: 319
+>Capsella bursa-pastoris isolate C39-3 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955730.1 Length: 319
+>Capsella bursa-pastoris isolate C4-1 alcohol dehydrogenase (Adh) gene, exon 4 and partial cds
+Sequence ID: KJ955732.1 Length: 319 
+Range 1: 161 to 273
+
+Score:189 bits(102), Expect:8e-44, 
+Identities:109/113(96%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  20   CTCCGAGG-ATCCAAYATGTGTGATCTTCTCAGGATCAACACCGAGCGWGGAGGAATGAT  78
+            |||| ||| |||||| |||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  161  CTCCAAGGAATCCAACATGTGTGATCTTCTCAGGATCAACACCGAGCGTGGAGGAATGAT  220
+
+Query  79   TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  131
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  221  TCACGACGGTGAATCTAGATTCTCCATTAATGGCAAACCCATTCATCATTTCC  273
+
+
+
+
+		
+
+

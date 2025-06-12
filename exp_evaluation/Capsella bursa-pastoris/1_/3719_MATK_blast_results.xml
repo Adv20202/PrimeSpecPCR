@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_2305953</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>350</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_2305953</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>350</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1328689201|gb|MG220745.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher JAG 0697 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG220745</Hit_accession>
+  <Hit_len>698</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>127</Hsp_hit-from>
+      <Hsp_hit-to>476</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1893370636|gb|MK954285.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate 524 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MK954285</Hit_accession>
+  <Hit_len>753</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>183</Hsp_hit-from>
+      <Hsp_hit-to>532</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|984910894|gb|KT456900.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher Ahrendsen_9 maturase K gene, complete cds; chloroplast</Hit_def>
+  <Hit_accession>KT456900</Hit_accession>
+  <Hit_len>1581</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>782</Hsp_hit-from>
+      <Hsp_hit-to>1131</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1328689677|gb|MG220898.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher MISU22-35 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG220898</Hit_accession>
+  <Hit_len>762</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>191</Hsp_hit-from>
+      <Hsp_hit-to>540</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2814128286|gb|PQ348694.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher WK23-ABG000086 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>PQ348694</Hit_accession>
+  <Hit_len>670</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>543</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|1328690173|gb|MG221055.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher JAG 0910 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG221055</Hit_accession>
+  <Hit_len>770</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>199</Hsp_hit-from>
+      <Hsp_hit-to>548</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1150928986|gb|KX374552.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris maturase (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KX374552</Hit_accession>
+  <Hit_len>830</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>281</Hsp_hit-from>
+      <Hsp_hit-to>630</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1476413194|gb|MG251292.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher HCCN-PJ012640-WB79 maturase K (matK) gene, partial cds; chloroplast &gt;gi|1476413196|gb|MG251293.1| Capsella bursa-pastoris voucher HCCN-PJ012640-WB87 maturase K (matK) gene, partial cds; chloroplast &gt;gi|1476413198|gb|MG251294.1| Capsella bursa-pastoris voucher HCCN-PJ012640-WB82 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG251292</Hit_accession>
+  <Hit_len>723</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>197</Hsp_hit-from>
+      <Hsp_hit-to>546</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|607344984|gb|KJ204451.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher G00199167 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ204451</Hit_accession>
+  <Hit_len>767</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>271</Hsp_hit-from>
+      <Hsp_hit-to>620</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|1328689999|gb|MG221000.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher MISU5-14 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG221000</Hit_accession>
+  <Hit_len>762</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>191</Hsp_hit-from>
+      <Hsp_hit-to>540</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|406034256|emb|HE967363.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris subsp. bursa-pastoris chloroplast partial matK gene for maturase K, specimen voucher MIB:ZPL:03185</Hit_def>
+  <Hit_accession>HE967363</Hit_accession>
+  <Hit_len>708</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>178</Hsp_hit-from>
+      <Hsp_hit-to>527</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|2274953556|gb|MT917685.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher Ge130584 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MT917685</Hit_accession>
+  <Hit_len>764</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>543</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|315259896|gb|HQ619802.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate LegMedMO_78 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>HQ619802</Hit_accession>
+  <Hit_len>822</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>220</Hsp_hit-from>
+      <Hsp_hit-to>569</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|1830462279|gb|MT040199.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris chloroplast, complete genome</Hit_def>
+  <Hit_accession>MT040199</Hit_accession>
+  <Hit_len>154553</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>2832</Hsp_hit-from>
+      <Hsp_hit-to>2483</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|1328690391|gb|MG221124.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher JAG 0129 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG221124</Hit_accession>
+  <Hit_len>704</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>130</Hsp_hit-from>
+      <Hsp_hit-to>479</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|2637961483|gb|OR941702.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher JC202308 chloroplast, complete genome</Hit_def>
+  <Hit_accession>OR941702</Hit_accession>
+  <Hit_len>154536</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>2833</Hsp_hit-from>
+      <Hsp_hit-to>2484</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1284847958|gb|MF786952.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MF786952</Hit_accession>
+  <Hit_len>757</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>195</Hsp_hit-from>
+      <Hsp_hit-to>544</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1328690073|gb|MG221023.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher MISU23-17 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MG221023</Hit_accession>
+  <Hit_len>762</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>191</Hsp_hit-from>
+      <Hsp_hit-to>540</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1677623135|gb|MH659461.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher Q007 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MH659461</Hit_accession>
+  <Hit_len>769</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>543</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|379037834|gb|JN893963.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris isolate NBGW6066 maturase K (matK) gene, partial cds; chloroplast &gt;gi|379040452|gb|JN895272.1| Capsella bursa-pastoris isolate NMW5204 maturase K (matK) gene, partial cds; chloroplast &gt;gi|2274953550|gb|MT917682.1| Capsella bursa-pastoris voucher TW-0009 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>JN893963</Hit_accession>
+  <Hit_len>768</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>543</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|675272315|gb|KJ840876.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher TJD-177 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ840876</Hit_accession>
+  <Hit_len>581</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>410</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|315140347|gb|HQ593199.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher AP233 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>HQ593199</Hit_accession>
+  <Hit_len>768</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>200</Hsp_hit-from>
+      <Hsp_hit-to>549</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|139387231|ref|NC_009270.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris chloroplast, complete genome &gt;gi|134286552|dbj|AP009371.1| Capsella bursa-pastoris chloroplast DNA, complete sequence</Hit_def>
+  <Hit_accession>NC_009270</Hit_accession>
+  <Hit_len>154490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>2840</Hsp_hit-from>
+      <Hsp_hit-to>2491</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2814834873|gb|PQ421675.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher KS23 HER0598 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>PQ421675</Hit_accession>
+  <Hit_len>350</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>350</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2274953554|gb|MT917684.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher XJ-162 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MT917684</Hit_accession>
+  <Hit_len>772</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>543</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|1198273895|gb|KX676983.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher ERM687 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KX676983</Hit_accession>
+  <Hit_len>796</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>266</Hsp_hit-from>
+      <Hsp_hit-to>615</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|731187423|gb|KM892727.1|</Hit_id>
+  <Hit_def>Lepidium apetalum isolate PS3008MT01 maturase K (matK) gene, partial cds; chloroplast &gt;gi|731187459|gb|KM892745.1| Capsella bursa-pastoris isolate PS3003MT04 maturase K (matK) gene, partial cds; chloroplast &gt;gi|731187487|gb|KM892759.1| Capsella bursa-pastoris isolate PS3003MT06 maturase K (matK) gene, partial cds; chloroplast &gt;gi|731187513|gb|KM892772.1| Capsella bursa-pastoris isolate PS3003MT01 maturase K (matK) gene, partial cds; chloroplast &gt;gi|731187515|gb|KM892773.1| Capsella bursa-pastoris isolate PS3003MT02 maturase K (matK) gene, partial cds; chloroplast &gt;gi|731187517|gb|KM892774.1| Capsella bursa-pastoris isolate PS3003MT03 maturase K (matK) gene, partial cds; chloroplast &gt;gi|731187521|gb|KM892776.1| Chorispora tenella isolate PS3005MT01 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KM892745</Hit_accession>
+  <Hit_len>747</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>632.465</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>196</Hsp_hit-from>
+      <Hsp_hit-to>545</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>350</Hsp_identity>
+      <Hsp_positive>350</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|371533218|gb|JN966165.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher 09PROBE-05447 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>JN966165</Hit_accession>
+  <Hit_len>762</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>628.859</Hsp_bit-score>
+      <Hsp_score>696</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>191</Hsp_hit-from>
+      <Hsp_hit-to>540</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>349</Hsp_identity>
+      <Hsp_positive>349</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAANGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2838044876|gb|PQ331281.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris voucher DWQGZ12 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>PQ331281</Hit_accession>
+  <Hit_len>686</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>627.055</Hsp_bit-score>
+      <Hsp_score>694</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>116</Hsp_hit-from>
+      <Hsp_hit-to>465</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>348</Hsp_identity>
+      <Hsp_positive>348</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTYTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGYTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|2594813008|gb|OR575889.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris KG23-0076 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>OR575889</Hit_accession>
+  <Hit_len>591</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>600.906</Hsp_bit-score>
+      <Hsp_score>665</Hsp_score>
+      <Hsp_evalue>1.24746e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>350</Hsp_query-to>
+      <Hsp_hit-from>119</Hsp_hit-from>
+      <Hsp_hit-to>468</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>343</Hsp_identity>
+      <Hsp_positive>343</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTGAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAAATATCACGGAAAATGCATTCTGGCAACAAAGGATACCCCCCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAAAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGGGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||| || ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|684218309|gb|KF923122.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris maturase K (matK) gene, complete cds; chloroplast</Hit_def>
+  <Hit_accession>KF923122</Hit_accession>
+  <Hit_len>1437</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>466.555</Hsp_bit-score>
+      <Hsp_score>516</Hsp_score>
+      <Hsp_evalue>1.85466e-132</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>258</Hsp_query-to>
+      <Hsp_hit-from>716</Hsp_hit-from>
+      <Hsp_hit-to>973</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>258</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>258</Hsp_align-len>
+      <Hsp_qseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAG</Hsp_qseq>
+      <Hsp_hseq>TTCTTTTTGAACGAATTTTATTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2618953813|gb|OR738194.1|</Hit_id>
+  <Hit_def>Capsella bursa-pastoris Ks23-2985 maturase K (matK) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>OR738194</Hit_accession>
+  <Hit_len>804</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>215.887</Hsp_bit-score>
+      <Hsp_score>238</Hsp_score>
+      <Hsp_evalue>5.3325e-57</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>222</Hsp_hit-from>
+      <Hsp_hit-to>550</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>245</Hsp_identity>
+      <Hsp_positive>245</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>329</Hsp_align-len>
+      <Hsp_qseq>TTCTATGGAAAAATACAACATTTTTTTAAAGTTTTTGTTAATAATTTTCCGGCAATCCTAGGGTTGCTCAAGGATCCTTTCATACATTATGTTAGATATCACGGAAGATGCATTCTGGCAACAAAGGATACGCCGCTTCTGATGAATAAATGGAAATATTATTTTGTTAATTTATGGCAATGTTATTTTTCCTTATGGTTTCAATCGCAAAAGGTCAATATAAATCAATTATCTAAAGATAATTTAGAGTTTCTGGGTTATCTGTCAAGTTTGCGACTAAATCCTTTAGTGGTACGTAGTCAAATGCTAGAAAACTCATTTCTAATAGA</Hsp_qseq>
+      <Hsp_hseq>TTCTATATAAAAATAGAACGTCTTGCTGTAGTTTTTCGTAACGATTTTCAAAAAACTCTACAATTGTTCAAGGATCCTTTCATGCATTATGTTAGATATCAAGAAAAATCCATTTTGGCTTCAAGGGGAACCCATCTTATAATGAAGAAATGGAAATATTACCTTGTGAATTTTTGGCAATGGAATTTTTCTTTTTGGTCTCAACCATATAGGATTCATATAAACCCATTATCAAAAAATTCCCTCCATTTTTTGGGTTATCTTTCAAGTGTATTAGTAAATCCTTTAACAGTAAGTAGTAAAATGCTAGAGTATTCTTTTCTAATAGA</Hsp_hseq>
+      <Hsp_midline>||||||  ||||||| ||| | ||  |  |||||||  |||  ||||||    ||  |||   ||| |||||||||||||||| ||||||||||||||||| | || || |||| ||||  ||| ||  || |  ||| | ||||| ||||||||||||||  |||| ||||| ||||||||  ||||||| || |||| |||| |  | | | |  ||||||| | |||||| ||| ||    |  | ||| |||||||||| |||||| |   | |||||||||||   ||| ||||| ||||||||||  | || |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>974</Statistics_db-num>
+      <Statistics_db-len>1584057</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

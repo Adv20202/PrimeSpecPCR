@@ -424,18 +424,15 @@ The experimental validation included:
 
 ### Validation Data Structure
 
-Each organism's validation data is organized in the following structure:
-exp_evaluation/
-├── [Organism_name]/
-│   ├── 1_/                    # PrimeSpecPCR Module 1 output
-│   ├── 2_/                    # PrimeSpecPCR Module 2 output
-│   ├── 3_/                    # PrimeSpecPCR Module 3 output
-│   ├── 4_/                    # PrimeSpecPCR Module 4 output
-│   ├── PCR_verification/      # Gel electrophoresis images
-│   ├── Primer3_verification/  # Comparative Primer3 results
-│   ├── Sanger_sequencing/     # Sequencing data (.ab1, .seq files)
-│   └── Sequence_analysis/     # BLAST alignment results
-└── readme.md                  # Detailed validation protocol
+The experimental validation data is organized by organism in the `exp_evaluation/` directory:
+
+**For each tested organism:**
+- `1_/`, `2_/`, `3_/`, `4_/` - Complete PrimeSpecPCR pipeline outputs
+- `PCR_verification/` - Gel electrophoresis images
+- `Primer3_verification/` - Comparative Primer3 results  
+- `Sanger_sequencing/` - Raw (.ab1) and processed (.seq) sequencing files
+- `Sequence_analysis/` - BLAST alignment results
+- `readme.md` - Detailed experimental protocols
 
 ### Key Validation Results
 

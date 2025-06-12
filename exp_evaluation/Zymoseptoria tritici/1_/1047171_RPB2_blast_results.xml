@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_5100533</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>301</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_5100533</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>301</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|398404062|ref|XM_003853450.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici IPO323 DNA-directed RNA polymerase II subunit RPB2 (MYCGRDRAFT_99853), partial mRNA</Hit_def>
+  <Hit_accession>XM_003853450</Hit_accession>
+  <Hit_len>3882</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>544.1</Hsp_bit-score>
+      <Hsp_score>602</Hsp_score>
+      <Hsp_evalue>2.4786e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1226</Hsp_hit-from>
+      <Hsp_hit-to>1526</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|337263833|gb|JF700812.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain CPC 18099 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263835|gb|JF700813.1| Zymoseptoria tritici strain CPC 18100 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263837|gb|JF700814.1| Zymoseptoria tritici strain CPC 18101 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263839|gb|JF700815.1| Zymoseptoria tritici strain CPC 18103 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263841|gb|JF700816.1| Zymoseptoria tritici strain CPC 18116 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263843|gb|JF700817.1| Zymoseptoria tritici strain CPC 18117 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263845|gb|JF700818.1| Zymoseptoria tritici strain CBS 392.59 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263847|gb|JF700819.1| Zymoseptoria tritici strain CBS 398.52 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263849|gb|JF700820.1| Zymoseptoria tritici strain IPO 01001 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263853|gb|JF700822.1| Zymoseptoria tritici strain IPO 03008 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263855|gb|JF700823.1| Zymoseptoria tritici strain IPO 320 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263857|gb|JF700824.1| Zymoseptoria tritici strain IPO 323 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263859|gb|JF700825.1| Zymoseptoria tritici strain IPO 86013 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263861|gb|JF700826.1| Zymoseptoria tritici strain IPO 86015 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263863|gb|JF700827.1| Zymoseptoria tritici strain IPO 86036 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263865|gb|JF700828.1| Zymoseptoria tritici strain IPO 87016 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263867|gb|JF700829.1| Zymoseptoria tritici strain IPO 88004 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263869|gb|JF700830.1| Zymoseptoria tritici strain IPO 90012 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263873|gb|JF700832.1| Zymoseptoria tritici strain IPO 91009 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263877|gb|JF700834.1| Zymoseptoria tritici strain IPO 91012 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263879|gb|JF700835.1| Zymoseptoria tritici strain IPO 91014 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263881|gb|JF700836.1| Zymoseptoria tritici strain IPO 91016 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263883|gb|JF700837.1| Zymoseptoria tritici strain IPO 91020 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263885|gb|JF700838.1| Zymoseptoria tritici strain IPO 92002 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263887|gb|JF700839.1| Zymoseptoria tritici strain IPO 92003 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263889|gb|JF700840.1| Zymoseptoria tritici strain IPO 92005 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263891|gb|JF700841.1| Zymoseptoria tritici strain IPO 92032 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263893|gb|JF700842.1| Zymoseptoria tritici strain IPO 92050 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263895|gb|JF700843.1| Zymoseptoria tritici strain IPO 94231 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263899|gb|JF700845.1| Zymoseptoria tritici strain IPO 95001 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263903|gb|JF700847.1| Zymoseptoria tritici strain IPO 95013 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263909|gb|JF700850.1| Zymoseptoria tritici strain IPO 95027 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263911|gb|JF700851.1| Zymoseptoria tritici strain IPO 95028 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263913|gb|JF700852.1| Zymoseptoria tritici strain IPO 95031 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263915|gb|JF700853.1| Zymoseptoria tritici strain IPO 95046 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263919|gb|JF700855.1| Zymoseptoria tritici strain IPO 95050 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263929|gb|JF700860.1| Zymoseptoria tritici strain IPO 95072 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263931|gb|JF700861.1| Zymoseptoria tritici strain IPO 95073 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263933|gb|JF700862.1| Zymoseptoria tritici strain IPO 95074 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263935|gb|JF700863.1| Zymoseptoria tritici strain IPO 97016 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263939|gb|JF700865.1| Zymoseptoria tritici strain IPO 99048 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700812</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>544.1</Hsp_bit-score>
+      <Hsp_score>602</Hsp_score>
+      <Hsp_evalue>2.4786e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|2021827459|gb|CP062563.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici isolate M4_8 chromosome 4</Hit_def>
+  <Hit_accession>CP062563</Hit_accession>
+  <Hit_len>2958210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>544.1</Hsp_bit-score>
+      <Hsp_score>602</Hsp_score>
+      <Hsp_evalue>2.4786e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>984289</Hsp_hit-from>
+      <Hsp_hit-to>983989</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|530748947|gb|KF252637.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain CBS 392.59 culture-collection CBS:392.59 RNA polymerase II subunit (RPB2) gene, partial cds &gt;gi|530748949|gb|KF252638.1| Zymoseptoria tritici strain CPC 18099 RNA polymerase II subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>KF252637</Hit_accession>
+  <Hit_len>344</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>544.1</Hsp_bit-score>
+      <Hsp_score>602</Hsp_score>
+      <Hsp_evalue>2.4786e-154</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>32</Hsp_hit-from>
+      <Hsp_hit-to>332</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>301</Hsp_identity>
+      <Hsp_positive>301</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|337263925|gb|JF700858.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 95062 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700858</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>539.592</Hsp_bit-score>
+      <Hsp_score>597</Hsp_score>
+      <Hsp_evalue>1.05393e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTGCCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|337263875|gb|JF700833.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 91010 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700833</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>539.592</Hsp_bit-score>
+      <Hsp_score>597</Hsp_score>
+      <Hsp_evalue>1.05393e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTCAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|337263907|gb|JF700849.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 95026 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700849</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>539.592</Hsp_bit-score>
+      <Hsp_score>597</Hsp_score>
+      <Hsp_evalue>1.05393e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAAAAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|337263917|gb|JF700854.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 95047 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263921|gb|JF700856.1| Zymoseptoria tritici strain IPO 95052 RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|337263927|gb|JF700859.1| Zymoseptoria tritici strain IPO 95071 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700854</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>539.592</Hsp_bit-score>
+      <Hsp_score>597</Hsp_score>
+      <Hsp_evalue>1.05393e-152</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>300</Hsp_identity>
+      <Hsp_positive>300</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAGCGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|337263905|gb|JF700848.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 95025 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700848</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.083</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.28394e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGAACTTGAGTCATTTGCGGCGAACGAACACCACCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|337263923|gb|JF700857.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 95054 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700857</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.083</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.28394e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGTGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCCAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|337263897|gb|JF700844.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 94236 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700844</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.083</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.28394e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGAACTTGAGTCATTTGCGGCGAACAAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|337263871|gb|JF700831.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 90015 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700831</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.083</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.28394e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAATAAGGCTGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|337263937|gb|JF700864.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 98115 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700864</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.083</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.28394e-151</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>299</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGATGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGACTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|337263851|gb|JF700821.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 02158 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700821</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.575</Hsp_bit-score>
+      <Hsp_score>587</Hsp_score>
+      <Hsp_evalue>5.45947e-150</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>298</Hsp_identity>
+      <Hsp_positive>298</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTTGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGCTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCACCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|390608959|gb|JQ739881.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain CPC18099 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|390608961|gb|JQ739882.1| Zymoseptoria tritici strain CPC18116 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|390608963|gb|JQ739883.1| Zymoseptoria tritici strain CPC18103 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|390608965|gb|JQ739884.1| Zymoseptoria tritici strain CPC18101 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|390608967|gb|JQ739885.1| Zymoseptoria tritici strain CPC18100 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds &gt;gi|390608969|gb|JQ739886.1| Zymoseptoria tritici strain CPC18117 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JQ739881</Hit_accession>
+  <Hit_len>293</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.673</Hsp_bit-score>
+      <Hsp_score>586</Hsp_score>
+      <Hsp_evalue>5.45947e-150</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>293</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>293</Hsp_identity>
+      <Hsp_positive>293</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>293</Hsp_align-len>
+      <Hsp_qseq>ATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAA</Hsp_qseq>
+      <Hsp_hseq>ATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|337263901|gb|JF700846.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain IPO 95006 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>JF700846</Hit_accession>
+  <Hit_len>301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.067</Hsp_bit-score>
+      <Hsp_score>582</Hsp_score>
+      <Hsp_evalue>6.65099e-149</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>301</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>297</Hsp_identity>
+      <Hsp_positive>297</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAATGTCATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCAGTAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|1097203579|gb|KX348111.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain CPC 18116 RNA polymerase II second largest subunit (rpb2) gene, partial cds</Hit_def>
+  <Hit_accession>KX348111</Hit_accession>
+  <Hit_len>1023</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>464.752</Hsp_bit-score>
+      <Hsp_score>514</Hsp_score>
+      <Hsp_evalue>1.90723e-130</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>257</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>257</Hsp_identity>
+      <Hsp_positive>257</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>257</Hsp_align-len>
+      <Hsp_qseq>AAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>AAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1097203581|gb|KX348112.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain CBS 115943 RNA polymerase II second largest subunit (rpb2) gene, partial cds</Hit_def>
+  <Hit_accession>KX348112</Hit_accession>
+  <Hit_len>1053</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>459.342</Hsp_bit-score>
+      <Hsp_score>508</Hsp_score>
+      <Hsp_evalue>8.10973e-129</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>254</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>254</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>254</Hsp_align-len>
+      <Hsp_qseq>GACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>GACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|109289687|gb|DQ677982.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola isolate AFTOL-ID 1615 RNA polymerase II subunit (RPB2) gene, partial sequence</Hit_def>
+  <Hit_accession>DQ677982</Hit_accession>
+  <Hit_len>1060</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>391.716</Hsp_bit-score>
+      <Hsp_score>433</Hsp_score>
+      <Hsp_evalue>3.45139e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>314</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAAGTCTTCCGGTTGAAGTTCCAACAACTGGTGAAAGACATGAAGCAGTATCTCCATCGATGTGTGGAGACTGGCAAGGACTTCAACATCGCGCTCGCGGTCAAGACGAACATCATCACATCGGGTTTGCGGTACTGTCTGGCGACGGGAAACTGGGGCGATCAAAAGAAGGCCGCCAGCGCAAAAGCCGGAGTCAGCCAAGTGCTGAACAGATACACNTATGCCTCCACATTGAGTCATTTGCGACGAACGAACACCCCTATCGGTCGTGATGGTAAGATTGCGAAACC</Hsp_hseq>
+      <Hsp_midline>||||||||||||| || ||||| ||||||||||||||  ||||||| ||||||| |||||| ||||| ||||| ||||||||||| |||||||||||||| ||||||||||||||||| || |||||||||||||||||||| ||||| |||||||| ||||| ||||| || |||||||||||||| ||||||||||| || || || |||||||||||||||||||| || ||||| || |||||||||||||| |||||||||||||| ||||||||||| || ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|954580843|gb|KT216526.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici strain CBS 292.38 RNA polymerase II second largest subunit (RPB2) gene, partial cds</Hit_def>
+  <Hit_accession>KT216526</Hit_accession>
+  <Hit_len>1188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>390.814</Hsp_bit-score>
+      <Hsp_score>432</Hsp_score>
+      <Hsp_evalue>3.45139e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>301</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>347</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>301</Hsp_align-len>
+      <Hsp_qseq>CTTTGATGGCGCAGGTTTTCCGTTTGAAGTTCCAACAGTTGGTGAAGGACATGAGGCAGTACCTCCACCGATGCGTGGAGACTGGTAAGGACTTCAACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTACGCCTCGACCTTGAGTCATTTGCGGCGAACGAACACCCCCATCGGTCGTGACGGCAAGATTGCGAAGCC</Hsp_qseq>
+      <Hsp_hseq>CTTTGATGGCGCAAGTCTTCCGGTTGAAGTTCCAACAACTGGTGAAAGACATGAAGCAGTATCTCCATCGATGTGTGGAGACTGGCAAGGACTTCAACATCGCGCTCGCGGTCAAGACGAACATCATCACATCGGGTTTGCGGTACTGTCTGGCGACGGGAAACTGGGGCGATCAAAAGAAGGCCGCCAGCGCAAAAGCCGGAGTCAGCCAAGCGCTGAACAGATACACCTATGCCTCCACATTGAGTCATTTGCGACGAACGAACACCCCTATCGGTCGTGATGGTAAGATTGCGAAACC</Hsp_hseq>
+      <Hsp_midline>||||||||||||| || ||||| ||||||||||||||  ||||||| ||||||| |||||| ||||| ||||| ||||||||||| |||||||||||||| ||||||||||||||||| || |||||||||||||||||||| ||||| |||||||| ||||| ||||| || |||||||||||||| ||||||||||| || || || |||| |||||||||||||||||| ||||| || |||||||||||||| |||||||||||||| ||||||||||| || ||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>12490</Statistics_db-num>
+      <Statistics_db-len>55640613</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

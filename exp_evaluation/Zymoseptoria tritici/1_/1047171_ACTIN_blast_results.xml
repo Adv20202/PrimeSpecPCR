@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_5064857</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>266</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_5064857</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>266</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|41351980|gb|AY456458.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H17 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456458</Hit_accession>
+  <Hit_len>266</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>477.376</Hsp_bit-score>
+      <Hsp_score>528</Hsp_score>
+      <Hsp_evalue>2.63756e-134</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>264</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>264</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>264</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCGCA</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCGCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|41352000|gb|AY456468.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H1 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456468</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>458.44</Hsp_bit-score>
+      <Hsp_score>507</Hsp_score>
+      <Hsp_evalue>2.47031e-128</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>258</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>261</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|41351998|gb|AY456467.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H5 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456467</Hit_accession>
+  <Hit_len>256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>453.932</Hsp_bit-score>
+      <Hsp_score>502</Hsp_score>
+      <Hsp_evalue>3.00945e-127</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>262</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>254</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>CCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCG</Hsp_qseq>
+      <Hsp_hseq>CCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|41351982|gb|AY456459.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H18 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456459</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>450.325</Hsp_bit-score>
+      <Hsp_score>498</Hsp_score>
+      <Hsp_evalue>3.66627e-126</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>264</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>264</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>258</Hsp_identity>
+      <Hsp_positive>258</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>264</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCGCA</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCTTGAAGGTCAAGATCATCGCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |||||||||| |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|41351996|gb|AY456466.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H9 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456466</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>444.915</Hsp_bit-score>
+      <Hsp_score>492</Hsp_score>
+      <Hsp_evalue>1.55894e-124</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>255</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>261</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|2021827466|gb|CP062570.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici isolate M4_8 chromosome 10</Hit_def>
+  <Hit_accession>CP062570</Hit_accession>
+  <Hit_len>1756096</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>444.013</Hsp_bit-score>
+      <Hsp_score>491</Hsp_score>
+      <Hsp_evalue>5.44122e-124</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>263</Hsp_query-to>
+      <Hsp_hit-from>990750</Hsp_hit-from>
+      <Hsp_hit-to>990488</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>256</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>263</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCGC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCGC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|15865427|emb|AJ300310.1|</Hit_id>
+  <Hit_def>Septoria tritici partial act1 gene for actin, exons 1-2, isolate L951</Hit_def>
+  <Hit_accession>AJ300310</Hit_accession>
+  <Hit_len>768</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>444.013</Hsp_bit-score>
+      <Hsp_score>491</Hsp_score>
+      <Hsp_evalue>5.44122e-124</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>263</Hsp_query-to>
+      <Hsp_hit-from>491</Hsp_hit-from>
+      <Hsp_hit-to>753</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>256</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>263</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCGC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCGC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|1128503405|dbj|LC121213.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici ACT gene, actin, partial sequence, strain: CBS 100329</Hit_def>
+  <Hit_accession>LC121213</Hit_accession>
+  <Hit_len>679</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>443.112</Hsp_bit-score>
+      <Hsp_score>490</Hsp_score>
+      <Hsp_evalue>5.44122e-124</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>250</Hsp_query-to>
+      <Hsp_hit-from>430</Hsp_hit-from>
+      <Hsp_hit-to>679</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>248</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGG</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|41352004|gb|AY456470.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H2 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456470</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.407</Hsp_bit-score>
+      <Hsp_score>487</Hsp_score>
+      <Hsp_evalue>6.62877e-123</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>254</Hsp_identity>
+      <Hsp_positive>254</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>261</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|41352008|gb|AY456472.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H6 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456472</Hit_accession>
+  <Hit_len>256</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>440.407</Hsp_bit-score>
+      <Hsp_score>487</Hsp_score>
+      <Hsp_evalue>6.62877e-123</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>251</Hsp_identity>
+      <Hsp_positive>251</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>256</Hsp_align-len>
+      <Hsp_qseq>GCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>GCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|41352006|gb|AY456471.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H21 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456471</Hit_accession>
+  <Hit_len>258</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>439.505</Hsp_bit-score>
+      <Hsp_score>486</Hsp_score>
+      <Hsp_evalue>6.62877e-123</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>258</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>252</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>258</Hsp_align-len>
+      <Hsp_qseq>CAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>CAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|41351992|gb|AY456464.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H20 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456464</Hit_accession>
+  <Hit_len>250</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>438.603</Hsp_bit-score>
+      <Hsp_score>485</Hsp_score>
+      <Hsp_evalue>2.31367e-122</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>260</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>250</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>CCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCAT</Hsp_qseq>
+      <Hsp_hseq>CCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|41352010|gb|AY456473.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H19 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456473</Hit_accession>
+  <Hit_len>255</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>434.095</Hsp_bit-score>
+      <Hsp_score>480</Hsp_score>
+      <Hsp_evalue>2.81862e-121</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>255</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>249</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>CCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>CCCTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>|| |||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|41352016|gb|AY456476.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H22 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456476</Hit_accession>
+  <Hit_len>254</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>432.291</Hsp_bit-score>
+      <Hsp_score>478</Hsp_score>
+      <Hsp_evalue>9.83796e-121</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>254</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>248</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>254</Hsp_align-len>
+      <Hsp_qseq>CTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>CTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>|||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|41351988|gb|AY456462.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H16 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456462</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>431.39</Hsp_bit-score>
+      <Hsp_score>477</Hsp_score>
+      <Hsp_evalue>3.43379e-120</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>262</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>246</Hsp_align-len>
+      <Hsp_qseq>TTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCG</Hsp_qseq>
+      <Hsp_hseq>TTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|41351978|gb|AY456457.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H14 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456457</Hit_accession>
+  <Hit_len>259</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>390.814</Hsp_bit-score>
+      <Hsp_score>432</Hsp_score>
+      <Hsp_evalue>3.01211e-108</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>262</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>259</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>244</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>260</Hsp_align-len>
+      <Hsp_qseq>CAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTG-ACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCG</Hsp_qseq>
+      <Hsp_hseq>CAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATGCTCCTGTTCACAAT-GAATCACAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||  | | ||   ||| |||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|41352018|gb|AY456477.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H8 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456477</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>387.207</Hsp_bit-score>
+      <Hsp_score>428</Hsp_score>
+      <Hsp_evalue>3.66951e-107</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>219</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>219</Hsp_align-len>
+      <Hsp_qseq>AGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCA</Hsp_qseq>
+      <Hsp_hseq>AGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTCAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|41352014|gb|AY456475.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H4 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456475</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>376.387</Hsp_bit-score>
+      <Hsp_score>416</Hsp_score>
+      <Hsp_evalue>6.63462e-104</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>242</Hsp_identity>
+      <Hsp_positive>242</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>262</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTG-ACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATGCTCCTGTTCACAAT-GAATCACAGCTAACAACATTCTCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAGATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||  | | ||   ||| |||||||| | |||| |||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|41352002|gb|AY456469.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H10 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456469</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>371.879</Hsp_bit-score>
+      <Hsp_score>411</Hsp_score>
+      <Hsp_evalue>2.82111e-102</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>241</Hsp_identity>
+      <Hsp_positive>241</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>262</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTCCTGATCACAAT-GAATGACAGCTAACGATATCTCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||| ||||| |||| | | ||   ||  |||||||||||||  ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|41351986|gb|AY456461.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H23 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456461</Hit_accession>
+  <Hit_len>218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>371.879</Hsp_bit-score>
+      <Hsp_score>411</Hsp_score>
+      <Hsp_evalue>2.82111e-102</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>224</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>218</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>213</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>218</Hsp_align-len>
+      <Hsp_qseq>CCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCAC</Hsp_qseq>
+      <Hsp_hseq>CCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCAC</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|41351994|gb|AY456465.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H12 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456465</Hit_accession>
+  <Hit_len>257</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>364.665</Hsp_bit-score>
+      <Hsp_score>403</Hsp_score>
+      <Hsp_evalue>4.1869e-100</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>260</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>257</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>237</Hsp_identity>
+      <Hsp_positive>237</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>258</Hsp_align-len>
+      <Hsp_qseq>CAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCAT</Hsp_qseq>
+      <Hsp_hseq>CAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTCCTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCAT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||| ||||| |||| | | ||   ||  |||||||| ||||  ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|41352012|gb|AY456474.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H3 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456474</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>362.862</Hsp_bit-score>
+      <Hsp_score>401</Hsp_score>
+      <Hsp_evalue>1.46137e-99</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>261</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>262</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCCTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTCCTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATC</Hsp_hseq>
+      <Hsp_midline>|||||||| |||||||| ||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||| ||||| |||| | | ||   ||  |||||||| ||||  ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|41351990|gb|AY456463.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H13 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456463</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>344.828</Hsp_bit-score>
+      <Hsp_score>381</Hsp_score>
+      <Hsp_evalue>3.92141e-94</Hsp_evalue>
+      <Hsp_query-from>17</Hsp_query-from>
+      <Hsp_query-to>262</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>247</Hsp_align-len>
+      <Hsp_qseq>TTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCG</Hsp_qseq>
+      <Hsp_hseq>TTGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTCCTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||| ||||| |||| | | ||   ||  |||||||| ||||  ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|41352022|gb|AY456479.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H11 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456479</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>300.646</Hsp_bit-score>
+      <Hsp_score>332</Hsp_score>
+      <Hsp_evalue>4.1906e-81</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>223</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>219</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>220</Hsp_align-len>
+      <Hsp_qseq>AGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCA</Hsp_qseq>
+      <Hsp_hseq>AGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTCCTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCA</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||| ||||| |||| | | ||   ||  |||||||| ||||  ||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|41352020|gb|AY456478.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H15 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456478</Hit_accession>
+  <Hit_len>212</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>292.53</Hsp_bit-score>
+      <Hsp_score>323</Hsp_score>
+      <Hsp_evalue>2.17079e-78</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>216</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>212</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>194</Hsp_identity>
+      <Hsp_positive>194</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>213</Hsp_align-len>
+      <Hsp_qseq>AGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTG-ACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAG</Hsp_qseq>
+      <Hsp_hseq>AGCCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGACTGTCATACTCCTGTTCACAAT-GAATCACAGCTAACAACATTCTCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||| ||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||  ||| |||||| |||  | | ||   ||| |||||||| | |||| |||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|41351984|gb|AY456460.1|</Hit_id>
+  <Hit_def>Mycosphaerella graminicola haplotype H7 actin gene, partial cds</Hit_def>
+  <Hit_accession>AY456460</Hit_accession>
+  <Hit_len>210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>284.415</Hsp_bit-score>
+      <Hsp_score>314</Hsp_score>
+      <Hsp_evalue>3.22173e-76</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>216</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>210</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>191</Hsp_identity>
+      <Hsp_positive>191</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>211</Hsp_align-len>
+      <Hsp_qseq>CCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTG-ACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAG</Hsp_qseq>
+      <Hsp_hseq>CCTTCCGTCCTCGGTCTCGAATCCGGCGGCATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTTGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGACTGTCATACTCCTGTTCACAAT-GAATCACAGCTAACAACATTCTCAGTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAG</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||  ||| |||||| |||  | | ||   ||| |||||||| | |||| |||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|398391327|ref|XM_003849076.1|</Hit_id>
+  <Hit_def>Zymoseptoria tritici IPO323 gamma actin (ACT), mRNA</Hit_def>
+  <Hit_accession>XM_003849076</Hit_accession>
+  <Hit_len>1641</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>253.758</Hsp_bit-score>
+      <Hsp_score>280</Hsp_score>
+      <Hsp_evalue>5.45566e-67</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>263</Hsp_query-to>
+      <Hsp_hit-from>910</Hsp_hit-from>
+      <Hsp_hit-to>1118</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>205</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>54</Hsp_gaps>
+      <Hsp_align-len>263</Hsp_align-len>
+      <Hsp_qseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAATTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCACCATGAAGGTCAAAATCATCGC</Hsp_qseq>
+      <Hsp_hseq>TTCCAGCCTTCCGTCCTTGGTCTCGAATCCGGCGGTATCCACGTCACCACCTTCAACTCCATCATGAAGTGTGATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATG---------------------------TCCG---------------------------GCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATCACCGCCCTCGCCCCATCCAGCATGAAGGTCAAGATCATCGC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||                           ||||                           ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>12490</Statistics_db-num>
+      <Statistics_db-len>55640613</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

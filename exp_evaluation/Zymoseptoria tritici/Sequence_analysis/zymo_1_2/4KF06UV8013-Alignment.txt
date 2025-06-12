@@ -1,0 +1,909 @@
+RID: 4KF06UV8013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_4711471(dna) Length: 142
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Zymoseptoria tritici IPO323 DNA-directed RNA polymerase II...     Zymoseptoria... NA              336722     239    239   100%  8e-59 96.53  3882       XM_003853450.1   
+Zymoseptoria tritici strain IPO 95025 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700848.1       
+Zymoseptoria tritici strain IPO 91010 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700833.1       
+Zymoseptoria tritici strain CBS 115943 RNA polymerase II secon... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  1053       KX348112.1       
+Zymoseptoria tritici strain CPC 18116 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  1023       KX348111.1       
+Zymoseptoria tritici strain IPO 95062 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700858.1       
+Zymoseptoria tritici strain IPO 95047 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700854.1       
+Zymoseptoria tritici strain IPO 94236 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700844.1       
+Zymoseptoria tritici strain CPC 18099 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700812.1       
+Zymoseptoria tritici strain CPC18099 DNA-dependent RNA...         Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  293        JQ739881.1       
+Zymoseptoria tritici strain CBS 392.59 culture-collection...      Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  344        KF252637.1       
+Zymoseptoria tritici strain IPO 95026 RNA polymerase II second... Zymoseptoria... NA              1047171    239    239   100%  8e-59 96.53  301        JF700849.1       
+Zymoseptoria tritici isolate M4_8 chromosome 4                    Zymoseptoria... NA              1047171    239    239   96%   8e-59 97.83  2958210    CP062563.1       
+Zymoseptoria tritici strain IPO 95054 RNA polymerase II second... Zymoseptoria... NA              1047171    237    237   95%   3e-58 97.81  301        JF700857.1       
+Zymoseptoria tritici strain IPO 02158 RNA polymerase II second... Zymoseptoria... NA              1047171    233    233   100%  4e-57 95.83  301        JF700821.1       
+Zymoseptoria tritici strain IPO 98115 RNA polymerase II second... Zymoseptoria... NA              1047171    233    233   100%  4e-57 95.83  301        JF700864.1       
+Zymoseptoria tritici strain IPO 90015 RNA polymerase II second... Zymoseptoria... NA              1047171    228    228   100%  2e-55 95.14  301        JF700831.1       
+Zymoseptoria tritici strain IPO 95006 RNA polymerase II second... Zymoseptoria... NA              1047171    228    228   100%  2e-55 95.14  301        JF700846.1       
+Zymoseptoria pseudotritici strain CBS 130976 RNA polymerase II... Zymoseptoria... NA              1173715    217    217   100%  4e-52 93.75  293        JN982482.1       
+Ramularia pratensis var. pratensis culture CPC:11294 RNA...       Ramularia pr... NA              470127     130    130   99%   5e-26 83.10  312        KF902360.1       
+Rachicladosporium europaeum voucher KRAM F-59829 RNA polymeras... Rachicladosp... NA              3051311    130    130   96%   5e-26 83.45  343        OR096695.1       
+Ramularia rumicicola strain CPC 11294 RNA polymerase II second... Ramularia ru... NA              1873299    130    130   99%   5e-26 83.10  1026       KX348081.1       
+Ramularia pratensis strain CPC 11294 RNA polymerase II subunit... Ramularia pr... NA              470126     130    130   99%   5e-26 83.10  337        KF252228.1       
+Ramularia rumicicola strain CPC 11295 DNA-dependent RNA...        Ramularia ru... NA              1873299    130    130   99%   5e-26 83.10  903        KX288663.1       
+Ramularia pratensis var. pratensis strain CPC_11294 RNA...        Ramularia pr... NA              470127     130    130   99%   5e-26 83.10  1188       KT216537.1       
+Cercosporella dolichandrae strain CBS 138101 DNA-dependent RNA... Cercosporell... NA              1508262    117    117   100%  4e-22 81.38  1001       KX288423.1       
+Neohortaea acidophila uncharacterized protein...                  Neohortaea a... NA              245834     110    110   80%   7e-20 84.07  3780       XM_033735451.1   
+Exutisphaerella laricina culture CBS:326.52 DNA-directed RNA...   Exutisphaere... NA              2059849    102    102   99%   1e-17 79.58  952        MF951496.1       
+Neoroussoella sp. IHEM 28152 partial RPB2 gene for RNA...         Neoroussoell... NA              2875214    86.1   86.1  68%   1e-12 82.29  1071       OU641444.1       
+Lachnaceae sp. PJ-2023a voucher PDD:93937 RNA polymerase II...    Lachnaceae s... NA              3029028    75.0   75.0  56%   3e-09 83.54  1084       OQ454959.1       
+Arachnopeziza delicatula voucher TK7076 (S, TUR) DNA-directed...  Arachnopeziz... NA              1071693    65.8   65.8  52%   2e-06 82.43  2094       MT228640.1       
+Arachnopeziza delicatula voucher TK7036 (S, TUR) DNA-directed...  Arachnopeziz... NA              1071693    65.8   65.8  52%   2e-06 82.43  2107       MT228643.1       
+Erioderma verruculosum isolate AFTOL-ID 337 RNA polymerase II...  Erioderma ve... NA              413835     65.8   65.8  48%   2e-06 83.82  1208       DQ973077.1       
+Arachnopeziza aurata voucher KUS-F52038 RNA polymerase II seco... Arachnopeziz... NA              47752      65.8   65.8  52%   2e-06 82.43  1145       JN086847.1       
+Arachnopeziza delicatula voucher JK14051801 (S, TUR)...           Arachnopeziz... NA              1071693    65.8   65.8  52%   2e-06 82.43  1858       MT228641.1       
+Arachnopeziza delicatula voucher TNS-F12770 RNA polymerase II...  Arachnopeziz... NA              1071693    60.2   60.2  48%   7e-05 82.35  964        JN086877.1       
+
+Alignments:
+
+>Zymoseptoria tritici IPO323 DNA-directed RNA polymerase II subunit RPB2 (MYCGRDRAFT_99853), partial mRNA
+Sequence ID: XM_003853450.1 Length: 3882
+Range 1: 1322 to 1465
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1     ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+             ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  1322  ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  1381
+
+Query  59    CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1382  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  1441
+
+Query  119   TGAACAGATACACCTACSCCTCGA  142
+             ||||||||||||||||| ||||||
+Sbjct  1442  TGAACAGATACACCTACGCCTCGA  1465
+
+
+
+
+>Zymoseptoria tritici strain IPO 95025 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700848.1 Length: 301
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 91010 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700833.1 Length: 301
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain CBS 115943 RNA polymerase II second largest subunit (rpb2) gene, partial cds
+Sequence ID: KX348112.1 Length: 1053
+Range 1: 50 to 193
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  50   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  109
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  169
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  170  TGAACAGATACACCTACGCCTCGA  193
+
+
+
+
+>Zymoseptoria tritici strain CPC 18116 RNA polymerase II second largest subunit (rpb2) gene, partial cds
+Sequence ID: KX348111.1 Length: 1023
+Range 1: 53 to 196
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  53   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  112
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  113  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  172
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  173  TGAACAGATACACCTACGCCTCGA  196
+
+
+
+
+>Zymoseptoria tritici strain IPO 95062 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700858.1 Length: 301
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 95047 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700854.1 Length: 301
+>Zymoseptoria tritici strain IPO 95052 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700856.1 Length: 301
+>Zymoseptoria tritici strain IPO 95071 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700859.1 Length: 301 
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 94236 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700844.1 Length: 301
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain CPC 18099 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700812.1 Length: 301
+>Zymoseptoria tritici strain CPC 18100 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700813.1 Length: 301
+>Zymoseptoria tritici strain CPC 18101 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700814.1 Length: 301
+>Zymoseptoria tritici strain CPC 18103 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700815.1 Length: 301
+>Zymoseptoria tritici strain CPC 18116 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700816.1 Length: 301
+>Zymoseptoria tritici strain CPC 18117 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700817.1 Length: 301
+>Zymoseptoria tritici strain CBS 392.59 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700818.1 Length: 301
+>Zymoseptoria tritici strain CBS 398.52 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700819.1 Length: 301
+>Zymoseptoria tritici strain IPO 01001 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700820.1 Length: 301
+>Zymoseptoria tritici strain IPO 03008 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700822.1 Length: 301
+>Zymoseptoria tritici strain IPO 320 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700823.1 Length: 301
+>Zymoseptoria tritici strain IPO 323 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700824.1 Length: 301
+>Zymoseptoria tritici strain IPO 86013 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700825.1 Length: 301
+>Zymoseptoria tritici strain IPO 86015 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700826.1 Length: 301
+>Zymoseptoria tritici strain IPO 86036 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700827.1 Length: 301
+>Zymoseptoria tritici strain IPO 87016 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700828.1 Length: 301
+>Zymoseptoria tritici strain IPO 88004 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700829.1 Length: 301
+>Zymoseptoria tritici strain IPO 90012 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700830.1 Length: 301
+>Zymoseptoria tritici strain IPO 91009 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700832.1 Length: 301
+>Zymoseptoria tritici strain IPO 91012 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700834.1 Length: 301
+>Zymoseptoria tritici strain IPO 91014 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700835.1 Length: 301
+>Zymoseptoria tritici strain IPO 91016 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700836.1 Length: 301
+>Zymoseptoria tritici strain IPO 91020 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700837.1 Length: 301
+>Zymoseptoria tritici strain IPO 92002 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700838.1 Length: 301
+>Zymoseptoria tritici strain IPO 92003 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700839.1 Length: 301
+>Zymoseptoria tritici strain IPO 92005 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700840.1 Length: 301
+>Zymoseptoria tritici strain IPO 92032 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700841.1 Length: 301
+>Zymoseptoria tritici strain IPO 92050 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700842.1 Length: 301
+>Zymoseptoria tritici strain IPO 94231 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700843.1 Length: 301
+>Zymoseptoria tritici strain IPO 95001 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700845.1 Length: 301
+>Zymoseptoria tritici strain IPO 95013 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700847.1 Length: 301
+>Zymoseptoria tritici strain IPO 95027 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700850.1 Length: 301
+>Zymoseptoria tritici strain IPO 95028 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700851.1 Length: 301
+>Zymoseptoria tritici strain IPO 95031 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700852.1 Length: 301
+>Zymoseptoria tritici strain IPO 95046 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700853.1 Length: 301
+>Zymoseptoria tritici strain IPO 95050 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700855.1 Length: 301
+>Zymoseptoria tritici strain IPO 95072 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700860.1 Length: 301
+>Zymoseptoria tritici strain IPO 95073 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700861.1 Length: 301
+>Zymoseptoria tritici strain IPO 95074 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700862.1 Length: 301
+>Zymoseptoria tritici strain IPO 97016 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700863.1 Length: 301
+>Zymoseptoria tritici strain IPO 99048 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700865.1 Length: 301 
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain CPC18099 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739881.1 Length: 293
+>Zymoseptoria tritici strain CPC18116 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739882.1 Length: 293
+>Zymoseptoria tritici strain CPC18103 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739883.1 Length: 293
+>Zymoseptoria tritici strain CPC18101 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739884.1 Length: 293
+>Zymoseptoria tritici strain CPC18100 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739885.1 Length: 293
+>Zymoseptoria tritici strain CPC18117 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739886.1 Length: 293 
+Range 1: 92 to 235
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  92   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  151
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  211
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  212  TGAACAGATACACCTACGCCTCGA  235
+
+
+
+
+>Zymoseptoria tritici strain CBS 392.59 culture-collection CBS:392.59 RNA polymerase II subunit (RPB2) gene, partial cds
+Sequence ID: KF252637.1 Length: 344
+>Zymoseptoria tritici strain CPC 18099 RNA polymerase II subunit (RPB2) gene, partial cds
+Sequence ID: KF252638.1 Length: 344 
+Range 1: 128 to 271
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  128  ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  187
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  188  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  247
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  248  TGAACAGATACACCTACGCCTCGA  271
+
+
+
+
+>Zymoseptoria tritici strain IPO 95026 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700849.1 Length: 301
+Range 1: 97 to 240
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:139/144(97%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici isolate M4_8 chromosome 4
+Sequence ID: CP062563.1 Length: 2958210
+Range 1: 984050 to 984187
+
+Score:239 bits(129), Expect:8e-59, 
+Identities:135/138(98%),  Gaps:2/138(1%), Strand: Plus/Minus
+
+Query  7       CGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAA  64
+               ||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  984187  CGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAA  984128
+
+Query  65      ATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACA  124
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  984127  ATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACA  984068
+
+Query  125     GATACACCTACSCCTCGA  142
+               ||||||||||| ||||||
+Sbjct  984067  GATACACCTACGCCTCGA  984050
+
+
+
+
+>Zymoseptoria tritici strain IPO 95054 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700857.1 Length: 301
+Range 1: 104 to 240
+
+Score:237 bits(128), Expect:3e-58, 
+Identities:134/137(98%),  Gaps:2/137(1%), Strand: Plus/Plus
+
+Query  8    GCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAA  65
+            |||||||||| |||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  104  GCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAA  163
+
+Query  66   TTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAG  125
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  164  TTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAG  223
+
+Query  126  ATACACCTACSCCTCGA  142
+            |||||||||| ||||||
+Sbjct  224  ATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 02158 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700821.1 Length: 301
+Range 1: 97 to 240
+
+Score:233 bits(126), Expect:4e-57, 
+Identities:138/144(96%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| ||||||||||||||||| |||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGCTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 98115 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700864.1 Length: 301
+Range 1: 97 to 240
+
+Score:233 bits(126), Expect:4e-57, 
+Identities:138/144(96%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            |||||||||||||||||  |||||
+Sbjct  217  TGAACAGATACACCTACGACTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 90015 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700831.1 Length: 301
+Range 1: 97 to 240
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:137/144(95%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            |||||||||||||||||||||| ||||| |||||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAATAAGGCTGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria tritici strain IPO 95006 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JF700846.1 Length: 301
+Range 1: 97 to 240
+
+Score:228 bits(123), Expect:2e-55, 
+Identities:137/144(95%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTC-AGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||| |||| |||||||||||||||||||||||||||||||||||||
+Sbjct  97   ACATTGCGCTCGCGGTCAAGACAAATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  156
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            |||||||||||||||||||||||||||| | |||||||||||||||||||||||||||||
+Sbjct  157  CTGGAAATTGGGGTGACCAAAAGAAGGCAGTAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  216
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  217  TGAACAGATACACCTACGCCTCGA  240
+
+
+
+
+>Zymoseptoria pseudotritici strain CBS 130976 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JN982482.1 Length: 293
+>Zymoseptoria pseudotritici strain STIR042.2.1 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739875.1 Length: 293
+>Zymoseptoria pseudotritici strain STIR043.11.1 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739876.1 Length: 293
+>Zymoseptoria pseudotritici strain STIR044.3.1 DNA-dependent RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JQ739877.1 Length: 293 
+Range 1: 92 to 235
+
+Score:217 bits(117), Expect:4e-52, 
+Identities:135/144(94%),  Gaps:2/144(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGT-CAGAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            ||||  ||||||||||  |||| || |||||||||||||||||||||||||| |||||||
+Sbjct  92   ACATCGCGCTCGCGGTGAAGACAAACATCATCACATCGGGTTTGCGATACTGTCTGGCGA  151
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            |||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152  CTGGAAATTGGGGTGATCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  211
+
+Query  119  TGAACAGATACACCTACSCCTCGA  142
+            ||||||||||||||||| ||||||
+Sbjct  212  TGAACAGATACACCTACGCCTCGA  235
+
+
+
+
+>Ramularia pratensis var. pratensis culture CPC:11294 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: KF902360.1 Length: 312
+Range 1: 106 to 247
+
+Score:130 bits(70), Expect:5e-26, 
+Identities:118/142(83%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| || |||||| ||| ||| |||||| |||| || |||||| |||| || || || |
+Sbjct  106  ACATCACCCTCGCGATCAAGACAAATATCCTCACTTCAGGTTTGAGATATTGTCTTGCTA  165
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            | || |||||||| ||||| ||||||||| | || || ||||||||||||||||||||||
+Sbjct  166  CGGGTAATTGGGGCGACCAGAAGAAGGCCTCCAGTGCCAAAGCTGGTGTGAGTCAAGTGC  225
+
+Query  119  TGAACAGATACACCTACSCCTC  140
+            |||||||||| || ||| ||||
+Sbjct  226  TGAACAGATATACTTACGCCTC  247
+
+
+
+
+>Rachicladosporium europaeum voucher KRAM F-59829 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: OR096695.1 Length: 343
+Range 1: 128 to 266
+
+Score:130 bits(70), Expect:5e-26, 
+Identities:116/139(83%),  Gaps:2/139(1%), Strand: Plus/Plus
+
+Query  6    ACGCTCGCGGT-CAGA-CAATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGA  63
+            ||| | |||||  ||| ||||||||||||  | ||| ||||||| ||| |||| || |||
+Sbjct  128  ACGTTAGCGGTGAAGAGCAATATCATCACCGCTGGTCTGCGATATTGCTTGGCAACAGGA  187
+
+Query  64   AATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAAC  123
+            |||||||| || || || ||||| || ||||| |||||||||||||||||||||||||||
+Sbjct  188  AATTGGGGCGATCAGAAAAAGGCTGCGAGCGCCAAAGCTGGTGTGAGTCAAGTGCTGAAC  247
+
+Query  124  AGATACACCTACSCCTCGA  142
+            || ||||||||| | ||||
+Sbjct  248  AGGTACACCTACGCTTCGA  266
+
+
+
+
+>Ramularia rumicicola strain CPC 11294 RNA polymerase II second largest subunit (rpb2) gene, partial cds
+Sequence ID: KX348081.1 Length: 1026
+Range 1: 53 to 194
+
+Score:130 bits(70), Expect:5e-26, 
+Identities:118/142(83%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| || |||||| ||| ||| |||||| |||| || |||||| |||| || || || |
+Sbjct  53   ACATCACCCTCGCGATCAAGACAAATATCCTCACTTCAGGTTTGAGATATTGTCTTGCTA  112
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            | || |||||||| ||||| ||||||||| | || || ||||||||||||||||||||||
+Sbjct  113  CGGGTAATTGGGGCGACCAGAAGAAGGCCTCCAGTGCCAAAGCTGGTGTGAGTCAAGTGC  172
+
+Query  119  TGAACAGATACACCTACSCCTC  140
+            |||||||||| || ||| ||||
+Sbjct  173  TGAACAGATATACTTACGCCTC  194
+
+
+
+
+>Ramularia pratensis strain CPC 11294 RNA polymerase II subunit (RPB2) gene, partial cds
+Sequence ID: KF252228.1 Length: 337
+Range 1: 125 to 266
+
+Score:130 bits(70), Expect:5e-26, 
+Identities:118/142(83%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| || |||||| ||| ||| |||||| |||| || |||||| |||| || || || |
+Sbjct  125  ACATCACCCTCGCGATCAAGACAAATATCCTCACTTCAGGTTTGAGATATTGTCTTGCTA  184
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            | || |||||||| ||||| ||||||||| | || || ||||||||||||||||||||||
+Sbjct  185  CGGGTAATTGGGGCGACCAGAAGAAGGCCTCCAGTGCCAAAGCTGGTGTGAGTCAAGTGC  244
+
+Query  119  TGAACAGATACACCTACSCCTC  140
+            |||||||||| || ||| ||||
+Sbjct  245  TGAACAGATATACTTACGCCTC  266
+
+
+
+
+>Ramularia rumicicola strain CPC 11295 DNA-dependent RNA polymerase II second largest subunit (rpb2) gene, partial cds
+Sequence ID: KX288663.1 Length: 903
+Range 1: 100 to 241
+
+Score:130 bits(70), Expect:5e-26, 
+Identities:118/142(83%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| || |||||| ||| ||| |||||| |||| || |||||| |||| || || || |
+Sbjct  100  ACATCACCCTCGCGATCAAGACAAATATCCTCACTTCAGGTTTGAGATATTGTCTTGCTA  159
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            | || |||||||| ||||| ||||||||| | || || ||||||||||||||||||||||
+Sbjct  160  CGGGTAATTGGGGCGACCAGAAGAAGGCCTCCAGTGCCAAAGCTGGTGTGAGTCAAGTGC  219
+
+Query  119  TGAACAGATACACCTACSCCTC  140
+            |||||||||| || ||| ||||
+Sbjct  220  TGAACAGATATACTTACGCCTC  241
+
+
+
+
+>Ramularia pratensis var. pratensis strain CPC_11294 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: KT216537.1 Length: 1188
+Range 1: 143 to 284
+
+Score:130 bits(70), Expect:5e-26, 
+Identities:118/142(83%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| || |||||| ||| ||| |||||| |||| || |||||| |||| || || || |
+Sbjct  143  ACATCACCCTCGCGATCAAGACAAATATCCTCACTTCAGGTTTGAGATATTGTCTTGCTA  202
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            | || |||||||| ||||| ||||||||| | || || ||||||||||||||||||||||
+Sbjct  203  CGGGTAATTGGGGCGACCAGAAGAAGGCCTCCAGTGCCAAAGCTGGTGTGAGTCAAGTGC  262
+
+Query  119  TGAACAGATACACCTACSCCTC  140
+            |||||||||| || ||| ||||
+Sbjct  263  TGAACAGATATACTTACGCCTC  284
+
+
+
+
+>Cercosporella dolichandrae strain CBS 138101 DNA-dependent RNA polymerase II second largest subunit (rpb2) gene, partial cds
+Sequence ID: KX288423.1 Length: 1001
+Range 1: 42 to 185
+
+Score:117 bits(63), Expect:4e-22, 
+Identities:118/145(81%),  Gaps:4/145(2%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| ||||| || |||| ||| |||||||| || || || |||||||| || || || |
+Sbjct  42   ACATCACGCTTGCCGTCAAGACTAATATCATTACCTCCGGCTTGCGATATTGTCTCGCCA  101
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCG-CAAAAGCTGGTGTGAGTCAAGTG  117
+            | ||||||||||| || |||||||||||  |   || | ||||| |||||||||||||||
+Sbjct  102  CAGGAAATTGGGGAGATCAAAAGAAGGCGTC-TTCGTCCAAAGCCGGTGTGAGTCAAGTG  160
+
+Query  118  CTGAACAGATACACCTACSCCTCGA  142
+            |||||||||||||| ||| | ||||
+Sbjct  161  CTGAACAGATACACATACGCTTCGA  185
+
+
+
+
+>Neohortaea acidophila uncharacterized protein (BDY17DRAFT_310558), partial mRNA
+Sequence ID: XM_033735451.1 Length: 3780
+Range 1: 1393 to 1505
+
+Score:110 bits(59), Expect:7e-20, 
+Identities:95/113(84%),  Gaps:0/113(0%), Strand: Plus/Plus
+
+Query  22    AATATCATCACATCGGGTTTGCGATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAG  81
+             || |||||||| || ||  |||| |||||  |||| ||||| || ||||| |||||||||
+Sbjct  1393  AACATCATCACCTCTGGACTGCGGTACTGTTTGGCAACTGGCAACTGGGGCGACCAAAAG  1452
+
+Query  82    AAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGCTGAACAGATACACCTA  134
+             || || || || |||||||||||||||||||||||||||||  ||||||||||
+Sbjct  1453  AAAGCGGCGAGTGCAAAAGCTGGTGTGAGTCAAGTGCTGAATCGATACACCTA  1505
+
+
+
+
+>Exutisphaerella laricina culture CBS:326.52 DNA-directed RNA polymerase II second largest subunit (rpb2) gene, partial cds
+Sequence ID: MF951496.1 Length: 952
+Range 1: 42 to 183
+
+Score:102 bits(55), Expect:1e-17, 
+Identities:113/142(80%),  Gaps:2/142(1%), Strand: Plus/Plus
+
+Query  1    ACATGACGCTCGCGGTCA-GAC-AATATCATCACATCGGGTTTGCGATACTGCCTGGCGA  58
+            |||| || |||||| ||| ||| || ||||| ||    || || || || || || || |
+Sbjct  42   ACATCACTCTCGCGATCAAGACGAACATCATAACCCAAGGCTTACGGTATTGTCTTGCCA  101
+
+Query  59   CTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAAGTGC  118
+            |||| || ||||| ||||| |||||||| |||||| |||| || ||||||||||||||||
+Sbjct  102  CTGGCAACTGGGGCGACCAGAAGAAGGCGGCAAGCTCAAAGGCCGGTGTGAGTCAAGTGC  161
+
+Query  119  TGAACAGATACACCTACSCCTC  140
+            ||||||||||||| ||  ||||
+Sbjct  162  TGAACAGATACACATATGCCTC  183
+
+
+
+
+>Neoroussoella sp. IHEM 28152 partial RPB2 gene for RNA polymerase II large subunit 2
+Sequence ID: OU641444.1 Length: 1071
+Range 1: 131 to 226
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:79/96(82%),  Gaps:0/96(0%), Strand: Plus/Plus
+
+Query  45   ATACTGCCTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGG  104
+            |||||  || ||||| |||||||||||||||||||||||||||||    || ||||||||
+Sbjct  131  ATACTCGCTTGCGACGGGAAATTGGGGTGACCAAAAGAAGGCCGCCTCAGCTAAAGCTGG  190
+
+Query  105  TGTGAGTCAAGTGCTGAACAGATACACCTACSCCTC  140
+            |||   ||| ||| ||||||| ||||| ||| ||||
+Sbjct  191  TGTCTCTCAGGTGTTGAACAGGTACACATACGCCTC  226
+
+
+
+
+>Lachnaceae sp. PJ-2023a voucher PDD:93937 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: OQ454959.1 Length: 1084
+Range 1: 134 to 212
+
+Score:75.0 bits(40), Expect:3e-09, 
+Identities:66/79(84%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  53   TGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTC  112
+            |||| ||||||||||||||||||||||||||||| |||||| | |  ||||||||    |
+Sbjct  134  TGGCCACTGGAAATTGGGGTGACCAAAAGAAGGCAGCAAGCTCGACTGCTGGTGTCTCCC  193
+
+Query  113  AAGTGCTGAACAGATACAC  131
+            | ||| | |||||||||||
+Sbjct  194  AGGTGTTAAACAGATACAC  212
+
+
+
+
+>Arachnopeziza delicatula voucher TK7076 (S, TUR) DNA-directed RNA polymerase II subunit RPB2 (RPB2) gene, partial cds
+Sequence ID: MT228640.1 Length: 2094
+Range 1: 121 to 194
+
+Score:65.8 bits(35), Expect:2e-06, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  55   GCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAA  114
+            || || ||||||||||||||||||||||||||||||  | | |  || || |||  ||||
+Sbjct  121  GCCACAGGAAATTGGGGTGACCAAAAGAAGGCCGCATCCTCCACTGCGGGCGTGTCTCAA  180
+
+Query  115  GTGCTGAACAGATA  128
+            |||||||| |||||
+Sbjct  181  GTGCTGAATAGATA  194
+
+
+
+
+>Arachnopeziza delicatula voucher TK7036 (S, TUR) DNA-directed RNA polymerase II subunit RPB2 (RPB2) gene, partial cds
+Sequence ID: MT228643.1 Length: 2107
+Range 1: 121 to 194
+
+Score:65.8 bits(35), Expect:2e-06, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  55   GCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAA  114
+            || || ||||||||||||||||||||||||||||||  | | |  || || |||  ||||
+Sbjct  121  GCCACAGGAAATTGGGGTGACCAAAAGAAGGCCGCATCCTCCACTGCAGGCGTGTCTCAA  180
+
+Query  115  GTGCTGAACAGATA  128
+            |||||||| |||||
+Sbjct  181  GTGCTGAATAGATA  194
+
+
+
+
+>Erioderma verruculosum isolate AFTOL-ID 337 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: DQ973077.1 Length: 1208
+Range 1: 168 to 235
+
+Score:65.8 bits(35), Expect:2e-06, 
+Identities:57/68(84%),  Gaps:0/68(0%), Strand: Plus/Plus
+
+Query  52   CTGGCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGT  111
+            || |||||||||||||||||||||||||||||||| |||    |||| ||||| ||   |
+Sbjct  168  CTTGCGACTGGAAATTGGGGTGACCAAAAGAAGGCAGCATCATCAAAGGCTGGAGTTTCT  227
+
+Query  112  CAAGTGCT  119
+            ||||||||
+Sbjct  228  CAAGTGCT  235
+
+
+
+
+>Arachnopeziza aurata voucher KUS-F52038 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JN086847.1 Length: 1145
+Range 1: 174 to 247
+
+Score:65.8 bits(35), Expect:2e-06, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  55   GCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAA  114
+            || || ||||||||||||||||||||||||||||||  | | |  || || |||  ||||
+Sbjct  174  GCCACAGGAAATTGGGGTGACCAAAAGAAGGCCGCATCCTCCACCGCAGGCGTGTCTCAA  233
+
+Query  115  GTGCTGAACAGATA  128
+            |||||||| |||||
+Sbjct  234  GTGCTGAATAGATA  247
+
+
+
+
+>Arachnopeziza delicatula voucher JK14051801 (S, TUR) DNA-directed RNA polymerase II subunit RPB2 (RPB2) gene, partial cds
+Sequence ID: MT228641.1 Length: 1858
+Range 1: 61 to 134
+
+Score:65.8 bits(35), Expect:2e-06, 
+Identities:61/74(82%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  55   GCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAA  114
+            || || ||||||||||||||||||||||||||||||  | | |  || || |||  ||||
+Sbjct  61   GCCACAGGAAATTGGGGTGACCAAAAGAAGGCCGCATCCTCTACCGCAGGCGTGTCTCAA  120
+
+Query  115  GTGCTGAACAGATA  128
+            |||||||| |||||
+Sbjct  121  GTGCTGAATAGATA  134
+
+
+
+
+>Arachnopeziza delicatula voucher TNS-F12770 RNA polymerase II second largest subunit (RPB2) gene, partial cds
+Sequence ID: JN086877.1 Length: 964
+Range 1: 108 to 175
+
+Score:60.2 bits(32), Expect:7e-05, 
+Identities:56/68(82%),  Gaps:0/68(0%), Strand: Plus/Plus
+
+Query  55   GCGACTGGAAATTGGGGTGACCAAAAGAAGGCCGCAAGCGCAAAAGCTGGTGTGAGTCAA  114
+            || || ||||||||||||||||||||||||||||||  | | |  || || |||  ||||
+Sbjct  108  GCCACAGGAAATTGGGGTGACCAAAAGAAGGCCGCATCCTCCACTGCAGGCGTGTCTCAA  167
+
+Query  115  GTGCTGAA  122
+            ||||||||
+Sbjct  168  GTGCTGAA  175
+
+
+
+
+		
+
+

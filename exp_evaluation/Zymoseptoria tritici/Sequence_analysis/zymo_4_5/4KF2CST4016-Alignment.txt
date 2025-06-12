@@ -1,0 +1,2511 @@
+RID: 4KF2CST4016	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_2184369(dna) Length: 160
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mycosphaerella graminicola haplotype H17 actin gene, partial cds  Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  266        AY456458.1       
+Mycosphaerella graminicola haplotype H16 actin gene, partial cds  Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  247        AY456462.1       
+Mycosphaerella graminicola haplotype H20 actin gene, partial cds  Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  250        AY456464.1       
+Mycosphaerella graminicola haplotype H18 actin gene, partial cds  Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  268        AY456459.1       
+Mycosphaerella graminicola haplotype H19 actin gene, partial cds  Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  255        AY456473.1       
+Mycosphaerella graminicola haplotype H1 actin gene, partial cds   Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  268        AY456468.1       
+Zymoseptoria tritici ACT gene, actin, partial sequence, strain... Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  679        LC121213.1       
+Mycosphaerella graminicola haplotype H5 actin gene, partial cds   Zymoseptoria... NA              1047171    270    270   93%   3e-68 99.33  256        AY456467.1       
+Mycosphaerella graminicola haplotype H22 actin gene, partial cds  Zymoseptoria... NA              1047171    265    265   93%   2e-66 98.67  254        AY456476.1       
+Mycosphaerella graminicola haplotype H8 actin gene, partial cds   Zymoseptoria... NA              1047171    265    265   93%   2e-66 98.67  219        AY456477.1       
+Zymoseptoria tritici isolate M4_8 chromosome 10                   Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  1756096    CP062570.1       
+Mycosphaerella graminicola haplotype H2 actin gene, partial cds   Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  262        AY456470.1       
+Mycosphaerella graminicola haplotype H23 actin gene, partial cds  Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  218        AY456461.1       
+Septoria tritici partial act1 gene for actin, exons 1-2, isola... Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  768        AJ300310.1       
+Mycosphaerella graminicola haplotype H21 actin gene, partial cds  Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  258        AY456471.1       
+Mycosphaerella graminicola haplotype H6 actin gene, partial cds   Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  256        AY456472.1       
+Mycosphaerella graminicola haplotype H9 actin gene, partial cds   Zymoseptoria... NA              1047171    259    259   93%   8e-65 98.00  262        AY456466.1       
+Mycosphaerella graminicola haplotype H14 actin gene, partial cds  Zymoseptoria... NA              1047171    209    209   93%   8e-50 92.05  259        AY456457.1       
+Mycosphaerella graminicola haplotype H4 actin gene, partial cds   Zymoseptoria... NA              1047171    187    187   93%   4e-43 89.40  262        AY456475.1       
+Mycosphaerella graminicola haplotype H10 actin gene, partial cds  Zymoseptoria... NA              1047171    182    182   93%   2e-41 88.74  270        AY456469.1       
+Mycosphaerella graminicola haplotype H3 actin gene, partial cds   Zymoseptoria... NA              1047171    176    176   93%   8e-40 88.08  262        AY456474.1       
+Mycosphaerella graminicola haplotype H12 actin gene, partial cds  Zymoseptoria... NA              1047171    176    176   93%   8e-40 88.08  257        AY456465.1       
+Mycosphaerella graminicola haplotype H11 actin gene, partial cds  Zymoseptoria... NA              1047171    176    176   93%   8e-40 88.08  219        AY456479.1       
+Mycosphaerella graminicola haplotype H13 actin gene, partial cds  Zymoseptoria... NA              1047171    176    176   93%   8e-40 88.08  247        AY456463.1       
+Mycosphaerella graminicola haplotype H15 actin gene, partial cds  Zymoseptoria... NA              1047171    171    171   89%   4e-38 88.28  212        AY456478.1       
+Mycosphaerella graminicola haplotype H7 actin gene, partial cds   Zymoseptoria... NA              1047171    165    165   89%   2e-36 87.59  210        AY456460.1       
+Cercospora beticola isolate S1 actin gene, partial cds            Cercospora b... NA              122368     110    110   93%   8e-20 80.52  849        FJ972817.1       
+Cercospora beticola isolate C2 actin gene, partial cds            Cercospora b... NA              122368     110    110   93%   8e-20 80.52  856        FJ972813.1       
+Cercospora beticola actin gene, partial cds                       Cercospora b... NA              122368     110    110   93%   8e-20 80.52  856        FJ972816.1       
+Cercospora beticola actin gene, partial cds                       Cercospora b... NA              122368     110    110   93%   8e-20 80.52  849        FJ972815.1       
+Cercospora beticola actin gene, partial cds                       Cercospora b... NA              122368     110    110   93%   8e-20 80.52  1195       AF443281.1       
+Phaeophleospora gregaria ACT gene, actin, partial sequence,...    Phaeophleosp... NA              1431918    108    108   93%   3e-19 80.39  681        LC121217.1       
+Exophiala ellipsoidea culture CGMCC:3.17522 actin gene, partia... Exophiala el... NA              1628685    106    106   93%   1e-18 80.13  480        KP347884.1       
+Cercospora sp. CZM09-1 actin gene, partial cds                    Cercospora s... NA              1028438    104    104   93%   4e-18 79.87  666        HQ686312.1       
+Cercospora sp. CZM10-1 actin gene, partial cds                    Cercospora s... NA              1028440    104    104   93%   4e-18 79.87  666        HQ686314.1       
+Cercospora beticola actin gene, partial cds                       Cercospora b... NA              122368     104    104   93%   4e-18 79.87  846        FJ972814.1       
+Phaeophleospora scytalidii ACT gene, actin, partial sequence,...  Phaeophleosp... NA              1431919    100    100   93%   5e-17 79.62  670        LC121220.1       
+Zymoseptoria tritici IPO323 gamma actin (ACT), mRNA               Zymoseptoria... NA              336722     97.1   97.1  34%   6e-16 98.18  1641       XM_003849076.1   
+Phoma sp. MJW-2010g isolate MT 3-3-2a actin (act1) gene, parti... Leptosphaeri... NA              1077376    95.3   95.3  93%   2e-15 78.95  635        HM157342.1       
+Phoma sp. MJW-2010g isolate NY Chz21-19cr actin (act1) gene,...   Leptosphaeri... NA              1077376    95.3   95.3  93%   2e-15 78.95  635        HM157306.1       
+Leptosphaeria maculans 'brassicae' group strain IX2 actin (act... Plenodomus l... NA              225342     95.3   95.3  93%   2e-15 78.95  899        AY748969.1       
+Phoma sp. MJW-2010g isolate MT 4-2-7 actin (act1) gene, partia... Leptosphaeri... NA              1077376    93.5   93.5  93%   8e-15 78.81  635        HM157346.1       
+Exophiala hongkongensis strain HKU32 beta-actin gene, partial cds Exophiala ho... NA              1118753    93.5   93.5  93%   8e-15 78.81  471        JN625241.1       
+Pseudoxylomyces terricola culture ICMP:24668 actin (ACT) gene,... Pseudoxylomy... NA              3081761    91.6   91.6  83%   3e-14 80.45  1542       OR764089.1       
+Neohortaea acidophila actin family (BDY17DRAFT_57115), mRNA       Neohortaea a... NA              245834     91.6   91.6  34%   3e-14 96.36  1584       XM_033738513.1   
+Leptosphaeria maculans 'brassicae' group voucher LEP130090 act... Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  458        ON734110.1       
+Leptosphaeria maculans 'brassicae' group strain W4E87 actin...    Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  899        AY748967.1       
+Plenodomus lingam isolate PK4 actin (act1) gene, partial cds      Plenodomus l... blackleg of ... 5022       89.8   89.8  93%   1e-13 78.29  457        MT338100.1       
+Phoma sp. MJW-2010g isolate MT 5-2-4 actin (act1) gene, partia... Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157349.1       
+Leptosphaeria maculans 'brassicae' group strain V2 actin (act1... Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  899        AY748963.1       
+Leptosphaeria maculans 'brassicae' group strain PhBial actin...   Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  899        AY748971.1       
+Phoma sp. MJW-2010a isolate NY Chz1-7r actin (act1) gene,...      Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157290.1       
+Phoma sp. MJW-2010g isolate ME 5-3-8r actin (act1) gene, parti... Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157328.1       
+Leptosphaeria maculans brassicae wa74_scaffold00182 complete...   Plenodomus b... NA              225338     89.8   89.8  93%   1e-13 78.29  347216     FO906904.1       
+Plenodomus lingam isolate L277 actin (act1) gene, partial cds     Plenodomus l... blackleg of ... 5022       89.8   89.8  93%   1e-13 78.29  899        OM273826.1       
+Phoma sp. MJW-2010g isolate SK 4-21 actin (act1) gene, partial... Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157409.1       
+Phoma sp. MJW-2010e isolate NY Chz7-2r actin (act1) gene,...      Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157297.1       
+Leptosphaeria maculans 'brassicae' group voucher MF-Br17-029...   Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  397        ON734121.1       
+Phoma sp. MJW-2010e isolate SK 2-1 actin (act1) gene, partial cds Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157399.1       
+Phoma sp. MJW-2010g isolate NY Chz1-30r actin (act1) gene,...     Leptosphaeri... NA              1077376    89.8   89.8  93%   1e-13 78.29  635        HM157293.1       
+Leptosphaeria maculans actin gene, partial cds                    Plenodomus l... blackleg of ... 5022       89.8   89.8  93%   1e-13 78.29  472        FJ172241.1       
+Leptosphaeria maculans 'brassicae' group strain M1 actin (act1... Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  899        AY748966.1       
+Leptosphaeria maculans 'brassicae' group strain IIa1 actin...     Plenodomus l... NA              225342     89.8   89.8  93%   1e-13 78.29  899        AY748968.1       
+Lecanosticta acicola ACT gene, actin, partial sequence, strain... Lecanosticta... NA              111012     87.9   87.9  93%   4e-13 78.06  681        LC121212.1       
+Exophiala jeanselmei strain UTHSC R-3338 actin gene, partial cds  Exophiala je... NA              5584       87.9   87.9  35%   4e-13 94.64  536        EF551472.1       
+Microsporum nanum actin (ACT) gene, partial cds                   Nannizzia nana  NA              119676     87.9   87.9  44%   4e-13 88.89  745        AF152235.1       
+Bipolaris papendorfii partial act gene for actin, strain MUCL...  Curvularia p... NA              1537989    87.9   87.9  45%   4e-13 88.89  431        HE792954.1       
+Aspergillus loretoensis isolate CM-CNRG 624 gamma actin mRNA,...  Aspergillus ... NA              2591767    86.1   86.1  34%   1e-12 94.55  1125       MK309403.1       
+Capronia coronata CBS 617.96 actin, gamma (A1O1_08616), partia... Capronia cor... NA              1182541    86.1   86.1  34%   1e-12 94.55  1128       XM_007729475.1   
+Cladophialophora psammophila CBS 110553 actin, gamma...           Cladophialop... NA              1182543    86.1   86.1  34%   1e-12 94.55  1185       XM_007744977.1   
+Cladophialophora bantiana CBS 173.52 actin, gamma (Z519_02197)... Cladophialop... NA              1442370    86.1   86.1  34%   1e-12 94.55  1128       XM_016759954.1   
+Exserohilum turcica Et28A uncharacterized protein...              Exserohilum ... NA              671987     86.1   86.1  34%   1e-12 94.55  1471       XM_008025757.1   
+Zasmidium cellare ATCC 36951 uncharacterized protein...           Zasmidium ce... NA              1080233    86.1   86.1  34%   1e-12 94.55  1128       XM_033817360.1   
+Phoma sp. MJW-2010c isolate MT 4-4-12 actin (act1) gene, parti... Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.63  635        HM157348.1       
+Phoma sp. MJW-2010e isolate NY Chz2-14cr actin (act1) gene,...    Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.48  635        HM157294.1       
+Ampelomyces sp. LK-2012a strain Vitis75 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  816        JN621849.1       
+Ampelomyces sp. LK-2012a strain Vitis60 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  789        JN621842.1       
+Leptosphaeria maculans 'brassicae' group strain 1223 actin...     Plenodomus l... NA              225342     84.2   84.2  93%   5e-12 77.92  899        AY748964.1       
+Ampelomyces sp. LK-2012a strain Vitis56 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  780        JN621841.1       
+Ampelomyces sp. LK-2012a strain Vitis11 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  819        JN621820.1       
+Phoma sp. MJW-2010c isolate MT 4-1-3a actin (act1) gene, parti... Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.63  635        HM157344.1       
+Phoma sp. MJW-2010c isolate MT 1-4-2 actin (act1) gene, partia... Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.63  635        HM157333.1       
+Phoma sp. MJW-2010c isolate CO 7-2-10a actin (act1) gene,...      Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.63  635        HM157331.1       
+Phoma sp. MJW-2010b isolate NY Chz7-25cr actin (act1) gene,...    Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.78  635        HM157298.1       
+Phoma sp. MJW-2010f isolate NH 1-2-1-9r actin (act1) gene,...     Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.78  635        HM157357.1       
+Leptosphaeria maculans actin gene, partial cds                    Plenodomus l... blackleg of ... 5022       84.2   84.2  93%   5e-12 77.63  533        AY547274.1       
+Ampelomyces sp. LK-2012a strain Vitis35 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  828        JN621830.1       
+Phoma sp. MJW-2010d isolate MT 2-1-3 actin (act1) gene, partia... Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.78  635        HM157334.1       
+Mycosphaerella musae ACT gene, actin, partial sequence, strain... Mycosphaerel... NA              228397     84.2   84.2  88%   5e-12 78.47  677        LC121215.1       
+Ampelomyces sp. LK-2012a strain A62-b actin (act1) gene, parti... Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  852        JN621877.1       
+Phoma sp. MJW-2010b isolate ME 2-8st actin (act1) gene, partia... Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.78  635        HM157316.1       
+Paramycosphaerella parkii ACT gene, actin, partial sequence,...   Paramycospha... NA              112494     84.2   84.2  93%   5e-12 77.78  665        LC121221.1       
+Phoma sp. MJW-2010d isolate SK 2-2 actin (act1) gene, partial cds Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.78  635        HM157400.1       
+Ampelomyces sp. LK-2012a strain Vitis25 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  828        JN621825.1       
+Phoma sp. MJW-2010c isolate MT 2-1-4 actin (act1) gene, partia... Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.63  634        HM157335.1       
+Phoma sp. MJW-2010f isolate NY Chz1-16r actin (act1) gene,...     Leptosphaeri... NA              1077376    84.2   84.2  93%   5e-12 77.78  635        HM157292.1       
+Ampelomyces sp. LK-2012a strain Vitis76 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  828        JN621850.1       
+Ampelomyces sp. LK-2012a strain Vitis98 actin (act1) gene,...     Ampelomyces ... NA              1136141    84.2   84.2  36%   5e-12 92.98  762        JN621856.1       
+Phoma sp. MJW-2010f isolate ME 3-4-16cr actin (act1) gene,...     Leptosphaeri... NA              1077376    82.4   82.4  93%   2e-11 77.63  635        HM157320.1       
+Phoma sp. MJW-2010f isolate ON 5-8 actin (act1) gene, partial cds Leptosphaeri... NA              1077376    82.4   82.4  93%   2e-11 77.63  635        HM157377.1       
+
+Alignments:
+
+>Mycosphaerella graminicola haplotype H17 actin gene, partial cds
+Sequence ID: AY456458.1 Length: 266
+Range 1: 73 to 222
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  73   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  132
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  133  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  192
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  193  GGTATCTCCGACCGCATGCAGAAGGAAATC  222
+
+
+
+
+>Mycosphaerella graminicola haplotype H16 actin gene, partial cds
+Sequence ID: AY456462.1 Length: 247
+Range 1: 58 to 207
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  58   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  117
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  118  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  177
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  178  GGTATCTCCGACCGCATGCAGAAGGAAATC  207
+
+
+
+
+>Mycosphaerella graminicola haplotype H20 actin gene, partial cds
+Sequence ID: AY456464.1 Length: 250
+Range 1: 63 to 212
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  122
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  123  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  182
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  183  GGTATCTCCGACCGCATGCAGAAGGAAATC  212
+
+
+
+
+>Mycosphaerella graminicola haplotype H18 actin gene, partial cds
+Sequence ID: AY456459.1 Length: 268
+Range 1: 73 to 222
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  73   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  132
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  133  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  192
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  193  GGTATCTCCGACCGCATGCAGAAGGAAATC  222
+
+
+
+
+>Mycosphaerella graminicola haplotype H19 actin gene, partial cds
+Sequence ID: AY456473.1 Length: 255
+Range 1: 67 to 216
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  126
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  127  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  186
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  187  GGTATCTCCGACCGCATGCAGAAGGAAATC  216
+
+
+
+
+>Mycosphaerella graminicola haplotype H1 actin gene, partial cds
+Sequence ID: AY456468.1 Length: 268
+Range 1: 80 to 229
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  80   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  139
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  199
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  200  GGTATCTCCGACCGCATGCAGAAGGAAATC  229
+
+
+
+
+>Zymoseptoria tritici ACT gene, actin, partial sequence, strain: CBS 100329
+Sequence ID: LC121213.1 Length: 679
+Range 1: 502 to 651
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  502  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  561
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  562  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  621
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  622  GGTATCTCCGACCGCATGCAGAAGGAAATC  651
+
+
+
+
+>Mycosphaerella graminicola haplotype H5 actin gene, partial cds
+Sequence ID: AY456467.1 Length: 256
+Range 1: 67 to 216
+
+Score:270 bits(146), Expect:3e-68, 
+Identities:149/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  126
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  127  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  186
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  187  GGTATCTCCGACCGCATGCAGAAGGAAATC  216
+
+
+
+
+>Mycosphaerella graminicola haplotype H22 actin gene, partial cds
+Sequence ID: AY456476.1 Length: 254
+Range 1: 66 to 215
+
+Score:265 bits(143), Expect:2e-66, 
+Identities:148/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  66   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  125
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  126  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  185
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  186  GGTATCTCCGACCGCATGCAGAAGGAAATC  215
+
+
+
+
+>Mycosphaerella graminicola haplotype H8 actin gene, partial cds
+Sequence ID: AY456477.1 Length: 219
+Range 1: 69 to 218
+
+Score:265 bits(143), Expect:2e-66, 
+Identities:148/150(99%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  69   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTCAGTGCTGACATACTG  128
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  188
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  189  GGTATCTCCGACCGCATGCAGAAGGAAATC  218
+
+
+
+
+>Zymoseptoria tritici isolate M4_8 chromosome 10
+Sequence ID: CP062570.1 Length: 1756096
+Range 1: 990529 to 990678
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Minus
+
+Query  10      GATGTCGATGTCCGCA-GGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+               |||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  990678  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  990619
+
+Query  69      CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+               ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  990618  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  990559
+
+Query  129     GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+               ||||||||||||||||||||||||||||||
+Sbjct  990558  GGTATCTCCGACCGCATGCAGAAGGAAATC  990529
+
+
+
+
+>Mycosphaerella graminicola haplotype H2 actin gene, partial cds
+Sequence ID: AY456470.1 Length: 262
+Range 1: 74 to 223
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  74   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  133
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  134  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  193
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  194  GGTATCTCCGACCGCATGCAGAAGGAAATC  223
+
+
+
+
+>Mycosphaerella graminicola haplotype H23 actin gene, partial cds
+Sequence ID: AY456461.1 Length: 218
+Range 1: 67 to 216
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  126
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  127  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  186
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  187  GGTATCTCCGACCGCATGCAGAAGGAAATC  216
+
+
+
+
+>Septoria tritici partial act1 gene for actin, exons 1-2, isolate L951
+Sequence ID: AJ300310.1 Length: 768
+Range 1: 563 to 712
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  563  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  622
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  623  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  682
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  683  GGTATCTCCGACCGCATGCAGAAGGAAATC  712
+
+
+
+
+>Mycosphaerella graminicola haplotype H21 actin gene, partial cds
+Sequence ID: AY456471.1 Length: 258
+Range 1: 70 to 219
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  129
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  130  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  189
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  190  GGTATCTCCGACCGCATGCAGAAGGAAATC  219
+
+
+
+
+>Mycosphaerella graminicola haplotype H6 actin gene, partial cds
+Sequence ID: AY456472.1 Length: 256
+Range 1: 68 to 217
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  68   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  127
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  128  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  187
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  188  GGTATCTCCGACCGCATGCAGAAGGAAATC  217
+
+
+
+
+>Mycosphaerella graminicola haplotype H9 actin gene, partial cds
+Sequence ID: AY456466.1 Length: 262
+Range 1: 74 to 223
+
+Score:259 bits(140), Expect:8e-65, 
+Identities:147/150(98%),  Gaps:1/150(0%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  74   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  133
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCA  128
+            ||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  134  CTGACTCCATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCCA  193
+
+Query  129  GGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||||||
+Sbjct  194  GGTATCTCCGACCGCATGCAGAAGGAAATC  223
+
+
+
+
+>Mycosphaerella graminicola haplotype H14 actin gene, partial cds
+Sequence ID: AY456457.1 Length: 259
+Range 1: 70 to 219
+
+Score:209 bits(113), Expect:8e-50, 
+Identities:139/151(92%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||||||||||| || 
+Sbjct  70   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATGCTC  129
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||  | | ||   ||| |||||||||||||||||||||||||||||| |||||||||||
+Sbjct  130  CTGTTCACAAT-GAATCACAGCTAACGATATTCCCAGTCCGGCGGCACCACCATGTACCC  188
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||||||||||||||||
+Sbjct  189  AGGTATCTCCGACCGCATGCAGAAGGAAATC  219
+
+
+
+
+>Mycosphaerella graminicola haplotype H4 actin gene, partial cds
+Sequence ID: AY456475.1 Length: 262
+Range 1: 74 to 223
+
+Score:187 bits(101), Expect:4e-43, 
+Identities:135/151(89%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||||||||||| || 
+Sbjct  74   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATGCTC  133
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||  | | ||   ||| |||||||| | |||| |||||||||||||| |||||||||||
+Sbjct  134  CTGTTCACAAT-GAATCACAGCTAACAACATTCTCAGTCCGGCGGCACCACCATGTACCC  192
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||||||||||||||| |||
+Sbjct  193  AGGTATCTCCGACCGCATGCAGAAGGAGATC  223
+
+
+
+
+>Mycosphaerella graminicola haplotype H10 actin gene, partial cds
+Sequence ID: AY456469.1 Length: 270
+Range 1: 82 to 231
+
+Score:182 bits(98), Expect:2e-41, 
+Identities:134/151(89%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||   ||| ||||| 
+Sbjct  82   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTC  141
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||| | | ||   ||  |||||||||||||  ||||||||||||||| |||||||||||
+Sbjct  142  CTGATCACAAT-GAATGACAGCTAACGATATCTCCAGTCCGGCGGCACCACCATGTACCC  200
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||||||||||||||||
+Sbjct  201  AGGTATCTCCGACCGCATGCAGAAGGAAATC  231
+
+
+
+
+>Mycosphaerella graminicola haplotype H3 actin gene, partial cds
+Sequence ID: AY456474.1 Length: 262
+Range 1: 74 to 223
+
+Score:176 bits(95), Expect:8e-40, 
+Identities:133/151(88%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||   ||| ||||| 
+Sbjct  74   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTC  133
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||| | | ||   ||  |||||||| ||||  ||||||||||||||| |||||||||||
+Sbjct  134  CTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCC  192
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||||||||||||||||
+Sbjct  193  AGGTATCTCCGACCGCATGCAGAAGGAAATC  223
+
+
+
+
+>Mycosphaerella graminicola haplotype H12 actin gene, partial cds
+Sequence ID: AY456465.1 Length: 257
+Range 1: 70 to 219
+
+Score:176 bits(95), Expect:8e-40, 
+Identities:133/151(88%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||   ||| ||||| 
+Sbjct  70   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTC  129
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||| | | ||   ||  |||||||| ||||  ||||||||||||||| |||||||||||
+Sbjct  130  CTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCC  188
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||||||||||||||||
+Sbjct  189  AGGTATCTCCGACCGCATGCAGAAGGAAATC  219
+
+
+
+
+>Mycosphaerella graminicola haplotype H11 actin gene, partial cds
+Sequence ID: AY456479.1 Length: 219
+Range 1: 69 to 218
+
+Score:176 bits(95), Expect:8e-40, 
+Identities:133/151(88%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||   ||| ||||| 
+Sbjct  69   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTC  128
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||| | | ||   ||  |||||||| ||||  ||||||||||||||| |||||||||||
+Sbjct  129  CTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCC  187
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||||||||||||||||
+Sbjct  188  AGGTATCTCCGACCGCATGCAGAAGGAAATC  218
+
+
+
+
+>Mycosphaerella graminicola haplotype H13 actin gene, partial cds
+Sequence ID: AY456463.1 Length: 247
+Range 1: 58 to 207
+
+Score:176 bits(95), Expect:8e-40, 
+Identities:133/151(88%),  Gaps:3/151(1%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||   ||| ||||| 
+Sbjct  58   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGATTGATATACTC  117
+
+Query  69   CTGA-CTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||| | | ||   ||  |||||||| ||||  ||||||||||||||| |||||||||||
+Sbjct  118  CTGATCACAAT-GAATGACAGCTAACAATATCTCCAGTCCGGCGGCACCACCATGTACCC  176
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||||||||||||||||
+Sbjct  177  AGGTATCTCCGACCGCATGCAGAAGGAAATC  207
+
+
+
+
+>Mycosphaerella graminicola haplotype H15 actin gene, partial cds
+Sequence ID: AY456478.1 Length: 212
+Range 1: 69 to 212
+
+Score:171 bits(92), Expect:4e-38, 
+Identities:128/145(88%),  Gaps:3/145(2%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||||||||||||| |||||||||||||||||||||||||||||||  ||| |||||| 
+Sbjct  69   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGACTGTCATACTC  128
+
+Query  69   CTG-ACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||  | | ||   ||| |||||||| | |||| |||||||||||||| |||||||||||
+Sbjct  129  CTGTTCACAAT-GAATCACAGCTAACAACATTCTCAGTCCGGCGGCACCACCATGTACCC  187
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAG  152
+            |||||||||||||||||||||||||
+Sbjct  188  AGGTATCTCCGACCGCATGCAGAAG  212
+
+
+
+
+>Mycosphaerella graminicola haplotype H7 actin gene, partial cds
+Sequence ID: AY456460.1 Length: 210
+Range 1: 67 to 210
+
+Score:165 bits(89), Expect:2e-36, 
+Identities:127/145(88%),  Gaps:3/145(2%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            ||||| ||||||||| |||||||||||||||||||||||||||||||  ||| |||||| 
+Sbjct  67   GATGTTGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTGAGGACTGTCATACTC  126
+
+Query  69   CTG-ACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            |||  | | ||   ||| |||||||| | |||| |||||||||||||| |||||||||||
+Sbjct  127  CTGTTCACAAT-GAATCACAGCTAACAACATTCTCAGTCCGGCGGCACCACCATGTACCC  185
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAG  152
+            |||||||||||||||||||||||||
+Sbjct  186  AGGTATCTCCGACCGCATGCAGAAG  210
+
+
+
+
+>Cercospora beticola isolate S1 actin gene, partial cds
+Sequence ID: FJ972817.1 Length: 849
+Range 1: 686 to 835
+
+Score:110 bits(59), Expect:8e-20, 
+Identities:124/154(81%),  Gaps:9/154(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TGCTGACAT-AC  66
+            ||||||||||||||| |||||||||||||||||||||||||||| || ||    ||| | 
+Sbjct  686  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGGCCCCATCAT  745
+
+Query  67   TGCTGACTCT--ATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+            |  ||| |||  |   ||| | |||| || | |||   |||| || ||||| ||||||||
+Sbjct  746  TTATGA-TCTGGAAGAGATTG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  801
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||| ||||| |||||||||
+Sbjct  802  CCCAGGTATCTCCGACCGTATGCAAAAGGAAATC  835
+
+
+
+
+>Cercospora beticola isolate C2 actin gene, partial cds
+Sequence ID: FJ972813.1 Length: 856
+Range 1: 686 to 835
+
+Score:110 bits(59), Expect:8e-20, 
+Identities:124/154(81%),  Gaps:9/154(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TGCTGACAT-AC  66
+            ||||||||||||||| |||||||||||||||||||||||||||| || ||    ||| | 
+Sbjct  686  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGGCCCCATCAT  745
+
+Query  67   TGCTGACTCT--ATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+            |  ||| |||  |   ||| | |||| || | |||   |||| || ||||| ||||||||
+Sbjct  746  TTATGA-TCTGGAAGAGATTG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  801
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||| ||||| |||||||||
+Sbjct  802  CCCAGGTATCTCCGACCGTATGCAAAAGGAAATC  835
+
+
+
+
+>Cercospora beticola actin gene, partial cds
+Sequence ID: FJ972816.1 Length: 856
+Range 1: 686 to 835
+
+Score:110 bits(59), Expect:8e-20, 
+Identities:124/154(81%),  Gaps:9/154(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TGCTGACAT-AC  66
+            ||||||||||||||| |||||||||||||||||||||||||||| || ||    ||| | 
+Sbjct  686  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGGCCCCATCAT  745
+
+Query  67   TGCTGACTCT--ATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+            |  ||| |||  |   ||| | |||| || | |||   |||| || ||||| ||||||||
+Sbjct  746  TTATGA-TCTGGAAGAGATTG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  801
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||| ||||| |||||||||
+Sbjct  802  CCCAGGTATCTCCGACCGTATGCAAAAGGAAATC  835
+
+
+
+
+>Cercospora beticola actin gene, partial cds
+Sequence ID: FJ972815.1 Length: 849
+Range 1: 679 to 828
+
+Score:110 bits(59), Expect:8e-20, 
+Identities:124/154(81%),  Gaps:9/154(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TGCTGACAT-AC  66
+            ||||||||||||||| |||||||||||||||||||||||||||| || ||    ||| | 
+Sbjct  679  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGGCCCCATCAT  738
+
+Query  67   TGCTGACTCT--ATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+            |  ||| |||  |   ||| | |||| || | |||   |||| || ||||| ||||||||
+Sbjct  739  TTATGA-TCTGGAAGAGATTG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  794
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||||||| ||||| |||||||||
+Sbjct  795  CCCAGGTATCTCCGACCGTATGCAAAAGGAAATC  828
+
+
+
+
+>Cercospora beticola actin gene, partial cds
+Sequence ID: AF443281.1 Length: 1195
+Range 1: 960 to 1109
+
+Score:110 bits(59), Expect:8e-20, 
+Identities:124/154(81%),  Gaps:9/154(5%), Strand: Plus/Plus
+
+Query  10    GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TGCTGACAT-AC  66
+             ||||||||||||||| |||||||||||||||||||||||||||| || ||    ||| | 
+Sbjct  960   GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGGCCCCATCAT  1019
+
+Query  67    TGCTGACTCT--ATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+             |  ||| |||  |   ||| | |||| || | |||   |||| || ||||| ||||||||
+Sbjct  1020  TTATGA-TCTGGAAGAGATTG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  1075
+
+Query  125   CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+             |||||||||||||||||| ||||| |||||||||
+Sbjct  1076  CCCAGGTATCTCCGACCGTATGCAAAAGGAAATC  1109
+
+
+
+
+>Phaeophleospora gregaria ACT gene, actin, partial sequence, strain: CBS 110501
+Sequence ID: LC121217.1 Length: 681
+Range 1: 503 to 650
+
+Score:108 bits(58), Expect:3e-19, 
+Identities:123/153(80%),  Gaps:9/153(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGTGCT-GACATACT  67
+            ||||||||||||||  |||||||||||||||||||||||||||| ||| ||   || || 
+Sbjct  503  GATGTCGATGTCCGTAAGGATCTCTACGGAAACATCGTCATGGTAAGTTCTCTTCAAACA  562
+
+Query  68   GCTGACTCTATC-CG-ATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              ||| | | ||  | ||  | ||||||  | |  ||||||||| || || |||||||||
+Sbjct  563  CATGAGTAT-TCTGGCAT--CTGCTAAC--TCTCTCCAGTCCGGTGGAACCACCATGTAC  617
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||  ||||||||||||||||||||||
+Sbjct  618  CCAGGTATCAGCGACCGCATGCAGAAGGAAATC  650
+
+
+
+
+>Exophiala ellipsoidea culture CGMCC:3.17522 actin gene, partial cds
+Sequence ID: KP347884.1 Length: 480
+>Exophiala ellipsoidea culture CGMCC:3.17521 actin gene, partial cds
+Sequence ID: KP347885.1 Length: 480
+>Exophiala ellipsoidea strain CGMCC3.17348 actin gene, partial cds
+Sequence ID: MG012713.1 Length: 480 
+Range 1: 327 to 472
+
+Score:106 bits(57), Expect:1e-18, 
+Identities:121/151(80%),  Gaps:7/151(4%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            |||||||| |||||  ||||| | ||||| ||||| |||||||| |  |||  ||| | |
+Sbjct  327  GATGTCGACGTCCGTAAGGATTTGTACGGCAACATTGTCATGGT-A-AGCT-CCATCCCG  383
+
+Query  69   CTGACTCTAT-CCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+            || | | | | || || | | |||||  | ||  ||||||||||| ||||||||||||||
+Sbjct  384  CTCAGTTTGTGCCAATTGTA-CTAACATTGTT-TCAGTCCGGCGGTACTACCATGTACCC  441
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||||||||| |||||||||||||||
+Sbjct  442  AGGTATCTCCGACCGTATGCAGAAGGAAATC  472
+
+
+
+
+>Cercospora sp. CZM09-1 actin gene, partial cds
+Sequence ID: HQ686312.1 Length: 666
+>Cercospora sp. CZM09-2 actin gene, partial cds
+Sequence ID: HQ686313.1 Length: 666 
+Range 1: 497 to 645
+
+Score:104 bits(56), Expect:4e-18, 
+Identities:123/154(80%),  Gaps:10/154(6%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACT-  67
+            ||||||||||||||| |||||||||||||||||||||||||||| |  |||||  | || 
+Sbjct  497  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGT-A-AGCTGATTTTCTC  554
+
+Query  68   -GCT--GACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+              ||  || |  |   ||||| |||| || | |||   |||| || ||||| ||||||||
+Sbjct  555  ATCTCAGAGTAGAGAGGATCG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  611
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||| |||||||| ||||| |||||||||
+Sbjct  612  CCCAGGTATTTCCGACCGTATGCAAAAGGAAATC  645
+
+
+
+
+>Cercospora sp. CZM10-1 actin gene, partial cds
+Sequence ID: HQ686314.1 Length: 666
+>Cercospora sp. CZM10-2 actin gene, partial cds
+Sequence ID: HQ686315.1 Length: 666 
+Range 1: 497 to 645
+
+Score:104 bits(56), Expect:4e-18, 
+Identities:123/154(80%),  Gaps:10/154(6%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TG---CTGACAT  64
+            ||||||||||||||| |||||||||||||||||||||||||||| || ||    |  |||
+Sbjct  497  GATGTCGATGTCCGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGATTTTCCCAT  556
+
+Query  65   ACTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+             || | || |  |   ||||| |||| || | |||   |||| || ||||| ||||||||
+Sbjct  557  -CT-CAGAGTAGAGAGGATCG-AGCTGAC-A-ATTTTTAGTCTGGTGGCACCACCATGTA  611
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||| |||||||| ||||| |||||||||
+Sbjct  612  CCCAGGTATTTCCGACCGTATGCAAAAGGAAATC  645
+
+
+
+
+>Cercospora beticola actin gene, partial cds
+Sequence ID: FJ972814.1 Length: 846
+Range 1: 686 to 835
+
+Score:104 bits(56), Expect:4e-18, 
+Identities:123/154(80%),  Gaps:9/154(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCGC-AGGATCTCTACGGAAACATCGTCATGGTGAG-TGCTGACAT-AC  66
+            |||||||||||| || |||||||||||||||||||||||||||| || ||    ||| | 
+Sbjct  686  GATGTCGATGTCAGCAAGGATCTCTACGGAAACATCGTCATGGTAAGCTGGCCCCATCAT  745
+
+Query  67   TGCTGACTCT--ATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+            |  ||| |||  |   ||| | ||||||| || ||   |||| || ||||| ||||||||
+Sbjct  746  TTATGA-TCTGGAAGAGATTG-AGCTAACAATTTTT--AGTCTGGTGGCACCACCATGTA  801
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||| |||||||||||||| ||||| |||||||||
+Sbjct  802  CCCCGGTATCTCCGACCGTATGCAAAAGGAAATC  835
+
+
+
+
+>Phaeophleospora scytalidii ACT gene, actin, partial sequence, strain: CBS 118493
+Sequence ID: LC121220.1 Length: 670
+Range 1: 503 to 653
+
+Score:100 bits(54), Expect:5e-17, 
+Identities:125/157(80%),  Gaps:14/157(8%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGT--GC-T-GACAT  64
+            ||||||||||||||  |||||||||||||||||||||||||||| |||   | |  ||| 
+Sbjct  503  GATGTCGATGTCCGTAAGGATCTCTACGGAAACATCGTCATGGTAAGTTATCTTCAACAA  562
+
+Query  65   ACTGCTGACTCTATCCGATCGC-A--GCTAACGATATTCCCAGTCCGGCGGCACTACCAT  121
+            ||   | |   ||| |  | || |  ||||||  | |||||||||||| || || |||||
+Sbjct  563  ACAAAT-A-AGTAT-C-TTGGCAACTGCTAAC--TCTTCCCAGTCCGGTGGTACCACCAT  616
+
+Query  122  GTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||||  ||||||||||||||||||||||
+Sbjct  617  GTACCCAGGTATCAGCGACCGCATGCAGAAGGAAATC  653
+
+
+
+
+>Zymoseptoria tritici IPO323 gamma actin (ACT), mRNA
+Sequence ID: XM_003849076.1 Length: 1641
+Range 1: 1023 to 1077
+
+Score:97.1 bits(52), Expect:6e-16, 
+Identities:54/55(98%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104   GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+             |||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1023  GTCCGGCGGCACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  1077
+
+
+
+
+>Phoma sp. MJW-2010g isolate MT 3-3-2a actin (act1) gene, partial cds
+Sequence ID: HM157342.1 Length: 635
+Range 1: 466 to 611
+
+Score:95.3 bits(51), Expect:2e-15, 
+Identities:120/152(79%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  || || 
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCTCTCA-AC-  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010g isolate NY Chz21-19cr actin (act1) gene, partial cds
+Sequence ID: HM157306.1 Length: 635
+Range 1: 466 to 611
+
+Score:95.3 bits(51), Expect:2e-15, 
+Identities:120/152(79%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGT-GCTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| || |||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTAGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  | ||| | || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAAT-TCCCAGCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain IX2 actin (act1) gene, partial cds
+Sequence ID: AY748969.1 Length: 899
+Range 1: 595 to 740
+
+Score:95.3 bits(51), Expect:2e-15, 
+Identities:120/152(79%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || ||||| ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGCACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Phoma sp. MJW-2010g isolate MT 4-2-7 actin (act1) gene, partial cds
+Sequence ID: HM157346.1 Length: 635
+Range 1: 466 to 610
+
+Score:93.5 bits(50), Expect:8e-15, 
+Identities:119/151(79%),  Gaps:9/151(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | || |
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAT  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAAT  157
+            | |||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAAT  610
+
+
+
+
+>Exophiala hongkongensis strain HKU32 beta-actin gene, partial cds
+Sequence ID: JN625241.1 Length: 471
+Range 1: 308 to 450
+
+Score:93.5 bits(50), Expect:8e-15, 
+Identities:119/151(79%),  Gaps:10/151(6%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTG  68
+            || ||||| |||||  |||||||||||||||||||||||||||| |||  |  ||| |||
+Sbjct  308  GACGTCGACGTCCGTAAGGATCTCTACGGAAACATCGTCATGGTAAGT--T-CCATCCTG  364
+
+Query  69   CTGACTCTATCCGATCGCAGCTAACGA-TATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+             |  | |||| | | | ||  ||  || ||| || |||| || || || |||||||||||
+Sbjct  365  AT-TCCCTAT-C-AACCCA--TACTGATTATGCCTAGTCTGGTGGTACCACCATGTACCC  419
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||| || ||||| |||||||||
+Sbjct  420  AGGTATCTCCGATCGTATGCAAAAGGAAATC  450
+
+
+
+
+>Pseudoxylomyces terricola culture ICMP:24668 actin (ACT) gene, complete cds
+Sequence ID: OR764089.1 Length: 1542
+Range 1: 1243 to 1365
+
+Score:91.6 bits(49), Expect:3e-14, 
+Identities:107/133(80%),  Gaps:11/133(8%), Strand: Plus/Plus
+
+Query  27    GATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACTGCTGACTCTATCCGATCG  85
+             ||||||||||| |||||||||||||| ||||   | | | | || | ||| |  | | ||
+Sbjct  1243  GATCTCTACGGCAACATCGTCATGGTAAGTGGGCGGC-T-CCGCAGCCTC-A--C-ACCG  1296
+
+Query  86    CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCAT  145
+              ||||||| | |   | |||| |||||||| ||||||||||| |||||||||||||||||
+Sbjct  1297  -AGCTAAC-A-A-GACTAGTCTGGCGGCACCACCATGTACCCCGGTATCTCCGACCGCAT  1352
+
+Query  146   GCAGAAGGAAATC  158
+             |||||||||||||
+Sbjct  1353  GCAGAAGGAAATC  1365
+
+
+
+
+>Neohortaea acidophila actin family (BDY17DRAFT_57115), mRNA
+Sequence ID: XM_033738513.1 Length: 1584
+Range 1: 979 to 1033
+
+Score:91.6 bits(49), Expect:3e-14, 
+Identities:53/55(96%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104   GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+             ||||||||| || ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  979   GTCCGGCGGTACCACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  1033
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group voucher LEP130090 actin gene, partial cds
+Sequence ID: ON734110.1 Length: 458
+Range 1: 188 to 333
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  188  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  247
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  248  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  301
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  302  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  333
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain W4E87 actin (act1) gene, partial cds
+Sequence ID: AY748967.1 Length: 899
+>Leptosphaeria maculans 'brassicae' group strain Leroy actin (act1) gene, partial cds
+Sequence ID: AY748970.1 Length: 899
+>Leptosphaeria maculans isolate Pk4 actin (act1) gene, partial cds
+Sequence ID: MW463907.1 Length: 899
+>Leptosphaeria maculans isolate Ar3 actin (act1) gene, partial cds
+Sequence ID: MW463908.1 Length: 899
+>Leptosphaeria maculans isolate Ar5 actin (act1) gene, partial cds
+Sequence ID: MW463909.1 Length: 899
+>Leptosphaeria maculans isolate Alam10 actin (act1) gene, partial cds
+Sequence ID: MW463910.1 Length: 899
+>Plenodomus lingam isolate L7 actin (act1) gene, partial cds
+Sequence ID: OM273802.1 Length: 899
+>Plenodomus lingam isolate L11 actin (act1) gene, partial cds
+Sequence ID: OM273803.1 Length: 899
+>Plenodomus lingam isolate L26 actin (act1) gene, partial cds
+Sequence ID: OM273804.1 Length: 899
+>Plenodomus lingam isolate L30 actin (act1) gene, partial cds
+Sequence ID: OM273805.1 Length: 899
+>Plenodomus lingam isolate L34 actin (act1) gene, partial cds
+Sequence ID: OM273806.1 Length: 899
+>Plenodomus lingam isolate L40 actin (act1) gene, partial cds
+Sequence ID: OM273807.1 Length: 899
+>Plenodomus lingam isolate L61 actin (act1) gene, partial cds
+Sequence ID: OM273808.1 Length: 899
+>Plenodomus lingam isolate L63 actin (act1) gene, partial cds
+Sequence ID: OM273809.1 Length: 899
+>Plenodomus lingam isolate L108 actin (act1) gene, partial cds
+Sequence ID: OM273810.1 Length: 899
+>Plenodomus lingam isolate L110 actin (act1) gene, partial cds
+Sequence ID: OM273811.1 Length: 899
+>Plenodomus lingam isolate L131 actin (act1) gene, partial cds
+Sequence ID: OM273812.1 Length: 899
+>Plenodomus lingam isolate L166 actin (act1) gene, partial cds
+Sequence ID: OM273813.1 Length: 899
+>Plenodomus lingam isolate L183 actin (act1) gene, partial cds
+Sequence ID: OM273814.1 Length: 899
+>Plenodomus lingam isolate L197 actin (act1) gene, partial cds
+Sequence ID: OM273815.1 Length: 899
+>Plenodomus lingam isolate L198 actin (act1) gene, partial cds
+Sequence ID: OM273816.1 Length: 899
+>Plenodomus lingam isolate L201 actin (act1) gene, partial cds
+Sequence ID: OM273817.1 Length: 899
+>Plenodomus lingam isolate L214 actin (act1) gene, partial cds
+Sequence ID: OM273818.1 Length: 899
+>Plenodomus lingam isolate L217 actin (act1) gene, partial cds
+Sequence ID: OM273819.1 Length: 899
+>Plenodomus lingam isolate L228 actin (act1) gene, partial cds
+Sequence ID: OM273820.1 Length: 899
+>Plenodomus lingam isolate L233 actin (act1) gene, partial cds
+Sequence ID: OM273821.1 Length: 899
+>Plenodomus lingam isolate L238 actin (act1) gene, partial cds
+Sequence ID: OM273822.1 Length: 899
+>Plenodomus lingam isolate L245 actin (act1) gene, partial cds
+Sequence ID: OM273823.1 Length: 899
+>Plenodomus lingam isolate L258 actin (act1) gene, partial cds
+Sequence ID: OM273824.1 Length: 899
+>Plenodomus lingam isolate L265 actin (act1) gene, partial cds
+Sequence ID: OM273825.1 Length: 899
+>Plenodomus lingam isolate L283 actin (act1) gene, partial cds
+Sequence ID: OM273827.1 Length: 899 
+Range 1: 595 to 740
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Plenodomus lingam isolate PK4 actin (act1) gene, partial cds
+Sequence ID: MT338100.1 Length: 457
+>Plenodomus lingam isolate Ar3 actin (act1) gene, partial cds
+Sequence ID: MT338101.1 Length: 457
+>Plenodomus lingam isolate Ar5 actin (act1) gene, partial cds
+Sequence ID: MT338102.1 Length: 457
+>Plenodomus lingam isolate Alam10 actin (act1) gene, partial cds
+Sequence ID: MT338103.1 Length: 457 
+Range 1: 187 to 332
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  187  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  246
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  247  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  300
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  301  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  332
+
+
+
+
+>Phoma sp. MJW-2010g isolate MT 5-2-4 actin (act1) gene, partial cds
+Sequence ID: HM157349.1 Length: 635
+>Phoma sp. MJW-2010g isolate WI 5-1-5 actin (act1) gene, partial cds
+Sequence ID: HM157443.1 Length: 635 
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain V2 actin (act1) gene, partial cds
+Sequence ID: AY748963.1 Length: 899
+Range 1: 595 to 740
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain PhBial actin (act1) gene, partial cds
+Sequence ID: AY748971.1 Length: 899
+Range 1: 595 to 740
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Phoma sp. MJW-2010a isolate NY Chz1-7r actin (act1) gene, partial cds
+Sequence ID: HM157290.1 Length: 635
+>Phoma sp. MJW-2010a isolate NY Chz1-15r actin (act1) gene, partial cds
+Sequence ID: HM157291.1 Length: 635
+>Phoma sp. MJW-2010e isolate VT 3-2-1-7r actin (act1) gene, partial cds
+Sequence ID: HM157425.1 Length: 635 
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAGTTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010g isolate ME 5-3-8r actin (act1) gene, partial cds
+Sequence ID: HM157328.1 Length: 635
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Leptosphaeria maculans brassicae wa74_scaffold00182 complete sequence
+Sequence ID: FO906904.1 Length: 347216
+Range 1: 281521 to 281666
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Minus
+
+Query  10      GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+               ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  281666  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  281607
+
+Query  68      GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+                |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  281606  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  281553
+
+Query  127     CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+               | ||||||||||||||||||||||||||||||
+Sbjct  281552  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  281521
+
+
+
+
+>Plenodomus lingam isolate L277 actin (act1) gene, partial cds
+Sequence ID: OM273826.1 Length: 899
+Range 1: 595 to 740
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Phoma sp. MJW-2010g isolate SK 4-21 actin (act1) gene, partial cds
+Sequence ID: HM157409.1 Length: 635
+>Phoma sp. MJW-2010g isolate WI LMN-D actin (act1) gene, partial cds
+Sequence ID: HM157440.1 Length: 635 
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010e isolate NY Chz7-2r actin (act1) gene, partial cds
+Sequence ID: HM157297.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 1-3-4 actin (act1) gene, partial cds
+Sequence ID: HM157332.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 3-2-9 actin (act1) gene, partial cds
+Sequence ID: HM157340.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 3-4-8 actin (act1) gene, partial cds
+Sequence ID: HM157343.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 4-2-1 actin (act1) gene, partial cds
+Sequence ID: HM157345.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 2-26 actin (act1) gene, partial cds
+Sequence ID: HM157404.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 9-16 actin (act1) gene, partial cds
+Sequence ID: HM157420.1 Length: 635 
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAGTTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group voucher MF-Br17-029 actin gene, partial cds
+Sequence ID: ON734121.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-Br17-031 actin gene, partial cds
+Sequence ID: ON734122.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-Br17-042 actin gene, partial cds
+Sequence ID: ON734123.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-Br17-050 actin gene, partial cds
+Sequence ID: ON734124.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-R-4.266 actin gene, partial cds
+Sequence ID: ON734125.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-R-4.274 actin gene, partial cds
+Sequence ID: ON734126.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-R-4.275 actin gene, partial cds
+Sequence ID: ON734127.1 Length: 397
+>Leptosphaeria maculans 'brassicae' group voucher MF-R-4.278 actin gene, partial cds
+Sequence ID: ON734128.1 Length: 397 
+Range 1: 139 to 284
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  139  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  198
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  199  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  252
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  253  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  284
+
+
+
+
+>Phoma sp. MJW-2010e isolate SK 2-1 actin (act1) gene, partial cds
+Sequence ID: HM157399.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 2-11 actin (act1) gene, partial cds
+Sequence ID: HM157401.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 6-7 actin (act1) gene, partial cds
+Sequence ID: HM157413.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 7-8 actin (act1) gene, partial cds
+Sequence ID: HM157415.1 Length: 635 
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAGTTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010g isolate NY Chz1-30r actin (act1) gene, partial cds
+Sequence ID: HM157293.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY Chz12-22r actin (act1) gene, partial cds
+Sequence ID: HM157303.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY Chz17-19cr actin (act1) gene, partial cds
+Sequence ID: HM157305.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY Chz23-18r actin (act1) gene, partial cds
+Sequence ID: HM157309.1 Length: 635
+>Phoma sp. MJW-2010g isolate ME 1-2-4st actin (act1) gene, partial cds
+Sequence ID: HM157310.1 Length: 635
+>Phoma sp. MJW-2010g isolate ME 4-1-9st actin (act1) gene, partial cds
+Sequence ID: HM157321.1 Length: 635
+>Phoma sp. MJW-2010g isolate MT 3-1-2 actin (act1) gene, partial cds
+Sequence ID: HM157338.1 Length: 635
+>Phoma sp. MJW-2010g isolate MT 6-2-6 actin (act1) gene, partial cds
+Sequence ID: HM157350.1 Length: 635
+>Phoma sp. MJW-2010g isolate NH 1-1-2-4cr actin (act1) gene, partial cds
+Sequence ID: HM157354.1 Length: 635
+>Phoma sp. MJW-2010g isolate NH 1-2-1-3r actin (act1) gene, partial cds
+Sequence ID: HM157356.1 Length: 635
+>Phoma sp. MJW-2010g isolate NH 2-1-1-13cr actin (act1) gene, partial cds
+Sequence ID: HM157359.1 Length: 635
+>Phoma sp. MJW-2010g isolate NH 2-1-2-8r actin (act1) gene, partial cds
+Sequence ID: HM157360.1 Length: 635
+>Phoma sp. MJW-2010g isolate NH 4-2-3-5r actin (act1) gene, partial cds
+Sequence ID: HM157365.1 Length: 635
+>Phoma sp. MJW-2010g isolate ON 3-7 actin (act1) gene, partial cds
+Sequence ID: HM157371.1 Length: 635
+>Phoma sp. MJW-2010g isolate ON Q4-12st actin (act1) gene, partial cds
+Sequence ID: HM157381.1 Length: 635
+>Phoma sp. MJW-2010g isolate ON Q5-21st actin (act1) gene, partial cds
+Sequence ID: HM157383.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY Wyo1-3r actin (act1) gene, partial cds
+Sequence ID: HM157395.1 Length: 635
+>Phoma sp. MJW-2010g isolate SK 2-20 actin (act1) gene, partial cds
+Sequence ID: HM157403.1 Length: 635
+>Phoma sp. MJW-2010g isolate SK 4-2 actin (act1) gene, partial cds
+Sequence ID: HM157407.1 Length: 635
+>Phoma sp. MJW-2010g isolate SK 5-9 actin (act1) gene, partial cds
+Sequence ID: HM157410.1 Length: 635
+>Phoma sp. MJW-2010g isolate SK 6-12 actin (act1) gene, partial cds
+Sequence ID: HM157414.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY VT 3-2-1-7cr actin (act1) gene, partial cds
+Sequence ID: HM157424.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY VT 3-2-4-1r actin (act1) gene, partial cds
+Sequence ID: HM157427.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY VT 3-3-1-7cr actin (act1) gene, partial cds
+Sequence ID: HM157433.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY VT 3-3-2-5cr actin (act1) gene, partial cds
+Sequence ID: HM157434.1 Length: 635
+>Phoma sp. MJW-2010g isolate NY VT 3-3-4-11r actin (act1) gene, partial cds
+Sequence ID: HM157436.1 Length: 635
+>Phoma sp. MJW-2010g isolate MN JNL1a actin (act1) gene, partial cds
+Sequence ID: HM157437.1 Length: 635 
+Range 1: 466 to 611
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Leptosphaeria maculans actin gene, partial cds
+Sequence ID: FJ172241.1 Length: 472
+Range 1: 168 to 313
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  168  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  227
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  228  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  281
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  282  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  313
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain M1 actin (act1) gene, partial cds
+Sequence ID: AY748966.1 Length: 899
+Range 1: 595 to 740
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain IIa1 actin (act1) gene, partial cds
+Sequence ID: AY748968.1 Length: 899
+Range 1: 595 to 740
+
+Score:89.8 bits(48), Expect:1e-13, 
+Identities:119/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  654
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || ||||||||||
+Sbjct  655  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTACC  708
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  709  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Lecanosticta acicola ACT gene, actin, partial sequence, strain: CBS 133789
+Sequence ID: LC121212.1 Length: 681
+Range 1: 503 to 651
+
+Score:87.9 bits(47), Expect:4e-13, 
+Identities:121/155(78%),  Gaps:12/155(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGTGCT-GACATACT  67
+            |||||||| || ||  |||||||||||||||||||||||||||| ||  ||   ||||| 
+Sbjct  503  GATGTCGACGTTCGTAAGGATCTCTACGGAAACATCGTCATGGTAAGCTCTCTTCATACA  562
+
+Query  68   GCTGACTCTATCCGA-T-CGC-AGCTAACGATATTCC-CAGTCCGGCGGCACTACCATGT  123
+             ||    | |   || | ||| |||||||  | |||| ||||| || || || |||||||
+Sbjct  563  CCTTG--C-A-AAGACTGCGCAAGCTAAC--TTTTCCACAGTCTGGTGGTACCACCATGT  616
+
+Query  124  ACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||||  |||||||||||| |||||||||
+Sbjct  617  ACCCAGGTATCAGCGACCGCATGCAAAAGGAAATC  651
+
+
+
+
+>Exophiala jeanselmei strain UTHSC R-3338 actin gene, partial cds
+Sequence ID: EF551472.1 Length: 536
+Range 1: 436 to 491
+
+Score:87.9 bits(47), Expect:4e-13, 
+Identities:53/56(95%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  103  AGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||| || ||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  436  AGTCTGGTGGCACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  491
+
+
+
+
+>Microsporum nanum actin (ACT) gene, partial cds
+Sequence ID: AF152235.1 Length: 745
+Range 1: 593 to 664
+
+Score:87.9 bits(47), Expect:4e-13, 
+Identities:64/72(89%),  Gaps:1/72(1%), Strand: Plus/Plus
+
+Query  88   GCTAAC-GATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATG  146
+            |||||| |||||| | |||| || || ||||||||||||||||||||||||||||| |||
+Sbjct  593  GCTAACTGATATTTCTAGTCTGGTGGTACTACCATGTACCCAGGTATCTCCGACCGTATG  652
+
+Query  147  CAGAAGGAAATC  158
+            |||||||| |||
+Sbjct  653  CAGAAGGAGATC  664
+
+
+
+
+>Bipolaris papendorfii partial act gene for actin, strain MUCL 10191
+Sequence ID: HE792954.1 Length: 431
+Range 1: 285 to 354
+
+Score:87.9 bits(47), Expect:4e-13, 
+Identities:64/72(89%),  Gaps:2/72(2%), Strand: Plus/Plus
+
+Query  87   AGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATG  146
+            ||||||||| |  ||||||| || || || ||||||||||| ||||||||||||||||||
+Sbjct  285  AGCTAACGA-A-ACCCAGTCTGGTGGTACCACCATGTACCCCGGTATCTCCGACCGCATG  342
+
+Query  147  CAGAAGGAAATC  158
+            ||||||||||||
+Sbjct  343  CAGAAGGAAATC  354
+
+
+
+
+>Aspergillus loretoensis isolate CM-CNRG 624 gamma actin mRNA, partial cds
+Sequence ID: MK309403.1 Length: 1125
+Range 1: 897 to 951
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:52/55(95%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104  GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||| || ||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  897  GTCCGGCGGTACCACCATGTACCCGGGTATCTCCGACCGCATGCAGAAGGAAATC  951
+
+
+
+
+>Capronia coronata CBS 617.96 actin, gamma (A1O1_08616), partial mRNA
+Sequence ID: XM_007729475.1 Length: 1128
+Range 1: 897 to 951
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:52/55(95%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104  GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||| || ||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  897  GTCCGGTGGTACTACCATGTACCCAGGTATCTCCGACCGTATGCAGAAGGAAATC  951
+
+
+
+
+>Cladophialophora psammophila CBS 110553 actin, gamma (A1O5_04370), partial mRNA
+Sequence ID: XM_007744977.1 Length: 1185
+Range 1: 954 to 1008
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:52/55(95%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104   GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+             ||| || || |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  954   GTCTGGTGGTACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  1008
+
+
+
+
+>Cladophialophora bantiana CBS 173.52 actin, gamma (Z519_02197), partial mRNA
+Sequence ID: XM_016759954.1 Length: 1128
+Range 1: 897 to 951
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:52/55(95%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104  GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||| || || |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  897  GTCTGGTGGTACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  951
+
+
+
+
+>Exserohilum turcica Et28A uncharacterized protein (SETTUDRAFT_168410), mRNA
+Sequence ID: XM_008025757.1 Length: 1471
+Range 1: 1012 to 1066
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:52/55(95%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104   GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+             ||| || ||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  1012  GTCTGGTGGCACTACCATGTACCCCGGTATCTCCGACCGCATGCAGAAGGAAATC  1066
+
+
+
+
+>Zasmidium cellare ATCC 36951 uncharacterized protein (M409DRAFT_67352), partial mRNA
+Sequence ID: XM_033817360.1 Length: 1128
+Range 1: 897 to 951
+
+Score:86.1 bits(46), Expect:1e-12, 
+Identities:52/55(95%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  104  GTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||||||| || |||||||||||||||||||||||||||||||| |||||||||
+Sbjct  897  GTCCGGCGGTACCACCATGTACCCAGGTATCTCCGACCGCATGCAAAAGGAAATC  951
+
+
+
+
+>Phoma sp. MJW-2010c isolate MT 4-4-12 actin (act1) gene, partial cds
+Sequence ID: HM157348.1 Length: 635
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:118/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | || |||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGACCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAGTTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010e isolate NY Chz2-14cr actin (act1) gene, partial cds
+Sequence ID: HM157294.1 Length: 635
+>Phoma sp. MJW-2010e isolate NY Chz4-2r actin (act1) gene, partial cds
+Sequence ID: HM157295.1 Length: 635
+>Phoma sp. MJW-2010e isolate NY Chz8-7r actin (act1) gene, partial cds
+Sequence ID: HM157299.1 Length: 635
+>Phoma sp. MJW-2010e isolate NY Chz8-12r actin (act1) gene, partial cds
+Sequence ID: HM157300.1 Length: 635
+>Phoma sp. MJW-2010e isolate NY Chz12-18r actin (act1) gene, partial cds
+Sequence ID: HM157302.1 Length: 635
+>Phoma sp. MJW-2010e isolate NY Chz22-21r actin (act1) gene, partial cds
+Sequence ID: HM157308.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 1-3-8st actin (act1) gene, partial cds
+Sequence ID: HM157313.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 3-1-7r actin (act1) gene, partial cds
+Sequence ID: HM157317.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 3-3-2r actin (act1) gene, partial cds
+Sequence ID: HM157318.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 3-4-15cr actin (act1) gene, partial cds
+Sequence ID: HM157319.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 4-3-12cr actin (act1) gene, partial cds
+Sequence ID: HM157323.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 5-1-5r actin (act1) gene, partial cds
+Sequence ID: HM157326.1 Length: 635
+>Phoma sp. MJW-2010e isolate ME 5-4-6r actin (act1) gene, partial cds
+Sequence ID: HM157330.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 2-2-11 actin (act1) gene, partial cds
+Sequence ID: HM157336.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 3-1-5 actin (act1) gene, partial cds
+Sequence ID: HM157339.1 Length: 635
+>Phoma sp. MJW-2010e isolate MT 4-4-4 actin (act1) gene, partial cds
+Sequence ID: HM157347.1 Length: 635
+>Phoma sp. MJW-2010e isolate Berg actin (act1) gene, partial cds
+Sequence ID: HM157353.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-2-2r actin (act1) gene, partial cds
+Sequence ID: HM157363.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-2-5cr actin (act1) gene, partial cds
+Sequence ID: HM157364.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-3-8r actin (act1) gene, partial cds
+Sequence ID: HM157366.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-4-2cr actin (act1) gene, partial cds
+Sequence ID: HM157367.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-4-3cr actin (act1) gene, partial cds
+Sequence ID: HM157368.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-4-5cr actin (act1) gene, partial cds
+Sequence ID: HM157369.1 Length: 635
+>Phoma sp. MJW-2010e isolate NH 4-2-4-10cr actin (act1) gene, partial cds
+Sequence ID: HM157370.1 Length: 635
+>Phoma sp. MJW-2010e isolate ON 4-21 actin (act1) gene, partial cds
+Sequence ID: HM157373.1 Length: 635
+>Phoma sp. MJW-2010e isolate ON 4-28 actin (act1) gene, partial cds
+Sequence ID: HM157375.1 Length: 635
+>Phoma sp. MJW-2010e isolate ON Q2-6r actin (act1) gene, partial cds
+Sequence ID: HM157379.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 2-17 actin (act1) gene, partial cds
+Sequence ID: HM157402.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 4-1 actin (act1) gene, partial cds
+Sequence ID: HM157406.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 6-2 actin (act1) gene, partial cds
+Sequence ID: HM157411.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 6-3 actin (act1) gene, partial cds
+Sequence ID: HM157412.1 Length: 635
+>Phoma sp. MJW-2010e isolate SK 7-10 actin (act1) gene, partial cds
+Sequence ID: HM157417.1 Length: 635
+>Phoma sp. MJW-2010e isolate VT 2-1-4-5r actin (act1) gene, partial cds
+Sequence ID: HM157422.1 Length: 635
+>Phoma sp. MJW-2010e isolate VT 3-2-2-3cr actin (act1) gene, partial cds
+Sequence ID: HM157426.1 Length: 635
+>Phoma sp. MJW-2010e isolate VT 3-2-4-3r actin (act1) gene, partial cds
+Sequence ID: HM157428.1 Length: 635
+>Phoma sp. MJW-2010e isolate VT 3-2-4-6r actin (act1) gene, partial cds
+Sequence ID: HM157429.1 Length: 635
+>Phoma sp. MJW-2010e isolate VT 3-2-4-10cr actin (act1) gene, partial cds
+Sequence ID: HM157431.1 Length: 635
+>Phoma sp. MJW-2010e isolate WI LMH-B actin (act1) gene, partial cds
+Sequence ID: HM157438.1 Length: 635
+>Phoma sp. MJW-2010e isolate WI LMH-C actin (act1) gene, partial cds
+Sequence ID: HM157439.1 Length: 635
+>Phoma sp. MJW-2010e isolate WI 3-2-9 actin (act1) gene, partial cds
+Sequence ID: HM157441.1 Length: 635
+>Phoma sp. MJW-2010e isolate WI 4-2-7 actin (act1) gene, partial cds
+Sequence ID: HM157442.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:117/151(77%),  Gaps:7/151(4%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCC  127
+             || ||  |  ||| |   ||||||| |||     |||| || || || |||||||||||
+Sbjct  524  -CTCACAGTTCCCGGTGATAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACCC  580
+
+Query  128  AGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+             ||||||||||||||||||||||||||||||
+Sbjct  581  CGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis75 actin (act1) gene, partial cds
+Sequence ID: JN621849.1 Length: 816
+Range 1: 643 to 699
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  643  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  699
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis60 actin (act1) gene, partial cds
+Sequence ID: JN621842.1 Length: 789
+Range 1: 643 to 699
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  643  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  699
+
+
+
+
+>Leptosphaeria maculans 'brassicae' group strain 1223 actin (act1) gene, partial cds
+Sequence ID: AY748964.1 Length: 899
+Range 1: 595 to 740
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:120/154(78%),  Gaps:13/154(8%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||   | 
+Sbjct  595  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGAC--GC-  651
+
+Query  68   GCTGAC--TC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTA  124
+            ||| ||  || ||| |   |||| ||||| |    |  |||| || || || ||||||||
+Sbjct  652  GCTCACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTA  706
+
+Query  125  CCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||| ||||||||||||||||||||||||||||||
+Sbjct  707  CCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  740
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis56 actin (act1) gene, partial cds
+Sequence ID: JN621841.1 Length: 780
+Range 1: 631 to 687
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  631  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  687
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis11 actin (act1) gene, partial cds
+Sequence ID: JN621820.1 Length: 819
+>Ampelomyces sp. LK-2012a strain Vitis107 actin (act1) gene, partial cds
+Sequence ID: JN621860.1 Length: 819 
+Range 1: 643 to 699
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  643  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  699
+
+
+
+
+>Phoma sp. MJW-2010c isolate MT 4-1-3a actin (act1) gene, partial cds
+Sequence ID: HM157344.1 Length: 635
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:118/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | || |||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGACCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010c isolate MT 1-4-2 actin (act1) gene, partial cds
+Sequence ID: HM157333.1 Length: 635
+>Phoma sp. MJW-2010c isolate MT 2-3-6 actin (act1) gene, partial cds
+Sequence ID: HM157337.1 Length: 635
+>Phoma sp. MJW-2010c isolate MT 3-3-1 actin (act1) gene, partial cds
+Sequence ID: HM157341.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:118/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | || |||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGACCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAGTTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010c isolate CO 7-2-10a actin (act1) gene, partial cds
+Sequence ID: HM157331.1 Length: 635
+>Phoma sp. MJW-2010c isolate MT 6-5-10 actin (act1) gene, partial cds
+Sequence ID: HM157351.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:118/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | || |||||||| ||||| ||||||||| ||| ||  | ||  
+Sbjct  466  GATGTCGATGTCAGGAAAGACCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  524  -CTCACAATTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  579
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  580  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010b isolate NY Chz7-25cr actin (act1) gene, partial cds
+Sequence ID: HM157298.1 Length: 635
+>Phoma sp. MJW-2010b isolate ME 1-2-8cr actin (act1) gene, partial cds
+Sequence ID: HM157311.1 Length: 635
+>Phoma sp. MJW-2010b isolate ME 5-2-5r actin (act1) gene, partial cds
+Sequence ID: HM157327.1 Length: 635
+>Phoma sp. MJW-2010b isolate ME 5-4-1r actin (act1) gene, partial cds
+Sequence ID: HM157329.1 Length: 635
+>Phoma sp. MJW-2010b isolate ON 4-24 actin (act1) gene, partial cds
+Sequence ID: HM157374.1 Length: 635
+>Phoma sp. MJW-2010b isolate ON 5-6 actin (act1) gene, partial cds
+Sequence ID: HM157376.1 Length: 635
+>Phoma sp. MJW-2010b isolate ON Q5-16st actin (act1) gene, partial cds
+Sequence ID: HM157382.1 Length: 635
+>Phoma sp. MJW-2010b isolate NY Wyo18-1r actin (act1) gene, partial cds
+Sequence ID: HM157397.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACAT-AC  66
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | | ||
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  67   TGC-TGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              |   |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            || ||||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Phoma sp. MJW-2010f isolate NH 1-2-1-9r actin (act1) gene, partial cds
+Sequence ID: HM157357.1 Length: 635
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG---CTGACATA  65
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| |||   || | || 
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCTCTTA-AT-  523
+
+Query  66   CTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+            ||    |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            || ||||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Leptosphaeria maculans actin gene, partial cds
+Sequence ID: AY547274.1 Length: 533
+Range 1: 355 to 500
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:118/152(78%),  Gaps:9/152(5%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | ||||||||||| ||||||||||||||  |||  ||||  |||
+Sbjct  355  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATCGTCATGGTACGTGATTGACGCACT  414
+
+Query  68   GCTGACTC-TATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             |  | || ||| |   |||| ||||| |    |  |||| || || || |||||||| |
+Sbjct  415  -CACAGTCATATTC---CGCA-CTAAC-AAGGACATAGTCTGGTGGTACCACCATGTATC  468
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  469  CTGGTATCTCCGACCGCATGCAGAAGGAAATC  500
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis35 actin (act1) gene, partial cds
+Sequence ID: JN621830.1 Length: 828
+Range 1: 643 to 699
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  643  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  699
+
+
+
+
+>Phoma sp. MJW-2010d isolate MT 2-1-3 actin (act1) gene, partial cds
+Sequence ID: HM157334.1 Length: 635
+>Phoma sp. MJW-2010d isolate SK 3-1 actin (act1) gene, partial cds
+Sequence ID: HM157405.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACAT-AC  66
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | | ||
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  67   TGC-TGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              |   |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            || ||||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Mycosphaerella musae ACT gene, actin, partial sequence, strain: CBS 121386
+Sequence ID: LC121215.1 Length: 677
+Range 1: 31 to 166
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:113/144(78%),  Gaps:12/144(8%), Strand: Plus/Minus
+
+Query  19   GTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACATACTGC--TG-ACT  74
+            |||||  |||||||||||||||||||||||||||| | || | | || || |  || | |
+Sbjct  166  GTCCGTAAGGATCTCTACGGAAACATCGTCATGGT-A-TGTTCA-AT-CTACAATGAAGT  111
+
+Query  75   CTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACCCAGGTATC  134
+              ||  |||   |||||||| | ||  |||||||| || || ||||||||||||||||||
+Sbjct  110  TGAT--GATACAAGCTAACG-T-TTGACAGTCCGGTGGTACCACCATGTACCCAGGTATC  55
+
+Query  135  TCCGACCGCATGCAGAAGGAAATC  158
+              |||||| ||||| |||||||||
+Sbjct  54   AGCGACCGTATGCAAAAGGAAATC  31
+
+
+
+
+>Ampelomyces sp. LK-2012a strain A62-b actin (act1) gene, partial cds
+Sequence ID: JN621877.1 Length: 852
+Range 1: 670 to 726
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  670  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  726
+
+
+
+
+>Phoma sp. MJW-2010b isolate ME 2-8st actin (act1) gene, partial cds
+Sequence ID: HM157316.1 Length: 635
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACAT-AC  66
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | | ||
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  67   TGC-TGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              |   |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            || ||||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Paramycosphaerella parkii ACT gene, actin, partial sequence, strain: CBS 387.92
+Sequence ID: LC121221.1 Length: 665
+Range 1: 503 to 648
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTCCG-CAGGATCTCTACGGAAACATCGTCATGGTGAGTGCTGACA-TACT  67
+            || ||||| |||||  |||||||||||||||||||||||||||| | || | |||  |||
+Sbjct  503  GACGTCGACGTCCGTAAGGATCTCTACGGAAACATCGTCATGGT-A-TG-TTACACAACT  559
+
+Query  68   GCTGA-CT-CTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+             || | ||   || | ||    ||||| |||   | |||||||| || || |||||||||
+Sbjct  560  TCTCAGCTGAAATGCAAT---TGCTAATGAT-GACTCAGTCCGGTGGTACCACCATGTAC  615
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            |||||||||  |||||| ||||| |||||||||
+Sbjct  616  CCAGGTATCAGCGACCGTATGCAAAAGGAAATC  648
+
+
+
+
+>Phoma sp. MJW-2010d isolate SK 2-2 actin (act1) gene, partial cds
+Sequence ID: HM157400.1 Length: 635
+>Phoma sp. MJW-2010d isolate SK 4-6 actin (act1) gene, partial cds
+Sequence ID: HM157408.1 Length: 635
+>Phoma sp. MJW-2010d isolate SK 7-9 actin (act1) gene, partial cds
+Sequence ID: HM157416.1 Length: 635
+>Phoma sp. MJW-2010d isolate SK 7-34 actin (act1) gene, partial cds
+Sequence ID: HM157419.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACAT-AC  66
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | | ||
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  67   TGC-TGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              |   |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            || ||||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis25 actin (act1) gene, partial cds
+Sequence ID: JN621825.1 Length: 828
+Range 1: 652 to 708
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  652  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  708
+
+
+
+
+>Phoma sp. MJW-2010c isolate MT 2-1-4 actin (act1) gene, partial cds
+Sequence ID: HM157335.1 Length: 634
+>Phoma sp. MJW-2010c isolate NM 1-1-5c actin (act1) gene, partial cds
+Sequence ID: HM157352.1 Length: 634 
+Range 1: 466 to 610
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:118/152(78%),  Gaps:10/152(6%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACATACT  67
+            ||||||||||||  | | || |||||||| ||||| ||||||||| ||| ||  |  || 
+Sbjct  466  GATGTCGATGTCAGGAAAGACCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTAAC-  522
+
+Query  68   GCTGACTCTATCCGATCG-CAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTACC  126
+             || ||  |  |||  || |||||||| |||     |||| || || || ||||||||||
+Sbjct  523  -CTCACAGTTCCCG-GCGACAGCTAAC-ATA-AAATAGTCTGGTGGTACCACCATGTACC  578
+
+Query  127  CAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            | ||||||||||||||||||||||||||||||
+Sbjct  579  CCGGTATCTCCGACCGCATGCAGAAGGAAATC  610
+
+
+
+
+>Phoma sp. MJW-2010f isolate NY Chz1-16r actin (act1) gene, partial cds
+Sequence ID: HM157292.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Chz5-32r actin (act1) gene, partial cds
+Sequence ID: HM157296.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Chz10-18r actin (act1) gene, partial cds
+Sequence ID: HM157301.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Chz12-30r actin (act1) gene, partial cds
+Sequence ID: HM157304.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Chz22-14cr actin (act1) gene, partial cds
+Sequence ID: HM157307.1 Length: 635
+>Phoma sp. MJW-2010f isolate ME 1-2-9cr actin (act1) gene, partial cds
+Sequence ID: HM157312.1 Length: 635
+>Phoma sp. MJW-2010f isolate ME 1-3-11lf actin (act1) gene, partial cds
+Sequence ID: HM157314.1 Length: 635
+>Phoma sp. MJW-2010f isolate ME 2-6cr actin (act1) gene, partial cds
+Sequence ID: HM157315.1 Length: 635
+>Phoma sp. MJW-2010f isolate ME 4-3-5r actin (act1) gene, partial cds
+Sequence ID: HM157322.1 Length: 635
+>Phoma sp. MJW-2010f isolate ME 4-4-4cr actin (act1) gene, partial cds
+Sequence ID: HM157324.1 Length: 635
+>Phoma sp. MJW-2010f isolate ME 5-1-4cr actin (act1) gene, partial cds
+Sequence ID: HM157325.1 Length: 635
+>Phoma sp. MJW-2010f isolate NH 1-1-2-10cr actin (act1) gene, partial cds
+Sequence ID: HM157355.1 Length: 635
+>Phoma sp. MJW-2010f isolate NH 2-1-2-2cr actin (act1) gene, partial cds
+Sequence ID: HM157358.1 Length: 635
+>Phoma sp. MJW-2010f isolate NH 4-1-1-5cr actin (act1) gene, partial cds
+Sequence ID: HM157361.1 Length: 635
+>Phoma sp. MJW-2010f isolate NH 4-2-1-8r actin (act1) gene, partial cds
+Sequence ID: HM157362.1 Length: 635
+>Phoma sp. MJW-2010f isolate ON 3-24 actin (act1) gene, partial cds
+Sequence ID: HM157372.1 Length: 635
+>Phoma sp. MJW-2010f isolate ON Q2-13st actin (act1) gene, partial cds
+Sequence ID: HM157380.1 Length: 635
+>Phoma sp. MJW-2010f isolate PA 1-5r actin (act1) gene, partial cds
+Sequence ID: HM157384.1 Length: 635
+>Phoma sp. MJW-2010f isolate PA 2-9cr actin (act1) gene, partial cds
+Sequence ID: HM157385.1 Length: 635
+>Phoma sp. MJW-2010f isolate PA 3-11cr actin (act1) gene, partial cds
+Sequence ID: HM157386.1 Length: 635
+>Phoma sp. MJW-2010f isolate PA 4-1r actin (act1) gene, partial cds
+Sequence ID: HM157387.1 Length: 635
+>Phoma sp. MJW-2010f isolate PA 4-5cr actin (act1) gene, partial cds
+Sequence ID: HM157388.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Stb1-1-1-4r actin (act1) gene, partial cds
+Sequence ID: HM157389.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Stb1-1-2-17r actin (act1) gene, partial cds
+Sequence ID: HM157390.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Stb1-1-4-13r actin (act1) gene, partial cds
+Sequence ID: HM157391.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Stb1-2-1-4cr actin (act1) gene, partial cds
+Sequence ID: HM157392.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Stb1-2-1-8cr actin (act1) gene, partial cds
+Sequence ID: HM157393.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY 1-2 actin (act1) gene, partial cds
+Sequence ID: HM157394.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Wyo20-8r actin (act1) gene, partial cds
+Sequence ID: HM157398.1 Length: 635
+>Phoma sp. MJW-2010f isolate VT 2-1-1-7r actin (act1) gene, partial cds
+Sequence ID: HM157421.1 Length: 635
+>Phoma sp. MJW-2010f isolate VT 2-2-3-8r actin (act1) gene, partial cds
+Sequence ID: HM157423.1 Length: 635
+>Phoma sp. MJW-2010f isolate VT 3-3-1-5cr actin (act1) gene, partial cds
+Sequence ID: HM157432.1 Length: 635
+>Phoma sp. MJW-2010f isolate VT 3-3-4-9r actin (act1) gene, partial cds
+Sequence ID: HM157435.1 Length: 635 
+Range 1: 466 to 611
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:119/153(78%),  Gaps:11/153(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG---CTGACATA  65
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| |||   || | || 
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCTCTTA-AT-  523
+
+Query  66   CTGCTGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+            ||    |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            || ||||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAATC  611
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis76 actin (act1) gene, partial cds
+Sequence ID: JN621850.1 Length: 828
+Range 1: 655 to 711
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  655  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  711
+
+
+
+
+>Ampelomyces sp. LK-2012a strain Vitis98 actin (act1) gene, partial cds
+Sequence ID: JN621856.1 Length: 762
+Range 1: 625 to 681
+
+Score:84.2 bits(45), Expect:5e-12, 
+Identities:53/57(93%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  102  CAGTCCGGCGGCACTACCATGTACCCAGGTATCTCCGACCGCATGCAGAAGGAAATC  158
+            ||||| || || |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  625  CAGTCTGGTGGAACTACCATGTACCCTGGTATCTCCGACCGCATGCAGAAGGAAATC  681
+
+
+
+
+>Phoma sp. MJW-2010f isolate ME 3-4-16cr actin (act1) gene, partial cds
+Sequence ID: HM157320.1 Length: 635
+>Phoma sp. MJW-2010f isolate ON 9-25 actin (act1) gene, partial cds
+Sequence ID: HM157378.1 Length: 635
+>Phoma sp. MJW-2010f isolate NY Wyo10-4r actin (act1) gene, partial cds
+Sequence ID: HM157396.1 Length: 635
+>Phoma sp. MJW-2010f isolate VT 3-2-4-9cr actin (act1) gene, partial cds
+Sequence ID: HM157430.1 Length: 635 
+Range 1: 466 to 610
+
+Score:82.4 bits(44), Expect:2e-11, 
+Identities:118/152(78%),  Gaps:11/152(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACAT-AC  66
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | | ||
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  67   TGC-TGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              |   |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAAT  157
+            || |||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAAT  610
+
+
+
+
+>Phoma sp. MJW-2010f isolate ON 5-8 actin (act1) gene, partial cds
+Sequence ID: HM157377.1 Length: 635
+Range 1: 466 to 610
+
+Score:82.4 bits(44), Expect:2e-11, 
+Identities:118/152(78%),  Gaps:11/152(7%), Strand: Plus/Plus
+
+Query  10   GATGTCGATGTC-CGCAGGATCTCTACGGAAACATCGTCATGGTGAGTG-CTGACAT-AC  66
+            ||||||||||||  | | ||||||||||| ||||| ||||||||| ||| ||  | | ||
+Sbjct  466  GATGTCGATGTCAGGAAAGATCTCTACGGCAACATTGTCATGGTGCGTGGCT--CTTAAC  523
+
+Query  67   TGC-TGACTCTATCCGATCGCAGCTAACGATATTCCCAGTCCGGCGGCACTACCATGTAC  125
+              |   |||| |  ||||   ||||||| ||     ||||| || || || |||||||||
+Sbjct  524  CTCACAACTCCAGGCGAT---AGCTAAC-AT-GAAACAGTCTGGTGGTACCACCATGTAC  578
+
+Query  126  CCAGGTATCTCCGACCGCATGCAGAAGGAAAT  157
+            || |||||||||||||||||||||||||||||
+Sbjct  579  CCCGGTATCTCCGACCGCATGCAGAAGGAAAT  610
+
+
+
+
+		
+
+

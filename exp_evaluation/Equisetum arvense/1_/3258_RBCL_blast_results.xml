@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_7509955</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>459</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.1</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_7509955</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>459</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1498433182|gb|MH750155.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. arvense isolate 26084 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid</Hit_def>
+  <Hit_accession>MH750155</Hit_accession>
+  <Hit_len>1271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>55</Hsp_hit-from>
+      <Hsp_hit-to>513</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|930159536|gb|KT695464.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher BIOUG24048-F01 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KT695464</Hit_accession>
+  <Hit_len>551</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1498433184|gb|MH750156.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. arvense isolate 26085 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid</Hit_def>
+  <Hit_accession>MH750156</Hit_accession>
+  <Hit_len>1270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>59</Hsp_hit-from>
+      <Hsp_hit-to>517</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|607344754|gb|KJ204336.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher G00199177 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ204336</Hit_accession>
+  <Hit_len>549</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>77</Hsp_hit-from>
+      <Hsp_hit-to>535</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|459992991|gb|KC482713.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. alpestre voucher Gillespie_10109_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KC482713</Hit_accession>
+  <Hit_len>553</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>80</Hsp_hit-from>
+      <Hsp_hit-to>538</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|31324664|gb|AY226140.1|</Hit_id>
+  <Hit_def>Equisetum arvense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product</Hit_def>
+  <Hit_accession>AY226140</Hit_accession>
+  <Hit_len>1325</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|685847060|gb|KJ841300.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher TJD-504 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ841300</Hit_accession>
+  <Hit_len>569</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>94</Hsp_hit-from>
+      <Hsp_hit-to>552</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2814835143|gb|PQ435704.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher KS23 HER0483 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>PQ435704</Hit_accession>
+  <Hit_len>459</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>459</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|359388401|gb|JN965528.1|</Hit_id>
+  <Hit_def>Equisetum fluviatile voucher 09PROBE-05547 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992976|gb|KC482706.1| Equisetum arvense subsp. alpestre voucher Edlund_12863_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992978|gb|KC482707.1| Equisetum arvense subsp. alpestre voucher MacInnes_sn_CAN535485 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992980|gb|KC482708.1| Equisetum arvense subsp. alpestre voucher Aiken_93-043_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992982|gb|KC482709.1| Equisetum arvense subsp. alpestre voucher Consaul_4055_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992984|gb|KC482710.1| Equisetum arvense subsp. alpestre voucher Aiken_04-021_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992987|gb|KC482711.1| Equisetum arvense subsp. alpestre voucher Edlund_49A_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992989|gb|KC482712.1| Equisetum arvense subsp. alpestre voucher Elven_2414-9_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992993|gb|KC482714.1| Equisetum arvense subsp. alpestre voucher Gillespie_4272_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992995|gb|KC482715.1| Equisetum arvense subsp. alpestre voucher Aiken_98-042_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992997|gb|KC482716.1| Equisetum arvense subsp. alpestre voucher Brunton_10581B_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459992999|gb|KC482717.1| Equisetum arvense subsp. alpestre voucher Aiken_86-070_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993002|gb|KC482718.1| Equisetum arvense subsp. alpestre voucher Burt_s.n._CAN593357 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993004|gb|KC482719.1| Equisetum arvense subsp. alpestre voucher Gillespie_7184_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993006|gb|KC482720.1| Equisetum arvense subsp. alpestre voucher Consaul_4049_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993008|gb|KC482721.1| Equisetum arvense subsp. alpestre voucher Gillespie_et_al_7935 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993010|gb|KC482722.1| Equisetum arvense subsp. alpestre voucher Gillespie_8581 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993012|gb|KC482723.1| Equisetum arvense subsp. alpestre voucher Edlund_343_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993015|gb|KC482724.1| Equisetum arvense subsp. alpestre voucher Elven_3326-9_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993017|gb|KC482725.1| Equisetum arvense subsp. alpestre voucher Elven_2621-9_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993019|gb|KC482726.1| Equisetum arvense subsp. arvense voucher Bandringa_322_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993021|gb|KC482727.1| Equisetum fluviatile voucher Bandringa_329_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993023|gb|KC482728.1| Equisetum fluviatile voucher Saarela_1554_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|459993025|gb|KC482729.1| Equisetum fluviatile voucher Consaul_3875_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|960246526|gb|KT960473.1| Equisetum arvense voucher ZA2012-1339b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|960246572|gb|KT960493.1| Equisetum arvense voucher ZA2012-1339 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|960246907|gb|KT960639.1| Equisetum arvense voucher ZA2012-4981 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|960247114|gb|KT960731.1| Equisetum arvense voucher ZA2012-2533 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331390806|gb|MG215057.1| Equisetum arvense voucher JAG 0498 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331390916|gb|MG215112.1| Equisetum fluviatile voucher MISU34-21 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391166|gb|MG215237.1| Equisetum fluviatile voucher MISU25-16 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391569|gb|MG215438.1| Equisetum laevigatum voucher MISU34-29 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391633|gb|MG215470.1| Equisetum fluviatile voucher JEM 059 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391733|gb|MG215520.1| Equisetum arvense voucher MISU12-32 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391837|gb|MG215572.1| Equisetum pratense voucher MISU34-22 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391867|gb|MG215587.1| Equisetum variegatum voucher CCDB-21242-C03 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KC482706</Hit_accession>
+  <Hit_len>552</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>80</Hsp_hit-from>
+      <Hsp_hit-to>538</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|188037922|gb|EU677106.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher JAG288 (OAC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>EU677106</Hit_accession>
+  <Hit_len>617</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|642989209|gb|KJ593388.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher WAB_1079140221 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|642989211|gb|KJ593389.1| Equisetum arvense voucher WAB_0132469422 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|642989213|gb|KJ593390.1| Equisetum arvense voucher WAB_1079140204 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331390996|gb|MG215152.1| Equisetum arvense voucher MT00180060 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1331391068|gb|MG215188.1| Equisetum fluviatile voucher MT00179871 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ593388</Hit_accession>
+  <Hit_len>553</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1498433190|gb|MH750159.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. boreale isolate 41073 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid</Hit_def>
+  <Hit_accession>MH750159</Hit_accession>
+  <Hit_len>1314</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>69</Hsp_hit-from>
+      <Hsp_hit-to>527</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1498433188|gb|MH750158.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. arvense isolate 41071 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid</Hit_def>
+  <Hit_accession>MH750158</Hit_accession>
+  <Hit_len>1300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>65</Hsp_hit-from>
+      <Hsp_hit-to>523</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|685847062|gb|KJ841301.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher TJD-508 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ841301</Hit_accession>
+  <Hit_len>571</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>96</Hsp_hit-from>
+      <Hsp_hit-to>554</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|188037920|gb|EU677105.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher AP400 (OAC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|313664104|gb|HQ590081.1| Equisetum arvense voucher AP355-b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|313664106|gb|HQ590082.1| Equisetum fluviatile voucher AP475 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>EU677105</Hit_accession>
+  <Hit_len>607</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|1498433186|gb|MH750157.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. arvense isolate 40833 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid</Hit_def>
+  <Hit_accession>MH750157</Hit_accession>
+  <Hit_len>1273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>509</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|2158440663|gb|MZ359289.1|</Hit_id>
+  <Hit_def>Equisetum arvense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>MZ359289</Hit_accession>
+  <Hit_len>552</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>81</Hsp_hit-from>
+      <Hsp_hit-to>539</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|685847064|gb|KJ841302.1|</Hit_id>
+  <Hit_def>Equisetum arvense voucher TJD-503 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KJ841302</Hit_accession>
+  <Hit_len>570</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>95</Hsp_hit-from>
+      <Hsp_hit-to>553</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|313183887|ref|NC_014699.1|</Hit_id>
+  <Hit_def>Equisetum arvense chloroplast, complete genome &gt;gi|281371607|gb|GU191334.1| Equisetum arvense chloroplast, complete genome</Hit_def>
+  <Hit_accession>NC_014699</Hit_accession>
+  <Hit_len>133309</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>27865</Hsp_hit-from>
+      <Hsp_hit-to>27407</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1498433192|gb|MH750160.1|</Hit_id>
+  <Hit_def>Equisetum arvense subsp. boreale isolate 41074 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid</Hit_def>
+  <Hit_accession>MH750160</Hit_accession>
+  <Hit_len>1302</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>75</Hsp_hit-from>
+      <Hsp_hit-to>533</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|304848|gb|L11053.1|EARCPRBCL</Hit_id>
+  <Hit_def>Equisetum arvense chloroplast ribulosebisphosphate carboxylase (rbcL) gene, complete cds</Hit_def>
+  <Hit_accession>L11053</Hit_accession>
+  <Hit_len>1587</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>829.033</Hsp_bit-score>
+      <Hsp_score>918</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>179</Hsp_hit-from>
+      <Hsp_hit-to>637</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>459</Hsp_identity>
+      <Hsp_positive>459</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|1246296249|gb|KY014938.1|</Hit_id>
+  <Hit_def>Equisetum arvense isolate YYZW2016DF32-3 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296255|gb|KY014941.1| Equisetum arvense isolate YYZW2016DF32-6 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296261|gb|KY014944.1| Equisetum arvense isolate YYZW2016DF32-9 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KY014938</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>824.524</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>458</Hsp_identity>
+      <Hsp_positive>458</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGATTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|313473738|dbj|AB574683.1|</Hit_id>
+  <Hit_def>Equisetum arvense chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:763618</Hit_def>
+  <Hit_accession>AB574683</Hit_accession>
+  <Hit_len>1205</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>824.524</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>493</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>458</Hsp_identity>
+      <Hsp_positive>458</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGATTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1246296245|gb|KY014936.1|</Hit_id>
+  <Hit_def>Equisetum arvense isolate YYZW2016DF32-1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296247|gb|KY014937.1| Equisetum arvense isolate YYZW2016DF32-2 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296251|gb|KY014939.1| Equisetum arvense isolate YYZW2016DF32-4 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296253|gb|KY014940.1| Equisetum arvense isolate YYZW2016DF32-5 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296257|gb|KY014942.1| Equisetum arvense isolate YYZW2016DF32-7 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296259|gb|KY014943.1| Equisetum arvense isolate YYZW2016DF32-8 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast &gt;gi|1246296263|gb|KY014945.1| Equisetum arvense isolate YYZW2016DF32-10 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KY014936</Hit_accession>
+  <Hit_len>513</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>824.524</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>458</Hsp_identity>
+      <Hsp_positive>458</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGATTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|359751518|gb|JN968380.1|</Hit_id>
+  <Hit_def>Equisetum arvense plastid, complete genome</Hit_def>
+  <Hit_accession>JN968380</Hit_accession>
+  <Hit_len>132726</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>824.524</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>65064</Hsp_hit-from>
+      <Hsp_hit-to>65522</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>458</Hsp_identity>
+      <Hsp_positive>458</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGATTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|694179329|gb|KM218345.1|</Hit_id>
+  <Hit_def>Equisetum arvense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>KM218345</Hit_accession>
+  <Hit_len>1269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>824.524</Hsp_bit-score>
+      <Hsp_score>913</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>47</Hsp_hit-from>
+      <Hsp_hit-to>505</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>458</Hsp_identity>
+      <Hsp_positive>458</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGATTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|2682581641|gb|PP374789.1|</Hit_id>
+  <Hit_def>Equisetum arvense isolate LH21-114 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast</Hit_def>
+  <Hit_accession>PP374789</Hit_accession>
+  <Hit_len>575</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>806.49</Hsp_bit-score>
+      <Hsp_score>893</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>459</Hsp_query-to>
+      <Hsp_hit-from>95</Hsp_hit-from>
+      <Hsp_hit-to>553</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>454</Hsp_identity>
+      <Hsp_positive>454</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>459</Hsp_align-len>
+      <Hsp_qseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTACCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATAGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTTATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAGTTAAACAAATACGGTCGTCCTTTATTAGGTTGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_qseq>
+      <Hsp_hseq>TTTTAGCAGCATTCCGTATGACTCCTCAACCGGGAGTTCCACCGGAAGAAGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGATGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGAGAAGATAATCAATTCATTGCTTATGTAGCCTACCCTTTAGATCTTTTTGAAGAAGGTTCTGTTACCAATCTTTTTACTTCAATTGTTGGTAATGTTTTCGGCTTCAAAGCTCTACGTGCTTTACGTTTAGAAGATTTAAGAATTCCTCCTGCTTACTCCAAAACTTTCATAGGACCACCCCACGGTATCCAGGTTGAAAGAGATAAATTAAACAAATACGGTCGTCCTTTATTAGGATGTACAATTAAACCAAAATTGGGACTATCTGCTAAAAACTATGGTAGAGCTG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>171</Statistics_db-num>
+      <Statistics_db-len>430223</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

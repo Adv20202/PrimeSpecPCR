@@ -1,0 +1,57 @@
+Organism: Equisetum arvense
+TaxID: 3258
+Total sequences analyzed: 227
+Total unique genes found: 50
+Feature types found: CDS, exon, gene, intron, mRNA, mat_peptide, misc_RNA, misc_binding, misc_feature, mobile_element, primer_bind, rRNA, regulatory, source, stem_loop, tRNA, transit_peptide, variation
+
+Gene counts:
+1. RBCL	68
+2. MATK	32
+3. TRNL	29
+4. PSBA	19
+5. TRNL_UAA	17
+6. RPS4	12
+7. RPOB	7
+8. ATPB	6
+9. RPOC1	5
+10. ACCD	5
+11. NDHJ	5
+12. RT	5
+13. NAD7	4
+14. TRNF_GAA	4
+15. ATPE	4
+16. TRNS_UGA	4
+17. TRNG_GCC	4
+18. TRNE_UUC	4
+19. TRNY_GUA	4
+20. TRND_GUC	4
+21. TRNC_GCA	4
+22. CHLB	4
+23. PSBC	4
+24. PSBZ	4
+25. TRNI_GAU	3
+26. TRNA_UGC	3
+27. YCF3	3
+28. RPL2	3
+29. RPL16	3
+30. PETD	3
+31. PETB	3
+32. CLPP	3
+33. ATPF	3
+34. NDHB	3
+35. NDHA	3
+36. TRNV_UAC	3
+37. TRNG_UCC	3
+38. TRNK_UUU	3
+39. TRNV_GAC	3
+40. RRN16	3
+41. RRN23	3
+42. RRN4.5	3
+43. RRN5	3
+44. TRNR_ACG	3
+45. TRNN_GUU	3
+46. NDHF	3
+47. SOD_1	2
+48. SOD_2	2
+49. ATP9	1
+50. COXIII	1

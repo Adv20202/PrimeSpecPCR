@@ -1,0 +1,10 @@
+>Query
+ttgctaacgattttccggccaccttatggttcttcaaggatccttttatacagtatgttagatatcaaggaaaatcgattctggcatcaaaagatactcctcttctgatgaataagtggaaatattatcttgtccatttttggcaatgtcatttttatgtatggtctcaaccaggaagaatccatataaaccaattatccaagcattcctttgattttttgggttatctttcaagtatacgaccgaatatttcagtggtacggagtcaattgctagaaaattcgtttttaatggataatgctatgaagaagcttgatacattatttccaattattccaatgataggatc
+>JX533400
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ataaattatttccaattagtcgaat---------
+>JX533401
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ataaattatttccaattagtcgaat---------
+>JX533402
+ttgctaacgattttccggccaccttatggttcttcaaggatccttttatacagtatgttagatatcaaggaaaatcgattctggcatcaaaagatactcctcttctgatgaataagtggaaatattatcttgtccatttttggcaatgtcatttttatgtatggtctcaaccaggaagaatccatataaaccaattatccaagcattcctttgattttttgggttatctttcaagtatacgaccgaatatttcagtggtacggagtcaattgctagaaaattcgtttttaatggataatgctatgaagaagcttgatacattatttccaattattccaatgataggatc
+>JX533403
+ttgctaacgattttccggccaccttatggttcttcaaggatccttttatacagtatgttagatatcaaggaaaatcgattctggcatcaaaagatactcctcttctgatgaataagtggaaatattatcttgtccatttttggcaatgtcatttttatgtatggtctcaaccaggaagaatccatataaaccaattatccaagcattcctttgattttttgggttatctttcaagtatacgaccgaatatttcagtggtacggagtcaattgctagaaaattcgtttttaatggataatgctatgaagaagcttgatacattatttccaattattccaatgataggatc

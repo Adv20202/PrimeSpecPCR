@@ -1,0 +1,2475 @@
+RID: 4KDZZDB5016	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_1346333(dna) Length: 134
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Equisetum arvense ribulose-1,5-bisphosphate...                    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 1269       KM218345.1       
+Equisetum arvense plastid, complete genome                        Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 132726     JN968380.1       
+Equisetum arvense ribulose-1,5-bisphosphate...                    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 1325       AY226140.1       
+Equisetum arvense isolate YYZW2016DF32-3...                       Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 513        KY014938.1       
+Equisetum arvense subsp. arvense isolate 41071...                 Equisetum ar... NA              1303115    231    231   93%   1e-56 100.00 1300       MH750158.1       
+Equisetum fluviatile ribulose-1,5-bisphosphate...                 Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 1325       AY226142.1       
+Equisetum arvense voucher BIOUG24048-F01...                       Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 551        KT695464.1       
+Equisetum pratense voucher TJD-560 ribulose-1,5-bisphosphate...   Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 501        KJ841304.1       
+Equisetum arvense voucher WAB_1079140221...                       Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 553        KJ593388.1       
+Equisetum pratense chloroplast, complete genome                   Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 140628     NC_088039.1      
+Equisetum palustre isolate 17671 ribulose-1,5-bisphosphate...     Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 1292       MH750191.1       
+Equisetum palustre ribulose-1,5-bisphosphate...                   Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 1325       AY226138.1       
+Equisetum diffusum isolate 40804 ribulose-1,5-bisphosphate...     Equisetum di... NA              231682     231    231   93%   1e-56 100.00 1276       MH750167.1       
+Equisetum arvense chloroplast rbcL gene for...                    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 1205       AB574683.1       
+Equisetum palustre chloroplast, partial genome                    Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 5501       MT984458.1       
+Equisetum pratense voucher KS23 HER0118...                        Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 462        OR714517.1       
+Equisetum palustre voucher Gillespie_8830b...                     Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 552        KC482730.1       
+Equisetum sylvaticum ribulose-1,5-bisphosphate...                 Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 549        MK525787.1       
+Equisetum fluviatile voucher 09PROBE-05547...                     Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 552        JN965528.1       
+Equisetum pratense isolate 39348 ribulose-1,5-bisphosphate...     Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 810        MH750193.1       
+Equisetum arvense voucher TJD-504 ribulose-1,5-bisphosphate...    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 569        KJ841300.1       
+Equisetum palustre chloroplast rbcL gene for...                   Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 1205       AB574686.1       
+Equisetum arvense chloroplast, complete genome                    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 133309     NC_014699.1      
+Equisetum environmental sample isolate EDNA16-0043490...          Equisetum en... NA              1112708    231    231   93%   1e-56 100.00 697        MT197555.1       
+Equisetum fluviatile KS23-0150 ribulose-1,5-bisphosphate...       Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 542        OR738004.1       
+Equisetum arvense subsp. boreale isolate 41074...                 Equisetum ar... NA              2461335    231    231   93%   1e-56 100.00 1302       MH750160.1       
+Equisetum sylvaticum ribulose-1,5-bisphosphate...                 Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 1324       AY226136.1       
+Equisetum pratense ribulose-1,5-bisphosphate...                   Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 1325       AY226137.1       
+Equisetum sylvaticum isolate YYZW2016JC33-1...                    Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 529        KY014946.1       
+Equisetum arvense voucher JAG288 (OAC) ribulose-1,5-bisphospha... Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 617        EU677106.1       
+Equisetum palustre voucher Chase 11641 (K)...                     Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 553        GQ248601.1       
+Equisetum sylvaticum voucher TJD-502 ribulose-1,5-bisphosphate... Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 569        KJ841305.1       
+Equisetum sylvaticum voucher WAB_0132469351...                    Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 536        KJ593397.1       
+Equisetum sylvaticum chloroplast, complete genome                 Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 133633     NC_088054.1      
+Equisetum pratense chloroplast rbcL gene for...                   Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 1205       AB574687.1       
+Commelina diffusa voucher Q555 ribulose-1,5-bisphosphate...       Commelina di... NA              428226     231    231   93%   1e-56 100.00 567        MH714073.1       
+Equisetum x litorale isolate 41084 ribulose-1,5-bisphosphate...   Equisetum x ... NA              2461324    231    231   93%   1e-56 100.00 1292       MH750222.1       
+Equisetum sylvaticum isolate 11640 ribulose-1,5-bisphosphate...   Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 1307       MH750204.1       
+Equisetum x dycei isolate 26083 ribulose-1,5-bisphosphate...      Equisetum x ... NA              469775     231    231   93%   1e-56 100.00 1312       MH750220.1       
+Equisetum arvense subsp. alpestre voucher Gillespie_10109_CAN...  Equisetum ar... NA              1303114    231    231   93%   1e-56 100.00 553        KC482713.1       
+Equisetum arvense voucher TJD-503 ribulose-1,5-bisphosphate...    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 570        KJ841302.1       
+Equisetum arvense voucher KS23 HER0483 ribulose-1,5-bisphospha... Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 459        PQ435704.1       
+Equisetum arvense voucher TJD-508 ribulose-1,5-bisphosphate...    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 571        KJ841301.1       
+Equisetum arvense chloroplast ribulosebisphosphate carboxylase... Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 1587       L11053.1         
+Equisetum sylvaticum plastid partial rbcL gene for...             Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 562        HE574610.1       
+Equisetum palustre isolate 39349 ribulose-1,5-bisphosphate...     Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 1298       MH750192.1       
+Equisetum pratense ribulose-1,5-bisphosphate...                   Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 549        MK525786.1       
+Equisetum fluviatile chloroplast rbcL gene for...                 Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 1205       AB574684.1       
+Equisetum diffusum ribulose-1,5-bisphosphate...                   Equisetum di... NA              231682     231    231   93%   1e-56 100.00 1325       AY226141.1       
+Equisetum fluviatile isolate 41076 ribulose-1,5-bisphosphate...   Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 1308       MH750169.1       
+Equisetum pratense voucher AP451 ribulose-1,5-bisphosphate...     Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 607        HQ590083.1       
+Equisetum arvense subsp. arvense isolate 40833...                 Equisetum ar... NA              1303115    231    231   93%   1e-56 100.00 1273       MH750157.1       
+Equisetum arvense isolate YYZW2016DF32-1...                       Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 513        KY014936.1       
+Equisetum sylvaticum voucher WAB_1079140180...                    Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 553        KJ593395.1       
+Equisetum pratense isolate 41086 ribulose-1,5-bisphosphate...     Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 1285       MH750194.1       
+Equisetum arvense isolate LH21-114 ribulose-1,5-bisphosphate...   Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 575        PP374789.1       
+Equisetum environmental sample isolate EDNA16-0043491b...         Equisetum en... NA              1112708    231    231   93%   1e-56 100.00 697        MT197548.1       
+Equisetum sylvaticum chloroplast rbcL gene for...                 Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 1205       AB574690.1       
+Equisetum fluviatile ribulose-1,5-bisphosphate...                 Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 1282       DQ463101.1       
+Equisetum palustre chloroplast, complete genome                   Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 132986     NC_088053.1      
+Equisetum arvense subsp. arvense isolate 26084...                 Equisetum ar... NA              1303115    231    231   93%   1e-56 100.00 1271       MH750155.1       
+Equisetum sylvaticum voucher Gillespie_8524...                    Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 552        KC482739.1       
+Equisetum sylvaticum isolate 41081 ribulose-1,5-bisphosphate...   Equisetum sy... NA              231679     231    231   93%   1e-56 100.00 1305       MH750205.1       
+Equisetum pratense voucher WAB_0132469185...                      Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 553        KJ593391.1       
+Equisetum arvense subsp. arvense isolate 26085...                 Equisetum ar... NA              1303115    231    231   93%   1e-56 100.00 1270       MH750156.1       
+Equisetum arvense x Equisetum telmateia subsp. braunii isolate... Equisetum ar... NA              2461332    231    231   93%   1e-56 100.00 1290       MH750161.1       
+Equisetum arvense ribulose-1,5-bisphosphate...                    Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 552        MZ359289.1       
+Equisetum arvense voucher G00199177 ribulose-1,5-bisphosphate...  Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 549        KJ204336.1       
+Equisetum pratense isolate 41087 ribulose-1,5-bisphosphate...     Equisetum pr... NA              231681     231    231   93%   1e-56 100.00 1302       MH750195.1       
+Equisetum fluviatile isolate 41075 ribulose-1,5-bisphosphate...   Equisetum fl... NA              231680     231    231   93%   1e-56 100.00 1311       MH750168.1       
+Equisetum diffusum chloroplast, complete genome                   Equisetum di... NA              231682     231    231   93%   1e-56 100.00 133450     NC_088038.1      
+Equisetum palustre ribulose-1,5-bisphosphate...                   Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 549        MK525785.1       
+Equisetum arvense voucher AP400 (OAC) ribulose-1,5-bisphosphat... Equisetum ar... field horsetail 3258       231    231   93%   1e-56 100.00 607        EU677105.1       
+Equisetum arvense subsp. boreale isolate 41073...                 Equisetum ar... NA              2461335    231    231   93%   1e-56 100.00 1314       MH750159.1       
+Equisetum palustre ribulose-1,5-bisphosphate...                   Equisetum pa... NA              113538     231    231   93%   1e-56 100.00 506        MZ359290.1       
+Equisetum telmateia voucher CCDB-18287-A07...                     Equisetum te... giant horsetail 3260       226    226   93%   6e-55 99.20  552        MG215015.1       
+Equisetum x fontqueri isolate 26093 ribulose-1,5-bisphosphate...  Equisetum x ... NA              469776     226    226   93%   6e-55 99.20  1285       MH750221.1       
+Equisetum telmateia subsp. braunii isolate 40828...               Equisetum te... NA              232204     226    226   93%   6e-55 99.20  1298       MH750207.1       
+Equisetum telmateia subsp. braunii isolate 40832...               Equisetum te... NA              232204     226    226   93%   6e-55 99.20  1288       MH750208.1       
+Equisetum diffusum isolate 40689 ribulose-1,5-bisphosphate...     Equisetum di... NA              231682     226    226   93%   6e-55 99.20  1277       MH750166.1       
+Equisetum telmateia subsp. braunii isolate 40836...               Equisetum te... NA              232204     226    226   93%   6e-55 99.20  1205       MH750209.1       
+Equisetum telmateia ribulose-1,5-bisphosphate carboxylase larg... Equisetum te... giant horsetail 3260       226    226   93%   6e-55 99.20  1319       AF313580.1       
+Equisetum telmateia subsp. braunii ribulose-1,5-bisphosphate...   Equisetum te... NA              232204     226    226   93%   6e-55 99.20  1325       AY226135.1       
+Equisetum telmateia subsp. braunii isolate 40817...               Equisetum te... NA              232204     226    226   93%   6e-55 99.20  1215       MH750206.1       
+Equisetum telmateia subsp. telmateia isolate 11642...             Equisetum te... NA              371059     226    226   93%   6e-55 99.20  1319       MH750210.1       
+Equisetum telmateia subsp. telmateia isolate 41082...             Equisetum te... NA              371059     224    224   93%   2e-54 99.19  1184       MH750211.1       
+Equisetum scirpoides voucher AP248 ribulose-1,5-bisphosphate...   Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  607        HQ590084.1       
+Equisetum scirpoides ribulose-1,5-bisphosphate...                 Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  1325       AY226133.1       
+Equisetum scirpoides voucher 09PROBE-05312...                     Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  552        JN965526.1       
+Equisetum scirpoides isolate 41089 ribulose-1,5-bisphosphate...   Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  1296       MH750203.1       
+Equisetum scirpoides chloroplast rbcL gene for...                 Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  1205       AB574689.1       
+Equisetum scirpoides isolate 26090 ribulose-1,5-bisphosphate...   Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  1294       MH750202.1       
+Equisetum komarovii isolate 40830 ribulose-1,5-bisphosphate...    Equisetum ko... NA              2461336    215    215   93%   1e-51 97.60  1284       MH750182.1       
+Equisetum scirpoides isolate 10933 ribulose-1,5-bisphosphate...   Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  1259       MH750201.1       
+Equisetum scirpoides voucher WAB_0132469209...                    Equisetum sc... NA              3261       215    215   93%   1e-51 97.60  553        KJ593393.1       
+Equisetum myriochaetum isolate 41080 ribulose-1,5-bisphosphate... Equisetum my... NA              231677     209    209   93%   6e-50 96.80  1307       MH750190.1       
+Equisetum hyemale voucher Miriam Jimenez 30402 (MEXU, US)...      Equisetum hy... Dutch rush      3262       209    209   93%   6e-50 96.80  1308       PV007071.1       
+Equisetum hyemale isolate 17_UNE_PC ribulose-1,5-bisphosphate...  Equisetum hy... Dutch rush      3262       209    209   93%   6e-50 96.80  553        MK030065.1       
+Equisetum x schaffneri isolate 40813 ribulose-1,5-bisphosphate... Equisetum x ... NA              2461321    209    209   93%   6e-50 96.80  1310       MH750224.1       
+Equisetum trachyodon isolate 41092 ribulose-1,5-bisphosphate...   Equisetum tr... NA              2461339    209    209   93%   6e-50 96.80  1307       MH750227.1       
+
+Alignments:
+
+>Equisetum arvense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KM218345.1 Length: 1269
+Range 1: 96 to 220
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  96   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  155
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  215
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  216  AGAAG  220
+
+
+
+
+>Equisetum arvense plastid, complete genome
+Sequence ID: JN968380.1 Length: 132726
+Range 1: 65113 to 65237
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10     AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65113  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  65172
+
+Query  70     TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65173  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  65232
+
+Query  130    AGAAG  134
+              |||||
+Sbjct  65233  AGAAG  65237
+
+
+
+
+>Equisetum arvense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226140.1 Length: 1325
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense isolate YYZW2016DF32-3 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014938.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-6 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014941.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-9 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014944.1 Length: 513 
+Range 1: 85 to 209
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  85   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  144
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  145  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  204
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  205  AGAAG  209
+
+
+
+
+>Equisetum arvense subsp. arvense isolate 41071 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750158.1 Length: 1300
+Range 1: 114 to 238
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  114  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  173
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  233
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  234  AGAAG  238
+
+
+
+
+>Equisetum fluviatile ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226142.1 Length: 1325
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense voucher BIOUG24048-F01 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KT695464.1 Length: 551
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum pratense voucher TJD-560 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ841304.1 Length: 501
+Range 1: 129 to 253
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum arvense voucher WAB_1079140221 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593388.1 Length: 553
+>Equisetum arvense voucher WAB_0132469422 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593389.1 Length: 553
+>Equisetum arvense voucher WAB_1079140204 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593390.1 Length: 553
+>Equisetum arvense voucher MT00180060 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215152.1 Length: 553
+>Equisetum fluviatile voucher MT00179871 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215188.1 Length: 553 
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum pratense chloroplast, complete genome
+Sequence ID: NC_088039.1 Length: 140628
+>Equisetum pratense chloroplast, complete genome
+Sequence ID: PP501411.1 Length: 140628 
+Range 1: 72784 to 72908
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10     AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  72784  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  72843
+
+Query  70     TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  72844  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  72903
+
+Query  130    AGAAG  134
+              |||||
+Sbjct  72904  AGAAG  72908
+
+
+
+
+>Equisetum palustre isolate 17671 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750191.1 Length: 1292
+Range 1: 103 to 227
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  103  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  162
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  163  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  222
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  223  AGAAG  227
+
+
+
+
+>Equisetum palustre ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226138.1 Length: 1325
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum diffusum isolate 40804 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750167.1 Length: 1276
+Range 1: 104 to 228
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  104  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  163
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  164  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  223
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  224  AGAAG  228
+
+
+
+
+>Equisetum arvense chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:763618
+Sequence ID: AB574683.1 Length: 1205
+Range 1: 84 to 208
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Equisetum palustre chloroplast, partial genome
+Sequence ID: MT984458.1 Length: 5501
+Range 1: 2368 to 2492
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10    AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2368  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  2427
+
+Query  70    TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2428  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  2487
+
+Query  130   AGAAG  134
+             |||||
+Sbjct  2488  AGAAG  2492
+
+
+
+
+>Equisetum pratense voucher KS23 HER0118 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: OR714517.1 Length: 462
+Range 1: 247 to 371
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Minus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  371  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  312
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  311  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  252
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  251  AGAAG  247
+
+
+
+
+>Equisetum palustre voucher Gillespie_8830b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482730.1 Length: 552
+>Equisetum palustre voucher Gillespie_8628 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482731.1 Length: 552
+>Equisetum palustre voucher Gillespie_8925 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482732.1 Length: 552 
+Range 1: 129 to 253
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum sylvaticum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MK525787.1 Length: 549
+Range 1: 135 to 259
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  135  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  194
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  195  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  254
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  255  AGAAG  259
+
+
+
+
+>Equisetum fluviatile voucher 09PROBE-05547 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: JN965528.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Edlund_12863_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482706.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher MacInnes_sn_CAN535485 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482707.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Aiken_93-043_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482708.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Consaul_4055_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482709.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Aiken_04-021_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482710.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Edlund_49A_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482711.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Elven_2414-9_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482712.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Gillespie_4272_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482714.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Aiken_98-042_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482715.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Brunton_10581B_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482716.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Aiken_86-070_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482717.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Burt_s.n._CAN593357 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482718.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Gillespie_7184_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482719.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Consaul_4049_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482720.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Gillespie_et_al_7935 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482721.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Gillespie_8581 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482722.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Edlund_343_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482723.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Elven_3326-9_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482724.1 Length: 552
+>Equisetum arvense subsp. alpestre voucher Elven_2621-9_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482725.1 Length: 552
+>Equisetum arvense subsp. arvense voucher Bandringa_322_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482726.1 Length: 552
+>Equisetum fluviatile voucher Bandringa_329_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482727.1 Length: 552
+>Equisetum fluviatile voucher Saarela_1554_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482728.1 Length: 552
+>Equisetum fluviatile voucher Consaul_3875_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482729.1 Length: 552
+>Equisetum arvense voucher ZA2012-1339b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KT960473.1 Length: 552
+>Equisetum arvense voucher ZA2012-1339 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KT960493.1 Length: 552
+>Equisetum arvense voucher ZA2012-4981 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KT960639.1 Length: 552
+>Equisetum arvense voucher ZA2012-2533 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KT960731.1 Length: 552
+>Equisetum arvense voucher JAG 0498 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215057.1 Length: 552
+>Equisetum fluviatile voucher MISU34-21 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215112.1 Length: 552
+>Equisetum fluviatile voucher MISU25-16 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215237.1 Length: 552
+>Equisetum laevigatum voucher MISU34-29 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215438.1 Length: 552
+>Equisetum fluviatile voucher JEM 059 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215470.1 Length: 552
+>Equisetum arvense voucher MISU12-32 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215520.1 Length: 552
+>Equisetum pratense voucher MISU34-22 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215572.1 Length: 552
+>Equisetum variegatum voucher CCDB-21242-C03 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215587.1 Length: 552 
+Range 1: 129 to 253
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum pratense isolate 39348 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750193.1 Length: 810
+Range 1: 102 to 226
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  102  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  161
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  162  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  221
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  222  AGAAG  226
+
+
+
+
+>Equisetum arvense voucher TJD-504 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ841300.1 Length: 569
+Range 1: 143 to 267
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  143  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  202
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  203  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  262
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  263  AGAAG  267
+
+
+
+
+>Equisetum palustre chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:776981
+Sequence ID: AB574686.1 Length: 1205
+Range 1: 84 to 208
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Equisetum arvense chloroplast, complete genome
+Sequence ID: NC_014699.1 Length: 133309
+>Equisetum arvense chloroplast, complete genome
+Sequence ID: GU191334.1 Length: 133309 
+Range 1: 27692 to 27816
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Minus
+
+Query  10     AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27816  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  27757
+
+Query  70     TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27756  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  27697
+
+Query  130    AGAAG  134
+              |||||
+Sbjct  27696  AGAAG  27692
+
+
+
+
+>Equisetum environmental sample isolate EDNA16-0043490 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MT197555.1 Length: 697
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum fluviatile KS23-0150 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: OR738004.1 Length: 542
+>Equisetum hyemale WK23-ABG000121 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: OR738016.1 Length: 542 
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense subsp. boreale isolate 41074 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750160.1 Length: 1302
+Range 1: 124 to 248
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  124  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  183
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  184  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  243
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  244  AGAAG  248
+
+
+
+
+>Equisetum sylvaticum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226136.1 Length: 1324
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum pratense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226137.1 Length: 1325
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum sylvaticum isolate YYZW2016JC33-1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014946.1 Length: 529
+>Equisetum sylvaticum isolate YYZW2016JC33-2 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014947.1 Length: 529
+>Equisetum sylvaticum isolate YYZW2016JC33-3 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014948.1 Length: 529
+>Equisetum sylvaticum isolate YYZW2016JC33-4 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014949.1 Length: 529
+>Equisetum sylvaticum isolate YYZW2016JC33-5 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014950.1 Length: 529
+>Equisetum sylvaticum isolate YYZW2016JC33-6 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014951.1 Length: 529
+>Equisetum sylvaticum isolate YYZW2016JC33-7 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014952.1 Length: 529 
+Range 1: 98 to 222
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  98   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  157
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  158  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  217
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  218  AGAAG  222
+
+
+
+
+>Equisetum arvense voucher JAG288 (OAC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: EU677106.1 Length: 617
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum palustre voucher Chase 11641 (K) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: GQ248601.1 Length: 553
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum sylvaticum voucher TJD-502 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ841305.1 Length: 569
+Range 1: 144 to 268
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  203
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  204  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  263
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  264  AGAAG  268
+
+
+
+
+>Equisetum sylvaticum voucher WAB_0132469351 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593397.1 Length: 536
+Range 1: 113 to 237
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  113  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  172
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  173  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  232
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  233  AGAAG  237
+
+
+
+
+>Equisetum sylvaticum chloroplast, complete genome
+Sequence ID: NC_088054.1 Length: 133633
+>Equisetum sylvaticum chloroplast, complete genome
+Sequence ID: PP495823.1 Length: 133633 
+Range 1: 65625 to 65749
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10     AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65625  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  65684
+
+Query  70     TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65685  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  65744
+
+Query  130    AGAAG  134
+              |||||
+Sbjct  65745  AGAAG  65749
+
+
+
+
+>Equisetum pratense chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:1107843
+Sequence ID: AB574687.1 Length: 1205
+Range 1: 84 to 208
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Commelina diffusa voucher Q555 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MH714073.1 Length: 567
+Range 1: 143 to 267
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  143  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  202
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  203  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  262
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  263  AGAAG  267
+
+
+
+
+>Equisetum x litorale isolate 41084 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750222.1 Length: 1292
+Range 1: 111 to 235
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  111  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  170
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  230
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  231  AGAAG  235
+
+
+
+
+>Equisetum sylvaticum isolate 11640 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750204.1 Length: 1307
+Range 1: 126 to 250
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  126  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  185
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  186  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  245
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  246  AGAAG  250
+
+
+
+
+>Equisetum x dycei isolate 26083 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750220.1 Length: 1312
+Range 1: 123 to 247
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  123  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  182
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  183  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  242
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  243  AGAAG  247
+
+
+
+
+>Equisetum arvense subsp. alpestre voucher Gillespie_10109_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482713.1 Length: 553
+Range 1: 129 to 253
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum arvense voucher TJD-503 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ841302.1 Length: 570
+Range 1: 144 to 268
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  203
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  204  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  263
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  264  AGAAG  268
+
+
+
+
+>Equisetum arvense voucher KS23 HER0483 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: PQ435704.1 Length: 459
+Range 1: 50 to 174
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  50   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  109
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  169
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  170  AGAAG  174
+
+
+
+
+>Equisetum arvense voucher TJD-508 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ841301.1 Length: 571
+Range 1: 145 to 269
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  145  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  204
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  205  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  264
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  265  AGAAG  269
+
+
+
+
+>Equisetum arvense chloroplast ribulosebisphosphate carboxylase (rbcL) gene, complete cds
+Sequence ID: L11053.1 Length: 1587
+Range 1: 228 to 352
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  228  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  287
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  288  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  347
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  348  AGAAG  352
+
+
+
+
+>Equisetum sylvaticum plastid partial rbcL gene for ribulose-1,5-biphosphate carboxylase/oxygenase large subunit, specimen voucher H823764
+Sequence ID: HE574610.1 Length: 562
+Range 1: 119 to 243
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  119  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  178
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  179  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  238
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  239  AGAAG  243
+
+
+
+
+>Equisetum palustre isolate 39349 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750192.1 Length: 1298
+Range 1: 102 to 226
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  102  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  161
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  162  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  221
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  222  AGAAG  226
+
+
+
+
+>Equisetum pratense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MK525786.1 Length: 549
+Range 1: 135 to 259
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  135  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  194
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  195  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  254
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  255  AGAAG  259
+
+
+
+
+>Equisetum fluviatile chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:776384
+Sequence ID: AB574684.1 Length: 1205
+Range 1: 84 to 208
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Equisetum diffusum ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226141.1 Length: 1325
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum fluviatile isolate 41076 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750169.1 Length: 1308
+Range 1: 122 to 246
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  181
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  182  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  241
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  242  AGAAG  246
+
+
+
+
+>Equisetum pratense voucher AP451 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: HQ590083.1 Length: 607
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense subsp. arvense isolate 40833 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750157.1 Length: 1273
+Range 1: 100 to 224
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  159
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  160  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  219
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  220  AGAAG  224
+
+
+
+
+>Equisetum arvense isolate YYZW2016DF32-1 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014936.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-2 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014937.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-4 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014939.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-5 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014940.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-7 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014942.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-8 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014943.1 Length: 513
+>Equisetum arvense isolate YYZW2016DF32-10 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KY014945.1 Length: 513 
+Range 1: 85 to 209
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  85   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  144
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  145  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  204
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  205  AGAAG  209
+
+
+
+
+>Equisetum sylvaticum voucher WAB_1079140180 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593395.1 Length: 553
+>Equisetum sylvaticum voucher WAB_0132469433 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593396.1 Length: 553
+>Equisetum sylvaticum voucher WAB_1079140197 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593398.1 Length: 553
+>Equisetum sylvaticum voucher MT00179873 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215477.1 Length: 553 
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum pratense isolate 41086 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750194.1 Length: 1285
+Range 1: 104 to 228
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  104  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  163
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  164  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  223
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  224  AGAAG  228
+
+
+
+
+>Equisetum arvense isolate LH21-114 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: PP374789.1 Length: 575
+Range 1: 144 to 268
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  203
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  204  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  263
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  264  AGAAG  268
+
+
+
+
+>Equisetum environmental sample isolate EDNA16-0043491b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MT197548.1 Length: 697
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum sylvaticum chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:776974
+Sequence ID: AB574690.1 Length: 1205
+Range 1: 84 to 208
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Equisetum fluviatile ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: DQ463101.1 Length: 1282
+Range 1: 95 to 219
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  95   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  154
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  155  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  214
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  215  AGAAG  219
+
+
+
+
+>Equisetum palustre chloroplast, complete genome
+Sequence ID: NC_088053.1 Length: 132986
+>Equisetum palustre chloroplast, complete genome
+Sequence ID: PP492429.1 Length: 132986 
+Range 1: 68509 to 68633
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10     AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  68509  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  68568
+
+Query  70     TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  68569  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  68628
+
+Query  130    AGAAG  134
+              |||||
+Sbjct  68629  AGAAG  68633
+
+
+
+
+>Equisetum arvense subsp. arvense isolate 26084 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750155.1 Length: 1271
+Range 1: 104 to 228
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  104  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  163
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  164  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  223
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  224  AGAAG  228
+
+
+
+
+>Equisetum sylvaticum voucher Gillespie_8524 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482739.1 Length: 552
+>Equisetum sylvaticum voucher Chmielewski_2182_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482740.1 Length: 552
+>Equisetum sylvaticum voucher MLTV17 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KT307945.1 Length: 552
+>Equisetum sylvaticum voucher NTW 1068 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215215.1 Length: 552
+>Equisetum sylvaticum voucher NTW 999 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215447.1 Length: 552 
+Range 1: 129 to 253
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum sylvaticum isolate 41081 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750205.1 Length: 1305
+Range 1: 115 to 239
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  115  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  174
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  175  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  234
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  235  AGAAG  239
+
+
+
+
+>Equisetum pratense voucher WAB_0132469185 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593391.1 Length: 553
+>Equisetum pratense voucher WAB_0132469190 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593392.1 Length: 553 
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense subsp. arvense isolate 26085 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750156.1 Length: 1270
+Range 1: 108 to 232
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  108  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  167
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  168  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  227
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  228  AGAAG  232
+
+
+
+
+>Equisetum arvense x Equisetum telmateia subsp. braunii isolate 40834 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750161.1 Length: 1290
+Range 1: 94 to 218
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  94   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  153
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  154  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  213
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  214  AGAAG  218
+
+
+
+
+>Equisetum arvense ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MZ359289.1 Length: 552
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense voucher G00199177 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ204336.1 Length: 549
+Range 1: 126 to 250
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  126  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  185
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  186  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  245
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  246  AGAAG  250
+
+
+
+
+>Equisetum pratense isolate 41087 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750195.1 Length: 1302
+Range 1: 121 to 245
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  180
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  181  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  240
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  241  AGAAG  245
+
+
+
+
+>Equisetum fluviatile isolate 41075 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750168.1 Length: 1311
+Range 1: 122 to 246
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  181
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  182  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  241
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  242  AGAAG  246
+
+
+
+
+>Equisetum diffusum chloroplast, complete genome
+Sequence ID: NC_088038.1 Length: 133450
+>Equisetum diffusum chloroplast, complete genome
+Sequence ID: PP501410.1 Length: 133450 
+Range 1: 65443 to 65567
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10     AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65443  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  65502
+
+Query  70     TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65503  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  65562
+
+Query  130    AGAAG  134
+              |||||
+Sbjct  65563  AGAAG  65567
+
+
+
+
+>Equisetum palustre ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MK525785.1 Length: 549
+Range 1: 135 to 259
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  135  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  194
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  195  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  254
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  255  AGAAG  259
+
+
+
+
+>Equisetum arvense voucher AP400 (OAC) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: EU677105.1 Length: 607
+>Equisetum arvense voucher AP355-b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: HQ590081.1 Length: 607
+>Equisetum fluviatile voucher AP475 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: HQ590082.1 Length: 607 
+Range 1: 130 to 254
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum arvense subsp. boreale isolate 41073 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750159.1 Length: 1314
+Range 1: 118 to 242
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  118  AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  177
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  178  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  237
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  238  AGAAG  242
+
+
+
+
+>Equisetum palustre ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MZ359290.1 Length: 506
+Range 1: 84 to 208
+
+Score:231 bits(125), Expect:1e-56, 
+Identities:125/125(100%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Equisetum telmateia voucher CCDB-18287-A07 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215015.1 Length: 552
+>Equisetum telmateia voucher CCDB-18287-H08 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MG215573.1 Length: 552 
+Range 1: 129 to 253
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum x fontqueri isolate 26093 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750221.1 Length: 1285
+Range 1: 113 to 237
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  113  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  172
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  173  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  232
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  233  AGAAG  237
+
+
+
+
+>Equisetum telmateia subsp. braunii isolate 40828 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750207.1 Length: 1298
+Range 1: 115 to 239
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  115  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  174
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  175  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  234
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  235  AGAAG  239
+
+
+
+
+>Equisetum telmateia subsp. braunii isolate 40832 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750208.1 Length: 1288
+Range 1: 108 to 232
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  108  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  167
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  168  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  227
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  228  AGAAG  232
+
+
+
+
+>Equisetum diffusum isolate 40689 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750166.1 Length: 1277
+Range 1: 108 to 232
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  108  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  167
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  168  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  227
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  228  AGAAG  232
+
+
+
+
+>Equisetum telmateia subsp. braunii isolate 40836 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750209.1 Length: 1205
+Range 1: 52 to 176
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  52   AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  111
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  112  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  171
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  172  AGAAG  176
+
+
+
+
+>Equisetum telmateia ribulose-1,5-bisphosphate carboxylase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AF313580.1 Length: 1319
+Range 1: 123 to 247
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  123  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  182
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  183  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  242
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  243  AGAAG  247
+
+
+
+
+>Equisetum telmateia subsp. braunii ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226135.1 Length: 1325
+Range 1: 130 to 254
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum telmateia subsp. braunii isolate 40817 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750206.1 Length: 1215
+Range 1: 41 to 165
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41   AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  100
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  101  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  160
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  161  AGAAG  165
+
+
+
+
+>Equisetum telmateia subsp. telmateia isolate 11642 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750210.1 Length: 1319
+Range 1: 126 to 250
+
+Score:226 bits(122), Expect:6e-55, 
+Identities:124/125(99%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  126  AGCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  185
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  186  TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  245
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  246  AGAAG  250
+
+
+
+
+>Equisetum telmateia subsp. telmateia isolate 41082 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750211.1 Length: 1184
+Range 1: 1 to 124
+
+Score:224 bits(121), Expect:2e-54, 
+Identities:123/124(99%),  Gaps:0/124(0%), Strand: Plus/Plus
+
+Query  11   GCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGAT  70
+            || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GCGGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGAT  60
+
+Query  71   GGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGA  130
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGGA  120
+
+Query  131  GAAG  134
+            ||||
+Sbjct  121  GAAG  124
+
+
+
+
+>Equisetum scirpoides voucher AP248 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: HQ590084.1 Length: 607
+>Equisetum scirpoides voucher JAG 0029-b ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: HQ590085.1 Length: 607 
+Range 1: 130 to 254
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum scirpoides ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast gene for chloroplast product
+Sequence ID: AY226133.1 Length: 1325
+Range 1: 130 to 254
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum scirpoides voucher 09PROBE-05312 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: JN965526.1 Length: 552
+>Equisetum scirpoides voucher Consaul_3672_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482733.1 Length: 552
+>Equisetum scirpoides voucher Aiken_88-429_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482734.1 Length: 552
+>Equisetum scirpoides voucher Gillespie_8580 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482735.1 Length: 552
+>Equisetum scirpoides voucher Stubbe_1_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482736.1 Length: 552
+>Equisetum scirpoides voucher Saarela_1542_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482737.1 Length: 552
+>Equisetum scirpoides voucher Gillespie_9773_CAN ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KC482738.1 Length: 552 
+Range 1: 129 to 253
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum scirpoides isolate 41089 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750203.1 Length: 1296
+Range 1: 115 to 239
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  115  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  174
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  175  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  234
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  235  AGAAG  239
+
+
+
+
+>Equisetum scirpoides chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, specimen_voucher: TNS:768168
+Sequence ID: AB574689.1 Length: 1205
+Range 1: 84 to 208
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84   AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  143
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  144  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  203
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  204  AGAAG  208
+
+
+
+
+>Equisetum scirpoides isolate 26090 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750202.1 Length: 1294
+Range 1: 115 to 239
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  115  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  174
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  175  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  234
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  235  AGAAG  239
+
+
+
+
+>Equisetum komarovii isolate 40830 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750182.1 Length: 1284
+Range 1: 115 to 239
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  115  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  174
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  175  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  234
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  235  AGAAG  239
+
+
+
+
+>Equisetum scirpoides isolate 10933 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750201.1 Length: 1259
+Range 1: 104 to 228
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  104  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  163
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  164  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  223
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  224  AGAAG  228
+
+
+
+
+>Equisetum scirpoides voucher WAB_0132469209 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593393.1 Length: 553
+>Equisetum scirpoides voucher WAB_0132469214 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: KJ593394.1 Length: 553 
+Range 1: 130 to 254
+
+Score:215 bits(116), Expect:1e-51, 
+Identities:122/125(98%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCTGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum myriochaetum isolate 41080 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750190.1 Length: 1307
+Range 1: 118 to 242
+
+Score:209 bits(113), Expect:6e-50, 
+Identities:121/125(97%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  118  AGCAGGAGCAGCTGTAGCTGCTGAATCCTCCACGGGCACCTGGACTACCGTATGGACAGA  177
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  178  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  237
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  238  AGAAG  242
+
+
+
+
+>Equisetum hyemale voucher Miriam Jimenez 30402 (MEXU, US) ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: PV007071.1 Length: 1308
+Range 1: 129 to 253
+
+Score:209 bits(113), Expect:6e-50, 
+Identities:121/125(97%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  129  AGCAGGAGCAGCTGTAGCTGCTGAATCCTCCACGGGCACCTGGACTACCGTATGGACAGA  188
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  189  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  248
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  249  AGAAG  253
+
+
+
+
+>Equisetum hyemale isolate 17_UNE_PC ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; chloroplast
+Sequence ID: MK030065.1 Length: 553
+Range 1: 130 to 254
+
+Score:209 bits(113), Expect:6e-50, 
+Identities:121/125(97%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  130  AGCAGGAGCAGCTGTAGCTGCTGAATCCTCCACGGGCACCTGGACTACCGTATGGACAGA  189
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  190  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  249
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  250  AGAAG  254
+
+
+
+
+>Equisetum x schaffneri isolate 40813 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750224.1 Length: 1310
+Range 1: 114 to 238
+
+Score:209 bits(113), Expect:6e-50, 
+Identities:121/125(97%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  114  AGCAGGAGCAGCTGTAGCTGCTGAATCCTCCACGGGCACCTGGACTACCGTATGGACAGA  173
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  174  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  233
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  234  AGAAG  238
+
+
+
+
+>Equisetum trachyodon isolate 41092 ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene, partial cds; plastid
+Sequence ID: MH750227.1 Length: 1307
+Range 1: 112 to 236
+
+Score:209 bits(113), Expect:6e-50, 
+Identities:121/125(97%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  10   AGCAGGAGCAGCCGTAGCTGCTGAATCGTCCACGGGCACCTGGACTACCGTATGGACAGA  69
+            |||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  112  AGCAGGAGCAGCTGTAGCTGCTGAATCCTCCACGGGCACCTGGACTACCGTATGGACAGA  171
+
+Query  70   TGGACTTACTAGTCTTGATCGATATAAAGGTCGATGCTATAATATTGAACCTGTTGCTGG  129
+            ||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||||
+Sbjct  172  TGGACTTACTAGTCTTGATCGATATAAAGGTCGCTGCTATAATATTGAGCCTGTTGCTGG  231
+
+Query  130  AGAAG  134
+            |||||
+Sbjct  232  AGAAG  236
+
+
+
+
+		
+
+
